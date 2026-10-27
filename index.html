@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NewsPulse — Current Affairs, News &amp; New Technology</title>
+  <meta name="description" content="NewsPulse — your daily pulse on current affairs, breaking news, and the latest in technology, AI and science. Live updates from top global sources." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- ===== Header ===== -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#" aria-label="NewsPulse home">
+        <span class="brand-icon" aria-hidden="true">📡</span>
+        <span class="brand-text">News<span class="brand-accent">Pulse</span></span>
+      </a>
+
+      <div class="search-wrap" role="search">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line>
+        </svg>
+        <input id="searchInput" type="search" placeholder="Search headlines…" aria-label="Search headlines" autocomplete="off" />
+      </div>
+
+      <div class="header-actions">
+        <button id="refreshBtn" class="icon-btn" title="Refresh news" aria-label="Refresh news">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 12a9 9 0 1 1-2.64-6.36"></path><polyline points="21 3 21 9 15 9"></polyline>
+          </svg>
+        </button>
+        <button id="themeBtn" class="icon-btn" title="Toggle theme" aria-label="Toggle dark or light theme">
+          <span id="themeIcon" aria-hidden="true">☀️</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Breaking ticker ===== -->
+  <div class="ticker-bar" aria-label="Breaking headlines">
+    <span class="ticker-label">LIVE</span>
+    <div class="ticker-viewport">
+      <div class="ticker-track" id="tickerTrack">
+        <span class="ticker-item">Loading breaking headlines…</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Main ===== -->
+  <main class="container">
+    <section class="hero">
+      <h1>Stay ahead of <span class="grad-text">the world</span>.</h1>
+      <p class="hero-sub">Current affairs, breaking news, and the latest in technology &amp; AI — live from top global sources.</p>
+      <div class="meta-row">
+        <span class="live-dot" id="liveDot"></span>
+        <span id="lastUpdated">Fetching latest updates…</span>
+      </div>
+    </section>
+
+    <!-- Category tabs -->
+    <nav class="tabs" id="tabs" aria-label="News categories">
+      <button class="tab active" data-cat="all">All</button>
+      <button class="tab" data-cat="world">🌍 World</button>
+      <button class="tab" data-cat="india">🇮🇳 India</button>
+      <button class="tab" data-cat="tech">💻 Tech</button>
+      <button class="tab" data-cat="ai">🤖 AI</button>
+      <button class="tab" data-cat="science">🔬 Science</button>
+      <button class="tab" data-cat="business">📈 Business</button>
+    </nav>
+
+    <!-- Status line -->
+    <div class="status-line" id="statusLine">
+      <span class="spinner" aria-hidden="true"></span> Loading stories from feeds…
+    </div>
+
+    <!-- News grid -->
+    <section class="grid" id="newsGrid" aria-live="polite"></section>
+
+    <!-- Fallback: curated sources -->
+    <section class="sources" id="sourcesSection" hidden>
+      <h2 class="sources-title">Top sources — tap to read</h2>
+      <div class="source-chips" id="sourceChips"></div>
+    </section>
+  </main>
+
+  <!-- ===== Footer ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <span class="brand-text small">News<span class="brand-accent">Pulse</span></span>
+        <p class="footer-note">Live headlines are pulled from the public RSS feeds of the sources below. All news content © their respective publishers.</p>
+      </div>
+      <ul class="footer-sources">
+        <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener">BBC News</a></li>
+        <li><a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a></li>
+        <li><a href="https://www.theverge.com" target="_blank" rel="noopener">The Verge</a></li>
+        <li><a href="https://timesofindia.indiatimes.com" target="_blank" rel="noopener">Times of India</a></li>
+        <li><a href="https://www.artificialintelligence-news.com" target="_blank" rel="noopener">AI News</a></li>
+        <li><a href="https://www.reuters.com" target="_blank" rel="noopener">Reuters</a></li>
+      </ul>
+    </div>
+    <div class="container footer-bottom">
+      <span>© <span id="year"></span> NewsPulse · Built for staying informed</span>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
