@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-27T19:32:02.471788+00:00",
+ "generated_at": "2026-10-27T20:00:12.439639+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+   "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+   "desc": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
+   "image": "",
+   "date": "2026-10-27T19:51:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
+   "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
+   "desc": "\"'Rockin' in the Free World' is the opposite of everything that Donald J. Trump stands for,\" the suit by the two-time Rock and Roll Hall of Fame member says.",
+   "image": "",
+   "date": "2026-10-27T19:49:18+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+   "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
+   "date": "2026-10-27T19:30:37+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "California couple's Halloween home show uses 28 computers, singing pumpkins",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-long-beach-couple-jeff-and-ann-haberman-have-turned-their-corner-home-into-a-free-nightly-halloween-show-run-by-28-computers-with-singing-pumpkins-skeleton-princesses-and-a-flying-ghost-dog-from-the-nightmare-before-christmas/articleshow/135212369.cms",
+   "desc": "Every year, Jeff and Ann Haberman delight Long Beach with their spectacular Halloween display, enchanting families with synchronized lights, music, and lively animations. The elaborate setup is managed by 28 computers, e",
+   "image": "",
+   "date": "2026-10-27T19:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
    "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
@@ -13,13 +49,22 @@
    "cat": "tech"
   },
   {
-   "title": "Midterm elections: How affordability and the economy could impact voters",
-   "link": "https://www.cnbc.com/guide/midterm-elections-economy-affordability/",
-   "desc": "Several economic issues could impact midterm elections voters. Here's what to expect on Nov. 3.",
+   "title": "Ladakh government reaches out to protesters demanding liquor ban",
+   "link": "https://timesofindia.indiatimes.com/india/ladakh-government-reaches-out-to-protesters-demanding-liquor-ban/articleshow/135244987.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-27T19:22:56+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-27T19:23:41+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
+   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
+   "image": "",
+   "date": "2026-10-27T19:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
@@ -319,6 +364,15 @@
    "cat": "india"
   },
   {
+   "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+   "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+   "desc": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
+   "image": "",
+   "date": "2026-10-27T17:57:57+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
    "desc": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
@@ -353,24 +407,6 @@
    "date": "2026-10-27T17:47:58+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Grandmother's attic jewellery sells for £506,750, over triple its estimate",
-   "link": "https://timesofindia.indiatimes.com/world/uk/a-grandmothers-jewellery-collection-sat-hidden-in-an-english-family-attic-for-decades-when-201-lots-went-to-auction-they-fetched-506750-more-than-triple-their-valuation-including-a-1905-cartier-brooch/articleshow/135241275.cms",
-   "desc": "A long-hidden jewellery collection from Worcestershire unexpectedly fetched £506,750 at auction, surpassing the initial estimate of £150,000. This remarkable sale featured over 200 items, captivating global bidders. Amon",
-   "image": "",
-   "date": "2026-10-27T17:41:45+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-   "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-   "desc": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
-   "image": "",
-   "date": "2026-10-27T17:36:46+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "VisionQuest is what happens when AI really goes rogue",
@@ -481,6 +517,15 @@
    "cat": "tech"
   },
   {
+   "title": "Milan derby to be shown live on BBC Two",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6919/live/98f7c8e0-d223-11f1-b8e4-17c9744a7f8e.png",
+   "date": "2026-10-27T16:38:17+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
@@ -488,15 +533,6 @@
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "India exported over $850m worth of arms to Europe since start of Ukraine-Russia war",
-   "link": "https://timesofindia.indiatimes.com/defence/news/india-exported-over-850m-worth-of-weapons-to-europe-since-start-of-ukraine-russia-war/articleshow/135240413.cms",
-   "desc": "Amid the ongoing Russia-Ukraine conflict, India's defence sector is witnessing an impressive surge in ammunition exports to Europe. With military demands on the rise, India has emerged as a key supplier, achieving record",
-   "image": "",
-   "date": "2026-10-27T16:26:36+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Let them eat cheesecake! Obama’s dig at gilded Trump White House causes MAGA meltdown",
@@ -551,15 +587,6 @@
    "date": "2026-10-27T16:00:00+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-   "desc": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-   "image": "",
-   "date": "2026-10-27T15:52:26+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Anthropic's IPO is risky business",
@@ -751,15 +778,6 @@
    "cat": "business"
   },
   {
-   "title": "England out of tri-series after Sri Lanka beat Pakistan",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97e/live/b8dc70c0-d205-11f1-b3b6-c1e79e957e40.jpg",
-   "date": "2026-10-27T13:01:11+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
    "desc": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
@@ -855,15 +873,6 @@
    "desc": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
    "date": "2026-10-27T11:44:54+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Netherlands pulls out of Eurovision again over Israel participation",
-   "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-   "desc": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/07dc3780-d208-11f1-b3b6-c1e79e957e40.jpg",
-   "date": "2026-10-27T11:23:19+00:00",
    "source": "BBC News",
    "cat": "world"
   },
@@ -1073,15 +1082,6 @@
    "date": "2026-10-27T01:46:38+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "desc": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how mu",
-   "image": "",
-   "date": "2026-10-27T01:12:21+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
   }
  ]
 }
