@@ -1,6 +1,6 @@
 /* ============ NewsPulse — app.js ============ */
 
-// ---------- Feed configuration ----------
+// ---------- Feed configuration (live fallback only) ----------
 const FEEDS = [
   { name: "BBC News",        cat: "world",    url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
   { name: "BBC Business",    cat: "business", url: "https://feeds.bbci.co.uk/news/business/rss.xml" },
@@ -19,18 +19,22 @@ const CAT_LABELS = {
   ai: "AI", science: "Science", business: "Business",
 };
 
-// CORS-friendly proxies (tried in order)
+// CORS-friendly proxies (tried in order) — only used if news.json is missing/stale
 const PROXIES = [
   (u) => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
   (u) => `https://corsproxy.io/?url=${encodeURIComponent(u)}`,
   (u) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
 ];
 
+const STALE_MS = 3 * 60 * 60 * 1000; // treat news.json older than 3h as stale
+
 // ---------- State ----------
 let allItems = [];
 let activeCat = "all";
 let searchQuery = "";
-let fetched = 0;
+let feedsOk = 0;
+let feedsTotal = FEEDS.length;
+let dataMode = "static"; // "static" | "live"
 
 // ---------- Elements ----------
 const grid = document.getElementById("newsGrid");
@@ -90,7 +94,28 @@ function esc(str) {
   return d.innerHTML;
 }
 
-// ---------- Fetch & parse ----------
+// ---------- Data loading ----------
+async function tryStaticNews() {
+  try {
+    const res = await fetch("news.json", { cache: "no-cache", signal: AbortSignal.timeout(10000) });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const items = (data.items || []).map((it) => ({
+      title: it.title,
+      link: it.link,
+      desc: it.desc || "",
+      date: it.date ? new Date(it.date) : new Date(0),
+      source: it.source,
+      cat: it.cat,
+    })).filter((it) => it.title && it.link);
+    const genAt = data.generated_at ? new Date(data.generated_at) : new Date(0);
+    const stale = Date.now() - genAt.getTime() > STALE_MS;
+    return { items, feedsOk: data.feeds_ok, feedsTotal: data.feeds_total, genAt, stale };
+  } catch {
+    return null;
+  }
+}
+
 async function fetchWithProxy(url) {
   let lastErr;
   for (const makeProxy of PROXIES) {
@@ -115,8 +140,7 @@ function parseFeed(xmlText, feedMeta) {
     nodes.forEach((n) => {
       const title = stripHtml(n.querySelector("title")?.textContent || "");
       const link = n.querySelector("link")?.textContent?.trim() || "";
-      const desc = stripHtml(n.querySelector("description")?.textContent || "")
-        .replace(/^.*?<a[^>]*>/, "").slice(0, 220);
+      const desc = stripHtml(n.querySelector("description")?.textContent || "").slice(0, 220);
       const pub = n.querySelector("pubDate")?.textContent || "";
       if (title && link) items.push({ title, link, desc, date: new Date(pub), source: feedMeta.name, cat: feedMeta.cat });
     });
@@ -134,44 +158,67 @@ function parseFeed(xmlText, feedMeta) {
   return items;
 }
 
-async function loadAll() {
-  allItems = [];
-  fetched = 0;
-  statusLine.className = "status-line";
-  statusLine.innerHTML = '<span class="spinner" aria-hidden="true"></span> Loading stories from feeds…';
-  grid.innerHTML = "";
-  sourcesSection.hidden = true;
-
+async function loadLive() {
+  const items = [];
+  let fetched = 0;
   await Promise.all(FEEDS.map(async (f) => {
     try {
       const xml = await fetchWithProxy(f.url);
-      const items = parseFeed(xml, f);
-      if (items.length) allItems.push(...items);
+      const parsed = parseFeed(xml, f);
+      if (parsed.length) items.push(...parsed);
       fetched++;
     } catch { /* feed failed — continue with others */ }
   }));
 
-  // Dedupe by link, sort newest first, cap
   const seen = new Set();
-  allItems = allItems
-    .filter((it) => {
-      if (!it.date || isNaN(it.date.getTime())) it.date = new Date(0);
-      if (seen.has(it.link)) return false;
-      seen.add(it.link);
-      return true;
-    })
-    .sort((a, b) => b.date - a.date)
-    .slice(0, 120);
+  const unique = items.filter((it) => {
+    if (!it.date || isNaN(it.date.getTime())) it.date = new Date(0);
+    if (seen.has(it.link)) return false;
+    seen.add(it.link);
+    return true;
+  }).sort((a, b) => b.date - a.date).slice(0, 120);
 
-  if (allItems.length === 0) {
+  return { items: unique, feedsOk: fetched, feedsTotal: FEEDS.length, genAt: new Date(), stale: false };
+}
+
+async function loadAll() {
+  allItems = [];
+  statusLine.className = "status-line";
+  statusLine.innerHTML = '<span class="spinner" aria-hidden="true"></span> Loading stories…';
+  grid.innerHTML = "";
+  sourcesSection.hidden = true;
+
+  // 1) Prefer the pre-generated news.json (same origin — always works)
+  let data = await tryStaticNews();
+
+  // 2) If missing or stale, try live proxy fetch
+  if (!data || !data.items.length || data.stale) {
+    statusLine.innerHTML = '<span class="spinner" aria-hidden="true"></span> Fetching live from sources…';
+    const live = await loadLive();
+    if (live.items.length) {
+      data = live;
+      dataMode = "live";
+    } else if (data && data.items.length) {
+      dataMode = "static"; // stale but better than nothing
+    }
+  } else {
+    dataMode = "static";
+  }
+
+  if (!data || !data.items.length) {
     statusLine.className = "status-line error";
     statusLine.textContent = "⚠️ Couldn't reach any news feed right now. Try refreshing, or jump straight to the sources below.";
     showFallbackSources();
     return;
   }
 
+  allItems = data.items;
+  feedsOk = data.feedsOk;
+  feedsTotal = data.feedsTotal;
   statusLine.style.display = "none";
-  lastUpdated.textContent = `Updated ${new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })} · ${allItems.length} stories from ${fetched}/${FEEDS.length} sources`;
+  const when = data.genAt.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  const mode = dataMode === "static" ? "· auto-refreshes every 30 min" : "· live";
+  lastUpdated.textContent = `Updated ${when} · ${allItems.length} stories from ${feedsOk}/${feedsTotal} sources${mode}`;
   buildTicker();
   render();
 }
@@ -252,5 +299,5 @@ refreshBtn.addEventListener("click", () => {
 
 // ---------- Init ----------
 loadAll();
-// Auto-refresh every 10 minutes
+// Re-check every 10 min (news.json itself is regenerated every 30 min by GitHub Actions)
 setInterval(() => { if (document.visibilityState === "visible") loadAll(); }, 10 * 60 * 1000);

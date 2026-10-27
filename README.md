@@ -24,7 +24,14 @@ python3 -m http.server 8000
 
 ## 📄 How it works
 
-The site is 100% static. In the browser, `js/app.js` fetches each feed's RSS/Atom XML through a public CORS proxy, parses it with `DOMParser`, dedupes, sorts by recency, and renders cards. If all feeds fail (e.g. offline), it falls back to direct links to every source.
+The site is 100% static. `js/app.js` loads the pre-generated `news.json` (see above), dedupes, sorts by recency, and renders cards. Category tabs and search filter the loaded stories instantly. If no data is available at all, it falls back to direct links to every source.
+
+## 🔄 How updates work
+
+- `news.json` holds the latest 120 stories, fetched from all feeds by `tools/fetch_news.py`
+- A GitHub Actions workflow (`.github/workflows/refresh-news.yml`) **re-fetches and commits `news.json` every 30 minutes** — no server, no API keys
+- The page loads `news.json` directly (same origin, so it always works). If the file is missing or older than 3 hours, it falls back to fetching feeds live in the browser through CORS proxies
+- You can trigger a manual refresh from the Actions tab, or run `python tools/fetch_news.py` locally and push
 
 ## 📌 Note on content
 
