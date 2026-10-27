@@ -1,16 +1,79 @@
 {
- "generated_at": "2026-10-27T22:00:21.979872+00:00",
+ "generated_at": "2026-10-27T22:30:19.581900+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+   "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "desc": "Software company Guidewire announced Tuesday that it was buying UK agentic underwriting startup Hyperexponential for $1.7 billion in cash.",
+   "image": "",
+   "date": "2026-10-27T22:26:03+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Build AI to secure systems, serve humanity: PM Modi",
+   "link": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T22:19:06+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
+   "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
+   "image": "",
+   "date": "2026-10-27T22:18:59+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+   "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "desc": "A whole crop of venture capital firms are raising significant new funds.",
+   "image": "",
+   "date": "2026-10-27T22:17:18+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
   {
    "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
    "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
    "desc": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
    "image": "",
-   "date": "2026-10-27T21:59:07+00:00",
+   "date": "2026-10-27T22:13:31+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+   "date": "2026-10-27T22:11:08+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers",
+   "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T22:11:06+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Over 100 killed, 113 injured in drone strike on Sudan market",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T21:59:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
@@ -24,7 +87,7 @@
   {
    "title": "GM is embracing hybrids now",
    "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-   "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.",
+   "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
    "image": "",
    "date": "2026-10-27T21:47:02+00:00",
    "source": "TechCrunch",
@@ -38,15 +101,6 @@
    "date": "2026-10-27T21:44:34+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-   "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
-   "image": "",
-   "date": "2026-10-27T21:42:29+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Who’s really in charge at Anthropic after the IPO?",
@@ -184,6 +238,15 @@
    "cat": "business"
   },
   {
+   "title": "Landline switchover could cut people off in emergency, minister warned",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+   "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg",
+   "date": "2026-10-27T20:54:48+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
    "title": "Election Commision keeps RTI applicant waiting for reply",
    "link": "https://timesofindia.indiatimes.com/india/poll-panel-keeps-rti-applicant-waiting-for-reply/articleshow/135245571.cms",
    "desc": "",
@@ -216,15 +279,6 @@
    "desc": "",
    "image": "",
    "date": "2026-10-27T20:40:59+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Order preservation of SIR files & notings, petitioners urge SC",
-   "link": "https://timesofindia.indiatimes.com/india/order-preservation-of-sir-files-notings-petitioners-urge-sc/articleshow/135245512.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T20:37:43+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -274,22 +328,13 @@
    "cat": "sports"
   },
   {
-   "title": "Israel election exit polls show no clear winner as Netanyahu and rivals fall short of majority",
+   "title": "Israel exit polls show no clear winner as Netanyahu and rivals fall short of majority",
    "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
    "desc": "",
    "image": "",
    "date": "2026-10-27T20:21:35+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
-   "date": "2026-10-27T20:19:53+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
@@ -571,15 +616,6 @@
    "cat": "business"
   },
   {
-   "title": "Flavio Bolsonaro flees to US after election defeat, vows to challenge Lula's victory",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-to-us-after-election-defeat-vows-to-challenge-lulas-victory-report/articleshow/135241857.cms",
-   "desc": "Flavio has yet to formally concede defeat, saying he would seek to annul the election result over alleged voter irregularities. His Liberal Party, however, acknowledged Lula's victory on Monday. Lula secured more than 64",
-   "image": "",
-   "date": "2026-10-27T17:53:30+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Lancashire treatment of Anderson disrespectful - Broad",
    "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
    "desc": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
@@ -742,15 +778,6 @@
    "cat": "sports"
   },
   {
-   "title": "After Ashoka Hotel's snub, oppn to hold mock 'impeach CEC' event at Kharge’s house",
-   "link": "https://timesofindia.indiatimes.com/india/after-ashoka-hotels-snub-oppn-to-hold-public-impeachment-of-cec-at-kharges-residence/articleshow/135238768.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T15:20:07+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
    "desc": "Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.",
@@ -846,8 +873,8 @@
    "desc": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
    "image": "",
    "date": "2026-10-27T13:32:57+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -866,15 +893,6 @@
    "date": "2026-10-27T13:08:26+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-   "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-   "desc": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
-   "image": "",
-   "date": "2026-10-27T13:01:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
   },
   {
    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
@@ -1062,24 +1080,6 @@
    "desc": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research",
    "image": "",
    "date": "2026-10-27T04:02:26+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-   "desc": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
-   "date": "2026-10-27T02:40:17+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
-   "desc": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and iden",
-   "image": "",
-   "date": "2026-10-27T02:32:38+00:00",
    "source": "ScienceDaily",
    "cat": "science"
   }
