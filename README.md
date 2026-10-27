@@ -29,9 +29,9 @@ The site is 100% static. `js/app.js` loads the pre-generated `news.json` (see ab
 ## 🔄 How updates work
 
 - `news.json` holds the latest 120 stories, fetched from all feeds by `tools/fetch_news.py`
-- A GitHub Actions workflow (`.github/workflows/refresh-news.yml`) **re-fetches and commits `news.json` every 30 minutes** — no server, no API keys
 - The page loads `news.json` directly (same origin, so it always works). If the file is missing or older than 3 hours, it falls back to fetching feeds live in the browser through CORS proxies
-- You can trigger a manual refresh from the Actions tab, or run `python tools/fetch_news.py` locally and push
+- **To auto-refresh every 30 minutes:** create a folder `.github/workflows/` in this repo and copy `tools/refresh-news.yml` into it as `refresh-news.yml`. (GitHub Actions requires that exact path.) After that, the workflow re-fetches and commits `news.json` automatically — no server, no API keys
+- Manual refresh: run `python tools/fetch_news.py` locally (needs `pip install feedparser`) and push the new `news.json`
 
 ## 📌 Note on content
 
