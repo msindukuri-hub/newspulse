@@ -1,14 +1,86 @@
 {
- "generated_at": "2026-10-27T20:00:12.439639+00:00",
+ "generated_at": "2026-10-27T20:30:28.761487+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-   "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-   "desc": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
    "image": "",
-   "date": "2026-10-27T19:51:41+00:00",
+   "date": "2026-10-27T20:28:56+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Arsenal's match with Fleetwood town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae7/live/a9a20c40-d242-11f1-84cb-7d14463da0ae.jpg",
+   "date": "2026-10-27T20:26:31+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "image": "",
+   "date": "2026-10-27T20:25:48+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Israel election exit polls show no clear winner as Netanyahu and rivals fall short of majority",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T20:21:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
+   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+   "image": "",
+   "date": "2026-10-27T20:20:57+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+   "date": "2026-10-27T20:19:53+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+   "image": "",
+   "date": "2026-10-27T20:13:48+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "JetBlue stock surges as company outlook calms investors",
+   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+   "desc": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+   "image": "",
+   "date": "2026-10-27T20:13:21+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+   "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+   "desc": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
+   "image": "",
+   "date": "2026-10-27T19:57:35+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -31,15 +103,6 @@
    "cat": "world"
   },
   {
-   "title": "California couple's Halloween home show uses 28 computers, singing pumpkins",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-long-beach-couple-jeff-and-ann-haberman-have-turned-their-corner-home-into-a-free-nightly-halloween-show-run-by-28-computers-with-singing-pumpkins-skeleton-princesses-and-a-flying-ghost-dog-from-the-nightmare-before-christmas/articleshow/135212369.cms",
-   "desc": "Every year, Jeff and Ann Haberman delight Long Beach with their spectacular Halloween display, enchanting families with synchronized lights, music, and lively animations. The elaborate setup is managed by 28 computers, e",
-   "image": "",
-   "date": "2026-10-27T19:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
    "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
    "desc": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offen",
@@ -56,24 +119,6 @@
    "date": "2026-10-27T19:23:41+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
-   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
-   "image": "",
-   "date": "2026-10-27T19:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-   "image": "",
-   "date": "2026-10-27T19:10:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Ballon d'Or in London - the most chaotic ever?",
@@ -247,15 +292,6 @@
    "cat": "world"
   },
   {
-   "title": "California vineyard with 14,500sq ft Italian villa sells for $11.04m",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-41-acre-california-vineyard-estate-owned-by-the-family-trust-of-heart-surgeon-thomas-fogarty-has-sold-for-11-04-million-the-property-has-a-14500-sq-ft-italian-villa-with-wine-tasting-room-home-theatre-and-spa/articleshow/135214494.cms",
-   "desc": "A vineyard estate in Portola Valley sold for $11.04 million, which was initially listed for $15.5 million. This property included a three-level Italian villa overlooking San Francisco Bay, featuring six bedrooms and nine",
-   "image": "",
-   "date": "2026-10-27T18:28:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Nepal Halts Himalayan Trekking Permits Amid Avalanche Risks",
    "link": "https://www.ndtv.com/world-news/nepal-halts-himalayan-trekking-permits-amid-avalanche-risks-12245380#publisher=newsstand",
    "desc": "Such warnings have become a recurring feature in Nepal in recent weeks. (Representational Photo)",
@@ -292,15 +328,6 @@
    "cat": "india"
   },
   {
-   "title": "Denver moves to permanently protect 155-acre former golf course as public park",
-   "link": "https://timesofindia.indiatimes.com/world/us/denver-voters-rejected-development-on-a-155-acre-former-golf-course-in-2023-after-a-land-swap-and-70-million-bond-allocation-the-city-is-moving-to-permanently-protect-it-as-a-public-park/articleshow/135222627.cms",
-   "desc": "Denver is advancing plans to convert the former Park Hill Golf Course into Park Hill Park. The city has selected Michael Van Valkenburgh Associates to design the 155-acre site. Voters rejected a development proposal for ",
-   "image": "",
-   "date": "2026-10-27T18:21:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
    "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
    "desc": "The company raised concerns about AI agents taking actions before humans can stop them",
@@ -308,15 +335,6 @@
    "date": "2026-10-27T18:14:38+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "image": "",
-   "date": "2026-10-27T18:12:20+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Prep time for Wallabies a challenge - Borthwick",
@@ -346,15 +364,6 @@
    "cat": "india"
   },
   {
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-   "image": "",
-   "date": "2026-10-27T18:03:02+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "\"Arrest Judge And Son\": Kerala Crash Victim's Family To Move High Court",
    "link": "https://www.ndtv.com/india-news/arrest-judge-and-son-kerala-crash-victims-family-to-move-high-court-12245343#publisher=newsstand",
    "desc": "The family also said it would appeal to the district court.",
@@ -362,15 +371,6 @@
    "date": "2026-10-27T18:02:41+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
-   "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
-   "desc": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
-   "image": "",
-   "date": "2026-10-27T17:57:57+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
@@ -508,6 +508,15 @@
    "cat": "tech"
   },
   {
+   "title": "Plan for bigger, heavier, stealthy next-generation destroyers gets defence council’s approval",
+   "link": "https://timesofindia.indiatimes.com/defence/news/plan-for-bigger-heavier-stealthy-next-generation-destroyers-gets-defence-councils-approval/articleshow/135240911.cms",
+   "desc": "The Defence Acquisition Council has greenlit the ambitious Project 18A aimed at developing next-generation destroyers for the Indian Navy. These innovative vessels promise to surpass current models in size and technologi",
+   "image": "",
+   "date": "2026-10-27T16:47:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Meta’s $25 billion legal loss just put blood in the water",
    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
    "desc": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ord",
@@ -517,15 +526,6 @@
    "cat": "tech"
   },
   {
-   "title": "Milan derby to be shown live on BBC Two",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6919/live/98f7c8e0-d223-11f1-b8e4-17c9744a7f8e.png",
-   "date": "2026-10-27T16:38:17+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
@@ -533,6 +533,15 @@
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "India exported over $850m worth of arms to Europe since start of Ukraine-Russia war",
+   "link": "https://timesofindia.indiatimes.com/defence/news/india-exported-over-850m-worth-of-weapons-to-europe-since-start-of-ukraine-russia-war/articleshow/135240413.cms",
+   "desc": "Amid the ongoing Russia-Ukraine conflict, India's defence sector is witnessing an impressive surge in ammunition exports to Europe. With military demands on the rise, India has emerged as a key supplier, achieving record",
+   "image": "",
+   "date": "2026-10-27T16:26:36+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Let them eat cheesecake! Obama’s dig at gilded Trump White House causes MAGA meltdown",
@@ -560,6 +569,15 @@
    "date": "2026-10-27T16:11:35+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
+   "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-merchant-buys-commercial-property-in-mumbais-santacruz-west-for-rs-12-85-crore-pays-rs-77-10-lakh-stamp-duty-report/articleshow/135239810.cms",
+   "desc": "In a notable real estate deal, composer Salim Merchant, along with four investors, secured a commercial property in Santacruz, Mumbai, for Rs 12.85 crore. The property boasts spacious ground and first floors in a well-kn",
+   "image": "",
+   "date": "2026-10-27T16:06:39+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Major League Baseball is looking for a new kind of fan",
@@ -598,15 +616,6 @@
    "cat": "business"
   },
   {
-   "title": "JetBlue stock surges 20% as company outlook calms investors",
-   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-   "desc": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
-   "image": "",
-   "date": "2026-10-27T15:46:31+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "West warns of famine risk in Sudan as civil war grinds on",
    "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
    "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
@@ -641,15 +650,6 @@
    "date": "2026-10-27T15:17:53+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-   "date": "2026-10-27T15:13:24+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
