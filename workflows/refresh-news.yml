@@ -1,0 +1,38 @@
+name: Refresh news
+
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install feedparser
+        run: pip install feedparser
+
+      - name: Fetch feeds
+        run: python tools/fetch_news.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "newspulse-bot"
+          git config user.email "newspulse-bot@users.noreply.github.com"
+          if git diff --quiet -- news.json; then
+            echo "news.json unchanged, skipping commit"
+          else
+            git add news.json
+            git commit -m "chore: refresh news.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
