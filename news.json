@@ -1,8 +1,116 @@
 {
- "generated_at": "2026-10-27T20:30:28.761487+00:00",
+ "generated_at": "2026-10-27T21:02:32.214952+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Poll panel keeps RTI applicant waiting for reply",
+   "link": "https://timesofindia.indiatimes.com/india/poll-panel-keeps-rti-applicant-waiting-for-reply/articleshow/135245571.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T20:52:42+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course ",
+   "image": "",
+   "date": "2026-10-27T20:48:58+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "desc": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+   "image": "",
+   "date": "2026-10-27T20:48:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1e/live/91a6d4b0-d173-11f1-9d71-6d5ae0660afe.jpg",
+   "date": "2026-10-27T20:45:25+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg",
+   "date": "2026-10-27T20:44:40+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "image": "",
+   "date": "2026-10-27T20:42:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Congress slams EC affidavit, terms it ‘deceptive, deceitful & duplicitous’",
+   "link": "https://timesofindia.indiatimes.com/india/congress-slams-ec-affidavit-terms-it-deceptive-deceitful-duplicitous/articleshow/135245538.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T20:40:59+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
+   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+   "image": "",
+   "date": "2026-10-27T20:39:49+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Order preservation of SIR files & notings, petitioners urge SC",
+   "link": "https://timesofindia.indiatimes.com/india/order-preservation-of-sir-files-notings-petitioners-urge-sc/articleshow/135245512.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T20:37:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+   "image": "",
+   "date": "2026-10-27T20:32:24+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+   "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "desc": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+   "image": "",
+   "date": "2026-10-27T20:31:17+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Jake Gyllenhaal bought NYC condo for $8.63m, sold for $14m amid $376m suit",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-jake-gyllenhaal-bought-a-new-york-apartment-in-an-1882-bookbinding-factory-for-8-63-million-eight-years-later-he-sold-it-for-14-million-while-the-building-faced-a-376-million-lawsuit/articleshow/135212531.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T20:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
    "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
@@ -13,22 +121,22 @@
    "cat": "business"
   },
   {
+   "title": "Meet Kayley Xu: San Diego student wins $25,000 for wearable stethoscope idea",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-kayley-xu-a-san-diego-student-who-developed-aucura-a-wearable-stethoscope-designed-to-improve-respiratory-diagnostics-and-won-a-25000-national-entrepreneurship-prize/articleshow/135213253.cms",
+   "desc": "Kayley Xu, a Year 12 student, developed Aucura, a wearable stethoscope designed to enhance respiratory diagnostics and access. After recovering from pneumonia, she sought to improve traditional stethoscopes that have cha",
+   "image": "",
+   "date": "2026-10-27T20:27:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsenal's match with Fleetwood town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+   "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae7/live/a9a20c40-d242-11f1-84cb-7d14463da0ae.jpg",
    "date": "2026-10-27T20:26:31+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "image": "",
-   "date": "2026-10-27T20:25:48+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Israel election exit polls show no clear winner as Netanyahu and rivals fall short of majority",
@@ -40,15 +148,6 @@
    "cat": "india"
   },
   {
-   "title": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
-   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-   "image": "",
-   "date": "2026-10-27T20:20:57+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
    "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -58,22 +157,13 @@
    "cat": "world"
   },
   {
-   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-   "image": "",
-   "date": "2026-10-27T20:13:48+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "JetBlue stock surges as company outlook calms investors",
-   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-   "desc": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
-   "image": "",
-   "date": "2026-10-27T20:13:21+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
+   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
+   "date": "2026-10-27T20:17:38+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
@@ -94,6 +184,33 @@
    "cat": "business"
   },
   {
+   "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
+   "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+   "desc": "The company raised concerns about AI agents taking actions before humans can stop them",
+   "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-27T19:45:49+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
+   "link": "https://www.ndtv.com/india-news/prashant-kishors-jan-suraaj-wins-first-seat-in-bihar-upper-house-12245395#publisher=newsstand",
+   "desc": "Prashant Kishor's Jan Suraaj won the Darbhanga Teachers' constituency by 324 votes.",
+   "image": "https://c.ndtvimg.com/2024-05/b6ina634_prashant-kishor-ani_625x300_23_May_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-27T19:44:29+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "\"Direct Hit\": Houthis Claim Targeted Saudi Ministry With Ballistic Missile",
+   "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+   "desc": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
+   "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg",
+   "date": "2026-10-27T19:34:41+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
    "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
@@ -101,6 +218,24 @@
    "date": "2026-10-27T19:30:37+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Trump Says He Will Respect Midterm Election Results \"If Polls Are Honest\"",
+   "link": "https://www.ndtv.com/world-news/donald-trump-says-he-will-respect-midterm-election-results-if-polls-are-honest-12245512#publisher=newsstand",
+   "desc": "Trump also warned that he could exercise his veto power if necessary.",
+   "image": "https://c.ndtvimg.com/2026-10/ic8p98qc_donald-trump_625x300_28_October_26.jpeg",
+   "date": "2026-10-27T19:29:16+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "California couple's Halloween home show uses 28 computers, singing pumpkins",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-long-beach-couple-jeff-and-ann-haberman-have-turned-their-corner-home-into-a-free-nightly-halloween-show-run-by-28-computers-with-singing-pumpkins-skeleton-princesses-and-a-flying-ghost-dog-from-the-nightmare-before-christmas/articleshow/135212369.cms",
+   "desc": "Every year, Jeff and Ann Haberman delight Long Beach with their spectacular Halloween display, enchanting families with synchronized lights, music, and lively animations. The elaborate setup is managed by 28 computers, e",
+   "image": "",
+   "date": "2026-10-27T19:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
@@ -112,12 +247,21 @@
    "cat": "tech"
   },
   {
-   "title": "Ladakh government reaches out to protesters demanding liquor ban",
-   "link": "https://timesofindia.indiatimes.com/india/ladakh-government-reaches-out-to-protesters-demanding-liquor-ban/articleshow/135244987.cms",
-   "desc": "",
+   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
+   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
    "image": "",
-   "date": "2026-10-27T19:23:41+00:00",
+   "date": "2026-10-27T19:23:00+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls: Report",
+   "link": "https://www.ndtv.com/world-news/brazil-election-flavio-bolsonaro-flees-brazil-hours-after-losing-presidential-polls-12245354#publisher=newsstand",
+   "desc": "Flavio Bolsonaro is subject to at least two federal investigations.",
+   "image": "https://c.ndtvimg.com/2026-10/dss1mkpk_flavio-bolsonaro_625x300_05_October_26.jpeg",
+   "date": "2026-10-27T19:19:30+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -274,15 +418,6 @@
    "cat": "india"
   },
   {
-   "title": "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
-   "link": "https://www.ndtv.com/india-news/prashant-kishors-jan-suraaj-wins-first-seat-in-bihar-upper-house-12245395#publisher=newsstand",
-   "desc": "Prashant Kishor's Jan Suraaj won the Darbhanga Teachers' constituency by 324 votes.",
-   "image": "https://c.ndtvimg.com/2026-10/vn4s12js_prashant-kishore_625x300_18_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:31:37+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Norway and Finland leaders hold rare call with Putin",
    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
    "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
@@ -319,24 +454,6 @@
    "cat": "tech"
   },
   {
-   "title": "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
-   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
-   "date": "2026-10-27T18:23:45+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
-   "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
-   "desc": "The company raised concerns about AI agents taking actions before humans can stop them",
-   "image": "https://c.ndtvimg.com/2026-06/b5sgvj6o_anthropic-pbc-chief-executive-officer-dario-amodei-_625x300_11_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:14:38+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Prep time for Wallabies a challenge - Borthwick",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn8d7ppr9d3o?at_medium=RSS&at_campaign=rss",
    "desc": "England head coach Steve Borthwick says his players have tried to make most of limited preparation time for their Test against a comparatively battle-hardened Australia.",
@@ -351,24 +468,6 @@
    "desc": "The investigation into threats in Ahmedabad is under way. (Representational Photo)",
    "image": "https://i.ndtvimg.com/i/2015-08/ahmedabad-police-650-pti_650x400_51440527770.jpg",
    "date": "2026-10-27T18:04:51+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Education Has Become 'Marks-Wadi', Rote Learning Needs To Go: Pralhad Joshi",
-   "link": "https://www.ndtv.com/india-news/education-has-become-marks-wadi-rote-learning-needs-to-go-pralhad-joshi-12245222#publisher=newsstand",
-   "desc": "Pralhad Joshi inaugurated the CBSE Experience Centre on Tuesday.",
-   "image": "https://c.ndtvimg.com/2026-10/vv24vbgs_pralhad-joshi_625x300_27_October_26.jpeg",
-   "date": "2026-10-27T18:03:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "\"Arrest Judge And Son\": Kerala Crash Victim's Family To Move High Court",
-   "link": "https://www.ndtv.com/india-news/arrest-judge-and-son-kerala-crash-victims-family-to-move-high-court-12245343#publisher=newsstand",
-   "desc": "The family also said it would appeal to the district court.",
-   "image": "https://c.ndtvimg.com/2026-10/dtued7p_mercedes_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:02:41+00:00",
    "source": "NDTV",
    "cat": "india"
   },
@@ -388,15 +487,6 @@
    "image": "",
    "date": "2026-10-27T17:53:30+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
-   "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
-   "desc": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
-   "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg",
-   "date": "2026-10-27T17:51:20+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -434,15 +524,6 @@
    "date": "2026-10-27T17:21:26+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Trump to ban the term 'artificial intelligence', wants it called 'super intelligence'",
-   "link": "https://timesofindia.indiatimes.com/world/us/trump-says-he-will-ban-the-term-artificial-intelligence-wants-it-called-super-intelligence/articleshow/135241647.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T17:19:03+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
@@ -508,15 +589,6 @@
    "cat": "tech"
   },
   {
-   "title": "Plan for bigger, heavier, stealthy next-generation destroyers gets defence council’s approval",
-   "link": "https://timesofindia.indiatimes.com/defence/news/plan-for-bigger-heavier-stealthy-next-generation-destroyers-gets-defence-councils-approval/articleshow/135240911.cms",
-   "desc": "The Defence Acquisition Council has greenlit the ambitious Project 18A aimed at developing next-generation destroyers for the Indian Navy. These innovative vessels promise to surpass current models in size and technologi",
-   "image": "",
-   "date": "2026-10-27T16:47:16+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Meta’s $25 billion legal loss just put blood in the water",
    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
    "desc": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ord",
@@ -535,24 +607,6 @@
    "cat": "tech"
   },
   {
-   "title": "India exported over $850m worth of arms to Europe since start of Ukraine-Russia war",
-   "link": "https://timesofindia.indiatimes.com/defence/news/india-exported-over-850m-worth-of-weapons-to-europe-since-start-of-ukraine-russia-war/articleshow/135240413.cms",
-   "desc": "Amid the ongoing Russia-Ukraine conflict, India's defence sector is witnessing an impressive surge in ammunition exports to Europe. With military demands on the rise, India has emerged as a key supplier, achieving record",
-   "image": "",
-   "date": "2026-10-27T16:26:36+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Let them eat cheesecake! Obama’s dig at gilded Trump White House causes MAGA meltdown",
-   "link": "https://timesofindia.indiatimes.com/world/us/let-them-eat-cheesecake-obamas-dig-at-gilded-trump-white-house-causes-maga-meltdown/articleshow/135239188.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T16:18:41+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
    "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
@@ -560,24 +614,6 @@
    "date": "2026-10-27T16:14:18+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-27T16:11:35+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
-   "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-merchant-buys-commercial-property-in-mumbais-santacruz-west-for-rs-12-85-crore-pays-rs-77-10-lakh-stamp-duty-report/articleshow/135239810.cms",
-   "desc": "In a notable real estate deal, composer Salim Merchant, along with four investors, secured a commercial property in Santacruz, Mumbai, for Rs 12.85 crore. The property boasts spacious ground and first floors in a well-kn",
-   "image": "",
-   "date": "2026-10-27T16:06:39+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Major League Baseball is looking for a new kind of fan",
@@ -592,15 +628,6 @@
    "title": "Google’s next Genie AI model generates more realistic experiences",
    "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
    "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re",
-   "image": "",
-   "date": "2026-10-27T16:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "My favorite robot vacuum just got quieter, and more expensive",
-   "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-   "desc": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of j",
    "image": "",
    "date": "2026-10-27T16:00:00+00:00",
    "source": "The Verge",
@@ -967,15 +994,6 @@
    "cat": "ai"
   },
   {
-   "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-   "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-   "desc": "Whose hand is behind this travesty?",
-   "image": "",
-   "date": "2026-10-27T06:34:44+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
    "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
    "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
@@ -1003,15 +1021,6 @@
    "cat": "business"
   },
   {
-   "title": "Jay-Z to perform at Super Bowl half-time show",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-   "desc": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-27T05:05:15+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Do spiders dream? Scientists just found a surprising clue",
    "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
    "desc": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumpi",
@@ -1019,15 +1028,6 @@
    "date": "2026-10-27T04:53:11+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Saudi Arabia offered Houthis $1 billion through Iran to stop attacks: Report",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-offered-houthis-1-billion-through-iran-to-stop-attacks-report/articleshow/135224015.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T04:19:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
