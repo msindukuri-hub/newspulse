@@ -1,0 +1,967 @@
+{
+ "generated_at": "2026-10-27T18:52:42.252427+00:00",
+ "feeds_ok": 9,
+ "feeds_total": 10,
+ "items": [
+  {
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "date": "2026-10-27T18:45:56+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+   "desc": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
+   "date": "2026-10-27T18:41:02+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Norway and Finland leaders hold rare call with Putin",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+   "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+   "date": "2026-10-27T18:28:23+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "California vineyard with 14,500sq ft Italian villa sells for $11.04m",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-41-acre-california-vineyard-estate-owned-by-the-family-trust-of-heart-surgeon-thomas-fogarty-has-sold-for-11-04-million-the-property-has-a-14500-sq-ft-italian-villa-with-wine-tasting-room-home-theatre-and-spa/articleshow/135214494.cms",
+   "desc": "A vineyard estate in Portola Valley sold for $11.04 million, which was initially listed for $15.5 million. This property included a three-level Italian villa overlooking San Francisco Bay, featuring six bedrooms and nine",
+   "date": "2026-10-27T18:28:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Aviation ministry suspends ops at three Andhra airports as Cyclone Arnab intensifies",
+   "link": "https://timesofindia.indiatimes.com/india/aviation-ministry-suspends-operations-at-three-andhra-airports-as-cyclone-arnab-intensifies/articleshow/135243430.cms",
+   "desc": "",
+   "date": "2026-10-27T18:25:41+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Trump is making it easier for fossil fuel companies to leak methane",
+   "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+   "desc": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse ga",
+   "date": "2026-10-27T18:25:13+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Denver moves to permanently protect 155-acre former golf course as public park",
+   "link": "https://timesofindia.indiatimes.com/world/us/denver-voters-rejected-development-on-a-155-acre-former-golf-course-in-2023-after-a-land-swap-and-70-million-bond-allocation-the-city-is-moving-to-permanently-protect-it-as-a-public-park/articleshow/135222627.cms",
+   "desc": "Denver is advancing plans to convert the former Park Hill Golf Course into Park Hill Park. The city has selected Michael Van Valkenburgh Associates to design the 155-acre site. Voters rejected a development proposal for ",
+   "date": "2026-10-27T18:21:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
+   "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+   "desc": "The company raised concerns about AI agents taking actions before humans can stop them",
+   "date": "2026-10-27T18:14:38+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "date": "2026-10-27T18:12:20+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Ahmedabad Gets 19 Bomb Threats In A Day",
+   "link": "https://www.ndtv.com/ahmedabad-news/ahmedabad-gets-19-bomb-threats-in-a-day-12245318#publisher=newsstand",
+   "desc": "The investigation into threats in Ahmedabad is under way. (Representational Photo)",
+   "date": "2026-10-27T18:04:51+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Education Has Become 'Marks-Wadi', Rote Learning Needs To Go: Pralhad Joshi",
+   "link": "https://www.ndtv.com/india-news/education-has-become-marks-wadi-rote-learning-needs-to-go-pralhad-joshi-12245222#publisher=newsstand",
+   "desc": "Pralhad Joshi inaugurated the CBSE Experience Centre on Tuesday.",
+   "date": "2026-10-27T18:03:49+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "date": "2026-10-27T18:03:02+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "\"Arrest Judge And Son\": Kerala Crash Victim's Family To Move High Court",
+   "link": "https://www.ndtv.com/india-news/arrest-judge-and-son-kerala-crash-victims-family-to-move-high-court-12245343#publisher=newsstand",
+   "desc": "The family also said it would appeal to the district court.",
+   "date": "2026-10-27T18:02:41+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Indian Firm L&T Wins Major Dhaka Metro Contract",
+   "link": "https://www.ndtv.com/india-news/indian-firm-l-t-wins-major-dhaka-metro-contract-12245328#publisher=newsstand",
+   "desc": "L&T had won and delivered the integrated railway systems package for Dhaka Metro Line 6.",
+   "date": "2026-10-27T17:59:13+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+   "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+   "desc": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
+   "date": "2026-10-27T17:57:57+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+   "desc": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+   "date": "2026-10-27T17:53:47+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Flavio Bolsonaro flees to US after election defeat, vows to challenge Lula's victory",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-to-us-after-election-defeat-vows-to-challenge-lulas-victory-report/articleshow/135241857.cms",
+   "desc": "Flavio has yet to formally concede defeat, saying he would seek to annul the election result over alleged voter irregularities. His Liberal Party, however, acknowledged Lula's victory on Monday. Lula secured more than 64",
+   "date": "2026-10-27T17:53:30+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
+   "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+   "desc": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
+   "date": "2026-10-27T17:51:20+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "30 Paramilitary Companies Deployed In Arunachal's Siang Valley After Anti-Dam Protests",
+   "link": "https://www.ndtv.com/india-news/30-paramilitary-companies-deployed-in-arunachals-siang-valley-after-anti-dam-protests-12245297#publisher=newsstand",
+   "desc": "The police said law-and-order concerns had emerged even before the survey process began.",
+   "date": "2026-10-27T17:49:36+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Grandmother's attic jewellery sells for £506,750, over triple its estimate",
+   "link": "https://timesofindia.indiatimes.com/world/uk/a-grandmothers-jewellery-collection-sat-hidden-in-an-english-family-attic-for-decades-when-201-lots-went-to-auction-they-fetched-506750-more-than-triple-their-valuation-including-a-1905-cartier-brooch/articleshow/135241275.cms",
+   "desc": "A long-hidden jewellery collection from Worcestershire unexpectedly fetched £506,750 at auction, surpassing the initial estimate of £150,000. This remarkable sale featured over 200 items, captivating global bidders. Amon",
+   "date": "2026-10-27T17:41:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+   "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+   "desc": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
+   "date": "2026-10-27T17:39:35+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "In Mercedes Death Case, FIR Against Judge. Kerala Admits Probe Lapses",
+   "link": "https://www.ndtv.com/india-news/in-mercedes-death-case-fir-against-judge-kerala-admits-probe-lapses-12245134#publisher=newsstand",
+   "desc": "Jayabalakrishnan's daughter has demanded an examination of CCTV footage.",
+   "date": "2026-10-27T17:38:41+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+   "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+   "desc": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
+   "date": "2026-10-27T17:36:46+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Cheetah Cub Dies In Madhya Pradesh, 5 Pellets Recovered From Body",
+   "link": "https://www.ndtv.com/india-news/cheetah-cub-dies-in-madhya-pradesh-5-pellets-recovered-from-body-12245247#publisher=newsstand",
+   "desc": "The cheetah was the 19-month-old male offspring of Nirva.",
+   "date": "2026-10-27T17:34:18+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "VisionQuest is what happens when AI really goes rogue",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "desc": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The ",
+   "date": "2026-10-27T17:30:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
+   "link": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+   "desc": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
+   "date": "2026-10-27T17:26:34+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
+   "date": "2026-10-27T17:25:13+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Trump to ban the term 'artificial intelligence', wants it called 'super intelligence'",
+   "link": "https://timesofindia.indiatimes.com/world/us/trump-says-he-will-ban-the-term-artificial-intelligence-wants-it-called-super-intelligence/articleshow/135241647.cms",
+   "desc": "",
+   "date": "2026-10-27T17:19:03+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+   "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+   "desc": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+   "date": "2026-10-27T17:10:15+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+   "date": "2026-10-27T17:08:08+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Baloch Prince, Son Of Khan Of Kalat, Kidnapped With His 3 Gunmen In Pakistan",
+   "link": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
+   "desc": "According to initial probe, Prince Ahmedzai's vehicle was intercepted by armed men on Monday. (File)",
+   "date": "2026-10-27T17:00:28+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+   "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+   "desc": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The",
+   "date": "2026-10-27T17:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "desc": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit o",
+   "date": "2026-10-27T16:51:22+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Plan for bigger, heavier, stealthy next-generation destroyers gets defence council’s approval",
+   "link": "https://timesofindia.indiatimes.com/defence/news/plan-for-bigger-heavier-stealthy-next-generation-destroyers-gets-defence-councils-approval/articleshow/135240911.cms",
+   "desc": "The Defence Acquisition Council has greenlit the ambitious Project 18A aimed at developing next-generation destroyers for the Indian Navy. These innovative vessels promise to surpass current models in size and technologi",
+   "date": "2026-10-27T16:47:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Army Jawan Among 7 Arrested For Cross-Border Arms Smuggling In Punjab",
+   "link": "https://www.ndtv.com/india-news/army-jawan-among-7-arrested-for-cross-border-arms-smuggling-in-punjab-12244981#publisher=newsstand",
+   "desc": "Four separate cases have been filed in connection with the joint operation. (Representational Photo)",
+   "date": "2026-10-27T16:46:35+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Meta’s $25 billion legal loss just put blood in the water",
+   "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+   "desc": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ord",
+   "date": "2026-10-27T16:44:40+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Bhagwant Mann Renews Demand To Reopen Kartarpur Corridor Ahead of Gurpurab",
+   "link": "https://www.ndtv.com/india-news/bhagwant-mann-renews-demand-to-reopen-kartarpur-corridor-ahead-of-gurpurab-12245007#publisher=newsstand",
+   "desc": "The renewed push comes amid growing appeals from Sikh religious leaders .",
+   "date": "2026-10-27T16:40:07+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "'Want An End To Israel': Netanyahu Accuses Arab Politicians Of Election Fraud",
+   "link": "https://www.ndtv.com/world-news/want-an-end-to-israel-benjamin-netanyahu-accuses-arab-politicians-of-election-fraud-12244964#publisher=newsstand",
+   "desc": "Three people had been arrested overnight on suspicion of trying to buy votes for Raam",
+   "date": "2026-10-27T16:34:08+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "desc": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+   "date": "2026-10-27T16:30:57+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "India exported over $850m worth of arms to Europe since start of Ukraine-Russia war",
+   "link": "https://timesofindia.indiatimes.com/defence/news/india-exported-over-850m-worth-of-weapons-to-europe-since-start-of-ukraine-russia-war/articleshow/135240413.cms",
+   "desc": "Amid the ongoing Russia-Ukraine conflict, India's defence sector is witnessing an impressive surge in ammunition exports to Europe. With military demands on the rise, India has emerged as a key supplier, achieving record",
+   "date": "2026-10-27T16:26:36+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Let them eat cheesecake! Obama’s dig at gilded Trump White House causes MAGA meltdown",
+   "link": "https://timesofindia.indiatimes.com/world/us/let-them-eat-cheesecake-obamas-dig-at-gilded-trump-white-house-causes-maga-meltdown/articleshow/135239188.cms",
+   "desc": "",
+   "date": "2026-10-27T16:18:41+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
+   "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
+   "desc": "Event contract exchanges see a two-in-three chance that Democrats take control of both the House and Senate.",
+   "date": "2026-10-27T16:15:21+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
+   "date": "2026-10-27T16:14:18+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "date": "2026-10-27T16:11:35+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Police Snatched Body: Opposition Targets Bhagwant Mann Over Drug Death In Punjab",
+   "link": "https://www.ndtv.com/india-news/police-snatched-body-opposition-targets-bhagwant-mann-over-drug-death-in-punjab-12244801#publisher=newsstand",
+   "desc": "His family members alleged that his body was snatched when it was being taken to a protest site.",
+   "date": "2026-10-27T16:04:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Major League Baseball is looking for a new kind of fan",
+   "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+   "desc": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips ",
+   "date": "2026-10-27T16:02:43+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re",
+   "date": "2026-10-27T16:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "My favorite robot vacuum just got quieter, and more expensive",
+   "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+   "desc": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of j",
+   "date": "2026-10-27T16:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+   "desc": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+   "date": "2026-10-27T15:52:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "JetBlue stock surges 20% as company outlook calms investors",
+   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+   "desc": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+   "date": "2026-10-27T15:46:31+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+   "date": "2026-10-27T15:45:49+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "West warns of famine risk in Sudan as civil war grinds on",
+   "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+   "date": "2026-10-27T15:41:46+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Apple’s latest AirTag is the cheapest it’s ever been",
+   "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+   "desc": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and ",
+   "date": "2026-10-27T15:34:16+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "After Ashoka Hotel's snub, oppn to hold mock 'impeach CEC' event at Kharge’s house",
+   "link": "https://timesofindia.indiatimes.com/india/after-ashoka-hotels-snub-oppn-to-hold-public-impeachment-of-cec-at-kharges-residence/articleshow/135238768.cms",
+   "desc": "",
+   "date": "2026-10-27T15:20:07+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+   "date": "2026-10-27T15:13:24+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+   "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+   "date": "2026-10-27T15:01:27+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "desc": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+   "date": "2026-10-27T14:59:09+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+   "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+   "desc": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+   "date": "2026-10-27T14:51:33+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "US government says hackers are now exploiting critical PHP web bugs",
+   "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+   "desc": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+   "date": "2026-10-27T14:40:39+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+   "desc": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+   "date": "2026-10-27T14:29:39+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "A rising wealth tide lifts all yachts",
+   "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+   "desc": "As the yachting world prepares for the Fort Lauderdale International Boat Show this week, executives are betting on wealthy Americans to power the industry.",
+   "date": "2026-10-27T14:29:29+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+   "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+   "desc": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+   "date": "2026-10-27T14:25:11+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+   "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+   "desc": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+   "date": "2026-10-27T14:19:36+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+   "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+   "desc": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+   "date": "2026-10-27T13:54:51+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Cleo AI users to receive $15.8 million in refunds over hidden fees, misleading cash promises",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/more-than-2-1-million-us-customers-of-cash-advance-app-cleo-ai-are-set-to-receive-a-share-of-15-8-million-as-federal-refunds-begin-on-october-27-following-allegations-of-hidden-fees-and-misleading-fast-cash-promises/articleshow/135236550.cms",
+   "desc": "Starting October 27, more than 2.1 million Cleo AI customers will receive refunds as part of a federal initiative. The Federal Trade Commission is redistributing over $15.8 million to consumers who were charged for cash ",
+   "date": "2026-10-27T13:42:03+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "desc": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+   "date": "2026-10-27T13:32:57+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+   "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+   "date": "2026-10-27T13:25:54+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "US midterms: Is Trump about to lose control of Congress? What betting markets say",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-trumps-republicans-may-lose-control-of-congress-what-betting-markets-are-saying/articleshow/135235031.cms",
+   "desc": "Ahead of the November 3 US midterms, betting markets suggest Trump's Republicans could lose control of Congress, with Democrats favoured to win the House and Senate. The odds also point to a difficult contest for Vivek R",
+   "date": "2026-10-27T13:21:48+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+   "date": "2026-10-27T13:08:26+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+   "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+   "desc": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+   "date": "2026-10-27T13:01:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+   "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "desc": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+   "date": "2026-10-27T13:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "desc": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+   "date": "2026-10-27T13:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
+   "date": "2026-10-27T13:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Frozen housing market sends remodelers mixed messages",
+   "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+   "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions.",
+   "date": "2026-10-27T12:20:59+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+   "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+   "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth",
+   "date": "2026-10-27T12:10:00+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "The secret to slower aging may be hiding in your gut",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+   "desc": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the vari",
+   "date": "2026-10-27T11:53:24+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Ex-FBI chief James Comey faces federal charges for third time",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+   "date": "2026-10-27T11:44:54+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Netherlands pulls out of Eurovision again over Israel participation",
+   "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+   "desc": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+   "date": "2026-10-27T11:23:19+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m",
+   "date": "2026-10-27T11:19:18+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Low testosterone may make sugar far more harmful to your liver",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+   "desc": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing",
+   "date": "2026-10-27T11:18:37+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "desc": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+   "date": "2026-10-27T11:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Common drugs may help dangerous viruses spread through the body",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+   "desc": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
+   "date": "2026-10-27T10:46:21+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+   "desc": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope o",
+   "date": "2026-10-27T10:20:52+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "What does Israel's election mean for Gaza and the wider world?",
+   "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+   "date": "2026-10-27T10:17:36+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+   "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreakin",
+   "date": "2026-10-27T09:48:35+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Apple to replace iPhone Duos affected by screen problem",
+   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+   "date": "2026-10-27T09:37:55+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "A tiny laser beam could make computer memory 1,000 times faster",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+   "desc": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By pre",
+   "date": "2026-10-27T09:22:06+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "How solid-state transformers could help power the AI boom",
+   "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+   "desc": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t chang",
+   "date": "2026-10-27T09:00:00+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Why it could take time for a new Israeli government to form",
+   "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+   "desc": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+   "date": "2026-10-27T08:37:30+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
+   "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
+   "desc": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
+   "date": "2026-10-27T07:22:41+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+   "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+   "desc": "Whose hand is behind this travesty?",
+   "date": "2026-10-27T06:34:44+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+   "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+   "date": "2026-10-27T06:33:11+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Donald Trump's biggest economic problem looks strangely familiar",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+   "date": "2026-10-27T06:01:11+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Jay-Z to perform at Super Bowl half-time show",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+   "desc": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+   "date": "2026-10-27T05:05:15+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Do spiders dream? Scientists just found a surprising clue",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
+   "desc": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumpi",
+   "date": "2026-10-27T04:53:11+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Saudi Arabia offered Houthis $1 billion through Iran to stop attacks: Report",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-offered-houthis-1-billion-through-iran-to-stop-attacks-report/articleshow/135224015.cms",
+   "desc": "",
+   "date": "2026-10-27T04:19:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+   "desc": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research",
+   "date": "2026-10-27T04:02:26+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+   "date": "2026-10-27T02:40:17+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+   "desc": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and iden",
+   "date": "2026-10-27T02:32:38+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Facebook co-founder Dustin Moskovitz says the ‘top job’ is not for him",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/he-co-founded-facebook-with-mark-zuckerberg-later-became-ceo-of-work-management-company-but-dustin-moskovitz-says-top-job-is-not-for-him/articleshow/135222743.cms",
+   "desc": "Dustin Moskovitz co-founded Facebook and later started Asana, where he served as CEO for over a decade. Despite his achievements, he admitted that managing teams was not his true calling. Moskovitz faced increasing chall",
+   "date": "2026-10-27T02:18:24+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "desc": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "date": "2026-10-27T02:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+   "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+   "date": "2026-10-27T01:46:38+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "The surprisingly simple exercise that could lower your blood pressure",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
+   "desc": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a ",
+   "date": "2026-10-27T00:57:45+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+   "desc": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients",
+   "date": "2026-10-26T23:57:03+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+   "date": "2026-10-26T19:57:23+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Will the real Anthropic please stand up",
+   "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
+   "date": "2026-10-26T17:45:43+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "date": "2026-10-26T16:27:17+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "US court says detained migrants have no constitutional right to bond hearings",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-us-appeals-court-ruled-10-7-that-immigrants-detained-after-entering-the-country-illegally-are-not-constitutionally-entitled-to-bond-hearings-reversing-a-july-ruling-affecting-texas-louisiana-and-mississippi/articleshow/135206252.cms",
+   "desc": "The US Court of Appeals for the Fifth Circuit has made a pivotal ruling concerning immigrant detention, involving three men who unlawfully entered the country. The court decided to overturn earlier decisions that allowed",
+   "date": "2026-10-26T15:41:56+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+   "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+   "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofou",
+   "date": "2026-10-26T12:40:00+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Exercise doesn't just strengthen your heart. It rewires it",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+   "desc": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides ",
+   "date": "2026-10-26T11:35:53+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+   "desc": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capit",
+   "date": "2026-10-26T11:06:08+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+   "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+   "desc": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+   "date": "2026-10-26T10:48:46+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Healey to shield low-income pensioners from income tax in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+   "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+   "date": "2026-10-26T10:28:12+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+   "desc": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it aroun",
+   "date": "2026-10-26T10:24:20+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "desc": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
+   "date": "2026-10-26T09:01:00+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "A simple liquid can stop cavities without drilling, major study confirms",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+   "desc": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands o",
+   "date": "2026-10-26T02:41:13+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+   "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+   "date": "2026-10-26T00:26:49+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+   "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "date": "2026-10-25T23:44:34+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "date": "2026-10-25T07:15:38+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Will a new code end 'rip-off parking charges'?",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+   "desc": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+   "date": "2026-10-25T07:05:30+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  }
+ ]
+}
