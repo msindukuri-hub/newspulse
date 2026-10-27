@@ -1,8 +1,98 @@
 {
- "generated_at": "2026-10-27T21:30:25.952904+00:00",
+ "generated_at": "2026-10-27T22:00:21.979872+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "desc": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "image": "",
+   "date": "2026-10-27T21:59:07+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+   "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+   "desc": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
+   "image": "",
+   "date": "2026-10-27T21:58:48+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "GM is embracing hybrids now",
+   "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+   "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.",
+   "image": "",
+   "date": "2026-10-27T21:47:02+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "desc": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "image": "",
+   "date": "2026-10-27T21:44:34+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
+   "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
+   "image": "",
+   "date": "2026-10-27T21:42:29+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "desc": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "image": "",
+   "date": "2026-10-27T21:38:28+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Barcelona fined £503 over approach for Alvarez",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-27T21:38:20+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "India invites Pakistan for SCO civilisational dialogue forum meet next month",
+   "link": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T21:37:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Florida approves $20.15m easement protecting 219-acre ranch from development",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-219-acre-florida-cattle-ranch-facing-development-pressure-was-approved-for-a-20-15-million-conservation-easement-in-september-2026-allowing-agriculture-to-continue-while-permanently-restricting-development/articleshow/135238859.cms",
+   "desc": "A 219-acre cattle ranch in Florida received protection through a $20.15 million conservation agreement. This easement is part of a broader initiative preserving over 4,500 acres of agricultural land. The agreement ensure",
+   "image": "",
+   "date": "2026-10-27T21:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "New Jersey's 2019 dam removal brings eels and shad back upstream, study finds",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2019-new-jersey-completed-the-removal-of-the-old-columbia-dam-and-reopened-about-14-km-of-river-a-2026-study-found-juvenile-eels-sea-lampreys-and-american-shad-upstream-after-years-of-monitoring/articleshow/135238825.cms",
+   "desc": "Columbia Dam in New Jersey was removed in 2019 to allow the natural migration of fish. Recent studies show encouraging signs of recovery in fish populations, including American eels and adult American shad. Researchers m",
+   "image": "",
+   "date": "2026-10-27T21:27:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
    "link": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
@@ -22,22 +112,22 @@
    "cat": "tech"
   },
   {
-   "title": "Anthropic's IPO is risky business",
-   "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-   "desc": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+   "desc": "Anthropic's cash pile $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
    "image": "",
-   "date": "2026-10-27T21:17:27+00:00",
+   "date": "2026-10-27T21:22:03+00:00",
    "source": "CNBC",
    "cat": "business"
   },
   {
-   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-   "desc": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+   "title": "Cannot let pharma industry ‘run amok’ in name of free market: SC",
+   "link": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-27T21:15:35+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-27T21:21:54+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
@@ -211,15 +301,6 @@
    "cat": "india"
   },
   {
-   "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-   "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-   "desc": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
-   "image": "",
-   "date": "2026-10-27T19:57:35+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
    "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
    "desc": "\"'Rockin' in the Free World' is the opposite of everything that Donald J. Trump stands for,\" the suit by the two-time Rock and Roll Hall of Fame member says.",
@@ -256,7 +337,7 @@
    "cat": "india"
   },
   {
-   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "title": "Dutch zookeeper dies after being mauled by leopard",
    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
    "desc": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
@@ -274,15 +355,6 @@
    "cat": "india"
   },
   {
-   "title": "California couple's Halloween home show uses 28 computers, singing pumpkins",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-long-beach-couple-jeff-and-ann-haberman-have-turned-their-corner-home-into-a-free-nightly-halloween-show-run-by-28-computers-with-singing-pumpkins-skeleton-princesses-and-a-flying-ghost-dog-from-the-nightmare-before-christmas/articleshow/135212369.cms",
-   "desc": "Every year, Jeff and Ann Haberman delight Long Beach with their spectacular Halloween display, enchanting families with synchronized lights, music, and lively animations. The elaborate setup is managed by 28 computers, e",
-   "image": "",
-   "date": "2026-10-27T19:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
    "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
    "desc": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offen",
@@ -290,15 +362,6 @@
    "date": "2026-10-27T19:24:06+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
-   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
-   "image": "",
-   "date": "2026-10-27T19:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls: Report",
@@ -416,15 +479,6 @@
    "date": "2026-10-27T18:45:56+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Non-Hindus barred from agamic temples: Madras HC tightens entry rules; cites breaches",
-   "link": "https://timesofindia.indiatimes.com/city/chennai/no-entry-into-agamic-temples-for-non-hindus-sporting-religious-markers-rules-madras-high-court/articleshow/135244216.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T18:43:57+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
@@ -805,15 +859,6 @@
    "cat": "world"
   },
   {
-   "title": "US midterms: Is Trump about to lose control of Congress? What betting markets say",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-trumps-republicans-may-lose-control-of-congress-what-betting-markets-are-saying/articleshow/135235031.cms",
-   "desc": "Ahead of the November 3 US midterms, betting markets suggest Trump's Republicans could lose control of Congress, with Democrats favoured to win the House and Senate. The odds also point to a difficult contest for Vivek R",
-   "image": "",
-   "date": "2026-10-27T13:21:48+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
@@ -832,13 +877,13 @@
    "cat": "tech"
   },
   {
-   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-   "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-   "desc": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
    "image": "",
    "date": "2026-10-27T13:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
@@ -846,17 +891,8 @@
    "desc": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
    "image": "",
    "date": "2026-10-27T13:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
-   "image": "",
-   "date": "2026-10-27T13:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "How 'anti-superstar' Kane defied doubters to become world's best",
@@ -866,15 +902,6 @@
    "date": "2026-10-27T12:46:39+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Frozen housing market sends remodelers mixed messages",
-   "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-   "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions.",
-   "image": "",
-   "date": "2026-10-27T12:20:59+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Elon Musk’s six-word reply to Verizon CEO who said SpaceX needs 8 years to take it on",
@@ -1012,15 +1039,6 @@
    "cat": "business"
   },
   {
-   "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-   "desc": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg",
-   "date": "2026-10-27T06:15:24+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Donald Trump's biggest economic problem looks strangely familiar",
    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
    "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-27T02:32:38+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Facebook co-founder Dustin Moskovitz says the ‘top job’ is not for him",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/he-co-founded-facebook-with-mark-zuckerberg-later-became-ceo-of-work-management-company-but-dustin-moskovitz-says-top-job-is-not-for-him/articleshow/135222743.cms",
-   "desc": "Dustin Moskovitz co-founded Facebook and later started Asana, where he served as CEO for over a decade. Despite his achievements, he admitted that managing teams was not his true calling. Moskovitz faced increasing chall",
-   "image": "",
-   "date": "2026-10-27T02:18:24+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "desc": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-   "image": "",
-   "date": "2026-10-27T02:00:00+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
   }
  ]
 }
