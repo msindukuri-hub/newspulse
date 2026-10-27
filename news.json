@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T19:30:52.327221+00:00",
- "feeds_ok": 12,
- "feeds_total": 15,
+ "generated_at": "2026-10-27T19:32:02.471788+00:00",
+ "feeds_ok": 13,
+ "feeds_total": 13,
  "items": [
   {
    "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
@@ -319,15 +319,6 @@
    "cat": "india"
   },
   {
-   "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
-   "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
-   "desc": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
-   "image": "",
-   "date": "2026-10-27T17:57:57+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
    "desc": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
@@ -490,15 +481,6 @@
    "cat": "tech"
   },
   {
-   "title": "As holiday shopping approaches, seasonal hiring gives 'mixed signals,' experts say",
-   "link": "https://www.cnbc.com/make-it/2026/10/27/seasonal-hiring-2026-holiday-jobs.html",
-   "desc": "Companies have posted more seasonal jobs in 2026 than in 2025, boosted by non-retail jobs. Major retailers are, instead, relying on permanent staff.",
-   "image": "",
-   "date": "2026-10-27T16:40:57+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
@@ -576,6 +558,15 @@
    "desc": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
    "image": "",
    "date": "2026-10-27T15:52:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Anthropic's IPO is risky business",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+   "desc": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+   "image": "",
+   "date": "2026-10-27T15:51:41+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -1066,6 +1057,15 @@
    "cat": "india"
   },
   {
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "desc": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "image": "",
+   "date": "2026-10-27T02:00:00+00:00",
+   "source": "TechCrunch AI",
+   "cat": "ai"
+  },
+  {
    "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
    "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
    "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
@@ -1075,13 +1075,13 @@
    "cat": "world"
   },
   {
-   "title": "The surprisingly simple exercise that could lower your blood pressure",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
-   "desc": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a ",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "desc": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how mu",
    "image": "",
-   "date": "2026-10-27T00:57:45+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
+   "date": "2026-10-27T01:12:21+00:00",
+   "source": "TechCrunch AI",
+   "cat": "ai"
   }
  ]
 }
