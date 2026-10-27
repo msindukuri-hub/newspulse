@@ -1,8 +1,88 @@
 {
- "generated_at": "2026-10-27T18:52:42.252427+00:00",
+ "generated_at": "2026-10-27T19:12:00.664797+00:00",
  "feeds_ok": 9,
  "feeds_total": 10,
  "items": [
+  {
+   "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+   "date": "2026-10-27T19:10:24+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+   "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+   "desc": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+   "date": "2026-10-27T19:01:16+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+   "desc": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
+   "date": "2026-10-27T18:57:45+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Indian Firm L&T Wins Major Dhaka Metro Contract",
+   "link": "https://www.ndtv.com/india-news/indian-firm-l-t-wins-major-dhaka-metro-contract-12245328#publisher=newsstand",
+   "desc": "L&T had won and delivered the integrated railway systems package for Dhaka Metro Line 6.",
+   "date": "2026-10-27T18:55:57+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "date": "2026-10-27T18:55:35+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Baloch Prince, Son Of Khan Of Kalat, Kidnapped With His 3 Gunmen In Pakistan",
+   "link": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
+   "desc": "According to initial probe, Prince Ahmedzai's vehicle was intercepted by armed men on Monday. (File)",
+   "date": "2026-10-27T18:54:56+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Margin debt growth slows sharply as stock market warning signs build",
+   "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+   "desc": "Slowing margin-debt growth could signal growing risks for stocks.",
+   "date": "2026-10-27T18:53:18+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Massive Arab-Israeli Poll Turnout, Netanyahu's \"End To Jewish State\" Charge",
+   "link": "https://www.ndtv.com/world-news/massive-arab-israeli-poll-turnout-benjamin-netanyahus-end-to-jewish-state-charge-12245436#publisher=newsstand",
+   "desc": "Benjamin called the election an \"emergency\" and a \"matter of life or death\" for the Israeli right",
+   "date": "2026-10-27T18:50:11+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Delhi Government May Hike Agricultural Land Circle Rates After 18 Years",
+   "link": "https://www.ndtv.com/india-news/delhi-government-may-hike-agricultural-land-circle-rates-after-18-years-12245417#publisher=newsstand",
+   "desc": "Urban land rates could also be revised as part of the broader exercise.",
+   "date": "2026-10-27T18:48:16+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Cyclone Arnab: Flights Suspended At 3 Andhra Airports, Airlines Cancel Services",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434#publisher=newsstand",
+   "desc": "Flights to and from coastal Andhra Pradesh and southern Odisha are expected to be the most affected.",
+   "date": "2026-10-27T18:46:36+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
@@ -12,12 +92,44 @@
    "cat": "business"
   },
   {
-   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-   "desc": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
-   "date": "2026-10-27T18:41:02+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "Non-Hindus barred from agamic temples: Madras HC tightens entry rules; cites breaches",
+   "link": "https://timesofindia.indiatimes.com/city/chennai/no-entry-into-agamic-temples-for-non-hindus-sporting-religious-markers-rules-madras-high-court/articleshow/135244216.cms",
+   "desc": "",
+   "date": "2026-10-27T18:43:57+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
+   "link": "https://www.ndtv.com/world-news/india-to-host-scos-1st-civilisational-dialogue-forum-pakistan-minister-invited-12245400#publisher=newsstand",
+   "desc": "Pakistan has yet to confirm who will represent it at the forum. (File Photo)",
+   "date": "2026-10-27T18:35:31+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Controversial Islamic cleric shot dead in northern Nigeria",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+   "desc": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
+   "date": "2026-10-27T18:35:02+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Delhi Assembly Met For Just 17 Days In 2025. Speaker Backs 30-Sitting Target",
+   "link": "https://www.ndtv.com/india-news/delhi-assembly-met-for-just-17-days-in-2025-speaker-backs-30-sitting-target-12245401#publisher=newsstand",
+   "desc": "The proposal for a minimum of 30 sittings was adopted as a resolution at a conference in January.",
+   "date": "2026-10-27T18:32:23+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
+   "link": "https://www.ndtv.com/india-news/prashant-kishors-jan-suraaj-wins-first-seat-in-bihar-upper-house-12245395#publisher=newsstand",
+   "desc": "Prashant Kishor's Jan Suraaj won the Darbhanga Teachers' constituency by 324 votes.",
+   "date": "2026-10-27T18:31:37+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Norway and Finland leaders hold rare call with Putin",
@@ -36,6 +148,14 @@
    "cat": "india"
   },
   {
+   "title": "Nepal Halts Himalayan Trekking Permits Amid Avalanche Risks",
+   "link": "https://www.ndtv.com/world-news/nepal-halts-himalayan-trekking-permits-amid-avalanche-risks-12245380#publisher=newsstand",
+   "desc": "Such warnings have become a recurring feature in Nepal in recent weeks. (Representational Photo)",
+   "date": "2026-10-27T18:26:52+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Aviation ministry suspends ops at three Andhra airports as Cyclone Arnab intensifies",
    "link": "https://timesofindia.indiatimes.com/india/aviation-ministry-suspends-operations-at-three-andhra-airports-as-cyclone-arnab-intensifies/articleshow/135243430.cms",
    "desc": "",
@@ -50,6 +170,14 @@
    "date": "2026-10-27T18:25:13+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
+   "date": "2026-10-27T18:23:45+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Denver moves to permanently protect 155-acre former golf course as public park",
@@ -108,14 +236,6 @@
    "cat": "india"
   },
   {
-   "title": "Indian Firm L&T Wins Major Dhaka Metro Contract",
-   "link": "https://www.ndtv.com/india-news/indian-firm-l-t-wins-major-dhaka-metro-contract-12245328#publisher=newsstand",
-   "desc": "L&T had won and delivered the integrated railway systems package for Dhaka Metro Line 6.",
-   "date": "2026-10-27T17:59:13+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
    "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
    "desc": "Coverage of GLP-1 drugs for weight loss is being dropped by many employer-sponsored healthcare plans as premiums soar, though workers have some new options.",
@@ -148,14 +268,6 @@
    "cat": "india"
   },
   {
-   "title": "30 Paramilitary Companies Deployed In Arunachal's Siang Valley After Anti-Dam Protests",
-   "link": "https://www.ndtv.com/india-news/30-paramilitary-companies-deployed-in-arunachals-siang-valley-after-anti-dam-protests-12245297#publisher=newsstand",
-   "desc": "The police said law-and-order concerns had emerged even before the survey process began.",
-   "date": "2026-10-27T17:49:36+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Grandmother's attic jewellery sells for £506,750, over triple its estimate",
    "link": "https://timesofindia.indiatimes.com/world/uk/a-grandmothers-jewellery-collection-sat-hidden-in-an-english-family-attic-for-decades-when-201-lots-went-to-auction-they-fetched-506750-more-than-triple-their-valuation-including-a-1905-cartier-brooch/articleshow/135241275.cms",
    "desc": "A long-hidden jewellery collection from Worcestershire unexpectedly fetched £506,750 at auction, surpassing the initial estimate of £150,000. This remarkable sale featured over 200 items, captivating global bidders. Amon",
@@ -172,28 +284,12 @@
    "cat": "business"
   },
   {
-   "title": "In Mercedes Death Case, FIR Against Judge. Kerala Admits Probe Lapses",
-   "link": "https://www.ndtv.com/india-news/in-mercedes-death-case-fir-against-judge-kerala-admits-probe-lapses-12245134#publisher=newsstand",
-   "desc": "Jayabalakrishnan's daughter has demanded an examination of CCTV footage.",
-   "date": "2026-10-27T17:38:41+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
    "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
    "desc": "Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.",
    "date": "2026-10-27T17:36:46+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Cheetah Cub Dies In Madhya Pradesh, 5 Pellets Recovered From Body",
-   "link": "https://www.ndtv.com/india-news/cheetah-cub-dies-in-madhya-pradesh-5-pellets-recovered-from-body-12245247#publisher=newsstand",
-   "desc": "The cheetah was the 19-month-old male offspring of Nirva.",
-   "date": "2026-10-27T17:34:18+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "VisionQuest is what happens when AI really goes rogue",
@@ -210,14 +306,6 @@
    "date": "2026-10-27T17:26:34+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
-   "date": "2026-10-27T17:25:13+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Trump to ban the term 'artificial intelligence', wants it called 'super intelligence'",
@@ -238,18 +326,10 @@
   {
    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+   "desc": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
    "date": "2026-10-27T17:08:08+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Baloch Prince, Son Of Khan Of Kalat, Kidnapped With His 3 Gunmen In Pakistan",
-   "link": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
-   "desc": "According to initial probe, Prince Ahmedzai's vehicle was intercepted by armed men on Monday. (File)",
-   "date": "2026-10-27T17:00:28+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "The Super Mouse puts a touchscreen macro pad under your hand",
@@ -268,22 +348,6 @@
    "cat": "tech"
   },
   {
-   "title": "Plan for bigger, heavier, stealthy next-generation destroyers gets defence council’s approval",
-   "link": "https://timesofindia.indiatimes.com/defence/news/plan-for-bigger-heavier-stealthy-next-generation-destroyers-gets-defence-councils-approval/articleshow/135240911.cms",
-   "desc": "The Defence Acquisition Council has greenlit the ambitious Project 18A aimed at developing next-generation destroyers for the Indian Navy. These innovative vessels promise to surpass current models in size and technologi",
-   "date": "2026-10-27T16:47:16+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Army Jawan Among 7 Arrested For Cross-Border Arms Smuggling In Punjab",
-   "link": "https://www.ndtv.com/india-news/army-jawan-among-7-arrested-for-cross-border-arms-smuggling-in-punjab-12244981#publisher=newsstand",
-   "desc": "Four separate cases have been filed in connection with the joint operation. (Representational Photo)",
-   "date": "2026-10-27T16:46:35+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Meta’s $25 billion legal loss just put blood in the water",
    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
    "desc": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ord",
@@ -292,25 +356,9 @@
    "cat": "tech"
   },
   {
-   "title": "Bhagwant Mann Renews Demand To Reopen Kartarpur Corridor Ahead of Gurpurab",
-   "link": "https://www.ndtv.com/india-news/bhagwant-mann-renews-demand-to-reopen-kartarpur-corridor-ahead-of-gurpurab-12245007#publisher=newsstand",
-   "desc": "The renewed push comes amid growing appeals from Sikh religious leaders .",
-   "date": "2026-10-27T16:40:07+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'Want An End To Israel': Netanyahu Accuses Arab Politicians Of Election Fraud",
-   "link": "https://www.ndtv.com/world-news/want-an-end-to-israel-benjamin-netanyahu-accuses-arab-politicians-of-election-fraud-12244964#publisher=newsstand",
-   "desc": "Three people had been arrested overnight on suspicion of trying to buy votes for Raam",
-   "date": "2026-10-27T16:34:08+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-   "desc": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+   "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
@@ -332,14 +380,6 @@
    "cat": "india"
   },
   {
-   "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
-   "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-   "desc": "Event contract exchanges see a two-in-three chance that Democrats take control of both the House and Senate.",
-   "date": "2026-10-27T16:15:21+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
    "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
@@ -354,14 +394,6 @@
    "date": "2026-10-27T16:11:35+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Police Snatched Body: Opposition Targets Bhagwant Mann Over Drug Death In Punjab",
-   "link": "https://www.ndtv.com/india-news/police-snatched-body-opposition-targets-bhagwant-mann-over-drug-death-in-punjab-12244801#publisher=newsstand",
-   "desc": "His family members alleged that his body was snatched when it was being taken to a protest site.",
-   "date": "2026-10-27T16:04:30+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Major League Baseball is looking for a new kind of fan",
@@ -400,14 +432,6 @@
    "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
    "desc": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
    "date": "2026-10-27T15:46:31+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-   "date": "2026-10-27T15:45:49+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -516,14 +540,6 @@
    "cat": "tech"
   },
   {
-   "title": "Cleo AI users to receive $15.8 million in refunds over hidden fees, misleading cash promises",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/more-than-2-1-million-us-customers-of-cash-advance-app-cleo-ai-are-set-to-receive-a-share-of-15-8-million-as-federal-refunds-begin-on-october-27-following-allegations-of-hidden-fees-and-misleading-fast-cash-promises/articleshow/135236550.cms",
-   "desc": "Starting October 27, more than 2.1 million Cleo AI customers will receive refunds as part of a federal initiative. The Federal Trade Commission is redistributing over $15.8 million to consumers who were charged for cash ",
-   "date": "2026-10-27T13:42:03+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Japan internet giant GMO says hackers posted stolen customer data",
    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
    "desc": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
@@ -594,6 +610,14 @@
    "date": "2026-10-27T12:20:59+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Elon Musk’s six-word reply to Verizon CEO who said SpaceX needs 8 years to take it on",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-has-a-six-word-reply-for-ceo-of-americas-largest-mobile-network-company-who-said-spacex-needs-eight-years-to-build-a-rival-network/articleshow/135233943.cms",
+   "desc": "Verizon CEO Dan Schulman says SpaceX would need up to $500 billion, 80,000 cell towers and as long as eight years to build a US mobile network that rivals Verizon. Elon Musk hit back on X, saying it \"will take 2 or 3 yea",
+   "date": "2026-10-27T12:18:15+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -708,22 +732,6 @@
    "cat": "ai"
   },
   {
-   "title": "Why it could take time for a new Israeli government to form",
-   "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-   "desc": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-   "date": "2026-10-27T08:37:30+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-   "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-   "desc": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
-   "date": "2026-10-27T07:22:41+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
    "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
    "desc": "Whose hand is behind this travesty?",
@@ -802,14 +810,6 @@
    "date": "2026-10-27T02:18:24+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "desc": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-   "date": "2026-10-27T02:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
   },
   {
    "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
