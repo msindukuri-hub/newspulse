@@ -1,12 +1,111 @@
 {
- "generated_at": "2026-10-27T22:30:19.581900+00:00",
+ "generated_at": "2026-10-27T23:00:28.329401+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "desc": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "image": "",
+   "date": "2026-10-27T22:59:39+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "desc": "As the AI boom stresses the existing power grid, all sort of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "image": "",
+   "date": "2026-10-27T22:55:41+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+   "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+   "desc": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of",
+   "image": "",
+   "date": "2026-10-27T22:55:05+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+   "desc": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+   "image": "",
+   "date": "2026-10-27T22:49:23+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Brics forum concerned over West Asia tensions, calls for max restraint",
+   "link": "https://timesofindia.indiatimes.com/india/brics-forum-concerned-over-west-asia-tensions-calls-for-max-restraint/articleshow/135247841.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T22:44:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "UN Nuclear Watchdog Chief Urges Iran To Grant Access",
+   "link": "https://www.ndtv.com/world-news/un-nuclear-watchdog-chief-urges-iran-to-grant-access-12245792#publisher=newsstand",
+   "desc": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel.",
+   "image": "https://c.ndtvimg.com/2026-10/8262onfg_-rafael-grossi_625x300_28_October_26.jpeg",
+   "date": "2026-10-27T22:38:46+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "image": "",
+   "date": "2026-10-27T22:35:25+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Rethink strategy, heavily regulate acid sale to curb attacks, says SC",
+   "link": "https://timesofindia.indiatimes.com/india/rethink-strategy-heavily-regulate-acid-sale-to-curb-attacks-says-sc/articleshow/135247788.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T22:30:52+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Florida sinks nearly 200 unwanted concrete pipes to create new ocean reef",
+   "link": "https://timesofindia.indiatimes.com/world/us/nearly-200-unwanted-concrete-pipes-and-culverts-were-lowered-into-the-atlantic-off-jacksonville-in-2026-instead-of-being-dumped-on-land-the-pieces-now-form-a-new-fish-habitat-roughly-90-feet-below-the-water/articleshow/135227479.cms",
+   "desc": "Concrete pipes and structures have found new life as an artificial reef off Florida's coastline. This dynamic project aims to enrich marine ecosystems in the region's sandy ocean floors, driven by partnerships among fish",
+   "image": "",
+   "date": "2026-10-27T22:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Michigan court overturns $1.55m judgment against couple in home sale dispute",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-home-inspection-triggered-a-150000-price-cut-fight-six-years-later-an-appeals-court-wiped-out-a-1-55-million-judgment-against-the-buyers/articleshow/135205507.cms",
+   "desc": "A Michigan couple's $1.275 million home purchase turned into a six-year legal dispute after they sought a $150,000 discount following an inspection. The failed deal led to a judgment exceeding $1.55 million against them.",
+   "image": "",
+   "date": "2026-10-27T22:27:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "US Says It Will Issue Visas To Brazil's Flavio Bolsonaro After Election Loss",
+   "link": "https://www.ndtv.com/world-news/us-says-it-will-issue-visas-to-brazils-flavio-bolsonaro-after-election-loss-12245733#publisher=newsstand",
+   "desc": "According to reports, Flavio Bolsonaro fled Brazil hours after losing the presidential election.",
+   "image": "https://c.ndtvimg.com/2026-10/cehd8els_flavio-bolsonaro-_625x300_28_October_26.jpeg",
+   "date": "2026-10-27T22:26:47+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
    "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-   "desc": "Software company Guidewire announced Tuesday that it was buying UK agentic underwriting startup Hyperexponential for $1.7 billion in cash.",
+   "desc": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
    "image": "",
    "date": "2026-10-27T22:26:03+00:00",
    "source": "TechCrunch",
@@ -38,15 +137,6 @@
    "date": "2026-10-27T22:17:18+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "desc": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-   "image": "",
-   "date": "2026-10-27T22:13:31+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -130,6 +220,24 @@
    "cat": "india"
   },
   {
+   "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Shows 1st Exit Polls",
+   "link": "https://www.ndtv.com/world-news/israel-opposition-holds-narrow-edge-over-netanyahus-party-shows-first-exit-polls-12245652#publisher=newsstand",
+   "desc": "Israeli voters on Tuesday gave a narrow edge to opposition parties over PM Benjamin Netanyahu.",
+   "image": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-27T21:34:19+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
+   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
+   "date": "2026-10-27T21:31:07+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Florida approves $20.15m easement protecting 219-acre ranch from development",
    "link": "https://timesofindia.indiatimes.com/world/us/a-219-acre-florida-cattle-ranch-facing-development-pressure-was-approved-for-a-20-15-million-conservation-easement-in-september-2026-allowing-agriculture-to-continue-while-permanently-restricting-development/articleshow/135238859.cms",
    "desc": "A 219-acre cattle ranch in Florida received protection through a $20.15 million conservation agreement. This easement is part of a broader initiative preserving over 4,500 acres of agricultural land. The agreement ensure",
@@ -166,15 +274,6 @@
    "cat": "tech"
   },
   {
-   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-   "desc": "Anthropic's cash pile $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
-   "image": "",
-   "date": "2026-10-27T21:22:03+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Cannot let pharma industry ‘run amok’ in name of free market: SC",
    "link": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms",
    "desc": "",
@@ -189,15 +288,6 @@
    "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
    "image": "",
    "date": "2026-10-27T21:12:55+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-   "image": "",
-   "date": "2026-10-27T21:12:41+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -238,6 +328,15 @@
    "cat": "business"
   },
   {
+   "title": "Gadi Eisenkot: The Man Who Could Bring Benjamin Netanyahu's Long Rule To An End",
+   "link": "https://www.ndtv.com/world-news/israel-elections-israel-exit-polls-israel-election-results-gadi-eisenkot-the-man-who-could-bring-benjamin-netanyahus-long-rule-to-an-end-12245680#publisher=newsstand",
+   "desc": "Eisenkot was the military chief of staff of Israel from 2015 to 2019.",
+   "image": "https://c.ndtvimg.com/2026-10/49nvrflc_gadi-eisenkot-afp-_625x300_28_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-27T21:06:32+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Landline switchover could cut people off in emergency, minister warned",
    "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
    "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
@@ -245,15 +344,6 @@
    "date": "2026-10-27T20:54:48+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Election Commision keeps RTI applicant waiting for reply",
-   "link": "https://timesofindia.indiatimes.com/india/poll-panel-keeps-rti-applicant-waiting-for-reply/articleshow/135245571.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T20:52:42+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -274,15 +364,6 @@
    "cat": "world"
   },
   {
-   "title": "Congress slams EC affidavit, terms it ‘deceptive, deceitful & duplicitous’",
-   "link": "https://timesofindia.indiatimes.com/india/congress-slams-ec-affidavit-terms-it-deceptive-deceitful-duplicitous/articleshow/135245538.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T20:40:59+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
    "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
@@ -301,24 +382,6 @@
    "cat": "tech"
   },
   {
-   "title": "Jake Gyllenhaal bought NYC condo for $8.63m, sold for $14m amid $376m suit",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-jake-gyllenhaal-bought-a-new-york-apartment-in-an-1882-bookbinding-factory-for-8-63-million-eight-years-later-he-sold-it-for-14-million-while-the-building-faced-a-376-million-lawsuit/articleshow/135212531.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T20:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Meet Kayley Xu: San Diego student wins $25,000 for wearable stethoscope idea",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-kayley-xu-a-san-diego-student-who-developed-aucura-a-wearable-stethoscope-designed-to-improve-respiratory-diagnostics-and-won-a-25000-national-entrepreneurship-prize/articleshow/135213253.cms",
-   "desc": "Kayley Xu, a Year 12 student, developed Aucura, a wearable stethoscope designed to enhance respiratory diagnostics and access. After recovering from pneumonia, she sought to improve traditional stethoscopes that have cha",
-   "image": "",
-   "date": "2026-10-27T20:27:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
    "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
@@ -334,15 +397,6 @@
    "image": "",
    "date": "2026-10-27T20:21:35+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-   "desc": "Cyclone Arnab LIVE Updates: The Met Department observed that the outer spiral band has entered the land.",
-   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
-   "date": "2026-10-27T20:17:38+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -535,15 +589,6 @@
    "cat": "world"
   },
   {
-   "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
-   "link": "https://www.ndtv.com/world-news/india-to-host-scos-1st-civilisational-dialogue-forum-pakistan-minister-invited-12245400#publisher=newsstand",
-   "desc": "Pakistan has yet to confirm who will represent it at the forum. (File Photo)",
-   "image": "https://c.ndtvimg.com/2025-09/87h67qc_pm-narendra-modi-at-sco-summit-in-china_625x300_02_September_25.jpeg",
-   "date": "2026-10-27T18:35:31+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Controversial Islamic cleric shot dead in northern Nigeria",
    "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
    "desc": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
@@ -553,15 +598,6 @@
    "cat": "world"
   },
   {
-   "title": "Delhi Assembly Met For Just 17 Days In 2025. Speaker Backs 30-Sitting Target",
-   "link": "https://www.ndtv.com/india-news/delhi-assembly-met-for-just-17-days-in-2025-speaker-backs-30-sitting-target-12245401#publisher=newsstand",
-   "desc": "The proposal for a minimum of 30 sittings was adopted as a resolution at a conference in January.",
-   "image": "https://c.ndtvimg.com/2026-10/1r67r4bg_1_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:32:23+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Norway and Finland leaders hold rare call with Putin",
    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
    "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
@@ -569,15 +605,6 @@
    "date": "2026-10-27T18:28:23+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Nepal Halts Himalayan Trekking Permits Amid Avalanche Risks",
-   "link": "https://www.ndtv.com/world-news/nepal-halts-himalayan-trekking-permits-amid-avalanche-risks-12245380#publisher=newsstand",
-   "desc": "Such warnings have become a recurring feature in Nepal in recent weeks. (Representational Photo)",
-   "image": "https://c.ndtvimg.com/2026-09/6ck9ke1s_avalanche_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:26:52+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Aviation ministry suspends ops at three Andhra airports as Cyclone Arnab intensifies",
@@ -596,15 +623,6 @@
    "date": "2026-10-27T18:25:13+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Ahmedabad Gets 19 Bomb Threats In A Day",
-   "link": "https://www.ndtv.com/ahmedabad-news/ahmedabad-gets-19-bomb-threats-in-a-day-12245318#publisher=newsstand",
-   "desc": "The investigation into threats in Ahmedabad is under way. (Representational Photo)",
-   "image": "https://i.ndtvimg.com/i/2015-08/ahmedabad-police-650-pti_650x400_51440527770.jpg",
-   "date": "2026-10-27T18:04:51+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
@@ -756,8 +774,8 @@
    "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re",
    "image": "",
    "date": "2026-10-27T16:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "West warns of famine risk in Sudan as civil war grinds on",
@@ -837,15 +855,6 @@
    "desc": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
    "image": "",
    "date": "2026-10-27T14:25:11+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-   "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-   "desc": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-   "image": "",
-   "date": "2026-10-27T13:54:51+00:00",
    "source": "TechCrunch",
    "cat": "tech"
   },
@@ -1071,15 +1080,6 @@
    "desc": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumpi",
    "image": "",
    "date": "2026-10-27T04:53:11+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-   "desc": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research",
-   "image": "",
-   "date": "2026-10-27T04:02:26+00:00",
    "source": "ScienceDaily",
    "cat": "science"
   }
