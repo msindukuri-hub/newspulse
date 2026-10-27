@@ -1,10 +1,100 @@
 {
- "generated_at": "2026-10-27T21:02:32.214952+00:00",
+ "generated_at": "2026-10-27T21:30:25.952904+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Poll panel keeps RTI applicant waiting for reply",
+   "title": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
+   "link": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+   "desc": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
+   "image": "",
+   "date": "2026-10-27T21:24:06+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Discord is making its public communities more searchable, and people have concerns",
+   "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+   "desc": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+   "image": "",
+   "date": "2026-10-27T21:22:35+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Anthropic's IPO is risky business",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+   "desc": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+   "image": "",
+   "date": "2026-10-27T21:17:27+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "desc": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+   "image": "",
+   "date": "2026-10-27T21:15:35+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "image": "",
+   "date": "2026-10-27T21:12:55+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "image": "",
+   "date": "2026-10-27T21:12:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-27T21:12:39+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&at_campaign=rss",
+   "desc": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png",
+   "date": "2026-10-27T21:10:47+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+   "desc": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg",
+   "date": "2026-10-27T21:09:12+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+   "image": "",
+   "date": "2026-10-27T21:07:51+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Election Commision keeps RTI applicant waiting for reply",
    "link": "https://timesofindia.indiatimes.com/india/poll-panel-keeps-rti-applicant-waiting-for-reply/articleshow/135245571.cms",
    "desc": "",
    "image": "",
@@ -22,24 +112,6 @@
    "cat": "tech"
   },
   {
-   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-   "desc": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
-   "image": "",
-   "date": "2026-10-27T20:48:38+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1e/live/91a6d4b0-d173-11f1-9d71-6d5ae0660afe.jpg",
-   "date": "2026-10-27T20:45:25+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
    "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
    "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
@@ -49,15 +121,6 @@
    "cat": "world"
   },
   {
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "image": "",
-   "date": "2026-10-27T20:42:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Congress slams EC affidavit, terms it ‘deceptive, deceitful & duplicitous’",
    "link": "https://timesofindia.indiatimes.com/india/congress-slams-ec-affidavit-terms-it-deceptive-deceitful-duplicitous/articleshow/135245538.cms",
    "desc": "",
@@ -65,15 +128,6 @@
    "date": "2026-10-27T20:40:59+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
-   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-   "image": "",
-   "date": "2026-10-27T20:39:49+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Order preservation of SIR files & notings, petitioners urge SC",
@@ -112,15 +166,6 @@
    "cat": "india"
   },
   {
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-   "image": "",
-   "date": "2026-10-27T20:28:56+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Meet Kayley Xu: San Diego student wins $25,000 for wearable stethoscope idea",
    "link": "https://timesofindia.indiatimes.com/science/discovery/meet-kayley-xu-a-san-diego-student-who-developed-aucura-a-wearable-stethoscope-designed-to-improve-respiratory-diagnostics-and-won-a-25000-national-entrepreneurship-prize/articleshow/135213253.cms",
    "desc": "Kayley Xu, a Year 12 student, developed Aucura, a wearable stethoscope designed to enhance respiratory diagnostics and access. After recovering from pneumonia, she sought to improve traditional stethoscopes that have cha",
@@ -133,7 +178,7 @@
    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
    "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae7/live/a9a20c40-d242-11f1-84cb-7d14463da0ae.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg",
    "date": "2026-10-27T20:26:31+00:00",
    "source": "BBC Sport",
    "cat": "sports"
@@ -454,15 +499,6 @@
    "cat": "tech"
   },
   {
-   "title": "Prep time for Wallabies a challenge - Borthwick",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn8d7ppr9d3o?at_medium=RSS&at_campaign=rss",
-   "desc": "England head coach Steve Borthwick says his players have tried to make most of limited preparation time for their Test against a comparatively battle-hardened Australia.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a2f/live/8efa21a0-d22b-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-27T18:05:24+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Ahmedabad Gets 19 Bomb Threats In A Day",
    "link": "https://www.ndtv.com/ahmedabad-news/ahmedabad-gets-19-bomb-threats-in-a-day-12245318#publisher=newsstand",
    "desc": "The investigation into threats in Ahmedabad is under way. (Representational Photo)",
@@ -634,15 +670,6 @@
    "cat": "tech"
   },
   {
-   "title": "Anthropic's IPO is risky business",
-   "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-   "desc": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-   "image": "",
-   "date": "2026-10-27T15:51:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "West warns of famine risk in Sudan as civil war grinds on",
    "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
    "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
@@ -722,15 +749,6 @@
    "date": "2026-10-27T14:29:39+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "A rising wealth tide lifts all yachts",
-   "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-   "desc": "As the yachting world prepares for the Fort Lauderdale International Boat Show this week, executives are betting on wealthy Americans to power the industry.",
-   "image": "",
-   "date": "2026-10-27T14:29:29+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
@@ -895,15 +913,6 @@
    "cat": "sports"
   },
   {
-   "title": "Ex-FBI chief James Comey faces federal charges for third time",
-   "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
-   "date": "2026-10-27T11:44:54+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
    "desc": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m",
@@ -924,11 +933,11 @@
   {
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "desc": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+   "desc": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
    "image": "",
    "date": "2026-10-27T11:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Common drugs may help dangerous viruses spread through the body",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-27T02:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
-  },
-  {
-   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-   "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-   "desc": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg",
-   "date": "2026-10-27T01:46:38+00:00",
-   "source": "BBC News",
-   "cat": "world"
   }
  ]
 }
