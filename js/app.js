@@ -8,15 +8,18 @@ const FEEDS = [
   { name: "NDTV",            cat: "india",    url: "https://feeds.feedburner.com/ndtvnews-top-stories" },
   { name: "TechCrunch",      cat: "tech",     url: "https://techcrunch.com/feed/" },
   { name: "The Verge",       cat: "tech",     url: "https://www.theverge.com/rss/index.xml" },
-  { name: "AI News",         cat: "ai",       url: "https://www.artificialintelligence-news.com/feed/" },
+  { name: "TechCrunch AI",   cat: "ai",       url: "https://techcrunch.com/category/artificial-intelligence/feed/" },
   { name: "MIT Tech Review", cat: "ai",       url: "https://www.technologyreview.com/feed/" },
+  { name: "The Verge AI",    cat: "ai",       url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
   { name: "ScienceDaily",    cat: "science",  url: "https://www.sciencedaily.com/rss/all.xml" },
   { name: "CNBC",            cat: "business", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+  { name: "BBC Sport",       cat: "sports",   url: "https://feeds.bbci.co.uk/sport/rss.xml" },
+  { name: "ESPN",            cat: "sports",   url: "https://www.espn.com/espn/rss/news" },
 ];
 
 const CAT_LABELS = {
   world: "World", india: "India", tech: "Tech",
-  ai: "AI", science: "Science", business: "Business",
+  ai: "AI", science: "Science", business: "Business", sports: "Sports",
 };
 
 // CORS-friendly proxies (tried in order) — only used if news.json is missing/stale
@@ -104,6 +107,7 @@ async function tryStaticNews() {
       title: it.title,
       link: it.link,
       desc: it.desc || "",
+      image: it.image || "",
       date: it.date ? new Date(it.date) : new Date(0),
       source: it.source,
       cat: it.cat,
@@ -130,6 +134,19 @@ async function fetchWithProxy(url) {
   throw lastErr || new Error("All proxies failed");
 }
 
+function extractImage(node) {
+  // RSS: enclosure url, media:content / media:thumbnail, or first <img> in the description
+  const enc = node.querySelector("enclosure")?.getAttribute("url") || "";
+  if (enc && /\.(jpe?g|png|webp|gif|avif)(\?|$)/i.test(enc)) return enc;
+  const media = node.getElementsByTagName("media:content")[0]?.getAttribute("url")
+    || node.getElementsByTagName("media:thumbnail")[0]?.getAttribute("url") || "";
+  if (media) return media;
+  const desc = node.querySelector("description")?.innerHTML || "";
+  const m = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (m) return m[1];
+  return "";
+}
+
 function parseFeed(xmlText, feedMeta) {
   const doc = new DOMParser().parseFromString(xmlText, "text/xml");
   if (doc.querySelector("parsererror")) return [];
@@ -142,7 +159,8 @@ function parseFeed(xmlText, feedMeta) {
       const link = n.querySelector("link")?.textContent?.trim() || "";
       const desc = stripHtml(n.querySelector("description")?.textContent || "").slice(0, 220);
       const pub = n.querySelector("pubDate")?.textContent || "";
-      if (title && link) items.push({ title, link, desc, date: new Date(pub), source: feedMeta.name, cat: feedMeta.cat });
+      const image = extractImage(n);
+      if (title && link) items.push({ title, link, desc, image, date: new Date(pub), source: feedMeta.name, cat: feedMeta.cat });
     });
   } else {
     // Atom (The Verge etc.)
@@ -152,7 +170,9 @@ function parseFeed(xmlText, feedMeta) {
         || n.querySelector("link")?.getAttribute("href") || "";
       const desc = stripHtml(n.querySelector("summary")?.textContent || n.querySelector("content")?.textContent || "").slice(0, 220);
       const pub = n.querySelector("updated")?.textContent || n.querySelector("published")?.textContent || "";
-      if (title && link) items.push({ title, link, desc, date: new Date(pub), source: feedMeta.name, cat: feedMeta.cat });
+      const content = n.querySelector("content")?.innerHTML || n.querySelector("summary")?.innerHTML || "";
+      const m = content.match(/<img[^>]+src=["']([^"']+)["']/i);
+      if (title && link) items.push({ title, link, desc, image: m ? m[1] : "", date: new Date(pub), source: feedMeta.name, cat: feedMeta.cat });
     });
   }
   return items;
@@ -243,6 +263,7 @@ function render() {
   }
   grid.innerHTML = items.map((it, i) => `
     <article class="card" style="animation-delay:${Math.min(i * 30, 300)}ms">
+      ${it.image ? `<a class="card-thumb" href="${esc(it.link)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(it.image)}" alt="" onerror="this.closest('.card-thumb').remove()"></a>` : ""}
       <div class="card-top">
         <span class="cat-chip">${CAT_LABELS[it.cat] || it.cat}</span>
         <span class="source-name">${esc(it.source)}</span>

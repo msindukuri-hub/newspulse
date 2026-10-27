@@ -6,7 +6,7 @@ Run locally or in GitHub Actions. Output shape:
   "generated_at": "<iso8601 utc>",
   "feeds_ok": <int>,
   "feeds_total": <int>,
-  "items": [{"title","link","desc","date","source","cat"}, ...]
+  "items": [{"title","link","desc","image","date","source","cat"}, ...]
 }
 """
 import html
@@ -25,13 +25,18 @@ FEEDS = [
     ("NDTV", "india", "https://feeds.feedburner.com/ndtvnews-top-stories"),
     ("TechCrunch", "tech", "https://techcrunch.com/feed/"),
     ("The Verge", "tech", "https://www.theverge.com/rss/index.xml"),
-    ("AI News", "ai", "https://www.artificialintelligence-news.com/feed/"),
+    ("TechCrunch AI", "ai", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("MIT Tech Review", "ai", "https://www.technologyreview.com/feed/"),
+    ("The Verge AI", "ai", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
     ("ScienceDaily", "science", "https://www.sciencedaily.com/rss/all.xml"),
     ("CNBC", "business", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+    ("BBC Sport", "sports", "https://feeds.bbci.co.uk/sport/rss.xml"),
+    ("ESPN", "sports", "https://www.espn.com/espn/rss/news"),
 ]
 
 TAG_RE = re.compile(r"<[^>]+>")
+IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+IMG_EXT_RE = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|$)", re.I)
 USER_AGENT = "Mozilla/5.0 (compatible; NewsPulse/1.0; static news aggregator)"
 
 
@@ -49,6 +54,24 @@ def entry_date(entry):
     return None
 
 
+def entry_image(entry):
+    # 1) enclosure with an image URL
+    enc = (entry.get("enclosures") or [{}])[0].get("href") or ""
+    if enc and IMG_EXT_RE.search(enc):
+        return enc
+    # 2) media_* fields feedparser normalizes (media_content, media_thumbnail)
+    for key in ("media_content", "media_thumbnail"):
+        media = entry.get(key)
+        if media and isinstance(media, list) and media[0].get("url"):
+            return media[0]["url"]
+    # 3) first <img> in the summary/description
+    raw = entry.get("summary") or entry.get("description") or ""
+    m = IMG_RE.search(raw)
+    if m:
+        return m.group(1)
+    return ""
+
+
 def main():
     items, ok = [], 0
     for name, cat, url in FEEDS:
@@ -62,12 +85,14 @@ def main():
                 if not link or not title:
                     continue
                 desc = clean(e.get("summary") or e.get("description") or "")
+                image = entry_image(e)
                 dt = entry_date(e)
                 items.append(
                     {
                         "title": title,
                         "link": link,
                         "desc": desc,
+                        "image": image,
                         "date": dt.isoformat() if dt else "",
                         "source": name,
                         "cat": cat,
