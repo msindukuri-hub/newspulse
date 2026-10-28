@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-10-28T23:02:24.036757+00:00",
+ "generated_at": "2026-10-28T23:30:25.155976+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T23:21:48+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "How unbeaten Chelsea are getting back to their best",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
+   "desc": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg",
+   "date": "2026-10-28T23:17:33+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Israel poll results deadlocked amid historic showing by Arab parties",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-poll-results-deadlocked-amid-historic-showing-by-arab-parties/articleshow/135283677.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T23:17:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "image": "",
+   "date": "2026-10-28T23:17:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "desc": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+   "image": "",
+   "date": "2026-10-28T23:15:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "On debut, Jio 2nd most valuable company, behind only parent Reliance Industries",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms",
+   "desc": "Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group ",
+   "image": "",
+   "date": "2026-10-28T23:10:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+   "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+   "desc": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg",
+   "date": "2026-10-28T23:10:06+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "desc": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young peop",
+   "image": "",
+   "date": "2026-10-28T23:05:39+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
   {
    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
@@ -11,6 +83,15 @@
    "date": "2026-10-28T22:47:50+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Yet to test legality of logical discrepancy in SIR: Supreme Court",
+   "link": "https://timesofindia.indiatimes.com/india/yet-to-test-legality-of-logical-discrepancy-in-sir-supreme-court/articleshow/135283243.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T22:46:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Fleetwood to face Everton or Newcastle in last eight",
@@ -103,15 +184,6 @@
    "cat": "india"
   },
   {
-   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T22:13:35+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
    "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
    "desc": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
@@ -193,15 +265,6 @@
    "cat": "tech"
   },
   {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "image": "",
-   "date": "2026-10-28T21:47:47+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
    "desc": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
@@ -263,15 +326,6 @@
    "date": "2026-10-28T21:31:46+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Delhi HC rejects PIL against passport fee hike for NRIs",
-   "link": "https://timesofindia.indiatimes.com/india/hc-rejects-pil-against-passport-fee-hike-for-nris/articleshow/135280506.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T21:26:47+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
@@ -353,15 +407,6 @@
    "date": "2026-10-28T20:55:11+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Privacy law doesn’t infringe upon press freedom: IT & I&B minister",
-   "link": "https://timesofindia.indiatimes.com/india/privacy-law-doesnt-infringe-upon-press-freedom-it-ib-minister/articleshow/135280108.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T20:48:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Chelsea continue unbeaten start with win over Roma",
@@ -490,15 +535,6 @@
    "cat": "business"
   },
   {
-   "title": "Sesko ruled out until January with shin injury",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg",
-   "date": "2026-10-28T19:57:04+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
    "desc": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
@@ -506,15 +542,6 @@
    "date": "2026-10-28T19:53:50+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "UK parliamentary group to raise persecution of Hindus in Pakistan with UK govt",
-   "link": "https://timesofindia.indiatimes.com/world/uk/uk-parliamentary-group-to-raise-persecution-of-hindus-in-pakistan-with-uk-govt/articleshow/135278420.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T19:52:32+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Djokovic celebrates 'big win' on return to Basel",
@@ -650,15 +677,6 @@
    "date": "2026-10-28T18:59:48+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Brendan Carr plans to let prisons jam cellphone signals",
-   "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-   "desc": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act ",
-   "image": "",
-   "date": "2026-10-28T18:57:02+00:00",
-   "source": "The Verge",
-   "cat": "tech"
   },
   {
    "title": "India Closely Monitoring Tehran Talks Involving Pakistan, Says Centre",
@@ -895,15 +913,6 @@
    "cat": "tech"
   },
   {
-   "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-   "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-   "desc": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-   "image": "",
-   "date": "2026-10-28T15:53:21+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
    "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-28T10:31:22+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-   "desc": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about ",
-   "image": "",
-   "date": "2026-10-28T10:29:36+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
