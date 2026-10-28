@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-10-28T12:30:10.236889+00:00",
+ "generated_at": "2026-10-28T13:00:25.994411+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+   "link": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+   "desc": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
+   "image": "",
+   "date": "2026-10-28T13:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "desc": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced",
+   "image": "",
+   "date": "2026-10-28T13:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+   "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+   "desc": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 mill",
+   "image": "",
+   "date": "2026-10-28T13:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+   "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+   "desc": "Total political ad spending and reservations for the 2026 cycle has topped $11.2 billion, according to AdImpact.",
+   "image": "",
+   "date": "2026-10-28T12:53:08+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+   "link": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+   "desc": "The currency has lost almost 5% against the U.S. dollar in six months.",
+   "image": "",
+   "date": "2026-10-28T12:52:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Inside Amazon’s Echo hardware event",
+   "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+   "desc": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's fir",
+   "image": "",
+   "date": "2026-10-28T12:46:42+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+   "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+   "desc": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+   "image": "",
+   "date": "2026-10-28T12:37:51+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Why China is desperate to ship cars outside of the country",
+   "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+   "desc": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
+   "image": "",
+   "date": "2026-10-28T12:30:02+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "Almost all of Amazon’s new Echo gear is available now",
    "link": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
@@ -11,15 +83,6 @@
    "date": "2026-10-28T12:29:52+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-   "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-   "desc": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
-   "image": "",
-   "date": "2026-10-28T12:29:47+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
@@ -40,6 +103,24 @@
    "cat": "business"
   },
   {
+   "title": "California court revives foster care abuse survivor's lawsuit after 20 years",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-california-foster-care-survivor-says-he-reported-abuse-as-a-child-in-2006-but-officials-failed-to-act-nearly-20-years-later-an-appeals-court-reversed-the-dismissal-of-his-negligence-lawsuit-against-alameda-county/articleshow/135263839.cms",
+   "desc": "In a significant legal victory, a California man has reinstated his negligence lawsuit against Alameda County, claiming failure in protecting him from abuse within the foster care system. The appeals court's decision to ",
+   "image": "",
+   "date": "2026-10-28T12:23:47+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Taylor Swift's 'Blank Space' castle sells for $72m, nearly half its valuation",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/an-127-room-long-island-castle-featured-in-taylor-swifts-blank-space-video-sold-for-72-million-at-auction-nearly-half-its-137-million-appraisal-after-bankruptcy-proceedings-put-the-historic-estates-future-in-doubt/articleshow/135264228.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T12:23:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Everything announced at Amazon’s October 2026 hardware launch",
    "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
    "desc": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is s",
@@ -49,13 +130,22 @@
    "cat": "tech"
   },
   {
-   "title": "Henry defends himself after Ballon d'Or criticism",
+   "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
    "desc": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bf/live/6efc48d0-d2bf-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-10-28T12:13:23+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "US judge cuts $74.5m easement tax deduction to $500,000, upholds penalty",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2006-a-couple-bought-310-acres-in-tennessee-for-1-3-million-years-later-a-partnership-claimed-a-74-5-million-conservation-tax-deduction-but-a-us-judge-valued-the-easement-at-just-500000-and-upheld-a-penalty/articleshow/135264375.cms",
+   "desc": "The United States Tax Court delivered a decisive blow to Lontrac Enterprises, LLC, reducing their claimed tax deduction for a conservation easement from $74.5 million to $500,000. The ruling highlighted the partnership's",
+   "image": "",
+   "date": "2026-10-28T12:10:02+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "The Download: dead startups fueling AI and interspecies communication",
@@ -148,24 +238,6 @@
    "cat": "tech"
   },
   {
-   "title": "Spending time with the Echo Time — a smart clock that senses you sleeping",
-   "link": "https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on",
-   "desc": "Amazon just announced its newest smart alarm clock - the Echo Time. The baseball-sized smart speaker with a screen, the Time looks like an Echo Dot with Clock and an Echo Spot had a much bigger baby. It features a 3.2-in",
-   "image": "",
-   "date": "2026-10-28T12:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Amazon’s Alexa Home Map is getting a smarter 3D redesign",
-   "link": "https://www.theverge.com/tech/1020392/amazon-alexa-home-view-3d-update-external-view",
-   "desc": "Amazon's smart home map interface that shows you where all your connected devices are has been overhauled with new graphics, features, and dynamic effects. The new Alexa Home Map is now an interactive 3D view of not just",
-   "image": "",
-   "date": "2026-10-28T12:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Pairing industrial AI autonomy and human control",
    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
    "desc": "",
@@ -178,7 +250,7 @@
    "title": "Arsenal to appeal against Dowman red card",
    "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
    "desc": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50b8/live/582b77b0-d2c5-11f1-8e79-5381b0a9d682.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff0/live/546a9390-d2cf-11f1-b677-b762d2f83f6e.jpg",
    "date": "2026-10-28T11:55:21+00:00",
    "source": "BBC Sport",
    "cat": "sports"
@@ -186,8 +258,8 @@
   {
    "title": "Carrick and Fernandes hold clear-the-air talks",
    "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks ahead of side's trip to Chelsea.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a5/live/5b63dbd0-d2c4-11f1-8e79-5381b0a9d682.jpg",
+   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/98c57790-d2ce-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-28T11:48:28+00:00",
    "source": "BBC Sport",
    "cat": "sports"
@@ -220,6 +292,15 @@
    "cat": "business"
   },
   {
+   "title": "London faces Beast from the East repeat as polar vortex threatens freeze",
+   "link": "https://timesofindia.indiatimes.com/world/uk/london-could-face-a-repeat-of-the-beast-from-the-east-as-polar-vortex-threatens-winter-freeze-how-it-could-affect-the-weather/articleshow/135263599.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T11:40:42+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
    "link": "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html",
    "desc": "Cruise operator Villa Vie Residences said it would disembark passengers and crew, and restructure its business due to soaring fuel costs.",
@@ -234,15 +315,6 @@
    "desc": "As Vaishnavi troubled the Zimbabwe batters, Yastika was heard saying from behind the stumps: \"Vaishu (Vaishnavi) sabka badla lena hai. Baap ka, dada ka, bhai ka,\"",
    "image": "",
    "date": "2026-10-28T11:39:04+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "How Aaron Rodgers’ private life and career choices shaped his public image",
-   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/behind-the-nfl-stardom-aaron-rodgers-has-taken-a-different-path-how-his-private-life-and-career-decisions-shaped-his-public-image/articleshow/135260531.cms",
-   "desc": "Confirming his intentions, Aaron Rodgers stated that the upcoming NFL season will be his final chapter with the Pittsburgh Steelers. The decision came after extensive talks with wife Brittani, amidst ongoing speculation ",
-   "image": "",
-   "date": "2026-10-28T11:35:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -265,15 +337,6 @@
    "cat": "business"
   },
   {
-   "title": "Meet Bailey Quinn Frank, 15: Air sampler wins $25,000 national science prize",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-bailey-quinn-frank-15-from-fort-lauderdale-who-built-an-air-sampler-with-a-small-fan-and-filter-paper-to-collect-bacterial-dna-she-has-now-won-a-25000-science-prize-among-nearly-2000-applicants/articleshow/135262046.cms",
-   "desc": "Bailey Quinn Frank, a 15-year-old student from Fort Lauderdale, won a $25,000 award for her innovation. She developed a low-cost device to collect airborne bacterial DNA, benefiting environmental health monitoring. Frank",
-   "image": "",
-   "date": "2026-10-28T11:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Meta quietly launched an ‘AI pet journal’ app",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
    "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit",
@@ -289,15 +352,6 @@
    "image": "https://c.ndtvimg.com/2026-10/8hvhecrs_kazakhstan_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T11:27:18+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "1969 Vietnam soldier's 43-minute message to mom preserved by Smithsonian",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1969-chicago-soldier-frank-kowalczyk-recorded-a-43-minute-audio-letter-to-his-mother-from-vietnam-speaking-roughly-8600-words-as-helicopters-passed-overhead-57-years-later-the-smithsonian-preserves-his-voice/articleshow/135259373.cms",
-   "desc": "In March 1969, Frank A. Kowalczyk recorded an intimate 43-minute audio letter from Vietnam for his mother, sharing vivid family updates and personal experiences from his military service. The tape not only conveyed daily",
-   "image": "",
-   "date": "2026-10-28T11:27:00+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -364,15 +418,6 @@
    "cat": "sports"
   },
   {
-   "title": "Fan's 'thanda paani mat peena' advice to Vaibhav Suryavanshi wins hearts",
-   "link": "https://timesofindia.indiatimes.com/life-style/parenting/hum-bhi-ballia-se-hain-in-new-zealand-a-woman-spectators-motherly-advice-to-15-year-old-vaibhav-suryavanshi-thanda-paani-mat-peena-after-his-19-ball-blitz-against-new-zealand-is-winning-hearts/articleshow/135262167.cms",
-   "desc": "Following India's triumph over New Zealand, a compassionate woman took a moment to share some heartfelt advice with cricketer Vaibhav Suryavanshi. In Wellington, amid post-match celebrations, she advised him to avoid col",
-   "image": "",
-   "date": "2026-10-28T11:05:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "'Refrain from seeing ghosts everywhere': Sitharaman flays Rahul over Tata Group remarks",
    "link": "https://timesofindia.indiatimes.com/india/refrain-from-seeing-ghosts-everywhere-nirmala-sitharaman-hits-back-at-rahul-gandhi-over-tata-group-remarks/articleshow/135262397.cms",
    "desc": "",
@@ -380,15 +425,6 @@
    "date": "2026-10-28T11:00:16+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-   "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-   "desc": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
-   "image": "",
-   "date": "2026-10-28T11:00:01+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "You may get the right to find out what your colleagues earn - here's why",
@@ -490,15 +526,6 @@
    "cat": "india"
   },
   {
-   "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
-   "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
-   "desc": "A chip factory being built by Elon Musk's Tesla and SpaceX is in Texas's 10th District, where his PAC's former lawyer Chris Gober is the GOP U.S. House nominee.",
-   "image": "",
-   "date": "2026-10-28T10:00:01+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "5 Killed In Andhra Pradesh Due To Cyclone Arnab",
    "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
    "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
@@ -515,15 +542,6 @@
    "date": "2026-10-28T09:48:58+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-   "desc": "UBS reported a third quarter pretax profit of almost $3.6 billion.",
-   "image": "",
-   "date": "2026-10-28T09:42:03+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "'Diwali gift from PM Modi': Cabinet approves 3% DA increase for central govt employees",
@@ -589,11 +607,11 @@
    "cat": "sports"
   },
   {
-   "title": "Chennai kids set 6 Guinness records in London, 190 hoop rotations in 1 minute",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-the-chennai-children-who-travelled-to-london-and-returned-with-six-guinness-records-including-190-hoop-rotations-in-one-minute-and-a-15-minute-challenge-performed-in-the-splits/articleshow/135257643.cms",
-   "desc": "A group of young hula-hoopers from Chennai achieved six Guinness World Records titles during their London visit. Janani R S and Vaishnavi Shree R showcased impressive skills, contributing significantly to the team's succ",
+   "title": "MLC polls: Congress faces setback across 4 states; state-wise results and key wins",
+   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-28T08:46:58+00:00",
+   "date": "2026-10-28T09:14:45+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -1017,8 +1035,8 @@
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
    "image": "",
    "date": "2026-10-27T16:30:57+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
@@ -1053,8 +1071,8 @@
    "desc": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
    "image": "",
    "date": "2026-10-27T14:59:09+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-27T13:50:51+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "desc": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-   "image": "",
-   "date": "2026-10-27T13:32:57+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-   "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-   "date": "2026-10-27T13:25:54+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   }
  ]
 }
