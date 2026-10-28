@@ -1,16 +1,115 @@
 {
- "generated_at": "2026-10-28T19:00:24.848066+00:00",
+ "generated_at": "2026-10-28T19:30:08.295257+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+   "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+   "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+   "desc": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed announced its decision to hold interest rates steady.",
+   "image": "",
+   "date": "2026-10-28T19:28:54+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
    "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
    "desc": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
    "image": "",
-   "date": "2026-10-28T18:58:55+00:00",
+   "date": "2026-10-28T19:28:44+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "desc": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "image": "",
+   "date": "2026-10-28T19:19:58+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
+   "image": "",
+   "date": "2026-10-28T19:19:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Hands-on with the new OLED iPad Mini",
+   "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+   "desc": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the op",
+   "image": "",
+   "date": "2026-10-28T19:18:58+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+   "date": "2026-10-28T19:15:58+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "US Federal Reserve keeps rates unchanged, leaves door open to further hikes",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T19:09:25+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "desc": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w",
+   "image": "",
+   "date": "2026-10-28T19:05:46+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Healey tells departments to make 1% cuts to fund defence",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
+   "date": "2026-10-28T19:01:34+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Options traders break down a massive Alphabet trade into earnings",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+   "desc": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+   "image": "",
+   "date": "2026-10-28T19:01:03+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Red Roses make six changes but Kildunne on bench again",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Red Roses' star Ellie Kildunne named on England's bench again as head coach John Mitchell makes six changes to the side to face USA.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/d342f770-d2de-11f1-b677-b762d2f83f6e.jpg",
+   "date": "2026-10-28T19:00:51+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Brendan Carr plans to let prisons jam cellphone signals",
+   "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
+   "desc": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act ",
+   "image": "",
+   "date": "2026-10-28T18:57:02+00:00",
+   "source": "The Verge",
+   "cat": "tech"
   },
   {
    "title": "Five ways the Budget will affect you if you are under 25",
@@ -20,6 +119,24 @@
    "date": "2026-10-28T18:55:56+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "Prem eyes English expansion despite Welsh interest",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c54g1x0z4rygo?at_medium=RSS&at_campaign=rss",
+   "desc": "Welsh rugby may be keen on forming an Anglo-Welsh league in 2029 but the Prem and RFU are only looking at English clubs in any expansion.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3508/live/a8a9b230-d2f5-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T18:55:30+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "How did Flávio Bolsonaro end up in Miami?",
+   "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T18:51:05+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
@@ -148,9 +265,9 @@
    "cat": "india"
   },
   {
-   "title": "Here’s where to preorder the latest MacBook Pros",
+   "title": "Here’s where to preorder the new MacBook Pros",
    "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
-   "desc": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilit",
+   "desc": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weig",
    "image": "",
    "date": "2026-10-28T18:10:23+00:00",
    "source": "The Verge",
@@ -184,15 +301,6 @@
    "cat": "india"
   },
   {
-   "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-   "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-   "desc": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
-   "image": "",
-   "date": "2026-10-28T18:01:20+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "You can see every red flag in Theranos 2.0",
    "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
    "desc": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From",
@@ -209,24 +317,6 @@
    "date": "2026-10-28T17:57:29+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-   "desc": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
-   "image": "",
-   "date": "2026-10-28T17:56:10+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Healey tells departments to make 1% cuts to fund defence",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T17:52:48+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   },
   {
    "title": "Here’s how macOS is changing for touchscreens",
@@ -355,7 +445,7 @@
    "cat": "india"
   },
   {
-   "title": "Apple ‘Pro and Tell’ event: Everything announced this week",
+   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
    "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
    "desc": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciti",
    "image": "",
@@ -387,24 +477,6 @@
    "desc": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a ",
    "image": "",
    "date": "2026-10-28T17:16:55+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-   "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-   "desc": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet ",
-   "image": "",
-   "date": "2026-10-28T17:12:47+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Instagram doesn’t have a plan to pay long-form video creators",
-   "link": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-   "desc": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, cr",
-   "image": "",
-   "date": "2026-10-28T17:10:46+00:00",
    "source": "The Verge",
    "cat": "tech"
   },
@@ -490,15 +562,6 @@
    "cat": "world"
   },
   {
-   "title": "'Battle scars': Massive stitches on Capt Smit's head draw attention as UAE honours him",
-   "link": "https://timesofindia.indiatimes.com/india/battle-scars-massive-stitches-on-captain-smit-machchhar-head-draw-attention-as-uae-honours-hero-indian-pilot/articleshow/135273505.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T16:45:01+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
@@ -508,15 +571,6 @@
    "cat": "business"
   },
   {
-   "title": "Davies crossing divide between pitch and boardroom",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&at_campaign=rss",
-   "desc": "Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ce/live/c6513520-d2f4-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T16:35:19+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
    "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
@@ -524,15 +578,6 @@
    "date": "2026-10-28T16:33:22+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-   "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-   "desc": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2708/live/9df1e7e0-d2eb-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T16:30:29+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Meta says it’ll probably delay its controversial new business terms again",
@@ -551,15 +596,6 @@
    "date": "2026-10-28T16:10:07+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Microsoft earnings will land after the close",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
-   "image": "",
-   "date": "2026-10-28T16:00:01+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
@@ -742,15 +778,6 @@
    "cat": "sports"
   },
   {
-   "title": "Briton Azim set for December return against Valenzuela",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/c6rry10rejnyo?at_medium=RSS&at_campaign=rss",
-   "desc": "British light-welterweight Adam Azim is set to face Gabriel Gollaz Valenzuela at London's Copper Box on 4 December.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dbb/live/7fce8460-d2cf-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T13:12:41+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
    "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
    "desc": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
@@ -778,22 +805,13 @@
    "cat": "india"
   },
   {
-   "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-   "link": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-   "desc": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
-   "image": "",
-   "date": "2026-10-28T13:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
    "desc": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced",
    "image": "",
    "date": "2026-10-28T13:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "A single sauna session sends immune cells surging through your body",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T06:49:03+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-28T04:32:36+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
-   "desc": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the b",
-   "image": "",
-   "date": "2026-10-28T03:56:09+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
