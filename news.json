@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-28T02:02:33.699718+00:00",
+ "generated_at": "2026-10-28T02:30:31.925137+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-28T02:20:25+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Bibi claims ‘decisive majority’ for right-wing bloc, despite inconclusive exit polls",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-is-stronger-than-ever-netanyahu-calls-for-strong-right-wing-govt-amid-tight-election-race/articleshow/135249427.cms",
+   "desc": "Netanyahu calls for a ‘strong, right-wing’ government, rejects reliance on Arab parties and vows to end Iranian threat with Trump; Eisenkot says voters have backed change",
+   "image": "",
+   "date": "2026-10-28T02:16:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+   "image": "",
+   "date": "2026-10-28T02:15:55+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Oil price today: Brent crude holds firm at $115 per barrel, WTI trades at $100",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/oil-price-today-brent-crude-holds-firm-at-115-per-barrel-wti-trades-at-100/articleshow/135249292.cms",
+   "desc": "After the Houthis announced a missile strike, Brent crude prices jumped to $115 a barrel, intensifying fears of oil supply disruptions from the conflict-laden Middle East. Additionally, a slight uptick in US oil inventor",
+   "image": "",
+   "date": "2026-10-28T02:08:26+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
@@ -19,6 +55,15 @@
    "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T01:51:55+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Karnataka voter roll drops by nearly 1 crore, Gen Z makes up 20% of electorate",
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-roll-shrinks-by-nearly-1-crore-gen-z-makes-up-to-20-of-revised-electorate/articleshow/135249103.cms",
+   "desc": "The special intensive revision of electoral rolls in Karnataka resulted in a reduction of 99.76 lakh electors. The final electoral rolls revealed a total of 4.55 crore eligible voters by October 27. Women made up a major",
+   "image": "",
+   "date": "2026-10-28T01:50:02+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -211,15 +256,6 @@
    "cat": "business"
   },
   {
-   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-27T23:41:23+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
@@ -263,15 +299,6 @@
    "date": "2026-10-27T23:16:08+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Government working on bill to curb child & revenge porn: Solicitor general in SC",
-   "link": "https://timesofindia.indiatimes.com/india/government-working-on-bill-to-curb-child-revenge-porn-solicitor-general-in-sc/articleshow/135247935.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T23:12:38+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
@@ -427,15 +454,6 @@
    "cat": "india"
   },
   {
-   "title": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-   "link": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
-   "desc": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
-   "image": "",
-   "date": "2026-10-27T21:24:06+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Discord is making its public communities more searchable, and people have concerns",
    "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
    "desc": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
@@ -515,15 +533,6 @@
    "date": "2026-10-27T20:31:17+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Israel election deadlock: Netanyahu, Eisenkot blocs tied in revised exit polls",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T20:21:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
@@ -607,6 +616,15 @@
    "cat": "sports"
   },
   {
+   "title": "Australian court upholds A$99,382 damages for neighbour's flooded backyard",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-homeowner-said-water-from-an-uphill-neighbours-blocked-drainage-pipe-flooded-his-backyard-and-pool-a-court-awarded-a99382-in-damages-and-a-2026-appeals-court-upheld-the-ruling-and-repair-order/articleshow/135244233.cms",
+   "desc": "In a significant legal victory, an Australian homeowner triumphed over his neighbor who contributed to ongoing flooding that devastated his land and pool. The New South Wales Court of Appeal upheld the initial ruling, as",
+   "image": "",
+   "date": "2026-10-27T18:56:06+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
    "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
@@ -623,6 +641,15 @@
    "date": "2026-10-27T18:43:41+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Irish farmer installs 1,008 solar panels on 1.5 acres while sheep graze below",
+   "link": "https://timesofindia.indiatimes.com/world/europe/an-irish-dairy-farmer-devoted-only-1-5-acres-of-his-110-acre-holding-to-1008-solar-panels-kept-sheep-grazing-underneath-and-secured-a-15-year-electricity-agreement-to-supply-power-equivalent-to-about-150-homes/articleshow/135243018.cms",
+   "desc": "In County Cork, Sean Keating, a dedicated dairy farmer, has innovatively transformed a portion of his land into a solar farm. This eco-friendly venture enables him to harvest renewable energy while still allowing sheep t",
+   "image": "",
+   "date": "2026-10-27T18:41:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Controversial Islamic cleric shot dead in northern Nigeria",
@@ -650,24 +677,6 @@
    "date": "2026-10-27T18:25:13+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "300-year-old London house linked to Diagon Alley goes on sale for £1.595m",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/300-year-old-london-house-believed-to-have-inspired-harry-potters-diagon-alley-goes-on-sale-for-1-595-million-after-2-million-asking-price-is-cut-by-405000-with-original-georgian-features-preserved/articleshow/135243258.cms",
-   "desc": "A 300-year-old house on Goodwin’s Court in London’s Covent Garden has gone on sale for £1.595 million after its original £2 million asking price was reduced by £405,000. The property is believed to have inspired location",
-   "image": "",
-   "date": "2026-10-27T18:14:16+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Shay Mitchell bought LA home for $1.35m, sold it for $1.95m in 2015",
-   "link": "https://timesofindia.indiatimes.com/real-estate/in-2012-shay-mitchell-bought-a-1931-los-angeles-home-for-1-35-million-and-transformed-its-interiors-three-years-later-the-former-pretty-little-liars-star-sold-the-house-for-1-95-million-above-its-asking-price/articleshow/135242636.cms",
-   "desc": "Shay Mitchell has made waves once again as she sells her stunning Los Angeles home for $1.95 million. Originally bought in 2012 for $1.35 million, this vintage property boasts traditional Spanish architecture, enhanced b",
-   "image": "",
-   "date": "2026-10-27T17:53:41+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Lancashire treatment of Anderson disrespectful - Broad",
@@ -760,15 +769,6 @@
    "cat": "tech"
   },
   {
-   "title": "5 mths after fastest Everest climb, US cancer survivor sets mountain run record",
-   "link": "https://timesofindia.indiatimes.com/world/south-asia/5-months-after-fastest-everest-climb-us-cancer-survivor-sets-mountain-run-record/articleshow/135240619.cms",
-   "desc": "The route, which involves approximately 3,000m of elevation loss along with several uphill stretches, typically takes trekkers three to four days to complete.",
-   "image": "",
-   "date": "2026-10-27T16:35:13+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
@@ -776,6 +776,15 @@
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Meet T K Radha: Kerala physicist personally invited to Princeton by Oppenheimer",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/born-in-1938-in-a-kerala-village-without-electricity-t-k-radha-topped-her-class-in-mathematics-chose-physics-instead-and-was-personally-invited-by-j-robert-oppenheimer-to-princeton-yet-her-story-stayed-in-the-shadows-for-decades/articleshow/135239800.cms",
+   "desc": "Thayyoor K. Radha's journey as a physicist is a testament to resilience and brilliance. Growing up in a small village in Kerala, she thrived in mathematics and physics, breaking through societal barriers. Her valuable re",
+   "image": "",
+   "date": "2026-10-27T16:15:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
@@ -965,15 +974,6 @@
    "date": "2026-10-27T11:51:25+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Meet Disha Daga: Pune artist who taught 25,000 students mandala art",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-disha-daga-the-26-year-old-pune-woman-who-began-drawing-mandalas-in-her-notebooks-without-studying-art-and-went-on-to-paint-for-the-rbi-work-with-major-brands-and-teach-over-25000-students/articleshow/135232384.cms",
-   "desc": "Disha Daga embarked on her mandala journey in 2016 as a creative pastime, transitioning to a professional artist. Garnering online recognition, she landed her first commission in August 2021, collaborating with esteemed ",
-   "image": "",
-   "date": "2026-10-27T11:32:11+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
