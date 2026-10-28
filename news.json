@@ -1,16 +1,52 @@
 {
- "generated_at": "2026-10-28T05:00:22.636607+00:00",
+ "generated_at": "2026-10-28T05:30:08.035882+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+   "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+   "desc": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+   "image": "",
+   "date": "2026-10-28T05:20:32+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/rs-25000-crore-in-taxes-12-lakh-jobs-vaishnaw-backs-mobile-pli-scheme/articleshow/135252611.cms",
+   "desc": "India's mobile phone manufacturing sector has generated Rs 25,000 crore in direct tax collections and Rs 3,000 crore in GST. Union minister Ashwini Vaishnaw announced new schemes to further enhance production and strengt",
+   "image": "",
+   "date": "2026-10-28T05:17:21+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Murder conviction set aside as Jharkhand HC flags trial questioning in English",
+   "link": "https://timesofindia.indiatimes.com/legal/news/can-a-murder-conviction-be-set-aside-if-an-accused-is-questioned-in-a-language-he-doesnt-understand-jharkhand-hc-explains/articleshow/135252874.cms",
+   "desc": "The Jharkhand high court has acquitted a man previously sentenced for murder, citing severe flaws in his trial proceedings. Notably, the court highlighted that the accused was not adequately interrogated about crucial ev",
+   "image": "",
+   "date": "2026-10-28T05:16:49+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
    "desc": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
    "image": "",
-   "date": "2026-10-28T04:51:42+00:00",
+   "date": "2026-10-28T05:16:41+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "'Process becomes punishment in our system': Ex-SC judge Kaul on Umar Khalid case",
+   "link": "https://timesofindia.indiatimes.com/india/process-becomes-punishment-in-our-system-ex-sc-judge-sanjay-kaul-on-umar-khalid-sharjeel-imam-bail-pleas/articleshow/135252397.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T05:03:15+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "DC court lets grandmother seek protection order against grandchildren's mother",
@@ -81,6 +117,15 @@
    "desc": "",
    "image": "",
    "date": "2026-10-28T04:22:36+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "‘Locked car, abuse’: How an Uber ride turned into an ordeal for Gurgaon techie",
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/locked-car-abused-me-threatened-my-life-how-an-uber-ride-turned-into-ordeal-for-gurgaon-techie-driver-barred/articleshow/135251154.cms",
+   "desc": "A woman in Delhi experienced a frightening encounter with an Uber driver demanding a higher fare. After refusing to pay the inflated amount, the driver allegedly restrained her and withheld her luggage. The situation esc",
+   "image": "",
+   "date": "2026-10-28T04:21:20+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -256,15 +301,6 @@
    "cat": "business"
   },
   {
-   "title": "'Brings the worst out of us’: Ex-cricketer on trolling after Ind's NZ demolition",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/brings-the-worst-out-of-all-of-us-ex-india-cricketer-reacts-to-trolling-after-indias-nz-demolition/articleshow/135249964.cms",
-   "desc": "Aakash Chopra found himself the target of social media trolls after his prediction for India's chase in Wellington. With a witty tone, he clarified that he was referring to a 10-over target, which he deemed challenging. ",
-   "image": "",
-   "date": "2026-10-28T02:55:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "US Cost Of Iran War Rises Over $47 Billion, 25% More Than Estimated",
    "link": "https://www.ndtv.com/world-news/us-cost-of-iran-war-rises-over-47-billion-25-more-than-estimated-pentagon-defence-department-12246112#publisher=newsstand",
    "desc": "Trump launched the Iran war jointly with Israel in February.",
@@ -436,15 +472,6 @@
    "cat": "business"
   },
   {
-   "title": "Tyreek Hill to Chiefs? Trade rumors grow ahead of NFL deadline",
-   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/they-have-been-calling-tyreek-hill-to-chiefs-gains-momentum-as-wr-trade-options-narrow-before-deadline/articleshow/135247830.cms",
-   "desc": "The Kansas City Chiefs could consider reuniting with Tyreek Hill as they search for wide receiver help before the NFL trade deadline. Injuries to Rashee Rice and Tyquan Thornton have increased the team's urgency, but tra",
-   "image": "",
-   "date": "2026-10-27T23:50:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
@@ -461,15 +488,6 @@
    "date": "2026-10-27T23:34:27+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T23:20:21+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "China's families are now supporting more old people than kids",
@@ -517,15 +535,6 @@
    "cat": "tech"
   },
   {
-   "title": "Travis Kelce helps provide 25,000 meals to children through charity effort",
-   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/wanted-to-make-it-bigger-for-more-kids-travis-kelces-heartfelt-gesture-helped-feed-25000-meals-to-children-while-keeping-the-operation-breakthrough-founders-dream-alive/articleshow/135232234.cms",
-   "desc": "In 2024, Travis Kelce partnered with breakfast brand Kodiak to donate 25,000 meals to children at Kansas City’s Operation Breakthrough. The contribution came as the nonprofit mourned co-founder Sister Berta, who establis",
-   "image": "",
-   "date": "2026-10-27T22:21:51+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
    "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
    "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
@@ -551,6 +560,15 @@
    "date": "2026-10-27T22:11:08+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, latecomers, etc",
+   "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T22:11:06+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "GM is embracing hybrids now",
@@ -659,15 +677,6 @@
    "date": "2026-10-27T20:31:17+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "After Kolkata naked mob justice, cops parade 3 semi-naked to ‘reconstruct crime’",
-   "link": "https://timesofindia.indiatimes.com/city/kolkata/after-behala-naked-mob-justice-cops-parade-3-accused-semi-naked-to-reconstruct-crime/articleshow/135245410.cms",
-   "desc": "In Behala’s Sarsuna, three men faced public humiliation after they were accused of punishing a teenager. The youth was reportedly stripped and paraded at gunpoint for allegedly kissing a 13-year-old girl. Police conducte",
-   "image": "",
-   "date": "2026-10-27T20:11:23+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Dutch zookeeper dies after being mauled by leopard",
@@ -936,15 +945,6 @@
    "desc": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
    "image": "",
    "date": "2026-10-27T14:59:09+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-   "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-   "desc": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-   "image": "",
-   "date": "2026-10-27T14:51:33+00:00",
    "source": "TechCrunch",
    "cat": "tech"
   },
