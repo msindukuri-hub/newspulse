@@ -1,16 +1,79 @@
 {
- "generated_at": "2026-10-28T10:30:49.145912+00:00",
+ "generated_at": "2026-10-28T11:03:09.023894+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+   "title": "At least 30 people reported dead in high-speed Spain train crash",
    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
    "desc": "It is the second deadly high-speed train collision in Spain this year.",
    "image": "",
-   "date": "2026-10-28T10:29:56+00:00",
+   "date": "2026-10-28T10:44:01+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Workers should be able to know colleagues' salaries, rights body says",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+   "desc": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
+   "date": "2026-10-28T10:42:39+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+   "date": "2026-10-28T10:31:22+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Clutch Chess: Why is Pragg still in contention despite finishing last on Day 1?",
+   "link": "https://timesofindia.indiatimes.com/sports/chess/clutch-chess-why-is-praggnanandhaa-still-in-contention-despite-finishing-last-on-day-1/articleshow/135260489.cms",
+   "desc": "American grandmaster Hikaru Nakamura leads the Clutch Chess Champions Showdown 2026 with four points after Day 1. Despite finishing last with two points, India’s R Praggnanandhaa remains in contention under the tournamen",
+   "image": "",
+   "date": "2026-10-28T10:30:14+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Train driver missing after deadly Spain train collision: What we know so far",
+   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-collision-several-killed-rescue-operations-on-what-we-know-so-far/articleshow/135261448.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T10:30:04+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Washington mother of seven keeps $735,000 home without refinancing, court rules",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-with-seven-children-placed-a-500000-house-in-a-trust-before-divorcing-the-wife-received-a-735000-sequim-home-and-an-october-27-court-upheld-the-decision-not-to-require-refinancing/articleshow/135259031.cms",
+   "desc": "In a challenging divorce case in Washington, a couple with seven children faced intricate property division concerning their home in Sequim. The court granted the wife ownership of the property, while also placing the mo",
+   "image": "",
+   "date": "2026-10-28T10:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Lindsay Lohan gave designer just 2 weeks to furnish 7,000sq ft Dubai villa",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/after-years-of-living-in-hotels-lindsay-lohan-moved-into-a-7000-square-foot-dubai-villa-and-gave-her-designer-just-two-weeks-to-furnish-it-instead-of-starting-over-she-reused-pieces-from-her-old-apartment/articleshow/135260225.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T10:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Meet Vishnu Dhas: From medical store cleaner to helping farmers choose machines",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/born-to-farm-labourers-who-fled-drought-in-maharashtra-vishnu-dhas-began-his-career-cleaning-a-medical-store-he-has-now-launched-a-platform-to-help-farmers-avoid-expensive-machinery-mistakes/articleshow/135261195.cms",
+   "desc": "From facing adversity in poverty to becoming a trailblazer in agricultural technology, Vishnu Dhas has made a remarkable transformation. As a co-founder of innovative platforms like KhetiGaadi and KhetiGuru, he empowers ",
+   "image": "",
+   "date": "2026-10-28T10:29:32+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
@@ -58,7 +121,7 @@
    "cat": "india"
   },
   {
-   "title": "10 dead as high-speed train rams another in Spain; videos show gutted carriages",
+   "title": "At least 30 dead as high-speed train rams another in Spain; videos show gutted carriages",
    "link": "https://timesofindia.indiatimes.com/world/europe/10-killed-as-two-high-speed-trains-collide-in-spains-toledo-many-feared-injured-services-disrupted/articleshow/135259381.cms",
    "desc": "Spain's rail infrastructure operator ADIF confirmed the accident and announced the suspension of services on the affected routes. According to Spanish state broadcaster TVE, the collision involved two high-speed trains t",
    "image": "",
@@ -130,15 +193,6 @@
    "cat": "india"
   },
   {
-   "title": "Italian farmer plants attic seeds, discovers wheat with seven ears on one stalk",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/italian-farmer-planted-mysterious-seeds-found-in-attic-discovered-ancient-biblical-wheat-with-seven-ears-on-one-stalk-that-could-help-crops-survive-drought-and-climate-change/articleshow/135257644.cms",
-   "desc": "In a remarkable find, Claudio Grossi, an Italian farmer, unearthed an ancient wheat variety known as Triticum turgidum, which is believed to be over a century old. This heritage wheat demonstrated impressive drought resi",
-   "image": "",
-   "date": "2026-10-28T09:30:52+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Congress Fails To Win Any Seat Across 4 States In Legislative Council Bypolls",
    "link": "https://www.ndtv.com/india-news/congress-fails-to-win-any-seat-across-4-states-in-legislative-council-bypolls-12247802#publisher=newsstand",
    "desc": "The biggest setback for the Congress came in Karnataka, where, despite being in power, it failed to secure a single seat.",
@@ -191,24 +245,6 @@
    "date": "2026-10-28T09:22:26+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Sweeping machine runs 56.5km in Gurgaon, sweeps 0.3km",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/sweeping-machine-runs-56-5km-in-gurgaon-sweeps-0-3km/articleshow/135259355.cms",
-   "desc": "In Gurgaon, a mechanised road-sweeping machine claimed to cover 56.5km; however, further investigation revealed it actually swept only 0.3km, having veered off course at high speeds. Meanwhile, the Commission for Air Qua",
-   "image": "",
-   "date": "2026-10-28T09:22:10+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Nepal faces days of rain, snow and storms as Cyclone Arnab wreaks havoc in India",
-   "link": "https://timesofindia.indiatimes.com/india/nepal-faces-days-of-rain-snow-and-storms-as-cyclone-arnab-wreaks-havoc-in-india/articleshow/135259326.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T09:21:46+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Kills 5 In Andhra Pradesh",
@@ -319,15 +355,6 @@
    "cat": "india"
   },
   {
-   "title": "BJP fields Hardeep Singh Puri for MP Rajya Sabha bypoll",
-   "link": "https://timesofindia.indiatimes.com/india/bjp-fields-hardeep-singh-puri-as-its-candidate-for-rajya-sabha-bypoll-from-mp/articleshow/135258383.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T08:38:14+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Can clubs stop team news leaking out through FPL picks?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
    "desc": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?",
@@ -346,15 +373,6 @@
    "cat": "sports"
   },
   {
-   "title": "Grandmother's Rs 200 coupon wins Rs 50 lakh SUV for 6-year-old grandson",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/she-bought-a-200-coupon-at-a-garba-event-and-wrote-her-6-year-old-grandsons-name-on-it-a-year-later-grandmother-kiran-raikwars-family-received-the-50-lakh-suv-they-had-dreamed-of-owning-for-years/articleshow/135257700.cms",
-   "desc": "During a lively Garba event, Kiran Raikwar made a simple gesture by purchasing a lottery ticket for her grandson Vedansh. To their astonishment, this small act led to a brand-new Toyota Fortuner, realizing a dream cheris",
-   "image": "",
-   "date": "2026-10-28T08:31:41+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
    "desc": "The Atlanta Dream criticized the WNBA for scheduling a Finals game on Thursday afternoon, drawing reactions from Flavor Flav and Hillary Clinton.",
@@ -362,24 +380,6 @@
    "date": "2026-10-28T07:58:09+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
-   "date": "2026-10-28T07:53:20+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Andhra woman turns Rs 20,000 cashew loan into business with Rs 50 lakh turnover",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/in-2018-andhra-pradeshs-singampalli-parwathi-borrowed-rs-20000-to-trade-raw-cashews-today-she-processes-11-grades-of-cashew-kernels-and-reports-annual-business-turnover-near-rs-50-lakh/articleshow/135257205.cms",
-   "desc": "Singampalli Parwathi started her business in 2018 with a loan of Rs 20,000 to trade raw cashews. Over eight years, her enterprise evolved into a processing unit with an annual turnover of around Rs 50 lakh. The Sri Durga",
-   "image": "",
-   "date": "2026-10-28T07:49:54+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
@@ -425,6 +425,15 @@
    "date": "2026-10-28T06:42:50+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "No water in washrooms, family forced to get off train; Railways to pay Rs 16k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/family-of-24-forced-to-get-off-a-train-over-washrooms-without-water-paid-extra-to-reach-destination-yet-railways-denied-the-problem-until-a-consumer-commission-ordered-a-rs-16000-payout/articleshow/135254695.cms",
+   "desc": "In an important ruling, a district consumer commission in Karnataka found that South Western Railway did not provide sufficient services to its passengers. A traveler and his family endured discomfort stemming from a lac",
+   "image": "",
+   "date": "2026-10-28T06:35:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-27T11:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
-  },
-  {
-   "title": "Common drugs may help dangerous viruses spread through the body",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-   "desc": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
-   "image": "",
-   "date": "2026-10-27T10:46:21+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
