@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-10-28T08:00:17.397642+00:00",
+ "generated_at": "2026-10-28T08:30:41.714390+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+   "image": "",
+   "date": "2026-10-28T08:07:22+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Knife-wielding attacker shot dead outside Israeli embassy in Serbia",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/knife-wielding-attacker-shot-dead-outside-israeli-embassy-in-serbia/articleshow/135257447.cms",
+   "desc": "In a shocking incident, a minor armed with a knife assaulted a security guard near the Israeli Embassy in Belgrade shortly after midnight. Witnesses reported that the assailant yelled Islamist phrases during the attack. ",
+   "image": "",
+   "date": "2026-10-28T08:03:21+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
@@ -11,6 +29,15 @@
    "date": "2026-10-28T07:58:09+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls",
+   "link": "https://www.ndtv.com/india-news/bjp-jabs-dk-shivakumar-after-congress-loses-karnataka-legislative-council-mlc-polls-2026-its-done-bro-12247265#publisher=newsstand",
+   "desc": "DK Shivakumar said Congress expected to win two MLC seats (File photo)",
+   "image": "https://c.ndtvimg.com/2026-10/9ts4r0es_dk-shivakumar_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:53:50+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -31,6 +58,15 @@
    "cat": "business"
   },
   {
+   "title": "\"False, Baseless\": Ladakh Rebuts Sonam Wangchuk's \"Bars In Every Street\" Claim",
+   "link": "https://www.ndtv.com/india-news/ladakh-rebuts-sonam-wangchuks-bars-in-every-street-claim-false-baseless-12247278#publisher=newsstand",
+   "desc": "Sonam Wangchuk has questioned why liquor was being promoted in Ladakh while Gujarat remained a dry state.",
+   "image": "https://c.ndtvimg.com/2026-10/l3qlts1g_sonam-wangchuk_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:44:37+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
    "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
@@ -40,10 +76,19 @@
    "cat": "business"
   },
   {
+   "title": "Inside Nitin Nabin's Strategy To Counter INDIA Bloc's 'Vote Theft' Claim",
+   "link": "https://www.ndtv.com/india-news/inside-nitin-nabins-strategy-to-counter-india-blocs-vote-theft-claim-12247257#publisher=newsstand",
+   "desc": "The BJP rally aims to strengthen public trust in India's democratic institutions",
+   "image": "https://c.ndtvimg.com/2026-10/e3ll6buk_nitin-nabin-_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:41:15+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-28T07:39:54+00:00",
    "source": "BBC Business",
    "cat": "business"
@@ -67,6 +112,24 @@
    "cat": "india"
   },
   {
+   "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 55 Seats After Half Of Votes Counted",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:32:41+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Cheesesteak, Pepsi: Florida Man's Unusual Demand For Murder Confession",
+   "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
+   "desc": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
+   "image": "https://c.ndtvimg.com/2026-10/jqalphbk_robert-kessler_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:30:08+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Montana rancher's dinosaur skeleton sells for $47.3m, 5 times top estimate",
    "link": "https://timesofindia.indiatimes.com/world/us/in-2019-a-montana-rancher-found-a-rare-dinosaur-skeleton-on-her-land-seven-years-later-the-70-complete-nanotyrannus-sold-for-47-3-million-at-a-new-york-auction-far-above-its-9-million-top-estimate/articleshow/135255443.cms",
    "desc": "",
@@ -76,13 +139,13 @@
    "cat": "india"
   },
   {
-   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-   "image": "",
-   "date": "2026-10-28T07:29:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 350 Points As Oil Prices Remains Steady At $115",
+   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
+   "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+   "image": "https://c.ndtvimg.com/2026-08/97h4on7s_share-market_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T07:28:51+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Cyclone Arnab: Over 50 trains, several flights cancelled; Andhra, Odisha worst-hit",
@@ -103,6 +166,15 @@
    "cat": "india"
   },
   {
+   "title": "\"Pretend I'm On Ballot\": Trump's Solution To Those Doubting Republicans",
+   "link": "https://www.ndtv.com/world-news/pretend-im-on-ballot-trumps-solution-to-those-doubting-republicans-in-us-midterms-12247169#publisher=newsstand",
+   "desc": "Republicans still love the president, who remains dominant even as he approaches the back half of his second term.",
+   "image": "https://c.ndtvimg.com/2026-10/gvotcqc4_trump-midterms-reuters_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:19:29+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
    "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
    "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
@@ -110,6 +182,15 @@
    "date": "2026-10-28T07:14:18+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "A One-Person Startup Just Got Bought By Anthropic",
+   "link": "https://www.ndtv.com/artificial-intelligence/one-person-one-ai-anthropic-buys-cody-tranbarger-startup-mithril-medicine-working-on-muscle-disease-12247104#publisher=newsstand",
+   "desc": "Anthropic acquired Cody Tranbarger's one-person startup",
+   "image": "https://c.ndtvimg.com/2026-10/q77s8o3_cody-tranbarger_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T07:11:34+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "McInnes' Tynecastle return, Goodwin's entertainers & Reedijk eyes first win",
@@ -121,6 +202,15 @@
    "cat": "sports"
   },
   {
+   "title": "India's Market Leaders To Decode The New Samvat At NDTV Profit Ignite In Mumbai On 28 October",
+   "link": "https://www.ndtv.com/communication/indias-market-leaders-to-decode-the-new-samvat-at-ndtv-profit-ignite-in-mumbai-on-28-october-12240802#publisher=newsstand",
+   "desc": "NDTV Profit will host NDTV Profit Ignite.",
+   "image": "https://c.ndtvimg.com/2026-10/h4ujlhps_ndtv-profit-ignite_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T07:08:29+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "From rivals to team-mates - Ball links up with Pope",
    "link": "https://www.bbc.co.uk/sport/cycling/articles/cqwy7j5kr3y1o?at_medium=RSS&at_campaign=rss",
    "desc": "James Ball is set to ride at his 10th Para-cycling Track World Championships as he looks to defend two titles with new pilot Aaron Pope.",
@@ -130,12 +220,21 @@
    "cat": "sports"
   },
   {
-   "title": "''Ramayana' would give our film more room': ‘Gondhal’ director Santosh Davakhar",
-   "link": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/gondhal-director-santosh-davakhar-on-indias-oscar-entry-diwali-release-in-7-languages-and-more-ramayana-would-give-our-film-more-room-exclusive/articleshow/135255060.cms",
-   "desc": "Director Santosh Davakhar is preparing for the release of his film 'Gondhal' on November 13. This psychological thriller represents Maharashtra's cultural heritage and is India's official entry for the Academy Awards. Th",
-   "image": "",
-   "date": "2026-10-28T07:04:03+00:00",
-   "source": "Times of India",
+   "title": "Centre Asks Airlines To Notify Fliers Of Delays, Cancellations Ahead Of Fog Season",
+   "link": "https://www.ndtv.com/india-news/centre-asks-airlines-to-notify-fliers-of-delays-cancellations-ahead-of-fog-season-12247078#publisher=newsstand",
+   "desc": "The ministry reviewed measures to ensure safe flight operations",
+   "image": "https://c.ndtvimg.com/2026-10/4sbff1hk_flights_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T07:03:27+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Russian-Ukrainian Couple Make Five-Day Escape To Hungary From Kyiv",
+   "link": "https://www.ndtv.com/world-news/russian-ukrainian-couple-make-five-day-escape-to-hungary-from-kyiv-2798839#publisher=newsstand",
+   "desc": "Russian military attempted to encircle and subdue Ukrainian cities with intensifying bombardments.",
+   "image": "https://c.ndtvimg.com/2026-08/skgk4mus_ukraine-news_625x300_17_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T07:01:40+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -157,11 +256,11 @@
    "cat": "business"
   },
   {
-   "title": "Cheesesteak, Pepsi: Florida Man's Unusual Quid Pro Quo For Murder Confession",
-   "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
-   "desc": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
-   "image": "https://c.ndtvimg.com/2026-10/jqalphbk_robert-kessler_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:52:54+00:00",
+   "title": "The Fourth Humiliation: What Anthropic, Monks And The Cusp Of Consciousness Teach About Tomorrow",
+   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-the-fourth-humiliation-what-anthropic-monks-and-the-cusp-of-consciousness-teach-about-tomorrow-swami-sarvapriyananda-12247055#publisher=newsstand",
+   "desc": "Swami Sarvapriyananda at NDTV World Summit 2026",
+   "image": "https://c.ndtvimg.com/2026-10/uji8snpg_ndtv-world-summit-2026_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:56:08+00:00",
    "source": "NDTV",
    "cat": "india"
   },
@@ -189,15 +288,6 @@
    "desc": "At Tweak Summit 2026, Shruti Haasan offered thought-provoking insights on the art of parenting. She stressed the critical role of parents in fostering autonomy, which is vital for children's development. Citing research,",
    "image": "",
    "date": "2026-10-28T06:48:24+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/mukesh-ambani-gets-teary-eyed-as-anant-ambani-talks-about-reliances-journey-at-jio-listing/articleshow/135255155.cms",
-   "desc": "Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and A",
-   "image": "",
-   "date": "2026-10-28T06:45:59+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -238,30 +328,12 @@
    "cat": "sports"
   },
   {
-   "title": "Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents",
-   "link": "https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand",
-   "desc": "17 undertrial prisoners escaped from the jail in Theni district on Monday",
-   "image": "https://c.ndtvimg.com/2026-10/8c96sgdk_tamil-nadu-jail-break_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T06:17:00+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Hit-and-run: Kochi police commissioner transferred after crash involving judge’s son",
    "link": "https://timesofindia.indiatimes.com/city/kochi/mercedes-hit-and-run-kochi-police-commissioner-removed-after-crash-involving-judges-minor-son-4-cops-suspended/articleshow/135254296.cms",
    "desc": "The Kerala government took action against police officials after lapses in investigating a fatal accident in Cheranallur. Kochi City Police Commissioner Kaliraj Mahesh Kumar has been transferred, along with the suspensio",
    "image": "",
    "date": "2026-10-28T06:16:54+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 56 Seats After Half Of Votes Counted",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:13:40+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -274,33 +346,6 @@
    "cat": "sports"
   },
   {
-   "title": "US Cruise Ship 'Odyssey' On World Voyage Stops After Fuel Prices Surge",
-   "link": "https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand",
-   "desc": "Passengers have been told to leave the ship, but the crew's status was unclear.",
-   "image": "https://c.ndtvimg.com/2026-10/0qulbclg_us-ship-villa-vie-residences-afp_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:08:07+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Kerala Congress Apologises To Chief Justice Surya Kant Over Controversial Post",
-   "link": "https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand",
-   "desc": "The apology came in a reply to a legal notice issued by a Supreme Court lawyer.",
-   "image": "https://c.ndtvimg.com/2026-10/nn1uvvp4_chief-justice-surya-kant-_625x300_12_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T06:04:30+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Analysis: India Needs Sector-Specific AI Rules, Not Omnibus Law",
-   "link": "https://www.ndtv.com/india-news/india-needs-sector-specific-ai-rules-not-omnibus-law-12246820#publisher=newsstand",
-   "desc": "The principal difficulty with technology-specific legislation is its durability",
-   "image": "https://c.ndtvimg.com/2026-10/na9gbs7s_artificial-intelligence_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T06:01:47+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
    "desc": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
@@ -308,33 +353,6 @@
    "date": "2026-10-28T05:52:51+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "NDTV World Summit: Shashi Tharoor On What's Working And What's Not In India's Foreign Policy",
-   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-shashi-tharoor-on-whats-working-and-whats-not-in-indias-foreign-policy-12232898#publisher=newsstand",
-   "desc": "Shashi Tharoor at the NDTV World Summit 2026",
-   "image": "https://c.ndtvimg.com/2026-10/imi5173_shashi-tharoor-ndtv-summit_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T05:45:55+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Rare Dinosaur Skeleton Sells For $47 Million In US",
-   "link": "https://www.ndtv.com/world-news/rare-nanotyrannus-skeleton-sold-for-47-3-million-to-mystery-buyer-in-us-12246507#publisher=newsstand",
-   "desc": "The winning bidder has chosen to remain anonymous as of now.",
-   "image": "https://c.ndtvimg.com/2026-10/2c8te7a8_nanotyrannus-afp_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T05:42:38+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Man Arrested For Falsely Claiming To Be Australia Bondi Beach Shooting Victim",
-   "link": "https://www.ndtv.com/world-news/man-arrested-for-falsely-claiming-to-be-australia-bondi-beach-shooting-victim-12246722#publisher=newsstand",
-   "desc": "One of the Bondi Beach gunmen was shot and killed by police during the December 14 attack.",
-   "image": "https://c.ndtvimg.com/2025-12/9klmlth_bondi-beach_625x300_17_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T05:42:00+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Scientists recreate 1,600-year-old Roman cup's colour-changing glass",
@@ -346,15 +364,6 @@
    "cat": "india"
   },
   {
-   "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash",
-   "link": "https://www.ndtv.com/business-news/why-is-stock-market-falling-today-4-key-reasons-behind-sensex-nifty-crash-12246601#publisher=newsstand",
-   "desc": "Share Market Crash Today: High oil prices, heavy FII selling major reasons behind market crash today.",
-   "image": "https://c.ndtvimg.com/2026-10/ggav8oug_bear-market_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T05:26:48+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
    "desc": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
@@ -362,24 +371,6 @@
    "date": "2026-10-28T05:20:32+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Cyclone Arnab Completes Landfall, Brings Heavy Rain In Andhra, Odisha",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
-   "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
-   "image": "https://c.ndtvimg.com/2026-10/gkn5uupc_cyclone-arnab_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T05:07:52+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "20 Markets, 20 Traders, 20 Minutes: Delhi Trade Body's Offer To Rahul Gandhi",
-   "link": "https://www.ndtv.com/india-news/20-markets-20-traders-20-minutes-delhi-trade-bodys-offer-to-rahul-gandhi-12246502#publisher=newsstand",
-   "desc": "\"We want dialogue, not a fight,\" the association said in its letter, written in Hindi.",
-   "image": "https://c.ndtvimg.com/2026-10/ptd9ulhc_delhi-traders-ians_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T04:42:34+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
@@ -511,7 +502,7 @@
    "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
    "desc": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b8/live/73dea320-d260-11f1-b2d5-7de31c6a8089.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a4/live/09aca6f0-d2a6-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-28T00:34:31+00:00",
    "source": "BBC Sport",
    "cat": "sports"
@@ -722,6 +713,15 @@
    "date": "2026-10-27T20:31:17+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Star Indian vocal singer with US passport visiting India since 2022 without filing Form C",
+   "link": "https://timesofindia.indiatimes.com/city/lucknow/star-singer-with-us-citizenship-visiting-india-since-2022-without-filing-form-c/articleshow/135245186.cms",
+   "desc": "A prominent Indian singer obtained US citizenship in 2022 but failed to report his stays in India. During a recent visit to Agra, hotel staff alerted officials about his lack of identification. The singer submitted neces",
+   "image": "",
+   "date": "2026-10-27T19:40:17+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Dutch zookeeper dies after being mauled by leopard",
