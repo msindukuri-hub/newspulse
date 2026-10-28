@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-28T07:00:28.355299+00:00",
+ "generated_at": "2026-10-28T07:30:35.841096+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+   "image": "",
+   "date": "2026-10-28T07:29:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+   "image": "",
+   "date": "2026-10-28T07:23:56+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
+   "date": "2026-10-28T07:14:18+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T07:12:45+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "McInnes' Tynecastle return, Goodwin's entertainers & Reedijk eyes first win",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f4/live/011c84c0-d232-11f1-a701-fddedf244c16.png",
+   "date": "2026-10-28T07:10:28+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "'We don't want a fight': Delhi traders' body writes to Rahul again over Nov 1 rally",
+   "link": "https://timesofindia.indiatimes.com/india/we-dont-want-a-fight-delhi-traders-body-writes-to-rahul-gandhi-again-over-november-1-rally/articleshow/135255502.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T06:58:07+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
@@ -33,20 +87,11 @@
   {
    "title": "Why Hurts played with blood clot and what it means for NFL",
    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&at_campaign=rss",
-   "desc": "Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition, having played with a blood clot and boarded a long-haul flight.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f853/live/e15eb220-d1c8-11f1-82d3-0562771fb08a.jpg",
+   "desc": "Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/52752d00-d29f-11f1-b255-6fc3b99d1334.jpg",
    "date": "2026-10-28T06:49:03+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "How Mbappé's 'dictator' remark on Mao led to China suspending La Liga broadcasts",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-china-suspended-la-liga-broadcasts-after-kylian-mbapps-dictator-remark-about-mao-zedong-full-controversy-explained/articleshow/135253775.cms",
-   "desc": "Kylian Mbappé faced intense criticism in China after labeling Mao Zedong a dictator during a video chat. This sparked outrage, prompting sponsors like Dongpeng and Mengniu to terminate their deals with him. Chinese media",
-   "image": "",
-   "date": "2026-10-28T06:48:38+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing",
@@ -58,13 +103,13 @@
    "cat": "india"
   },
   {
-   "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
-   "image": "",
-   "date": "2026-10-28T06:43:19+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "The Prem talents hunting Wales breakthroughs",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5ynrzplz18o?at_medium=RSS&at_campaign=rss",
+   "desc": "Exeter's Kane James and Bath's Louie Hennessey are aiming to make an impression with Wales in November's Nations Championship.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aef/live/930a44f0-d226-11f1-a701-fddedf244c16.png",
+   "date": "2026-10-28T06:42:50+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "In China, The AI Bubble Has Already Burst",
@@ -121,15 +166,6 @@
    "cat": "india"
   },
   {
-   "title": "Jio makes strong debut at 21% premium to become India's second-most valuable firm",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/jio-share-price-jpl-makes-strong-debut-at-21-premium-becomes-indias-second-most-valuable-firm-all-you-need-to-know/articleshow/135253566.cms",
-   "desc": "Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 per share. The IPO attracted an impressive 22.19 times oversubscription, with bids surpassing Rs 7.4 lakh crore. Following this, the firm's m",
-   "image": "",
-   "date": "2026-10-28T06:29:11+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents",
    "link": "https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand",
    "desc": "17 undertrial prisoners escaped from the jail in Theni district on Monday",
@@ -155,6 +191,15 @@
    "date": "2026-10-28T06:13:40+00:00",
    "source": "NDTV",
    "cat": "india"
+  },
+  {
+   "title": "Cundy 'no spring chicken' but nears 20-year unbeaten run",
+   "link": "https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o?at_medium=RSS&at_campaign=rss",
+   "desc": "Jody Cundy says he is \"no spring chicken\", yet at the age of 48 he could make it 20 years unbeaten in the kilo at the Para-cycling Track World Championships.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aef/live/a91aedb0-d14c-11f1-b587-a3ec61e669b1.jpg",
+   "date": "2026-10-28T06:12:34+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Bengaluru man buys Rs 3 lakh used car to save new sedan from dents, scratches",
@@ -283,6 +328,15 @@
    "cat": "india"
   },
   {
+   "title": "‘Tata is being criminally destroyed’: Rahul Gandhi targets BJP amid boardroom feud",
+   "link": "https://timesofindia.indiatimes.com/india/tata-is-being-criminally-destroyed-rahul-gandhi-targets-pm-modi-amit-shah-amid-boardroom-feud/articleshow/135252759.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T05:02:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Akhilesh's Samajwadi Party scores a win in PM Modi’s Varanasi in UP MLC polls",
    "link": "https://timesofindia.indiatimes.com/city/lucknow/up-mlc-polls-sp-secures-varanasi-and-agra-seat-bjp-wins-4/articleshow/135252261.cms",
    "desc": "The BJP secured four out of eleven seats in the recent Uttar Pradesh Legislative Council elections. Samajwadi Party candidate Lal Bihari Yadav won the Varanasi Teachers' constituency while BJP retained Meerut seats. Tens",
@@ -298,15 +352,6 @@
    "image": "https://c.ndtvimg.com/2026-10/ptd9ulhc_delhi-traders-ians_625x300_28_October_26.jpeg",
    "date": "2026-10-28T04:42:34+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'This is America, not your communist dictatorship': US, Cuban envoys clash at UN",
-   "link": "https://timesofindia.indiatimes.com/world/us/this-is-not-your-communist-dictatorship-us-cuban-envoys-clash-at-un/articleshow/135251635.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T04:34:37+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -346,6 +391,15 @@
    "cat": "business"
   },
   {
+   "title": "'I was literally shaking': Woman catches man recording her inside Bengaluru metro",
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/i-was-literally-shaking-woman-catches-man-recording-her-inside-bengaluru-metro-fir-filed/articleshow/135250938.cms",
+   "desc": "A woman named Sowpika accused a fellow passenger of secretly recording her during a Bengaluru Metro ride. She confronted the man, demanding he unlock his phone during the incident. After reporting the issue to metro secu",
+   "image": "",
+   "date": "2026-10-28T03:37:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
    "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
    "desc": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
@@ -353,6 +407,15 @@
    "date": "2026-10-28T03:33:53+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Alexander brothers sentenced to 30 years in prison in sex trafficking case",
+   "link": "https://timesofindia.indiatimes.com/world/us/conduct-monstrousalexander-brothers-sentenced-to-30-years-in-prison-in-sex-trafficking-case/articleshow/135250407.cms",
+   "desc": "Tal Alexander and his twin brothers, Oren and Alon Alexander, have been sentenced to 30 years in prison following their convictions for drugging and sexually assaulting multiple women. The victims articulated their emoti",
+   "image": "",
+   "date": "2026-10-28T03:12:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
@@ -398,15 +461,6 @@
    "date": "2026-10-28T02:20:25+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-   "image": "",
-   "date": "2026-10-28T02:15:55+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
@@ -460,15 +514,6 @@
    "image": "",
    "date": "2026-10-28T00:14:24+00:00",
    "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T00:03:10+00:00",
-   "source": "BBC Business",
    "cat": "business"
   },
   {
@@ -580,15 +625,6 @@
    "cat": "world"
   },
   {
-   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers...",
-   "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T22:11:06+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "GM is embracing hybrids now",
    "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
    "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
@@ -641,15 +677,6 @@
    "date": "2026-10-27T21:12:55+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&at_campaign=rss",
-   "desc": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the clubs keeping tabs on Germany striker Nicolo Tresoldi",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e2/live/95dbb170-d247-11f1-a701-fddedf244c16.png",
-   "date": "2026-10-27T21:10:47+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
@@ -713,15 +740,6 @@
    "date": "2026-10-27T19:24:06+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Ballon d'Or in London - the most chaotic ever?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
-   "desc": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
-   "date": "2026-10-27T19:06:02+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
@@ -922,15 +940,6 @@
    "cat": "world"
   },
   {
-   "title": "McInnes admits feeling 'guilt' over leaving Hearts for Rangers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjr4y51g6zvvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Rangers manager Derek McInnes admits feeling \"guilt\" about leaving Hearts for Ibrox in the summer and accepts the rough reception that could come his way when he returns to Tynecastle on Wednesday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b3/live/64abaf90-d217-11f1-8f84-ebd3099fed63.jpg",
-   "date": "2026-10-27T15:31:48+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
    "link": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
    "desc": "Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.",
@@ -1037,15 +1046,6 @@
    "date": "2026-10-27T11:53:24+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Lawrie, 15, eyes £501,000 live TV win over Littler",
-   "link": "https://www.bbc.co.uk/sport/darts/articles/cq33xj8yyd5do?at_medium=RSS&at_campaign=rss",
-   "desc": "Mitchell Lawrie, 15, one of 24 amateur players taking part in live TV special Beat Luke Littler, has his sights on a £501,000 bullseye should he beat the world darts champion.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/7299c580-d1fc-11f1-b093-bfeeb34f4026.jpg",
-   "date": "2026-10-27T11:51:25+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
