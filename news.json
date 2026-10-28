@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-28T00:00:33.372996+00:00",
+ "generated_at": "2026-10-28T00:30:12.345267+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+   "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+   "desc": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+   "image": "",
+   "date": "2026-10-28T00:14:24+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "desc": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+   "image": "",
+   "date": "2026-10-28T00:09:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T00:03:10+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T00:03:05+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+   "date": "2026-10-28T00:01:10+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Need to balance right to free speech, privacy: Supreme Court",
+   "link": "https://timesofindia.indiatimes.com/india/need-to-balance-right-to-free-speech-privacy-supreme-court/articleshow/135248091.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T23:57:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
@@ -27,15 +81,6 @@
    "desc": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
    "image": "",
    "date": "2026-10-27T23:50:03+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "desc": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
-   "image": "",
-   "date": "2026-10-27T23:45:49+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -92,6 +137,15 @@
    "date": "2026-10-27T23:20:21+00:00",
    "source": "Times of India",
    "cat": "india"
+  },
+  {
+   "title": "China's families are now supporting more old people than kids",
+   "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+   "desc": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
+   "date": "2026-10-27T23:16:08+00:00",
+   "source": "BBC Business",
+   "cat": "business"
   },
   {
    "title": "Government working on bill to curb child & revenge porn: Solicitor general in SC",
@@ -166,11 +220,11 @@
    "cat": "business"
   },
   {
-   "title": "Rethink strategy, heavily regulate acid sale to curb attacks, says SC",
-   "link": "https://timesofindia.indiatimes.com/india/rethink-strategy-heavily-regulate-acid-sale-to-curb-attacks-says-sc/articleshow/135247788.cms",
-   "desc": "",
+   "title": "Florida sinks nearly 200 unwanted concrete pipes to create new ocean reef",
+   "link": "https://timesofindia.indiatimes.com/world/us/nearly-200-unwanted-concrete-pipes-and-culverts-were-lowered-into-the-atlantic-off-jacksonville-in-2026-instead-of-being-dumped-on-land-the-pieces-now-form-a-new-fish-habitat-roughly-90-feet-below-the-water/articleshow/135227479.cms",
+   "desc": "Concrete pipes and structures have found new life as an artificial reef off Florida's coastline. This dynamic project aims to enrich marine ecosystems in the region's sandy ocean floors, driven by partnerships among fish",
    "image": "",
-   "date": "2026-10-27T22:30:52+00:00",
+   "date": "2026-10-27T22:29:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -238,7 +292,7 @@
    "cat": "world"
   },
   {
-   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers, etc",
+   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, latecomers, etc",
    "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
    "desc": "",
    "image": "",
@@ -254,15 +308,6 @@
    "date": "2026-10-27T21:59:35+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-   "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-   "desc": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
-   "image": "",
-   "date": "2026-10-27T21:58:48+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "GM is embracing hybrids now",
@@ -409,15 +454,6 @@
    "cat": "world"
   },
   {
-   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "desc": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-   "image": "",
-   "date": "2026-10-27T20:32:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
    "desc": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
@@ -508,6 +544,15 @@
    "cat": "india"
   },
   {
+   "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+   "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
+   "desc": "Boeing reset investor expectations on free cash flow growth in the coming years. We're hopeful this represents a clearing event.",
+   "image": "",
+   "date": "2026-10-27T19:21:20+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls: Report",
    "link": "https://www.ndtv.com/world-news/brazil-election-flavio-bolsonaro-flees-brazil-hours-after-losing-presidential-polls-12245354#publisher=newsstand",
    "desc": "Flavio Bolsonaro is subject to at least two federal investigations.",
@@ -587,15 +632,6 @@
    "date": "2026-10-27T18:50:11+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-27T18:45:56+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   },
   {
    "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
@@ -886,15 +922,6 @@
    "cat": "world"
   },
   {
-   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T13:08:26+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
    "desc": "The new standard, WebAI, is designed to work with a variety of AI models.",
@@ -985,15 +1012,6 @@
    "cat": "ai"
   },
   {
-   "title": "Is Jagan Reddy's 'regret' message a calculated alliance pitch for Congress?",
-   "link": "https://timesofindia.indiatimes.com/india/is-jagan-reddys-regret-message-a-calculated-alliance-pitch-for-congress/articleshow/135229427.cms",
-   "desc": "YSRCP leader YS Jagan Mohan Reddy has publicly acknowledged his mistake of backing the BJP-led NDA government's law to appoint the CEC. Jagan, who was decimated in the 2024 assembly elections, is gearing up to navigate t",
-   "image": "",
-   "date": "2026-10-27T10:55:55+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Common drugs may help dangerous viruses spread through the body",
    "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
    "desc": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-27T06:33:11+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Donald Trump's biggest economic problem looks strangely familiar",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
-   "date": "2026-10-27T06:01:11+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Do spiders dream? Scientists just found a surprising clue",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
-   "desc": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumpi",
-   "image": "",
-   "date": "2026-10-27T04:53:11+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
