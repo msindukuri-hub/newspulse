@@ -1,19 +1,82 @@
 {
- "generated_at": "2026-10-28T09:00:20.560185+00:00",
+ "generated_at": "2026-10-28T09:30:06.972490+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T09:25:19+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "desc": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+   "image": "",
+   "date": "2026-10-28T09:22:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Chair skills, quick brain - how O'Neill adapted to wheelchair rugby league",
+   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5lyer2wvd3xo?at_medium=RSS&at_campaign=rss",
+   "desc": "Finlay O'Neill thought his sporting days were over when his dislocated a knee at the age of 16. Now he is preparing to play a part in England's bid to retain the Wheelchair Rugby League World Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0e/live/0dd334b0-cadb-11f1-b12b-29678970ab1b.jpg",
+   "date": "2026-10-28T09:19:13+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
   {
    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
    "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
    "image": "",
-   "date": "2026-10-28T08:51:00+00:00",
+   "date": "2026-10-28T09:12:02+00:00",
    "source": "CNBC",
    "cat": "business"
   },
   {
-   "title": "BJP fields Hardeep Singh Puri as its candidate for Rajya Sabha bypoll from MP",
+   "title": "Moon not visible on Karwa Chauth due to Cyclone Arnab? 3 ways to break your fast",
+   "link": "https://timesofindia.indiatimes.com/relationships/karwa-chauth-2026-moon-not-visible-due-to-cyclone-arnab-3-traditional-ways-to-break-your-fast/articleshow/135258768.cms",
+   "desc": "As Cyclone Arnab approaches India's eastern coast, Karwa Chauth on 29 October presents unique challenges for those observing the fast. The potential obscuring of the Moon by storm clouds may disrupt traditional practices",
+   "image": "",
+   "date": "2026-10-28T09:05:01+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "BJP Picks Hardeep Puri For Rajya Sabha Bypoll From Madhya Pradesh",
+   "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
+   "desc": "The BJP central election committee has approved Hardeep Puri's name for the bypoll",
+   "image": "https://c.ndtvimg.com/2026-08/eju31l64_hardeep-singh-puri_625x300_07_August_26.jpg",
+   "date": "2026-10-28T08:56:04+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "'The twin bond never dies': Vikram Batra's brother on life 27 years after Kargil",
+   "link": "https://timesofindia.indiatimes.com/defence/news/the-twin-bond-never-dies-vikram-batras-brother-on-life-27-years-after-kargil/articleshow/135258565.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T08:51:01+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Lot Of Progress Likely': Trump Says Putin, Zelensky Meet \"Very Soon\"",
+   "link": "https://www.ndtv.com/world-news/trump-says-putin-zelensky-meet-very-soon-ukraine-russia-war-lot-of-progress-likely-12247558#publisher=newsstand",
+   "desc": "Trump came to power in January 2025 promising to end the war in 24 hours.",
+   "image": "https://c.ndtvimg.com/2026-01/amr9g348_zelensky-afp_625x300_22_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T08:46:13+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "BJP fields Hardeep Singh Puri for MP Rajya Sabha bypoll",
    "link": "https://timesofindia.indiatimes.com/india/bjp-fields-hardeep-singh-puri-as-its-candidate-for-rajya-sabha-bypoll-from-mp/articleshow/135258383.cms",
    "desc": "",
    "image": "",
@@ -38,6 +101,24 @@
    "date": "2026-10-28T08:36:34+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "62% Indians Say Salary Growth Can't Beat Inflation, 70% Young Adults Worried: Report",
+   "link": "https://www.ndtv.com/business-news/indians-salary-growth-inflation-expenses-young-professionals-personal-finance-12247415#publisher=newsstand",
+   "desc": "Around 83% professionals feel they are not prepared for retirement, as per the survey.",
+   "image": "https://c.ndtvimg.com/2026-10/5bh1u61k_inflation_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T08:30:32+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Tamil Nadu Revises Auto Fares After 13 Years, Minimum Fare Doubled To Rs 50",
+   "link": "https://www.ndtv.com/india-news/tamil-nadu-revises-auto-fares-after-13-years-minimum-fare-doubled-to-rs-50-12247481#publisher=newsstand",
+   "desc": "The notification was issued under Section 67 of the Motor Vehicles Act, 1988.",
+   "image": "https://c.ndtvimg.com/2026-10/2el7kfjo_tamil-nadu-auto-generic-_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T08:29:25+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Judge rules Trump's top LA prosecutor serving unlawfully, pauses 2-case ban",
@@ -76,6 +157,15 @@
    "cat": "india"
   },
   {
+   "title": "'Jailer 2' BO Day 14: Rajinikanth’s action drama crosses Rs 416 crore India net",
+   "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-14-live-rajinikanths-action-drama-crosses-rs-416-crore-india-net-nears-rs-490-crore-gross/articleshow/135258016.cms",
+   "desc": "Rajinikanth's latest blockbuster 'Jailer 2' has achieved a remarkable Rs 490 crore in box office earnings within just two weeks. Featuring stellar performances by Mohanlal and Vidya Balan, the film had a phenomenal openi",
+   "image": "",
+   "date": "2026-10-28T08:23:05+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "'Won't make questions disappear': Dipke accuses Centre of Instagram crackdown",
    "link": "https://timesofindia.indiatimes.com/india/taking-down-instagram-accounts-wont-make-questions-disappear-abhijeet-dipke-accuses-centre-of-digital-crackdown/articleshow/135257840.cms",
    "desc": "",
@@ -85,12 +175,48 @@
    "cat": "india"
   },
   {
+   "title": "\"Will Ensure Justice\": Rahul Gandhi's Post On Tata Boardroom Battle",
+   "link": "https://www.ndtv.com/india-news/will-ensure-justice-rahul-gandhis-post-on-tata-boardroom-battle-12247411#publisher=newsstand",
+   "desc": "Rahul Gandhi has commented on the Tata group boardroom battle",
+   "image": "https://c.ndtvimg.com/2026-10/s4ipni0k_tata-rahul-gandhi_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T08:13:02+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "NDTV World Summit 2026: Nikhil Kamath On Why India May Not Need To Compete With US, China In Every Layer Of AI",
+   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-nikhil-kamath-explains-why-india-may-not-need-to-compete-with-us-china-in-every-layer-of-ai-12232114#publisher=newsstand",
+   "desc": "Nikhil Kamath at the NDTV World Summit 2026",
+   "image": "https://c.ndtvimg.com/2026-10/363r0juk_nikhil-kamath_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T08:10:35+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Alicia Keys' charity raises $86.6m, supports 9.3m across 28 countries",
    "link": "https://timesofindia.indiatimes.com/world/us/in-2003-alicia-keys-co-founded-a-charity-to-help-children-affected-by-hiv-two-decades-later-it-has-raised-86-6-million-and-supports-9-3-million-children-young-people-and-families-in-28-countries/articleshow/135257460.cms",
    "desc": "During her journey to South Africa, Alicia Keys encountered the profound effects of HIV/AIDS on families and children, which ignited her passion to co-found Keep a Child Alive in 2003. The organization has successfully r",
    "image": "",
    "date": "2026-10-28T08:07:53+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say",
+   "link": "https://www.ndtv.com/artificial-intelligence/hackers-used-44-ai-agents-to-automate-cyberattacks-researchers-say-12247387#publisher=newsstand",
+   "desc": "A cybercrime operation used AI to automate multiple stages of hacking, including reconnaissance, exploiting vulnerabilities and stealing data, according to researchers.",
+   "image": "https://i.ndtvimg.com/i/2017-09/cyber-crime-generic-istock_650x400_81504427706.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T08:07:46+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Nitin Nabin Leads BJP's Counter Against INDIA Bloc's 'Vote Theft' Claims",
+   "link": "https://www.ndtv.com/india-news/inside-nitin-nabins-strategy-to-counter-india-blocs-vote-theft-claim-12247257#publisher=newsstand",
+   "desc": "The BJP rally aims to strengthen public trust in India's democratic institutions",
+   "image": "https://c.ndtvimg.com/2026-10/e3ll6buk_nitin-nabin-_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T08:07:24+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -145,24 +271,6 @@
    "image": "",
    "date": "2026-10-28T07:41:35+00:00",
    "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Inside Nitin Nabin's Strategy To Counter INDIA Bloc's 'Vote Theft' Claim",
-   "link": "https://www.ndtv.com/india-news/inside-nitin-nabins-strategy-to-counter-india-blocs-vote-theft-claim-12247257#publisher=newsstand",
-   "desc": "The BJP rally aims to strengthen public trust in India's democratic institutions",
-   "image": "https://c.ndtvimg.com/2026-10/e3ll6buk_nitin-nabin-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:41:15+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T07:39:54+00:00",
-   "source": "BBC Business",
    "cat": "business"
   },
   {
@@ -238,15 +346,6 @@
    "cat": "sports"
   },
   {
-   "title": "India's Market Leaders To Decode The New Samvat At NDTV Profit Ignite In Mumbai On 28 October",
-   "link": "https://www.ndtv.com/communication/indias-market-leaders-to-decode-the-new-samvat-at-ndtv-profit-ignite-in-mumbai-on-28-october-12240802#publisher=newsstand",
-   "desc": "NDTV Profit will host NDTV Profit Ignite.",
-   "image": "https://c.ndtvimg.com/2026-10/h4ujlhps_ndtv-profit-ignite_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T07:08:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "From rivals to team-mates - Ball links up with Pope",
    "link": "https://www.bbc.co.uk/sport/cycling/articles/cqwy7j5kr3y1o?at_medium=RSS&at_campaign=rss",
    "desc": "James Ball is set to ride at his 10th Para-cycling Track World Championships as he looks to defend two titles with new pilot Aaron Pope.",
@@ -256,24 +355,6 @@
    "cat": "sports"
   },
   {
-   "title": "Centre Asks Airlines To Notify Fliers Of Delays, Cancellations Ahead Of Fog Season",
-   "link": "https://www.ndtv.com/india-news/centre-asks-airlines-to-notify-fliers-of-delays-cancellations-ahead-of-fog-season-12247078#publisher=newsstand",
-   "desc": "The ministry reviewed measures to ensure safe flight operations",
-   "image": "https://c.ndtvimg.com/2026-10/4sbff1hk_flights_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:03:27+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Russian-Ukrainian Couple Make Five-Day Escape To Hungary From Kyiv",
-   "link": "https://www.ndtv.com/world-news/russian-ukrainian-couple-make-five-day-escape-to-hungary-from-kyiv-2798839#publisher=newsstand",
-   "desc": "Russian military attempted to encircle and subdue Ukrainian cities with intensifying bombardments.",
-   "image": "https://c.ndtvimg.com/2026-08/skgk4mus_ukraine-news_625x300_17_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T07:01:40+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
    "desc": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
@@ -281,24 +362,6 @@
    "date": "2026-10-28T06:56:49+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "The Fourth Humiliation: What Anthropic, Monks And The Cusp Of Consciousness Teach About Tomorrow",
-   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-the-fourth-humiliation-what-anthropic-monks-and-the-cusp-of-consciousness-teach-about-tomorrow-swami-sarvapriyananda-12247055#publisher=newsstand",
-   "desc": "Swami Sarvapriyananda at NDTV World Summit 2026",
-   "image": "https://c.ndtvimg.com/2026-10/uji8snpg_ndtv-world-summit-2026_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:56:08+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Trump Approves Flavio Bolsonaro's US Entry After He Flees Brazil",
-   "link": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand",
-   "desc": "Trump made the remarks while talking to reporters on his return from a Texas campaign trip.",
-   "image": "https://c.ndtvimg.com/2026-10/bvqidk1o_us-brazil-reuters_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:51:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Why Hurts played with blood clot and what it means for NFL",
@@ -317,33 +380,6 @@
    "date": "2026-10-28T06:42:50+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "In China, The AI Bubble Has Already Burst",
-   "link": "https://www.ndtv.com/artificial-intelligence/in-china-the-ai-bubble-has-already-burst-12241386#publisher=newsstand",
-   "desc": "While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking",
-   "image": "https://i.ndtvimg.com/i/2015-12/china-flag_650x400_61451028230.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T06:39:31+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War",
-   "link": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
-   "desc": "Israeli voters delivered a rebuke to Netanyahu's far-right and religious governing coalition",
-   "image": "https://c.ndtvimg.com/2026-10/4thc7hlo_israel-polls_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T06:37:59+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "No water in washrooms, family forced to get off train; Railways to pay Rs 16k",
-   "link": "https://timesofindia.indiatimes.com/legal/news/family-of-24-forced-to-get-off-a-train-over-washrooms-without-water-paid-extra-to-reach-destination-yet-railways-denied-the-problem-until-a-consumer-commission-ordered-a-rs-16000-payout/articleshow/135254695.cms",
-   "desc": "In an important ruling, a district consumer commission in Karnataka found that South Western Railway did not provide sufficient services to its passengers. A traveler and his family endured discomfort stemming from a lac",
-   "image": "",
-   "date": "2026-10-28T06:35:50+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
@@ -371,15 +407,6 @@
    "date": "2026-10-28T05:54:30+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-   "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-   "desc": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
-   "image": "",
-   "date": "2026-10-28T05:52:51+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -515,15 +542,6 @@
    "date": "2026-10-28T01:15:28+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "‘Maxxing’ becomes Dictionary.com’s 2026 Word of the Year",
-   "link": "https://timesofindia.indiatimes.com/etimes/trending/maxxing-becomes-dictionary-coms-2026-word-of-the-year-what-the-viral-term-means-and-why-it-earned-the-spot/articleshow/135248656.cms",
-   "desc": "'Maxxing' has emerged as a popular term reflecting the contemporary quest for ongoing self-improvement in the digital realm. This word symbolizes a fusion of ambition with the culture of online life, transforming routine",
-   "image": "",
-   "date": "2026-10-28T01:01:16+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Scientists discover the immune system’s hidden sense of touch",
@@ -686,15 +704,6 @@
    "date": "2026-10-27T21:38:28+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Barcelona fined £503 over approach for Alvarez",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6160/live/40cf7ad0-d24d-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-27T21:38:20+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Discord is making its public communities more searchable, and people have concerns",
@@ -938,15 +947,6 @@
    "date": "2026-10-27T16:00:00+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "We’d rather die than give up land: Siang villagers on proposed dam project",
-   "link": "https://timesofindia.indiatimes.com/city/guwahati/dao-becomes-symbol-of-adi-resistance-to-siang-dam/articleshow/135239677.cms",
-   "desc": "In Geku, John Panyang and fellow Adi farmers stand firm against the Siang Upper Multipurpose Project, fearing for their land and heritage. The situation escalates as security forces confiscate traditional daos from the v",
-   "image": "",
-   "date": "2026-10-27T15:53:12+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
