@@ -1,16 +1,97 @@
 {
- "generated_at": "2026-10-27T23:30:46.303016+00:00",
+ "generated_at": "2026-10-28T00:00:33.372996+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
+   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+   "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-27T23:54:14+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Indians Travelling To UAE Advised To Take Adequate Medical Insurance",
+   "link": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857#publisher=newsstand",
+   "desc": "Indians residing in the UAE have also been advised to verify that their medical insurance.",
+   "image": "https://c.ndtvimg.com/2026-10/lvejcmm8_indians-in-uae-ai_625x300_28_October_26.jpeg",
+   "date": "2026-10-27T23:50:37+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
    "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "desc": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "desc": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
    "image": "",
-   "date": "2026-10-27T23:23:28+00:00",
+   "date": "2026-10-27T23:50:03+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "desc": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+   "image": "",
+   "date": "2026-10-27T23:45:49+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-27T23:41:23+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "General medicine tops NEET-PG choices among first 100",
+   "link": "https://timesofindia.indiatimes.com/india/general-medicine-tops-neet-pg-choices-among-first-100/articleshow/135247981.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T23:37:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+   "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg",
+   "date": "2026-10-27T23:35:11+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "image": "",
+   "date": "2026-10-27T23:34:27+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Pete Hegseth To Face Questions On US Role In Indo-Pacific At ASEAN Summit",
+   "link": "https://www.ndtv.com/world-news/pete-hegseth-to-face-questions-on-us-role-in-indo-pacific-at-asean-summit-12245838#publisher=newsstand",
+   "desc": "Analysts said ASEAN nations could use meetings with Hegseth to seek clarity about the endgame in Iran.",
+   "image": "https://c.ndtvimg.com/2026-04/qajblofg_pete-hegseth_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-27T23:27:32+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T23:20:21+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Government working on bill to curb child & revenge porn: Solicitor general in SC",
@@ -94,15 +175,6 @@
    "cat": "india"
   },
   {
-   "title": "Florida sinks nearly 200 unwanted concrete pipes to create new ocean reef",
-   "link": "https://timesofindia.indiatimes.com/world/us/nearly-200-unwanted-concrete-pipes-and-culverts-were-lowered-into-the-atlantic-off-jacksonville-in-2026-instead-of-being-dumped-on-land-the-pieces-now-form-a-new-fish-habitat-roughly-90-feet-below-the-water/articleshow/135227479.cms",
-   "desc": "Concrete pipes and structures have found new life as an artificial reef off Florida's coastline. This dynamic project aims to enrich marine ecosystems in the region's sandy ocean floors, driven by partnerships among fish",
-   "image": "",
-   "date": "2026-10-27T22:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Michigan court overturns $1.55m judgment against couple in home sale dispute",
    "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-home-inspection-triggered-a-150000-price-cut-fight-six-years-later-an-appeals-court-wiped-out-a-1-55-million-judgment-against-the-buyers/articleshow/135205507.cms",
    "desc": "A Michigan couple's $1.275 million home purchase turned into a six-year legal dispute after they sought a $150,000 discount following an inspection. The failed deal led to a judgment exceeding $1.55 million against them.",
@@ -139,15 +211,6 @@
    "cat": "business"
   },
   {
-   "title": "Build AI to secure systems, serve humanity: PM Modi",
-   "link": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T22:19:06+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
    "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
    "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
@@ -175,7 +238,7 @@
    "cat": "world"
   },
   {
-   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers",
+   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers, etc",
    "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
    "desc": "",
    "image": "",
@@ -238,15 +301,6 @@
    "cat": "sports"
   },
   {
-   "title": "India invites Pakistan for SCO civilisational dialogue forum meet next month",
-   "link": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T21:37:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Shows 1st Exit Polls",
    "link": "https://www.ndtv.com/world-news/israel-opposition-holds-narrow-edge-over-netanyahus-party-shows-first-exit-polls-12245652#publisher=newsstand",
    "desc": "Israeli voters on Tuesday gave a narrow edge to opposition parties over PM Benjamin Netanyahu.",
@@ -262,15 +316,6 @@
    "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
    "date": "2026-10-27T21:31:07+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Florida approves $20.15m easement protecting 219-acre ranch from development",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-219-acre-florida-cattle-ranch-facing-development-pressure-was-approved-for-a-20-15-million-conservation-easement-in-september-2026-allowing-agriculture-to-continue-while-permanently-restricting-development/articleshow/135238859.cms",
-   "desc": "A 219-acre cattle ranch in Florida received protection through a $20.15 million conservation agreement. This easement is part of a broader initiative preserving over 4,500 acres of agricultural land. The agreement ensure",
-   "image": "",
-   "date": "2026-10-27T21:29:00+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -292,15 +337,6 @@
    "cat": "tech"
   },
   {
-   "title": "Cannot let pharma industry ‘run amok’ in name of free market: SC",
-   "link": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T21:21:54+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
    "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
    "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
@@ -308,15 +344,6 @@
    "date": "2026-10-27T21:12:55+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "desc": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-27T21:12:39+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
@@ -400,15 +427,6 @@
    "cat": "tech"
   },
   {
-   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-27T20:26:31+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Israel exit polls show no clear winner as Netanyahu and rivals fall short of majority",
    "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
    "desc": "",
@@ -479,6 +497,15 @@
    "date": "2026-10-27T19:24:06+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
+   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
+   "image": "",
+   "date": "2026-10-27T19:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls: Report",
@@ -562,24 +589,6 @@
    "cat": "india"
   },
   {
-   "title": "Delhi Government May Hike Agricultural Land Circle Rates After 18 Years",
-   "link": "https://www.ndtv.com/india-news/delhi-government-may-hike-agricultural-land-circle-rates-after-18-years-12245417#publisher=newsstand",
-   "desc": "Urban land rates could also be revised as part of the broader exercise.",
-   "image": "https://c.ndtvimg.com/2018-10/sb51a8v_haryana-crop-burning-afp_625x300_21_October_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:48:16+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Cyclone Arnab: Flights Suspended At 3 Andhra Airports, Airlines Cancel Services",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-flights-suspended-at-3-andhra-airports-airlines-cancel-services-12245434#publisher=newsstand",
-   "desc": "Flights to and from coastal Andhra Pradesh and southern Odisha are expected to be the most affected.",
-   "image": "https://c.ndtvimg.com/2026-06/hgr1ahtk_flight-generic-pic_625x300_03_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T18:46:36+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
@@ -625,13 +634,13 @@
    "cat": "tech"
   },
   {
-   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-   "desc": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+   "title": "Denver moves to permanently protect 155-acre former golf course as public park",
+   "link": "https://timesofindia.indiatimes.com/world/us/denver-voters-rejected-development-on-a-155-acre-former-golf-course-in-2023-after-a-land-swap-and-70-million-bond-allocation-the-city-is-moving-to-permanently-protect-it-as-a-public-park/articleshow/135222627.cms",
+   "desc": "Denver is advancing plans to convert the former Park Hill Golf Course into Park Hill Park. The city has selected Michael Van Valkenburgh Associates to design the 155-acre site. Voters rejected a development proposal for ",
    "image": "",
-   "date": "2026-10-27T17:53:47+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-27T18:21:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Lancashire treatment of Anderson disrespectful - Broad",
@@ -659,15 +668,6 @@
    "date": "2026-10-27T17:26:34+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Wenger's 'daylight' offside trial unlikely to be extended",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj342p373vzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsene Wenger's \"daylight\" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ed/live/dd369c90-d226-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T17:21:26+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
@@ -850,15 +850,6 @@
    "cat": "world"
   },
   {
-   "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-   "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-   "desc": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-   "image": "",
-   "date": "2026-10-27T14:25:11+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
    "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
    "desc": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform",
@@ -992,6 +983,15 @@
    "date": "2026-10-27T11:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
+  },
+  {
+   "title": "Is Jagan Reddy's 'regret' message a calculated alliance pitch for Congress?",
+   "link": "https://timesofindia.indiatimes.com/india/is-jagan-reddys-regret-message-a-calculated-alliance-pitch-for-congress/articleshow/135229427.cms",
+   "desc": "YSRCP leader YS Jagan Mohan Reddy has publicly acknowledged his mistake of backing the BJP-led NDA government's law to appoint the CEC. Jagan, who was decimated in the 2024 assembly elections, is gearing up to navigate t",
+   "image": "",
+   "date": "2026-10-27T10:55:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Common drugs may help dangerous viruses spread through the body",
