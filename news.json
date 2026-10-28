@@ -1,16 +1,52 @@
 {
- "generated_at": "2026-10-28T22:30:23.062693+00:00",
+ "generated_at": "2026-10-28T23:02:24.036757+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+   "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+   "desc": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+   "image": "",
+   "date": "2026-10-28T22:47:50+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Fleetwood to face Everton or Newcastle in last eight",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
+   "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83d/live/3ba1f500-d320-11f1-ba7d-b5eab6da6837.jpg",
+   "date": "2026-10-28T22:45:35+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+   "desc": "Any button that can be clicked can also be touched.",
+   "image": "",
+   "date": "2026-10-28T22:38:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
    "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
    "image": "",
-   "date": "2026-10-28T22:29:23+00:00",
+   "date": "2026-10-28T22:34:56+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "British historian donates 50 colonial-era Indian paintings to Tate",
+   "link": "https://timesofindia.indiatimes.com/world/uk/after-decades-collecting-artworks-from-colonial-era-india-british-historian-charles-greig-has-donated-50-paintings-and-watercolours-to-tate-including-rare-18th-century-portraits-a-public-display-is-planned-for-2028/articleshow/135268296.cms",
+   "desc": "In a remarkable gesture, Tate London has received a donation of 50 artworks from the British colonial era in India, showcasing the talents of both Indian and European artists. This diverse collection, meticulously curate",
+   "image": "",
+   "date": "2026-10-28T22:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
@@ -20,6 +56,33 @@
    "date": "2026-10-28T22:27:00+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Texas barber, $100 short on rent, returns $128,514 found at ATM",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-barber-was-100-short-on-rent-when-he-spotted-a-bag-containing-128514-left-near-an-atm-newly-released-police-body-camera-footage-shows-how-he-contacted-officers-and-helped-return-the-cash/articleshow/135240900.cms",
+   "desc": "In Lewisville, Texas, a barber stumbled upon two bags at an ATM, one filled with an astonishing $128,514 in cash. Struggling with rent and financial issues, he made the commendable choice to report this to the authoritie",
+   "image": "",
+   "date": "2026-10-28T22:26:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Georgia court backs daughter as guardian of mother, 95, amid sibling dispute",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-95-year-old-georgia-mothers-three-children-fought-over-her-care-after-one-son-moved-assets-into-a-trust-and-blocked-his-sisters-visits-an-october-26-court-upheld-the-daughters-appointment-as-guardian/articleshow/135230872.cms",
+   "desc": "A dispute between three siblings over their 95-year-old mother's care reached the Georgia Court of Appeals after one son restricted his sister's visits and questions emerged over the handling of their mother's money. The",
+   "image": "",
+   "date": "2026-10-28T22:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "NDA wins 1 6 of 28 seats, Congress falters in MLC polls",
+   "link": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/articleshow/135282065.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T22:22:17+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Russo scores hat-trick as Arsenal beat Benfica",
@@ -202,29 +265,11 @@
    "cat": "business"
   },
   {
-   "title": "UK plans robotic claws to pull dead satellites out of orbit in 2029",
-   "link": "https://timesofindia.indiatimes.com/science/space/the-uk-is-planning-to-send-giant-robotic-claws-into-orbit-to-grab-two-dead-satellites-and-drag-them-into-earths-atmosphere-to-burn-up-a-first-of-its-kind-clean-up-mission-due-to-launch-in-2029-and-the-public-can-help-name-it/articleshow/135269315.cms",
-   "desc": "In a groundbreaking initiative, the UK plans to unveil a pioneering spacecraft in 2029, designed specifically for the cleanup of space debris. Utilizing advanced robotic arms, the mission aims to snatch up and incinerate",
-   "image": "",
-   "date": "2026-10-28T21:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Delhi HC rejects PIL against passport fee hike for NRIs",
    "link": "https://timesofindia.indiatimes.com/india/hc-rejects-pil-against-passport-fee-hike-for-nris/articleshow/135280506.cms",
    "desc": "",
    "image": "",
    "date": "2026-10-28T21:26:47+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Maui home bought for $8.05m sells for $18.5m after $24.85m listing",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-maui-family-bought-an-oceanfront-home-for-8-05-million-in-2014-and-gutted-it-to-the-studs-in-2020-after-initially-asking-24-85-million-the-renovated-estate-sold-for-18-5-million-in-october-2026/articleshow/135249888.cms",
-   "desc": "Recently, a stunning oceanfront estate in Makena, Maui, fetched a remarkable $18.5 million. After undergoing extensive renovations to boost its allure, this property saw an adjustment in its listing price from an initial",
-   "image": "",
-   "date": "2026-10-28T21:26:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -353,15 +398,6 @@
    "date": "2026-10-28T20:24:39+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Norfolk couple spend £1.5m fighting to save wetland, win third court battle",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-norfolk-farming-couple-spent-1-5-million-fighting-to-protect-a-wetland-after-15-years-and-three-legal-victories-a-court-ruled-that-regulators-had-failed-to-prevent-pollution-threatening-2500-species/articleshow/135223737.cms",
-   "desc": "In an impressive legal battle, two Norfolk farmers have secured a significant ruling for the Catfield Fen wetland, which faces threats from pollution. The High Court determined that Natural England neglected its duty to ",
-   "image": "",
-   "date": "2026-10-28T20:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Google says its investments in AI are driving more searches",
@@ -541,15 +577,6 @@
    "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T19:11:28+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "US Federal Reserve keeps rates unchanged, leaves door open to further hikes",
-   "link": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T19:09:25+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -882,17 +909,8 @@
    "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
    "image": "",
    "date": "2026-10-28T15:41:18+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
-   "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg",
-   "date": "2026-10-28T15:34:02+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
@@ -929,15 +947,6 @@
    "date": "2026-10-28T14:44:00+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-   "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-   "desc": "Wendy's has endured a tough two-year stretch as diners eat out less often.",
-   "image": "",
-   "date": "2026-10-28T14:35:51+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-28T10:29:36+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-   "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The energy minister described it as a \"major milestone\" for the East African nation.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png",
-   "date": "2026-10-28T10:18:40+00:00",
-   "source": "BBC News",
-   "cat": "world"
   }
  ]
 }
