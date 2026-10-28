@@ -1,8 +1,98 @@
 {
- "generated_at": "2026-10-28T16:00:21.163442+00:00",
+ "generated_at": "2026-10-28T16:32:18.859079+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "All the news from Apple’s ‘Pro and tell’ event",
+   "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+   "desc": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced t",
+   "image": "",
+   "date": "2026-10-28T16:30:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "America's largest budget airline reports 71% jump in airfare",
+   "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+   "desc": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
+   "image": "",
+   "date": "2026-10-28T16:29:09+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
+   "image": "",
+   "date": "2026-10-28T16:15:30+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2027-full-squads-how-mi-rcb-dc-gg-upw-stack-up-after-the-auction/articleshow/135272090.cms",
+   "desc": "The five franchises — Royal Challengers Bengaluru, Mumbai Indians, Delhi Capitals, Gujarat Giants and UP Warriorz — had a total of 27 slots to fill.",
+   "image": "",
+   "date": "2026-10-28T16:15:12+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Perez signs multi-year extension with Cadillac",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/fdce2560-d2e7-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T16:10:07+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Meet Toran Sheikh: Bengal road worker has donated blood 105 times in 28 years",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/after-donating-blood-to-an-injured-colleague-in-1998-bengal-road-worker-toran-sheikh-kept-helping-strangers-28-years-later-the-daily-wage-labourer-has-donated-blood-105-times-and-runs-village-camps/articleshow/135271806.cms",
+   "desc": "Toran Sheikh, a dedicated road worker hailing from West Bengal, has made an impressive mark in the realm of philanthropy by donating blood over 100 times since he turned 18. His altruistic journey began when he helped a ",
+   "image": "",
+   "date": "2026-10-28T16:08:46+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+   "desc": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
+   "image": "",
+   "date": "2026-10-28T16:07:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft earnings will land after the close",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
+   "image": "",
+   "date": "2026-10-28T16:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alphabet set to report third-quarter earnings after the bell",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "image": "",
+   "date": "2026-10-28T16:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "desc": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+   "image": "",
+   "date": "2026-10-28T16:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
    "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
@@ -22,15 +112,6 @@
    "cat": "tech"
   },
   {
-   "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-   "image": "",
-   "date": "2026-10-28T15:59:50+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "AI execs may be too out of touch to build for the general public",
    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
    "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
@@ -47,15 +128,6 @@
    "date": "2026-10-28T15:53:21+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-   "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-   "desc": "Healey presented his first budget as Chancellor, and reiterated the UK's support of Ukraine on Wednesday.",
-   "image": "",
-   "date": "2026-10-28T15:53:19+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "The one thing that didn't change that will affect your pay the most",
@@ -103,15 +175,6 @@
    "cat": "business"
   },
   {
-   "title": "What we know so far about deadly Spain train crash",
-   "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-28T15:36:11+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Govee’s colorful smart string lights are down to their best price of the year",
    "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
    "desc": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or what",
@@ -119,6 +182,15 @@
    "date": "2026-10-28T15:34:43+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Scottish side to play two cup ties simultaneously after schedule clash",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+   "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg",
+   "date": "2026-10-28T15:34:02+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
@@ -139,11 +211,11 @@
    "cat": "tech"
   },
   {
-   "title": "Georgia court overturns $186,000 home renovation judgment, orders review",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2021-a-georgia-home-renovation-ended-in-a-contractor-dispute-a-186000-default-judgment-followed-in-2022-but-an-october-2026-appeals-ruling-vacated-the-award-and-sent-the-case-back-for-review/articleshow/135270731.cms",
-   "desc": "A Georgia appeals court has recently vacated a default judgment related to a home construction issue between Juan Ramirez and Big Sky Remodel. The court identified that the initial trial court lacked adequate jurisdictio",
+   "title": "Happy Karwa Chauth 2026: Images, wishes, quotes and greeting cards",
+   "link": "https://timesofindia.indiatimes.com/etimes/trending/happy-karwa-chauth-2026-images-wishes-messages-quotes-pictures-facebook-whatsapp-status-and-greeting-cards/articleshow/135207433.cms",
+   "desc": "On October 29, 2026, the much-anticipated Karwa Chauth festival will be celebrated, highlighting the deep bond of love as people fast for their partners. This annual event is marked by exchanging warm wishes and quotes, ",
    "image": "",
-   "date": "2026-10-28T15:16:33+00:00",
+   "date": "2026-10-28T15:30:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -301,22 +373,13 @@
    "cat": "india"
   },
   {
-   "title": "'People choose government, not vice versa': CJP backs INDIA bloc's November 1 rally",
-   "link": "https://timesofindia.indiatimes.com/india/people-choose-government-not-vice-versa-cjp-backs-india-blocs-november-1-rally/articleshow/135269275.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T14:30:06+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Flavio Bolsonaro lands in Miami after leaving Brazil following election defeat to Lula",
-   "link": "https://timesofindia.indiatimes.com/world/us/flavio-bolsonaro-lands-in-miami-after-leaving-brazil-following-election-defeat-to-lula/articleshow/135269431.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T14:29:55+00:00",
-   "source": "Times of India",
-   "cat": "india"
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
+   "date": "2026-10-28T14:30:31+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
@@ -355,13 +418,13 @@
    "cat": "india"
   },
   {
-   "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-   "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-   "desc": "Anthropic warned the market there may not be enough insurance in the world to covers its AI risks. To less extreme degrees, it's an issue all companies face.",
+   "title": "11-foot metal object found in Minnesota cornfield may be Chinese rocket debris",
+   "link": "https://timesofindia.indiatimes.com/science/space/a-minnesota-farmer-harvesting-corn-found-a-mysterious-11-foot-wide-metallic-object-in-his-field-space-experts-now-suspect-it-is-debris-from-a-chinese-rocket-launched-in-september-but-its-origin-remains-unconfirmed/articleshow/135269143.cms",
+   "desc": "A strange metallic object was discovered by a farmer in Scott Township, Minnesota, on 14 October. Investigators believe it may be debris from the Zhuque-2E rocket launched on 15 September. The object is about 11 feet acr",
    "image": "",
-   "date": "2026-10-28T14:20:29+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-28T14:20:31+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Here’s Virgin Galactic’s new Apeiron spaceship",
@@ -418,15 +481,6 @@
    "cat": "business"
   },
   {
-   "title": "America's largest budget airline reports 71% jump in airfare",
-   "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-   "desc": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-   "image": "",
-   "date": "2026-10-28T13:50:38+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
    "desc": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
@@ -441,15 +495,6 @@
    "desc": "A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana said its earlier decision allowing the Election Commission to use the category in West Bengal was only an interim measure. It",
    "image": "",
    "date": "2026-10-28T13:47:04+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Businesses already hate all of you': Rahul's 4-point reply to Sitharaman's advice",
-   "link": "https://timesofindia.indiatimes.com/india/already-hate-all-of-you-rahul-gandhis-4-point-reply-to-nirmala-sitharamans-advice/articleshow/135267268.cms",
-   "desc": "Rahul Gandhi responded to Finance Minister Nirmala Sitharaman regarding the Tata Group's ongoing dispute. He questioned the motives behind hosting Tata representatives at Amit Shah's residence. The exchange followed Rahu",
-   "image": "",
-   "date": "2026-10-28T13:45:21+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -481,15 +526,6 @@
    "cat": "tech"
   },
   {
-   "title": "Shiv Sena office-bearer killed as speeding SUV hits bike on Mumbai-Goa highway",
-   "link": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-office-bearer-killed-as-speeding-suv-hits-bike-on-mumbai-goa-highway/articleshow/135267538.cms",
-   "desc": "Tragedy struck when Janardan Changya Gowari, a spokesperson for Shiv Sena, lost his life in a road accident on the Mumbai-Goa highway. His motorcycle was tragically hit by a speeding SUV driven by Mahesh Shivdas Hirve at",
-   "image": "",
-   "date": "2026-10-28T13:32:56+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "This is how badly X wants you to pay to promote your posts",
    "link": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
    "desc": "After Elon Musk warned that \"advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising\" on X earlier this month, the platform now appears to be using",
@@ -499,18 +535,9 @@
    "cat": "tech"
   },
   {
-   "title": "McClean leaves Derry City after contract dispute",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&at_campaign=rss",
-   "desc": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe9/live/31e75ff0-d2d5-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T13:25:57+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "All Spanish cup matches suspended after Madrid train collision",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
-   "desc": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after more than 30 people were killed in a train crash near Madrid.",
+   "desc": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196d/live/ff0ee8f0-d2ca-11f1-8e79-5381b0a9d682.jpg",
    "date": "2026-10-28T13:25:48+00:00",
    "source": "BBC Sport",
@@ -616,24 +643,6 @@
    "cat": "tech"
   },
   {
-   "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-   "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-   "desc": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 mill",
-   "image": "",
-   "date": "2026-10-28T13:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Inside Amazon’s Echo hardware event",
-   "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-   "desc": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's fir",
-   "image": "",
-   "date": "2026-10-28T12:46:42+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "A single sauna session sends immune cells surging through your body",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
    "desc": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprisin",
@@ -641,15 +650,6 @@
    "date": "2026-10-28T12:37:31+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-   "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-   "desc": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.",
-   "image": "",
-   "date": "2026-10-28T12:25:49+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Smaller EV batteries, longer range? Scientists may have found a way",
@@ -796,6 +796,15 @@
    "cat": "business"
   },
   {
+   "title": "'Not a concern': 118 runs, no fifty in tri-series but Babar still has Pakistan's backing",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/not-a-concern-118-runs-in-four-innings-no-fifty-in-tri-series-but-babar-azam-still-has-pakistans-backing/articleshow/135261450.cms",
+   "desc": "Pakistan suffered their first defeat of the series on Tuesday, losing to Sri Lanka by eight wickets in Lahore. Babar top-scored for Pakistan with 29, but the team's batting lineup collapsed as they were bowled out for ju",
+   "image": "",
+   "date": "2026-10-28T10:32:57+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
@@ -855,15 +864,6 @@
    "desc": "Finlay O'Neill thought his sporting days were over when his dislocated a knee at the age of 16. Now he is preparing to play a part in England's bid to retain the Wheelchair Rugby League World Cup.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0e/live/0dd334b0-cadb-11f1-b12b-29678970ab1b.jpg",
    "date": "2026-10-28T09:19:13+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
-   "title": "Can clubs stop team news leaking out through FPL picks?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
-   "desc": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg",
-   "date": "2026-10-28T08:36:46+00:00",
    "source": "BBC Sport",
    "cat": "sports"
   },
