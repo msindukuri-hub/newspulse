@@ -1,8 +1,161 @@
 {
- "generated_at": "2026-10-28T17:30:35.877759+00:00",
+ "generated_at": "2026-10-28T18:00:29.488125+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "You can see every red flag in Theranos 2.0",
+   "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+   "desc": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From",
+   "image": "",
+   "date": "2026-10-28T18:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "10 Lakh Target, Anti-SIR Push: Congress Strategy for November 1 Ramlila Rally",
+   "link": "https://www.ndtv.com/india-news/10-lakh-target-anti-sir-push-congresss-strategy-for-november-1-ramlila-rally-12250668#publisher=newsstand",
+   "desc": "\"Our target is to bring 10 lakh (one million) people. Ensuring the success of this rally is the collective responsibility of all parties within the INDIA alliance, and everyone is actively involved,\" Congress Rajya Sabha",
+   "image": "https://c.ndtvimg.com/2026-10/tdb7ngq_ramlila-maidan_625x300_12_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:57:29+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+   "desc": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+   "image": "",
+   "date": "2026-10-28T17:56:10+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Healey tells departments to make 1% cuts to fund defence",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
+   "date": "2026-10-28T17:52:48+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Here’s how macOS is changing for touchscreens",
+   "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+   "desc": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though; mo",
+   "image": "",
+   "date": "2026-10-28T17:48:28+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
+   "link": "https://www.ndtv.com/india-news/mumbai-airport-airlines-work-out-plan-to-shift-traffic-to-navi-mumbai-12250714#publisher=newsstand",
+   "desc": "In a meeting with the Airline Operators Committee (AOC) on Wednesday, the airport said IndiGo, Air India and Akasa Air have finalised plans to move international operations accounting for around three million passengers ",
+   "image": "https://c.ndtvimg.com/2023-07/d3i6b0k_mumbai-airport_625x300_12_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:48:27+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Here is what you need to know about the payment that millions will receive from January.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T17:47:37+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Jamia Extends Online Classes Till November 24, Will Hold Exams Virtually",
+   "link": "https://www.ndtv.com/education/jamia-milia-islamia-extends-online-classes-till-november-24-will-hold-exams-virtually-12250708#publisher=newsstand",
+   "desc": "The university had earlier ordered classes to be conducted online till November 8. (File Photo)",
+   "image": "https://c.ndtvimg.com/2026-10/1q5dnm9k_jamia-milia-islamia-students-protest-continue-pti_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1",
+   "date": "2026-10-28T17:46:33+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Yamuna Cruise To Launch Before Chhath, But Data Shows River Still Polluted",
+   "link": "https://www.ndtv.com/india-news/yamuna-cruise-to-launch-before-chhath-but-data-shows-river-still-polluted-12250697#publisher=newsstand",
+   "desc": "The proposed cruise service aims to offer residents and tourists a new way to experience the Yamuna.",
+   "image": "https://w.ndtvimg.com/sites/3/2019/02/07123159/yamuna-froth-bubble.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:43:06+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Akali Leader Bikram Majithia's 'Prove Or Apologise' Warning To AAP On Drug Case",
+   "link": "https://www.ndtv.com/india-news/stop-linking-assets-case-to-drugs-akali-leader-challenges-arvind-kejriwal-bhagwant-mann-12250676#publisher=newsstand",
+   "desc": "Bikram Singh Majithia said allegations of disproportionate assets have no link with drugs.",
+   "image": "https://c.ndtvimg.com/2026-10/o3c98i0s_bikram-singh-majithia-said-allegations-of-disproportionate-assets-have-no-link-with-drugs_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:40:09+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+   "desc": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
+   "image": "",
+   "date": "2026-10-28T17:39:43+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Labuschagne's form hits record low but Australia hint at future",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
+   "desc": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T17:33:41+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+   "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
+   "date": "2026-10-28T17:32:51+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
+   "link": "https://www.ndtv.com/world-news/within-96-hours-us-forces-ready-to-renew-iran-strikes-await-donald-trump-nod-12250274#publisher=newsstand",
+   "desc": "Enough US forces are already deployed in the region to carry out the attacks",
+   "image": "https://c.ndtvimg.com/2026-10/sgmciad8_trump-afp_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T17:32:33+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Mumbai Airport Shares Vision For Redevelopment Of Terminal 1",
+   "link": "https://www.ndtv.com/india-news/mumbai-airport-shares-vision-for-redevelopment-of-terminal-1-12250648#publisher=newsstand",
+   "desc": "Mumbai Airport's existing Terminal 1 is an ageing facility. (File Photo)",
+   "image": "https://c.ndtvimg.com/2026-10/2cn2usrg_mumbai-airport-t1-redevelopment-airlines-get-slot-assurance-october-28-deadline-set_625x300_13_October_26.jpg",
+   "date": "2026-10-28T17:32:12+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Domestic Air Passenger Traffic Falls In September, IndiGo Retains Lead",
+   "link": "https://www.ndtv.com/india-news/domestic-air-passenger-traffic-falls-in-september-indigo-retains-lead-12250611#publisher=newsstand",
+   "desc": "IndiGo carried 77.30 lakh passengers in September.",
+   "image": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:29:49+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Deaths, Defence, Inflation: What Drove Israel's Poll Highest Turnout Since 1999",
+   "link": "https://www.ndtv.com/world-news/deaths-defence-inflation-what-drove-israels-poll-highest-turnout-since-1999-12250637#publisher=newsstand",
+   "desc": "The Hamas attack of October 7, 2023 and the conflicts that followed have taken a heavy toll on Israel.",
+   "image": "https://c.ndtvimg.com/2026-10/qe2qtoe8_israel-elections_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:29:40+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
    "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
@@ -31,13 +184,31 @@
    "cat": "tech"
   },
   {
-   "title": "Will I get the £100 energy payment and when will I receive it?",
-   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Here is what you need to know about the payment that millions will receive from January.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T17:22:00+00:00",
-   "source": "BBC Business",
-   "cat": "business"
+   "title": "Teacher Attacked With Sharp Weapon By Cook's Son In Assam School",
+   "link": "https://www.ndtv.com/india-news/teacher-attacked-with-sharp-weapon-by-cooks-son-in-assam-school-12250602#publisher=newsstand",
+   "desc": "The reason behind the attack is unclear. (Representational Photo)",
+   "image": "https://c.ndtvimg.com/2025-07/ih3kamd8_assam-police-_625x300_11_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "date": "2026-10-28T17:25:00+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Madonna's Malawi surgery centre treats over 2,000 children a year for free",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2017-madonnas-charity-opened-a-childrens-surgery-centre-in-malawi-by-2025-it-reported-life-saving-operations-for-over-2000-children-a-year-with-care-provided-at-a-free-public-facility/articleshow/135271600.cms",
+   "desc": "Madonna's charity, Raising Malawi, has established the Mercy James Centre for Paediatric Surgery and Intensive Care in Malawi. This facility performs over 2,000 life-saving surgeries each year at Queen Elizabeth Central ",
+   "image": "",
+   "date": "2026-10-28T17:24:08+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "\"Working To Fix This\": YouTube After Thousands Of Users Face Outage In US",
+   "link": "https://www.ndtv.com/world-news/working-to-fix-this-youtube-after-thousands-of-users-face-outage-in-us-12250312#publisher=newsstand",
+   "desc": "User complaints spiked drastically with over 24,000 active outage reports",
+   "image": "https://i.ndtvimg.com/i/2015-10/youtube-logo_650x400_61445453025.jpg",
+   "date": "2026-10-28T17:21:51+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
@@ -58,6 +229,15 @@
    "cat": "tech"
   },
   {
+   "title": "How Cyclone 'Arnab' Gave Many Babies Their Names In Odisha",
+   "link": "https://www.ndtv.com/india-news/how-cyclone-arnab-gave-many-babies-their-names-in-odisha-12250572#publisher=newsstand",
+   "desc": "Cyclone Arnab was named by Bangladesh, and is pronounced 'Ornab'.",
+   "image": "https://c.ndtvimg.com/2026-10/2vm1igtk_cyclone-arnab-source-pti_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T17:15:46+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
    "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
    "desc": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet ",
@@ -74,6 +254,15 @@
    "date": "2026-10-28T17:10:46+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Meet Quint Pottinger: Driverless tractor helps protect 245-year Kentucky farm",
+   "link": "https://timesofindia.indiatimes.com/world/us/meet-quint-pottinger-the-eighth-generation-kentucky-farmer-who-uses-autonomous-tractors-to-save-his-245-year-old-family-farm-after-three-years-of-drought-cut-yields-to-100-130-bushels-per-acre/articleshow/135273649.cms",
+   "desc": "Meet Quint Pottinger, an eighth-generation Kentucky farmer turning to autonomous tractors to protect his family’s 245-year-old farm. After three years of drought reduced crop yields to 100-130 bushels per acre, technolog",
+   "image": "",
+   "date": "2026-10-28T17:08:13+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Apple announces its first touchscreen MacBook Pro",
@@ -139,6 +328,15 @@
    "cat": "world"
   },
   {
+   "title": "Israel Election Results Live: Israel Elections 'Stolen' By Arab Parties, Claims Netanyahu, As His Party Falls Short Of Majority",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T16:58:05+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Budget 2026: Key points at a glance",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
@@ -157,15 +355,6 @@
    "cat": "business"
   },
   {
-   "title": "Labuschagne's form hits record low but Australia hint at future",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-28T16:51:27+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Hero Haughey's 'surreal moment' after Arsenal shock",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko?at_medium=RSS&at_campaign=rss",
    "desc": "Fleetwood Town defender Conor Haughey tells BBC Sport NI's Thomas Kane about his winning penalty in the Carabao Cup shootout win against Arsenal, the reaction from those back home in Belfast and who he wants next in the ",
@@ -173,6 +362,15 @@
    "date": "2026-10-28T16:50:58+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "Harvard Professor Ranjay Gulati On AI Divide And How Courage Will Determine Winners | NDTV Profit Ignite",
+   "link": "https://www.ndtv.com/india-news/harvard-professor-ranjay-gulati-on-ai-divide-and-how-courage-will-determine-winners-12250384#publisher=newsstand",
+   "desc": "Ranjay Gulati said it is prudent to \"surface your beliefs\" amid uncertainity.",
+   "image": "https://c.ndtvimg.com/2026-10/4f4pcir_rahul_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T16:48:47+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Kamala Harris warns Democrats against third Trump impeachment, urges focus on investigations",
@@ -220,24 +418,6 @@
    "cat": "business"
   },
   {
-   "title": "Ghaziabad Woman Falls For Gym Trainer, Plots Husband's Murder. He Survives",
-   "link": "https://www.ndtv.com/india-news/ghaziabad-woman-falls-for-gym-trainer-plots-husbands-murder-he-survives-12250387#publisher=newsstand",
-   "desc": "Police said Pratap told them during questioning that the two planned to marry.",
-   "image": "https://c.ndtvimg.com/2026-10/5paq9404_ghaziabad-woman-gym-trainer_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T16:39:01+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "\"Working To Fix This\": YouTube After Thousands Of Users Face Outage In US",
-   "link": "https://www.ndtv.com/world-news/working-to-fix-this-youtube-after-thousands-of-users-face-outage-in-us-12250312#publisher=newsstand",
-   "desc": "Over 24,000 complaints have been recorded on Downdetecter since Wednesday morning.",
-   "image": "https://i.ndtvimg.com/i/2015-10/youtube-logo_650x400_61445453025.jpg",
-   "date": "2026-10-28T16:38:56+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Davies crossing divide between pitch and boardroom",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&at_campaign=rss",
    "desc": "Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.",
@@ -265,24 +445,6 @@
    "cat": "business"
   },
   {
-   "title": "All the news from Apple’s ‘Pro and tell’ event",
-   "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
-   "desc": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced t",
-   "image": "",
-   "date": "2026-10-28T16:30:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Ex-Bengal Minister Indranil Sen Arrested Over Irregularities In Durga Puja Pass Sales",
-   "link": "https://www.ndtv.com/india-news/ex-bengal-minister-indranil-sen-arrested-over-irregularities-in-durga-puja-pass-sales-12250343#publisher=newsstand",
-   "desc": "Indranil Sen had earlier approached the Calcutta High Court seeking anticipatory bail (File)",
-   "image": "https://c.ndtvimg.com/2026-10/fdlf6leg_indranil-sen_625x300_28_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T16:29:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "America's largest budget airline reports 71% jump in airfare",
    "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
    "desc": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
@@ -290,24 +452,6 @@
    "date": "2026-10-28T16:29:09+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Scientists discover giant new fungus in China, 20 inches tall and nearly 5lb",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-have-discovered-a-giant-new-fungus-in-china-that-grows-up-to-20-inches-tall-and-weighs-nearly-five-pounds-making-it-the-largest-known-of-its-kind-and-a-surprising-new-find-in-a-well-studied-group/articleshow/135272095.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T16:27:07+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "1930 Illinois orphanage-turned-mansion offered with $975k suggested auction bid",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1930-as-an-illinois-orphanage-a-17-bedroom-property-later-became-a-family-mansion-now-its-10-acre-estate-was-at-auction-with-a-975000-suggested-bid-against-an-advertised-earlier-value-above-2-25-million/articleshow/135257050.cms",
-   "desc": "Transforming a historic orphanage from 1930 into a grand private home, this Illinois property spans an impressive 10,000 square feet with 17 bedrooms. Up for auction, it starts at a suggested bid of $975,000. Buyers can ",
-   "image": "",
-   "date": "2026-10-28T16:26:31+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
@@ -319,40 +463,13 @@
    "cat": "business"
   },
   {
-   "title": "Cabinet Okays Pradhan Mantri Viksit Gram Swaraj Yojana With Rs 7,395 Crore Outlay",
-   "link": "https://www.ndtv.com/india-news/cabinet-okays-pradhan-mantri-viksit-gram-swaraj-yojana-with-rs-7-395-crore-outlay-12250291#publisher=newsstand",
-   "desc": "The scheme will extend to all States and UTs. (File Photo)",
-   "image": "https://c.ndtvimg.com/2026-10/d6uglcvs_pm-modi-at-mobile-congress_625x300_08_October_26.jpeg",
-   "date": "2026-10-28T16:18:40+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Meta says it’ll probably delay its controversial new business terms again",
    "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
    "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
    "image": "",
    "date": "2026-10-28T16:15:30+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
-   "link": "https://www.ndtv.com/world-news/within-96-hours-us-forces-ready-to-renew-iran-strikes-await-donald-trump-nod-12250274#publisher=newsstand",
-   "desc": "Enough US forces are already deployed in the region to carry out the attacks",
-   "image": "https://c.ndtvimg.com/2026-10/sgmciad8_trump-afp_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T16:15:14+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Crude Price Drop Not Enough To Attract Foreign Investors To India: Quantum's Ajit Dayal",
-   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-crude-price-drop-not-enough-to-attract-foreign-investors-to-india-quantums-ajit-dayal-12248930#publisher=newsstand",
-   "desc": "Ajit Dayal said the country must provide suitable conditions for investment.",
-   "image": "https://c.ndtvimg.com/2026-10/aa3qudcc_ajit-dayal_625x300_28_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T16:11:40+00:00",
-   "source": "NDTV",
-   "cat": "india"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "Perez signs multi-year extension with Cadillac",
@@ -362,24 +479,6 @@
    "date": "2026-10-28T16:10:07+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Meet Toran Sheikh: Bengal road worker has donated blood 105 times in 28 years",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/after-donating-blood-to-an-injured-colleague-in-1998-bengal-road-worker-toran-sheikh-kept-helping-strangers-28-years-later-the-daily-wage-labourer-has-donated-blood-105-times-and-runs-village-camps/articleshow/135271806.cms",
-   "desc": "Toran Sheikh, a dedicated road worker hailing from West Bengal, has made an impressive mark in the realm of philanthropy by donating blood over 100 times since he turned 18. His altruistic journey began when he helped a ",
-   "image": "",
-   "date": "2026-10-28T16:08:46+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-   "desc": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-   "image": "",
-   "date": "2026-10-28T16:07:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Microsoft earnings will land after the close",
@@ -409,15 +508,6 @@
    "cat": "tech"
   },
   {
-   "title": "Celine Dion's former Florida mansion sells for $12.5m after $20m listing",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/celine-dion-sold-her-florida-mansion-for-9-million-in-2002-four-years-after-it-was-built-for-her-the-waterfront-property-has-now-fetched-12-5-million-after-a-20-million-listing/articleshow/135271812.cms",
-   "desc": "Celine Dion’s former Florida mansion in Jupiter has sold for $12.5 million in an off-market deal. Built for the singer in 1998, the waterfront property was sold by her for $9 million in 2002. The 14,750-square-foot luxur",
-   "image": "",
-   "date": "2026-10-28T15:54:19+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "AI execs may be too out of touch to build for the general public",
    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
    "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
@@ -434,15 +524,6 @@
    "date": "2026-10-28T15:53:21+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Trade Barriers A Hurdle To China-India Ties: Nirmala Sitharaman",
-   "link": "https://www.ndtv.com/india-news/trade-barriers-a-hurdle-to-china-india-ties-nirmala-sitharaman-12194034#publisher=newsstand",
-   "desc": "Nirmala Sitharaman called out China for denying market access to India's goods.",
-   "image": "https://c.ndtvimg.com/2025-02/1mau13oc_nirmala-sitharaman_160x120_02_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T15:46:14+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "At least 68 people dead in high-speed Spain train crash",
@@ -463,42 +544,6 @@
    "cat": "tech"
   },
   {
-   "title": "Mangled Trains, Derailed Carriages: Drone Footage Of Spain Crash Site",
-   "link": "https://www.ndtv.com/world-news/spain-train-collision-mangled-trains-derailed-carriages-drone-footage-of-spain-crash-site-12248553#publisher=newsstand",
-   "desc": "The video also shows a large emergency response operation already underway",
-   "image": "https://c.ndtvimg.com/2026-10/v1vob5f4_spain-train-crash-_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T15:41:10+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
-   "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
-   "desc": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
-   "image": "https://c.ndtvimg.com/2026-10/el3sot3o_spain-train-collision-twitter-_650x400_28_October_26.jpg",
-   "date": "2026-10-28T15:38:22+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Spain Train Crash Updates: Human Error Believed To Be Behind Toledo Train Crash, Says Report",
-   "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
-   "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
-   "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T15:37:34+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Israel Election Results Live: Deadlocked Israel Awaits Results As Opposition Eyes Arab Partnership",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T15:35:58+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Scottish side to play two cup ties simultaneously after schedule clash",
    "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
    "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
@@ -508,15 +553,6 @@
    "cat": "sports"
   },
   {
-   "title": "Singapore Investors Propose High-Tech Township Near Noida Airport",
-   "link": "https://www.ndtv.com/india-news/singapore-investors-propose-high-tech-township-near-noida-international-airport-in-uttar-pradesh-12249760#publisher=newsstand",
-   "desc": "The proposal was discussed during a meeting between Chief Minister Yogi Adityanath and the delegation.",
-   "image": "https://c.ndtvimg.com/2026-10/0tg2bkds_noida-airport_625x300_09_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T15:28:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Man clings to moving Thar SUV as traffic cops try to seize vehicle in Gurgaon",
    "link": "https://timesofindia.indiatimes.com/city/gurgaon/no-number-plate-tinted-windows-man-clings-to-moving-thar-as-traffic-cops-try-to-impound-vehicle-in-gurgaon/articleshow/135271151.cms",
    "desc": "On a Tuesday evening, traffic police pulled over a black Mahindra Thar for inspection after noticing violations, including the absence of a number plate and heavily tinted windows. The driver was unable to provide any do",
@@ -524,15 +560,6 @@
    "date": "2026-10-28T15:28:21+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-   "desc": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
-   "image": "",
-   "date": "2026-10-28T15:12:09+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
@@ -553,15 +580,6 @@
    "cat": "india"
   },
   {
-   "title": "Shots Fired At Delhi Businessman's Home, Cops Probe Lawrence Bishnoi Link",
-   "link": "https://www.ndtv.com/india-news/shots-fired-at-delhi-businessmans-home-cops-probe-lawrence-bishnoi-link-12248550#publisher=newsstand",
-   "desc": "Police have recovered one live cartridge and two empty cartridge cases from the spot.",
-   "image": "https://c.ndtvimg.com/2026-07/dinnn344_delhi-police-generic-pti_625x300_27_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T15:05:43+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
    "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
@@ -569,15 +587,6 @@
    "date": "2026-10-28T15:00:00+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Investors Should Bet Against Market Trends: ICICI Prudential AMC's S Naren | NDTV Profit Ignite",
-   "link": "https://www.ndtv.com/india-news/why-investors-should-bet-against-popular-stock-market-trends-explains-s-naren-12249021#publisher=newsstand",
-   "desc": "S Naren, Executive Director and Chief Investment Officer of ICICI Prudential Asset Management Company.",
-   "image": "https://c.ndtvimg.com/2026-10/cd6hi5lo_ds_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T14:56:22+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "How much is the minimum wage going up by?",
@@ -670,6 +679,15 @@
    "cat": "business"
   },
   {
+   "title": "Minnesota farmer finds 11-foot metal bowl in cornfield; Chinese rocket suspected",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-farmer-found-a-shiny-11-foot-wide-bowl-shaped-metal-object-lying-in-his-cornfield-where-he-believes-it-sat-for-about-six-weeks-experts-now-suspect-it-fell-from-a-chinese-rocket/articleshow/135266490.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T13:40:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
    "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
    "desc": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
@@ -749,6 +767,15 @@
    "date": "2026-10-28T12:37:31+00:00",
    "source": "ScienceDaily",
    "cat": "science"
+  },
+  {
+   "title": "Taylor Swift and Travis Kelce's gift lets Nashville grocery store resume aid",
+   "link": "https://timesofindia.indiatimes.com/world/us/how-taylor-swift-and-travis-kelces-donation-helped-a-nashville-free-grocery-store-resume-support-for-families-on-its-waitlist/articleshow/135265150.cms",
+   "desc": "Prior to their wedding at Madison Square Garden, Taylor Swift and Travis Kelce donated $26 million to various charities. One of the notable beneficiaries was The Store, a Nashville non-profit aimed at combating food inse",
+   "image": "",
+   "date": "2026-10-28T12:28:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Smaller EV batteries, longer range? Scientists may have found a way",
@@ -931,15 +958,6 @@
    "cat": "world"
   },
   {
-   "title": "'Diwali gift from PM Modi': Cabinet approves 3% DA increase for central govt employees",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-3-da-increase-for-central-govt-employees/articleshow/135259780.cms",
-   "desc": "In a significant move ahead of the Diwali celebrations, the Union Cabinet has approved a 3 percent increase in Dearness Allowance and Dearness Relief for central government employees and pensioners, impacting more than 1",
-   "image": "",
-   "date": "2026-10-28T09:38:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
    "desc": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its ",
@@ -954,6 +972,15 @@
    "desc": "",
    "image": "",
    "date": "2026-10-28T09:14:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "The debt bill that keeps growing: Inside Pakistan's gas crisis",
+   "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-gas-mess-lpg-prices-soar-imported-lng-piles-up-and-the-debt-bill-keeps-growing/articleshow/135258993.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:09:47+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -1012,15 +1039,6 @@
    "cat": "world"
   },
   {
-   "title": "Zuckerberg & wife give California $50 mn weeks after donation shift announcement",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-announced-in-late-2025-that-they-are-shifting-their-donations-just-weeks-later-meta-ceo-gifted-state-of-california-50-million-to-fund-abatement-demolition-and-/articleshow/135251878.cms",
-   "desc": "In a generous move, Mark Zuckerberg and Priscilla Chan have pledged $50 million to Sacramento State University. The contribution will assist in the conversion of three state office buildings into an innovative campus, en",
-   "image": "",
-   "date": "2026-10-28T04:26:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
    "desc": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the b",
@@ -1039,6 +1057,15 @@
    "cat": "science"
   },
   {
+   "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
+   "desc": "Microsoft is offering buyouts to around 60,000 employees, over a quarter of its workforce, in India, the US, the UK and Canada. HR head Amy Coleman announced the Voluntary Exit Offer in a memo to staff. The package match",
+   "image": "",
+   "date": "2026-10-28T02:23:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
    "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
    "desc": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mob",
@@ -1053,33 +1080,6 @@
    "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
    "image": "",
    "date": "2026-10-28T01:15:28+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Scientists discover the immune system’s hidden sense of touch",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-   "desc": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surroundi",
-   "image": "",
-   "date": "2026-10-28T00:54:54+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "'An annoying buzz': The search for stealthier drones",
-   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-   "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
-   "date": "2026-10-28T00:01:10+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "image": "",
-   "date": "2026-10-27T23:34:27+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
   }
