@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-28T00:30:12.345267+00:00",
+ "generated_at": "2026-10-28T01:00:17.350290+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "'Biggest night in the club's history' for fearless Fleetwood",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+   "desc": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg",
+   "date": "2026-10-28T00:39:30+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+   "desc": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b8/live/73dea320-d260-11f1-b2d5-7de31c6a8089.jpg",
+   "date": "2026-10-28T00:34:31+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Government identifies 120 items for local production push",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/government-identifies-120-items-for-local-production-push/articleshow/135248521.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T00:33:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "India would have grown 8% but for external shocks: RBI",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/india-would-have-grown-8-but-for-external-shocks-rbi/articleshow/135248492.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T00:26:46+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
    "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
@@ -92,15 +128,6 @@
    "date": "2026-10-27T23:41:23+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "General medicine tops NEET-PG choices among first 100",
-   "link": "https://timesofindia.indiatimes.com/india/general-medicine-tops-neet-pg-choices-among-first-100/articleshow/135247981.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T23:37:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
@@ -301,15 +328,6 @@
    "cat": "india"
   },
   {
-   "title": "Over 100 killed, 113 injured in drone strike on Sudan market",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T21:59:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "GM is embracing hybrids now",
    "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
    "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
@@ -407,15 +425,6 @@
    "date": "2026-10-27T21:09:12+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
-   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-   "image": "",
-   "date": "2026-10-27T21:07:51+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Gadi Eisenkot: The Man Who Could Bring Benjamin Netanyahu's Long Rule To An End",
@@ -742,15 +751,6 @@
    "cat": "tech"
   },
   {
-   "title": "Captain Xhaka allowed to play for Switzerland again",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o?at_medium=RSS&at_campaign=rss",
-   "desc": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3161/live/109258e0-d227-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-27T17:00:58+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "The Super Mouse puts a touchscreen macro pad under your hand",
    "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
    "desc": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The",
@@ -940,15 +940,6 @@
    "cat": "ai"
   },
   {
-   "title": "How 'anti-superstar' Kane defied doubters to become world's best",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg",
-   "date": "2026-10-27T12:46:39+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Elon Musk’s six-word reply to Verizon CEO who said SpaceX needs 8 years to take it on",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-has-a-six-word-reply-for-ceo-of-americas-largest-mobile-network-company-who-said-spacex-needs-eight-years-to-build-a-rival-network/articleshow/135233943.cms",
    "desc": "Verizon CEO Dan Schulman says SpaceX would need up to $500 billion, 80,000 cell towers and as long as eight years to build a US mobile network that rivals Verizon. Elon Musk hit back on X, saying it \"will take 2 or 3 yea",
@@ -1080,6 +1071,15 @@
    "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
    "date": "2026-10-27T06:33:11+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Donald Trump's biggest economic problem looks strangely familiar",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+   "date": "2026-10-27T06:01:11+00:00",
    "source": "BBC Business",
    "cat": "business"
   }
