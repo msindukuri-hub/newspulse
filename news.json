@@ -1,23 +1,95 @@
 {
- "generated_at": "2026-10-28T08:30:41.714390+00:00",
+ "generated_at": "2026-10-28T09:00:20.560185+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
    "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
    "image": "",
-   "date": "2026-10-28T08:07:22+00:00",
+   "date": "2026-10-28T08:51:00+00:00",
    "source": "CNBC",
    "cat": "business"
   },
   {
-   "title": "Knife-wielding attacker shot dead outside Israeli embassy in Serbia",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/knife-wielding-attacker-shot-dead-outside-israeli-embassy-in-serbia/articleshow/135257447.cms",
-   "desc": "In a shocking incident, a minor armed with a knife assaulted a security guard near the Israeli Embassy in Belgrade shortly after midnight. Witnesses reported that the assailant yelled Islamist phrases during the attack. ",
+   "title": "BJP fields Hardeep Singh Puri as its candidate for Rajya Sabha bypoll from MP",
+   "link": "https://timesofindia.indiatimes.com/india/bjp-fields-hardeep-singh-puri-as-its-candidate-for-rajya-sabha-bypoll-from-mp/articleshow/135258383.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-28T08:03:21+00:00",
+   "date": "2026-10-28T08:38:14+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Can clubs stop team news leaking out through FPL picks?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
+   "desc": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713a/live/466d7cb0-d12d-11f1-9a61-7b8d75492b97.jpg",
+   "date": "2026-10-28T08:36:46+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Liverpool gambled on Jacquet and it is paying off",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+   "desc": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/8a6c2fc0-d154-11f1-9eb5-811878e0f07d.jpg",
+   "date": "2026-10-28T08:36:34+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Judge rules Trump's top LA prosecutor serving unlawfully, pauses 2-case ban",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-federal-judge-ruled-trump-appointed-prosecutor-bill-essayli-is-unlawfully-serving-as-los-angeless-top-u-s-attorney-and-disqualified-him-from-two-cases-but-paused-the-disqualification-while-the-justice-department-seeks-a-stay/articleshow/135256729.cms",
+   "desc": "A federal judge has deemed Bill Essayli's appointment as U.S. attorney to be unlawful. While this ruling comes with a temporary stay, it leaves him in his position for now. This case is crucial, as it raises questions ab",
+   "image": "",
+   "date": "2026-10-28T08:28:15+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Edward III gold coin, in circulation just 7 months, sells for £70,000",
+   "link": "https://timesofindia.indiatimes.com/world/uk/a-rare-gold-coin-from-the-reign-of-englands-edward-iii-minted-as-a-leopard-that-was-in-circulation-for-just-seven-months-in-the-14th-century-emerged-from-an-ordinary-suburban-home-and-has-sold-at-auction-for-70000/articleshow/135255161.cms",
+   "desc": "An exquisite gold coin from the 14th century, known as a leopard, has recently fetched a staggering £70,000 at auction. Issued during the reign of King Edward III, this coin was only in circulation for seven months befor",
+   "image": "",
+   "date": "2026-10-28T08:28:04+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Scientists develop 3D cloak that hides complex objects from infrared cameras",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/researchers-have-developed-a-3d-thermal-invisibility-cloak-that-can-hide-complex-objects-from-infrared-cameras-while-also-protecting-them-from-extreme-heat-and-cold-a-step-beyond-earlier-cloaks-that-only-worked-with-simple-shapes/articleshow/135255767.cms",
+   "desc": "Researchers at University of Illinois Urbana-Champaign and Technical University of Denmark developed a thermal invisibility cloak. This cloak effectively hides complex objects from infrared cameras while managing extreme",
+   "image": "",
+   "date": "2026-10-28T08:27:42+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Failed to make presence felt': BJP's 'ballot paper' jibe at Rahul after MLC poll rout",
+   "link": "https://timesofindia.indiatimes.com/india/failed-to-establish-presence-bjp-takes-ballot-paper-jibe-at-rahul-after-congress-draws-blank-in-mlc-polls/articleshow/135257517.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T08:24:30+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Won't make questions disappear': Dipke accuses Centre of Instagram crackdown",
+   "link": "https://timesofindia.indiatimes.com/india/taking-down-instagram-accounts-wont-make-questions-disappear-abhijeet-dipke-accuses-centre-of-digital-crackdown/articleshow/135257840.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T08:17:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Alicia Keys' charity raises $86.6m, supports 9.3m across 28 countries",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2003-alicia-keys-co-founded-a-charity-to-help-children-affected-by-hiv-two-decades-later-it-has-raised-86-6-million-and-supports-9-3-million-children-young-people-and-families-in-28-countries/articleshow/135257460.cms",
+   "desc": "During her journey to South Africa, Alicia Keys encountered the profound effects of HIV/AIDS on families and children, which ignited her passion to co-found Keep a Child Alive in 2003. The organization has successfully r",
+   "image": "",
+   "date": "2026-10-28T08:07:53+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -45,8 +117,8 @@
    "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
    "date": "2026-10-28T07:53:20+00:00",
-   "source": "BBC Business",
-   "cat": "business"
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
@@ -94,24 +166,6 @@
    "cat": "business"
   },
   {
-   "title": "Tiny snakes in Malaysia cartwheel at up to 12 feet per second to escape danger",
-   "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-spot-rare-tiny-snakes-in-malaysia-that-do-not-just-slither-but-do-cartwheels-they-roll-at-12-feet-per-second-when-they-sense-danger/articleshow/135254624.cms",
-   "desc": "In innovative research, scientists observed dwarf reed snakes in Southeast Asia adeptly using rapid cartwheeling to escape threats. Achieving speeds of 5.6 to 12.1 feet per second, this striking movement technique aids t",
-   "image": "",
-   "date": "2026-10-28T07:36:22+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Whole tide turned': Trump takes credit for Netanyahu's showing in Israel elections",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/the-whole-tide-turned-trump-takes-credit-for-netanyahus-showing-in-israel-elections/articleshow/135256750.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T07:33:23+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 55 Seats After Half Of Votes Counted",
    "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
    "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
@@ -130,15 +184,6 @@
    "cat": "india"
   },
   {
-   "title": "Montana rancher's dinosaur skeleton sells for $47.3m, 5 times top estimate",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2019-a-montana-rancher-found-a-rare-dinosaur-skeleton-on-her-land-seven-years-later-the-70-complete-nanotyrannus-sold-for-47-3-million-at-a-new-york-auction-far-above-its-9-million-top-estimate/articleshow/135255443.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T07:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 350 Points As Oil Prices Remains Steady At $115",
    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
    "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
@@ -153,15 +198,6 @@
    "desc": "Cyclone Arnab crossed the Andhra Pradesh coast, causing fatalities due to electrocution in separate incidents. Heavy rainfall exceeding 200 mm was recorded in several districts, with trees and electric poles uprooted. Fl",
    "image": "",
    "date": "2026-10-28T07:28:14+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "‘Khelunga bhi waise hi’: Abhishek reveals Sooryavanshi's ‘Bhaag Milkha Bhaag’ message",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/khelunga-bhi-waise-hi-abhishek-sharma-reveals-vaibhav-sooryavanshis-bhaag-milkha-bhaag-message-before-nz-blitz/articleshow/135256395.cms",
-   "desc": "India's cricket team triumphed over New Zealand in a thrilling third T20I match, thanks largely to the efforts of 14-year-old Vaibhav Sooryavanshi, who delivered an electrifying 45 runs off just 19 balls. Abhishek Sharma",
-   "image": "",
-   "date": "2026-10-28T07:23:49+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -238,15 +274,6 @@
    "cat": "india"
   },
   {
-   "title": "'We don't want a fight': Delhi traders' body writes to Rahul again over Nov 1 rally",
-   "link": "https://timesofindia.indiatimes.com/india/we-dont-want-a-fight-delhi-traders-body-writes-to-rahul-gandhi-again-over-november-1-rally/articleshow/135255502.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T06:58:07+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
    "desc": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
@@ -283,15 +310,6 @@
    "cat": "sports"
   },
   {
-   "title": "Shruti Haasan calls Kamal her biggest ally; why independent children matter",
-   "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/shruti-haasan-calls-kamal-haasan-her-biggest-ally-what-psychology-research-reveals-about-raising-independent-children-and-why-thinking-for-themselves-matters-more-than-making-them-agree-with-you/articleshow/135255241.cms",
-   "desc": "At Tweak Summit 2026, Shruti Haasan offered thought-provoking insights on the art of parenting. She stressed the critical role of parents in fostering autonomy, which is vital for children's development. Citing research,",
-   "image": "",
-   "date": "2026-10-28T06:48:24+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "The Prem talents hunting Wales breakthroughs",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5ynrzplz18o?at_medium=RSS&at_campaign=rss",
    "desc": "Exeter's Kane James and Bath's Louie Hennessey are aiming to make an impression with Wales in November's Nations Championship.",
@@ -319,6 +337,15 @@
    "cat": "india"
   },
   {
+   "title": "No water in washrooms, family forced to get off train; Railways to pay Rs 16k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/family-of-24-forced-to-get-off-a-train-over-washrooms-without-water-paid-extra-to-reach-destination-yet-railways-denied-the-problem-until-a-consumer-commission-ordered-a-rs-16000-payout/articleshow/135254695.cms",
+   "desc": "In an important ruling, a district consumer commission in Karnataka found that South Western Railway did not provide sufficient services to its passengers. A traveler and his family endured discomfort stemming from a lac",
+   "image": "",
+   "date": "2026-10-28T06:35:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
    "desc": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
@@ -326,15 +353,6 @@
    "date": "2026-10-28T06:33:14+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Hit-and-run: Kochi police commissioner transferred after crash involving judge’s son",
-   "link": "https://timesofindia.indiatimes.com/city/kochi/mercedes-hit-and-run-kochi-police-commissioner-removed-after-crash-involving-judges-minor-son-4-cops-suspended/articleshow/135254296.cms",
-   "desc": "The Kerala government took action against police officials after lapses in investigating a fatal accident in Cheranallur. Kochi City Police Commissioner Kaliraj Mahesh Kumar has been transferred, along with the suspensio",
-   "image": "",
-   "date": "2026-10-28T06:16:54+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Cundy 'no spring chicken' but nears 20-year unbeaten run",
@@ -346,6 +364,15 @@
    "cat": "sports"
   },
   {
+   "title": "Neeraj Yadav: Polio, 3 Asian Para Games golds, doping ban and a life cut short",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/who-was-neeraj-yadav-three-time-asian-para-games-gold-medallist-dies-by-suicide/articleshow/135253718.cms",
+   "desc": "Neeraj Yadav, a prominent para-athlete, was found dead at his residence and is believed to have died by suicide. He won three gold medals at the Asian Para Games, showcasing his talent in athletics. Yadav faced a doping ",
+   "image": "",
+   "date": "2026-10-28T05:54:30+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
    "desc": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
@@ -355,15 +382,6 @@
    "cat": "business"
   },
   {
-   "title": "Scientists recreate 1,600-year-old Roman cup's colour-changing glass",
-   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-1600-year-old-roman-cup-turns-green-or-ruby-red-depending-on-how-light-hits-it-after-years-of-experiments-sheffield-researchers-have-recreated-the-glass-effect-using-tiny-gold-and-silver-particles/articleshow/135253340.cms",
-   "desc": "A team of researchers has made a groundbreaking achievement by replicating the color-shifting glass of the ancient Roman Lycurgus Cup. Created 1,600 years ago, this unique glass displays stunning optical effects thanks t",
-   "image": "",
-   "date": "2026-10-28T05:36:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
    "desc": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
@@ -371,6 +389,24 @@
    "date": "2026-10-28T05:20:32+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "'I call him Muhammed': Trump suggests daily metal-detector tests for Abdul",
+   "link": "https://timesofindia.indiatimes.com/world/us/i-call-him-muhammed-trump-attacks-michigan-candidate-abdul-suggests-daily-metal-detector-tests-to-sit-in-senate/articleshow/135252128.cms",
+   "desc": "During a campaign rally, Donald Trump made pointed accusations against Michigan Senate candidate Abdul El-Sayed, alleging connections to Sharia law and the Muslim Brotherhood. Trump raised issues about El-Sayed's fitness",
+   "image": "",
+   "date": "2026-10-28T04:50:52+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
+   "date": "2026-10-28T04:32:36+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
@@ -391,6 +427,15 @@
    "cat": "india"
   },
   {
+   "title": "Watch: What happens now after close vote in Israeli election?",
+   "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T04:22:59+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
    "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
    "desc": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the b",
@@ -407,15 +452,6 @@
    "date": "2026-10-28T03:33:53+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Karnataka MLC polls: Big setback for DKS as BJP-led NDA wins all 4 seats",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms",
-   "desc": "In the recent Karnataka Legislative Council elections, the BJP-led National Democratic Alliance achieved a significant victory. Candidates from the NDA won all four contested seats, impacting the ruling Congress party. T",
-   "image": "",
-   "date": "2026-10-28T03:07:50+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
@@ -479,6 +515,15 @@
    "date": "2026-10-28T01:15:28+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "‘Maxxing’ becomes Dictionary.com’s 2026 Word of the Year",
+   "link": "https://timesofindia.indiatimes.com/etimes/trending/maxxing-becomes-dictionary-coms-2026-word-of-the-year-what-the-viral-term-means-and-why-it-earned-the-spot/articleshow/135248656.cms",
+   "desc": "'Maxxing' has emerged as a popular term reflecting the contemporary quest for ongoing self-improvement in the digital realm. This word symbolizes a fusion of ambition with the culture of online life, transforming routine",
+   "image": "",
+   "date": "2026-10-28T01:01:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Scientists discover the immune system’s hidden sense of touch",
@@ -706,6 +751,15 @@
    "cat": "world"
   },
   {
+   "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-27T20:42:38+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
    "desc": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
@@ -713,15 +767,6 @@
    "date": "2026-10-27T20:31:17+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Star Indian vocal singer with US passport visiting India since 2022 without filing Form C",
-   "link": "https://timesofindia.indiatimes.com/city/lucknow/star-singer-with-us-citizenship-visiting-india-since-2022-without-filing-form-c/articleshow/135245186.cms",
-   "desc": "A prominent Indian singer obtained US citizenship in 2022 but failed to report his stays in India. During a recent visit to Agra, hotel staff alerted officials about his lack of identification. The singer submitted neces",
-   "image": "",
-   "date": "2026-10-27T19:40:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Dutch zookeeper dies after being mauled by leopard",
@@ -740,15 +785,6 @@
    "date": "2026-10-27T19:24:06+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-   "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-   "desc": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/5844f360-d226-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-27T19:01:16+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
@@ -783,15 +819,6 @@
    "desc": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png",
    "date": "2026-10-27T18:43:41+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Controversial Islamic cleric shot dead in northern Nigeria",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-   "desc": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719f/live/5b2284f0-d233-11f1-b441-2b33b063138f.png",
-   "date": "2026-10-27T18:35:02+00:00",
    "source": "BBC News",
    "cat": "world"
   },
@@ -832,22 +859,13 @@
    "cat": "business"
   },
   {
-   "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-   "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-   "desc": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-27T17:10:15+00:00",
+   "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+   "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-27T17:11:27+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Australia fight back to keep Cummins out of unwanted club... for now",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
-   "desc": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f724/live/00ef62a0-d224-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T17:10:04+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
@@ -922,22 +940,13 @@
    "cat": "ai"
   },
   {
-   "title": "West warns of famine risk in Sudan as civil war grinds on",
-   "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/8fffe6c0-d208-11f1-b3b6-c1e79e957e40.jpg",
-   "date": "2026-10-27T15:41:46+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
-   "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Formula 1's next engine regulations are set to introduce V8 turbo hybrid engines that are simplified and less expensive compared to the existing rules.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg",
-   "date": "2026-10-27T15:17:53+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
+   "title": "We’d rather die than give up land: Siang villagers on proposed dam project",
+   "link": "https://timesofindia.indiatimes.com/city/guwahati/dao-becomes-symbol-of-adi-resistance-to-siang-dam/articleshow/135239677.cms",
+   "desc": "In Geku, John Panyang and fellow Adi farmers stand firm against the Siang Upper Multipurpose Project, fearing for their land and heritage. The situation escalates as security forces confiscate traditional daos from the v",
+   "image": "",
+   "date": "2026-10-27T15:53:12+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -1001,15 +1010,6 @@
    "date": "2026-10-27T13:25:54+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Trump's Republicans may lose control of Congress: What US betting markets are saying",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-trumps-republicans-may-lose-control-of-congress-what-betting-markets-are-saying/articleshow/135235031.cms",
-   "desc": "Ahead of the November 3 US midterms, betting markets suggest Trump's Republicans could lose control of Congress, with Democrats favoured to win the House and Senate. The odds also point to a difficult contest for Vivek R",
-   "image": "",
-   "date": "2026-10-27T13:21:48+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
