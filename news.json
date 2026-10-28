@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-10-28T07:30:35.841096+00:00",
+ "generated_at": "2026-10-28T08:00:17.397642+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
+   "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+   "desc": "The Atlanta Dream criticized the WNBA for scheduling a Finals game on Thursday afternoon, drawing reactions from Flavor Flav and Hillary Clinton.",
+   "image": "",
+   "date": "2026-10-28T07:58:09+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+   "date": "2026-10-28T07:53:20+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+   "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+   "desc": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+   "image": "",
+   "date": "2026-10-28T07:48:35+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+   "image": "",
+   "date": "2026-10-28T07:41:35+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T07:39:54+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Tiny snakes in Malaysia cartwheel at up to 12 feet per second to escape danger",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-spot-rare-tiny-snakes-in-malaysia-that-do-not-just-slither-but-do-cartwheels-they-roll-at-12-feet-per-second-when-they-sense-danger/articleshow/135254624.cms",
+   "desc": "In innovative research, scientists observed dwarf reed snakes in Southeast Asia adeptly using rapid cartwheeling to escape threats. Achieving speeds of 5.6 to 12.1 feet per second, this striking movement technique aids t",
+   "image": "",
+   "date": "2026-10-28T07:36:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Whole tide turned': Trump takes credit for Netanyahu's showing in Israel elections",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/the-whole-tide-turned-trump-takes-credit-for-netanyahus-showing-in-israel-elections/articleshow/135256750.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T07:33:23+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Montana rancher's dinosaur skeleton sells for $47.3m, 5 times top estimate",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2019-a-montana-rancher-found-a-rare-dinosaur-skeleton-on-her-land-seven-years-later-the-70-complete-nanotyrannus-sold-for-47-3-million-at-a-new-york-auction-far-above-its-9-million-top-estimate/articleshow/135255443.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T07:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
@@ -13,13 +85,22 @@
    "cat": "business"
   },
   {
-   "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+   "title": "Cyclone Arnab: Over 50 trains, several flights cancelled; Andhra, Odisha worst-hit",
+   "link": "https://timesofindia.indiatimes.com/city/vijayawada/cyclone-arnab-2-dead-several-flights-cancelled-over-50-trains-cancelled-as-storm-hits-andhra-odisha/articleshow/135256160.cms",
+   "desc": "Cyclone Arnab crossed the Andhra Pradesh coast, causing fatalities due to electrocution in separate incidents. Heavy rainfall exceeding 200 mm was recorded in several districts, with trees and electric poles uprooted. Fl",
    "image": "",
-   "date": "2026-10-28T07:23:56+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-28T07:28:14+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "‘Khelunga bhi waise hi’: Abhishek reveals Sooryavanshi's ‘Bhaag Milkha Bhaag’ message",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/khelunga-bhi-waise-hi-abhishek-sharma-reveals-vaibhav-sooryavanshis-bhaag-milkha-bhaag-message-before-nz-blitz/articleshow/135256395.cms",
+   "desc": "India's cricket team triumphed over New Zealand in a thrilling third T20I match, thanks largely to the efforts of 14-year-old Vaibhav Sooryavanshi, who delivered an electrifying 45 runs off just 19 balls. Abhishek Sharma",
+   "image": "",
+   "date": "2026-10-28T07:23:49+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
@@ -31,15 +112,6 @@
    "cat": "sports"
   },
   {
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T07:12:45+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "McInnes' Tynecastle return, Goodwin's entertainers & Reedijk eyes first win",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm9qz52e32v8o?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Scotland picks out three things to watch in an intriguing midweek Scottish Premiership card.",
@@ -47,6 +119,24 @@
    "date": "2026-10-28T07:10:28+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "From rivals to team-mates - Ball links up with Pope",
+   "link": "https://www.bbc.co.uk/sport/cycling/articles/cqwy7j5kr3y1o?at_medium=RSS&at_campaign=rss",
+   "desc": "James Ball is set to ride at his 10th Para-cycling Track World Championships as he looks to defend two titles with new pilot Aaron Pope.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e7/live/9c3cf620-c7cd-11f1-9e10-4dcbd31d4273.jpg",
+   "date": "2026-10-28T07:04:48+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "''Ramayana' would give our film more room': ‘Gondhal’ director Santosh Davakhar",
+   "link": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/gondhal-director-santosh-davakhar-on-indias-oscar-entry-diwali-release-in-7-languages-and-more-ramayana-would-give-our-film-more-room-exclusive/articleshow/135255060.cms",
+   "desc": "Director Santosh Davakhar is preparing for the release of his film 'Gondhal' on November 13. This psychological thriller represents Maharashtra's cultural heritage and is India's official entry for the Academy Awards. Th",
+   "image": "",
+   "date": "2026-10-28T07:04:03+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "'We don't want a fight': Delhi traders' body writes to Rahul again over Nov 1 rally",
@@ -94,6 +184,15 @@
    "cat": "sports"
   },
   {
+   "title": "Shruti Haasan calls Kamal her biggest ally; why independent children matter",
+   "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/shruti-haasan-calls-kamal-haasan-her-biggest-ally-what-psychology-research-reveals-about-raising-independent-children-and-why-thinking-for-themselves-matters-more-than-making-them-agree-with-you/articleshow/135255241.cms",
+   "desc": "At Tweak Summit 2026, Shruti Haasan offered thought-provoking insights on the art of parenting. She stressed the critical role of parents in fostering autonomy, which is vital for children's development. Citing research,",
+   "image": "",
+   "date": "2026-10-28T06:48:24+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing",
    "link": "https://timesofindia.indiatimes.com/business/india-business/mukesh-ambani-gets-teary-eyed-as-anant-ambani-talks-about-reliances-journey-at-jio-listing/articleshow/135255155.cms",
    "desc": "Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and A",
@@ -130,24 +229,6 @@
    "cat": "india"
   },
   {
-   "title": "No water in washrooms, family forced to get off train; Railways to pay Rs 16k",
-   "link": "https://timesofindia.indiatimes.com/legal/news/family-of-24-forced-to-get-off-a-train-over-washrooms-without-water-paid-extra-to-reach-destination-yet-railways-denied-the-problem-until-a-consumer-commission-ordered-a-rs-16000-payout/articleshow/135254695.cms",
-   "desc": "In an important ruling, a district consumer commission in Karnataka found that South Western Railway did not provide sufficient services to its passengers. A traveler and his family endured discomfort stemming from a lac",
-   "image": "",
-   "date": "2026-10-28T06:35:50+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Justin Jefferson raises $45k for cancer, gifts 7-year-old Super Bowl tickets",
-   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/justin-jeffersons-charity-bowling-night-raised-over-45000-for-cancer-research-the-vikings-star-also-surprised-7-year-old-fan-claire-van-epps-who-is-undergoing-treatment-with-super-bowl-tickets/articleshow/135253112.cms",
-   "desc": "Justin Jefferson’s charity bowling event, aptly named 'Strike Out Cancer', successfully raised over $45,000 for cancer research. This heartwarming gathering united patients, survivors, and caregivers, all supporting the ",
-   "image": "",
-   "date": "2026-10-28T06:33:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
    "desc": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
@@ -155,15 +236,6 @@
    "date": "2026-10-28T06:33:14+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "South African athlete crosses 600 monkey bars 216m above river in 47 minutes",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/south-african-athlete-thomas-van-tonder-crosses-600-monkey-bars-suspended-216-metres-above-ground-beneath-bloukrans-bridge-completes-280-metre-crossing-in-47-minutes-in-world-first-stunt/articleshow/135253745.cms",
-   "desc": "On October 26, Thomas van Tonder achieved a remarkable feat by completing a crossing under Bloukrans Bridge, navigating through 600 monkey bars in a challenging 280-meter course. This grueling challenge tested his grip s",
-   "image": "",
-   "date": "2026-10-28T06:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents",
@@ -200,15 +272,6 @@
    "date": "2026-10-28T06:12:34+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Bengaluru man buys Rs 3 lakh used car to save new sedan from dents, scratches",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/best-money-ive-spent-bengaluru-man-spends-rs-3-lakh-on-a-used-car-to-protect-his-new-sedan-from-/articleshow/135252497.cms",
-   "desc": "A Bengaluru resident made a smart move by purchasing a 2015 Maruti Suzuki Celerio for Rs 3 lakh, aiming to ease his daily commute. By opting for an older model, he seeks to protect his newer sedan from the urban grind. A",
-   "image": "",
-   "date": "2026-10-28T06:10:30+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "US Cruise Ship 'Odyssey' On World Voyage Stops After Fuel Prices Surge",
@@ -301,48 +364,12 @@
    "cat": "tech"
   },
   {
-   "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-   "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-   "desc": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
-   "image": "",
-   "date": "2026-10-28T05:16:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Three-time Asian Para Games gold medallist Neeraj Yadav dies by suicide",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/three-time-asian-para-games-gold-medallist-neeraj-yadav-commits-suicide/articleshow/135252919.cms",
-   "desc": "Indian para-athletics was left in shock after three-time Asian Para Games gold medallist Neeraj Yadav allegedly died by suicide at a flat on Tuesday night. The 42-year-old, who competed in the F55 category, suspected to ",
-   "image": "",
-   "date": "2026-10-28T05:13:48+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Cyclone Arnab Completes Landfall, Brings Heavy Rain In Andhra, Odisha",
    "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
    "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
    "image": "https://c.ndtvimg.com/2026-10/gkn5uupc_cyclone-arnab_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T05:07:52+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "‘Tata is being criminally destroyed’: Rahul Gandhi targets BJP amid boardroom feud",
-   "link": "https://timesofindia.indiatimes.com/india/tata-is-being-criminally-destroyed-rahul-gandhi-targets-pm-modi-amit-shah-amid-boardroom-feud/articleshow/135252759.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T05:02:27+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Akhilesh's Samajwadi Party scores a win in PM Modi’s Varanasi in UP MLC polls",
-   "link": "https://timesofindia.indiatimes.com/city/lucknow/up-mlc-polls-sp-secures-varanasi-and-agra-seat-bjp-wins-4/articleshow/135252261.cms",
-   "desc": "The BJP secured four out of eleven seats in the recent Uttar Pradesh Legislative Council elections. Samajwadi Party candidate Lal Bihari Yadav won the Varanasi Teachers' constituency while BJP retained Meerut seats. Tens",
-   "image": "",
-   "date": "2026-10-28T04:58:20+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -382,24 +409,6 @@
    "cat": "science"
   },
   {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
-   "date": "2026-10-28T03:43:38+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "'I was literally shaking': Woman catches man recording her inside Bengaluru metro",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/i-was-literally-shaking-woman-catches-man-recording-her-inside-bengaluru-metro-fir-filed/articleshow/135250938.cms",
-   "desc": "A woman named Sowpika accused a fellow passenger of secretly recording her during a Bengaluru Metro ride. She confronted the man, demanding he unlock his phone during the incident. After reporting the issue to metro secu",
-   "image": "",
-   "date": "2026-10-28T03:37:43+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
    "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
    "desc": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
@@ -409,11 +418,11 @@
    "cat": "business"
   },
   {
-   "title": "Alexander brothers sentenced to 30 years in prison in sex trafficking case",
-   "link": "https://timesofindia.indiatimes.com/world/us/conduct-monstrousalexander-brothers-sentenced-to-30-years-in-prison-in-sex-trafficking-case/articleshow/135250407.cms",
-   "desc": "Tal Alexander and his twin brothers, Oren and Alon Alexander, have been sentenced to 30 years in prison following their convictions for drugging and sexually assaulting multiple women. The victims articulated their emoti",
+   "title": "Karnataka MLC polls: Big setback for DKS as BJP-led NDA wins all 4 seats",
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-mlc-polls-big-setback-for-dk-shivakumar-as-bjp-led-nda-wins-all-4-seats/articleshow/135250232.cms",
+   "desc": "In the recent Karnataka Legislative Council elections, the BJP-led National Democratic Alliance achieved a significant victory. Candidates from the NDA won all four contested seats, impacting the ruling Congress party. T",
    "image": "",
-   "date": "2026-10-28T03:12:43+00:00",
+   "date": "2026-10-28T03:07:50+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -517,7 +526,7 @@
    "cat": "business"
   },
   {
-   "title": "I get £4,062 a year and am trying my best to get a job - here's what I want from the Budget",
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
@@ -596,15 +605,6 @@
    "date": "2026-10-27T22:26:03+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-   "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
-   "image": "",
-   "date": "2026-10-27T22:18:59+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
@@ -814,15 +814,6 @@
    "cat": "tech"
   },
   {
-   "title": "Lancashire treatment of Anderson disrespectful - Broad",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ff/live/3bd4a930-d22d-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-27T17:47:58+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "VisionQuest is what happens when AI really goes rogue",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
    "desc": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The ",
@@ -1010,6 +1001,15 @@
    "date": "2026-10-27T13:25:54+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Trump's Republicans may lose control of Congress: What US betting markets are saying",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-trumps-republicans-may-lose-control-of-congress-what-betting-markets-are-saying/articleshow/135235031.cms",
+   "desc": "Ahead of the November 3 US midterms, betting markets suggest Trump's Republicans could lose control of Congress, with Democrats favoured to win the House and Senate. The odds also point to a difficult contest for Vivek R",
+   "image": "",
+   "date": "2026-10-27T13:21:48+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
