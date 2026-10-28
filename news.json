@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-28T05:30:08.035882+00:00",
+ "generated_at": "2026-10-28T06:00:16.050896+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
+   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T05:58:39+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "desc": "Shares of South Korean chipmaker SK Hynix soared over 10% on Wednesday as third-quarter profit sharply beats estimates.",
+   "image": "",
+   "date": "2026-10-28T05:54:33+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+   "desc": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+   "image": "",
+   "date": "2026-10-28T05:52:51+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Indiana contractor paid with Ford truck now personally liable for $82,020",
+   "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-couple-paid-a-contractor-with-cheques-and-a-ford-f-350-truck-for-home-repairs-but-he-made-roof-trusses-in-his-backyard-on-october-26-a-court-made-him-personally-liable-for-an-82020-judgment/articleshow/135229212.cms",
+   "desc": "An Indiana couple successfully secured an $82,020 judgment against a contractor for breach of contract and fraudulent misrepresentations. Tasked with property repairs, the contractor failed to deliver promised materials ",
+   "image": "",
+   "date": "2026-10-28T05:38:25+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Japan DNA study finds 126 fish species farther north than previously recorded",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-collected-dna-from-seawater-at-316-sites-across-japan-and-found-126-fish-species-farther-north-than-previously-recorded-revealing-how-warming-seas-may-be-reshaping-where-coastal-wildlife-can-survive/articleshow/135240516.cms",
+   "desc": "Japan is witnessing a dramatic transformation in its marine ecosystems as rising ocean temperatures prompt fish species to migrate northward. An extensive research effort involving the analysis of water samples has revea",
+   "image": "",
+   "date": "2026-10-28T05:38:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
@@ -11,24 +56,6 @@
    "date": "2026-10-28T05:20:32+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/rs-25000-crore-in-taxes-12-lakh-jobs-vaishnaw-backs-mobile-pli-scheme/articleshow/135252611.cms",
-   "desc": "India's mobile phone manufacturing sector has generated Rs 25,000 crore in direct tax collections and Rs 3,000 crore in GST. Union minister Ashwini Vaishnaw announced new schemes to further enhance production and strengt",
-   "image": "",
-   "date": "2026-10-28T05:17:21+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Murder conviction set aside as Jharkhand HC flags trial questioning in English",
-   "link": "https://timesofindia.indiatimes.com/legal/news/can-a-murder-conviction-be-set-aside-if-an-accused-is-questioned-in-a-language-he-doesnt-understand-jharkhand-hc-explains/articleshow/135252874.cms",
-   "desc": "The Jharkhand high court has acquitted a man previously sentenced for murder, citing severe flaws in his trial proceedings. Notably, the court highlighted that the accused was not adequately interrogated about crucial ev",
-   "image": "",
-   "date": "2026-10-28T05:16:49+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
@@ -40,20 +67,29 @@
    "cat": "business"
   },
   {
+   "title": "Three-time Asian Para Games gold medallist Neeraj Yadav dies by suicide",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/three-time-asian-para-games-gold-medallist-neeraj-yadav-commits-suicide/articleshow/135252919.cms",
+   "desc": "Indian para-athletics was left in shock after three-time Asian Para Games gold medallist Neeraj Yadav allegedly died by suicide at a flat on Tuesday night. The 42-year-old, who competed in the F55 category, suspected to ",
+   "image": "",
+   "date": "2026-10-28T05:13:48+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Meet 82-year-old Haryana dadi who learnt to ride a bike at 74, drives tractors",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/dar-koi-na-laagda-meet-the-82-year-old-haryana-dadi-who-learnt-to-ride-a-bike-at-74-and-now-drives-tractors-too-how-her-grandsons-joke-started-it-all/articleshow/135252657.cms",
+   "desc": "At 82, Sukhma from Sundana village has become a beacon of inspiration for many. With her grandson's encouragement, she embraced the thrill of motorcycle riding and mastered it, proving that age is merely a number. Not st",
+   "image": "",
+   "date": "2026-10-28T05:07:24+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "'Process becomes punishment in our system': Ex-SC judge Kaul on Umar Khalid case",
    "link": "https://timesofindia.indiatimes.com/india/process-becomes-punishment-in-our-system-ex-sc-judge-sanjay-kaul-on-umar-khalid-sharjeel-imam-bail-pleas/articleshow/135252397.cms",
    "desc": "",
    "image": "",
    "date": "2026-10-28T05:03:15+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "DC court lets grandmother seek protection order against grandchildren's mother",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-grandmother-raising-her-two-grandchildren-says-their-mother-banged-on-her-door-and-threatened-to-kill-her-but-a-judge-ruled-she-was-not-family-and-could-not-seek-a-protection-order-an-october-19-appeals-court-ruling-in-washington-dc-said-she-can/articleshow/135251151.cms",
-   "desc": "In a significant ruling, the D.C. Court of Appeals has reinstated a civil protection order filed by grandmother Fonda Allen against her grandchildren's biological mother, Tamieka Whitehead. Allen, who holds legal custody",
-   "image": "",
-   "date": "2026-10-28T04:35:57+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -67,20 +103,11 @@
    "cat": "india"
   },
   {
-   "title": "YouTube scam hunters help identify suspects in alleged $65m US elderly scam",
-   "link": "https://timesofindia.indiatimes.com/world/us/an-alleged-65-million-scam-targeting-elderly-americans-used-india-based-call-centres-and-fake-rental-addresses-to-collect-cash-us-prosecutors-say-youtube-scam-hunters-helped-identify-suspects-as-guilty-pleas-emerged/articleshow/135251749.cms",
-   "desc": "An elaborate fraud scheme has bilked elderly Americans out of approximately $65 million. The operation, which was traced back to India-based call centers and fake personas, preyed on victims to send money through wire tr",
+   "title": "'This is America, not your communist dictatorship': US, Cuban envoys clash at UN",
+   "link": "https://timesofindia.indiatimes.com/world/us/this-is-not-your-communist-dictatorship-us-cuban-envoys-clash-at-un/articleshow/135251635.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-28T04:35:30+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "After rats and pigs removed, sea turtles return to Pacific island after decades",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2025-conservation-teams-began-removing-invasive-rats-and-pigs-from-a-pacific-island-by-2026-native-forests-were-regenerating-rare-birds-were-nesting-and-sea-turtles-had-returned-after-decades/articleshow/135249823.cms",
-   "desc": "Nu’utele Island in Samoa is witnessing a remarkable revival as invasive rats and pigs have been eradicated. This positive shift has encouraged the resurgence of native bird species and provided safe nesting grounds for s",
-   "image": "",
-   "date": "2026-10-28T04:35:18+00:00",
+   "date": "2026-10-28T04:34:37+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -94,29 +121,11 @@
    "cat": "business"
   },
   {
-   "title": "Meet Shikha Chaudhary: Former IAF wing commander opens café after 14 years",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/for-14-years-wing-commander-shikha-chaudharys-mission-was-to-take-care-of-aircraft-in-the-indian-air-force-after-retirement-she-traded-aircraft-for-coffee-cups-began-her-second-innings-opened-a-caf-and-found-a-new-way-to-serve/articleshow/135250041.cms",
-   "desc": "Reflecting on her surprising career pivot, Wing Commander (Retd) Shikha Chaudhary shares her journey from 14 years in the Indian Air Force to becoming an entrepreneur with Jessiea's Café in Mumbai. She underscores how he",
-   "image": "",
-   "date": "2026-10-28T04:28:12+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Zuckerberg & wife give California $50 mn weeks after donation shift announcement",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-announced-in-late-2025-that-they-are-shifting-their-donations-just-weeks-later-meta-ceo-gifted-state-of-california-50-million-to-fund-abatement-demolition-and-/articleshow/135251878.cms",
    "desc": "In a generous move, Mark Zuckerberg and Priscilla Chan have pledged $50 million to Sacramento State University. The contribution will assist in the conversion of three state office buildings into an innovative campus, en",
    "image": "",
    "date": "2026-10-28T04:26:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "BJP-Akali alliance: Talks on to hammer out seat-sharing arrangement in Punjab",
-   "link": "https://timesofindia.indiatimes.com/india/bjp-akali-talks-talks-on-to-hammer-out-seat-sharing-arrangement/articleshow/135251679.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T04:22:36+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -364,15 +373,6 @@
    "cat": "business"
   },
   {
-   "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "desc": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
-   "image": "",
-   "date": "2026-10-28T01:56:59+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
    "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
    "desc": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mob",
@@ -400,7 +400,7 @@
    "cat": "science"
   },
   {
-   "title": "'Biggest night in the club's history' for fearless Fleetwood",
+   "title": "'Biggest night in club's history' for fearless Fleetwood",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
    "desc": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg",
@@ -463,15 +463,6 @@
    "cat": "sports"
   },
   {
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "desc": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-   "image": "",
-   "date": "2026-10-27T23:50:03+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
@@ -488,6 +479,15 @@
    "date": "2026-10-27T23:34:27+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T23:20:21+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "China's families are now supporting more old people than kids",
@@ -562,7 +562,7 @@
    "cat": "world"
   },
   {
-   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, latecomers, etc",
+   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers...",
    "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
    "desc": "",
    "image": "",
@@ -877,6 +877,15 @@
    "cat": "tech"
   },
   {
+   "title": "Meet T K Radha: Kerala physicist personally invited to Princeton by Oppenheimer",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/born-in-1938-in-a-kerala-village-without-electricity-t-k-radha-topped-her-class-in-mathematics-chose-physics-instead-and-was-personally-invited-by-j-robert-oppenheimer-to-princeton-yet-her-story-stayed-in-the-shadows-for-decades/articleshow/135239800.cms",
+   "desc": "Thayyoor K. Radha's journey as a physicist is a testament to resilience and brilliance. Growing up in a small village in Kerala, she thrived in mathematics and physics, breaking through societal barriers. Her valuable re",
+   "image": "",
+   "date": "2026-10-27T16:15:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
    "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat",
@@ -1071,15 +1080,6 @@
    "desc": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
    "image": "",
    "date": "2026-10-27T10:46:21+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-   "desc": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope o",
-   "image": "",
-   "date": "2026-10-27T10:20:52+00:00",
    "source": "ScienceDaily",
    "cat": "science"
   }
