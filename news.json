@@ -1,16 +1,169 @@
 {
- "generated_at": "2026-10-28T21:30:07.763727+00:00",
+ "generated_at": "2026-10-28T22:03:22.141932+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
    "image": "",
-   "date": "2026-10-28T21:27:15+00:00",
+   "date": "2026-10-28T22:02:58+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "desc": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
+   "image": "",
+   "date": "2026-10-28T22:00:13+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+   "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+   "desc": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
+   "image": "",
+   "date": "2026-10-28T21:58:51+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "desc": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+   "image": "",
+   "date": "2026-10-28T21:58:32+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "A hacker stole more than 40,000 DHS employee records",
+   "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+   "desc": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees,",
+   "image": "",
+   "date": "2026-10-28T21:57:45+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+   "desc": "For the full year, Chipotle reiterated its previous forecast that its same-store sales will increase by a low single digit percentage.",
+   "image": "",
+   "date": "2026-10-28T21:55:12+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "desc": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+   "image": "",
+   "date": "2026-10-28T21:48:37+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "image": "",
+   "date": "2026-10-28T21:47:47+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "desc": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
+   "image": "",
+   "date": "2026-10-28T21:42:24+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "High-speed train crash kills at least 68 people in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+   "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T21:38:54+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Kompany discharged from hospital following collapse",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg",
+   "date": "2026-10-28T21:37:08+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Sancho rejects Getafe - Thursday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+   "desc": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/a55976f0-d30f-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-10-28T21:34:36+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "desc": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
+   "image": "",
+   "date": "2026-10-28T21:34:30+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "desc": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware",
+   "image": "",
+   "date": "2026-10-28T21:34:04+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+   "desc": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+   "image": "",
+   "date": "2026-10-28T21:31:46+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "UK plans robotic claws to pull dead satellites out of orbit in 2029",
+   "link": "https://timesofindia.indiatimes.com/science/space/the-uk-is-planning-to-send-giant-robotic-claws-into-orbit-to-grab-two-dead-satellites-and-drag-them-into-earths-atmosphere-to-burn-up-a-first-of-its-kind-clean-up-mission-due-to-launch-in-2029-and-the-public-can-help-name-it/articleshow/135269315.cms",
+   "desc": "In a groundbreaking initiative, the UK plans to unveil a pioneering spacecraft in 2029, designed specifically for the cleanup of space debris. Utilizing advanced robotic arms, the mission aims to snatch up and incinerate",
+   "image": "",
+   "date": "2026-10-28T21:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Delhi HC rejects PIL against passport fee hike for NRIs",
+   "link": "https://timesofindia.indiatimes.com/india/hc-rejects-pil-against-passport-fee-hike-for-nris/articleshow/135280506.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T21:26:47+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Maui home bought for $8.05m sells for $18.5m after $24.85m listing",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/a-maui-family-bought-an-oceanfront-home-for-8-05-million-in-2014-and-gutted-it-to-the-studs-in-2020-after-initially-asking-24-85-million-the-renovated-estate-sold-for-18-5-million-in-october-2026/articleshow/135249888.cms",
+   "desc": "Recently, a stunning oceanfront estate in Makena, Maui, fetched a remarkable $18.5 million. After undergoing extensive renovations to boost its allure, this property saw an adjustment in its listing price from an initial",
+   "image": "",
+   "date": "2026-10-28T21:26:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
@@ -22,13 +175,31 @@
    "cat": "tech"
   },
   {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+   "desc": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63d/live/bb688fa0-d312-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T21:24:41+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "California brothers face 35 felony charges each over unbuilt backyard homes",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2023-a-california-woman-paid-over-40000-for-a-backyard-home-that-was-never-built-two-brothers-behind-the-company-now-face-35-felony-charges-each-following-200-complaints-in-18-counties/articleshow/135229118.cms",
+   "desc": "A retired nurse in California paid more than $40,000 in 2023 for a backyard home that was never built. The company, Anchored Tiny Homes, later faced more than 200 complaints across 18 counties over unfinished projects an",
    "image": "",
-   "date": "2026-10-28T21:20:46+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-28T21:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+   "date": "2026-10-28T21:16:30+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
@@ -38,24 +209,6 @@
    "date": "2026-10-28T21:16:18+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-   "desc": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
-   "image": "",
-   "date": "2026-10-28T21:15:36+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "image": "",
-   "date": "2026-10-28T21:12:52+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Bolsonaro declares himself Brazil’s ‘true president’, vows to lead opposition from US",
@@ -139,29 +292,11 @@
    "cat": "ai"
   },
   {
-   "title": "Maine river sees preliminary count of 5.85m herring after dams removed",
-   "link": "https://timesofindia.indiatimes.com/science/wildlife/in-2012-and-2013-maine-removed-two-old-penobscot-river-dams-to-restore-migratory-spaces-for-milford-fish-lift-had-counted-a-preliminary-5-85-million-river-herring-returning-upstream/articleshow/135257249.cms",
-   "desc": "In a significant ecological feat, the Penobscot River restoration in Maine has revitalized migratory fish numbers dramatically. The removal of the Great Works and Veazie dams has paved the way for essential fish migratio",
-   "image": "",
-   "date": "2026-10-28T20:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Sensitive US tech to Pak could end up in third country: Rajnath warns Hegseth",
    "link": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms",
    "desc": "",
    "image": "",
    "date": "2026-10-28T20:27:02+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Convict-built 1832 Australian mansion bought for A$500k sells for A$1.6m",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2012-an-australian-couple-bought-a-convict-built-georgian-mansion-dating-to-1832-for-a500000-after-preserving-its-interiors-for-14-years-they-sold-the-32-hectare-estate-for-a1-6-million/articleshow/135232748.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T20:26:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -182,15 +317,6 @@
    "date": "2026-10-28T20:23:00+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-   "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-   "desc": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
-   "image": "",
-   "date": "2026-10-28T20:23:00+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Google says its investments in AI are driving more searches",
@@ -245,24 +371,6 @@
    "date": "2026-10-28T20:12:44+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter",
-   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-   "desc": "For the full year, Chipotle reiterated its previous forecast that its same-store sales will increase by a low single digit percentage.",
-   "image": "",
-   "date": "2026-10-28T20:11:00+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Eye on Punjab poll, BJP fields Harshdeep Puri for RS from Madhya Pradesh",
-   "link": "https://timesofindia.indiatimes.com/india/eye-on-punjab-poll-bjp-fields-harshdeep-puri-for-rs-from-madhya-pradesh/articleshow/135278859.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T20:08:49+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "What we now know about the UK economy in four charts",
@@ -362,15 +470,6 @@
    "date": "2026-10-28T19:37:31+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Man runs 58 half-marathons in 58 days to honour mother, raises over $30,000",
-   "link": "https://timesofindia.indiatimes.com/world/us/after-losing-his-mother-to-a-stroke-at-58-jack-buckley-ran-58-half-marathons-in-58-days-and-raised-more-than-30000-a-second-endurance-challenge-brought-in-another-12000/articleshow/135224341.cms",
-   "desc": "In honor of his late mother who suffered from a stroke, Wollongong's Jack Buckley undertook an extraordinary journey, completing 58 half-marathons in just 58 days, successfully raising over $30,000 for the Stroke Foundat",
-   "image": "",
-   "date": "2026-10-28T19:20:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -499,15 +598,6 @@
    "cat": "tech"
   },
   {
-   "title": "Prem reluctant to commit on Anglo-Welsh league",
-   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c54g1x0z4rygo?at_medium=RSS&at_campaign=rss",
-   "desc": "Welsh rugby may be keen on forming an Anglo-Welsh league but the Prem and RFU are only looking at English clubs in any expansion.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3508/live/a8a9b230-d2f5-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T18:55:30+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "India Closely Monitoring Tehran Talks Involving Pakistan, Says Centre",
    "link": "https://www.ndtv.com/world-news/india-closely-monitoring-tehran-talks-involving-pakistan-says-centre-12250886#publisher=newsstand",
    "desc": "Centre said India's position remained unchanged following the Pulwama terror attack. (Representational)",
@@ -515,15 +605,6 @@
    "date": "2026-10-28T18:52:23+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "How did Flávio Bolsonaro end up in Miami?",
-   "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-   "desc": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-28T18:51:05+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
@@ -585,8 +666,8 @@
    "desc": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year",
    "image": "",
    "date": "2026-10-28T18:36:26+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "22 Indians Killed In Middle East Conflict, Including 14 Seafares: Centre",
@@ -614,15 +695,6 @@
    "date": "2026-10-28T18:25:58+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-   "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-   "desc": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtua",
-   "image": "",
-   "date": "2026-10-28T18:14:11+00:00",
-   "source": "The Verge",
-   "cat": "tech"
   },
   {
    "title": "Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives",
@@ -724,15 +796,6 @@
    "cat": "business"
   },
   {
-   "title": "Watch: At the scene of Spain's deadly train crash",
-   "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-   "desc": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97cd/live/4f78dd50-d2e9-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T16:45:16+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
@@ -796,22 +859,13 @@
    "cat": "tech"
   },
   {
-   "title": "Scottish side to play two cup ties simultaneously after schedule clash",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
-   "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg",
-   "date": "2026-10-28T15:34:02+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
    "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
    "image": "",
    "date": "2026-10-28T15:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "How much is the minimum wage going up by?",
@@ -850,15 +904,6 @@
    "cat": "business"
   },
   {
-   "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-   "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-   "desc": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-   "image": "",
-   "date": "2026-10-28T14:34:25+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "How could Israel break election deadlock? Here are four scenarios",
    "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
    "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
@@ -866,24 +911,6 @@
    "date": "2026-10-28T14:30:31+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-   "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-   "desc": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-   "image": "",
-   "date": "2026-10-28T14:26:36+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "All Spanish cup matches suspended after Madrid train collision",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
-   "desc": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196d/live/ff0ee8f0-d2ca-11f1-8e79-5381b0a9d682.jpg",
-   "date": "2026-10-28T13:25:48+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Scientists discover a hidden reason why muscles weaken with age",
@@ -920,15 +947,6 @@
    "date": "2026-10-28T12:25:43+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-   "desc": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc8/live/796bbb50-d2d0-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T12:13:23+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Scientists discover a secret glow in toxic fire salamanders",
@@ -976,15 +994,6 @@
    "cat": "ai"
   },
   {
-   "title": "Carrick and Fernandes hold clear-the-air talks",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-   "desc": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ff/live/98c57790-d2ce-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T11:48:28+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Meta quietly launched an ‘AI pet journal’ app",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
    "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit",
@@ -992,15 +1001,6 @@
    "date": "2026-10-28T11:27:30+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Serrano to end career in Puerto Rico in January",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-   "desc": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5027/live/b8958400-d2c6-11f1-8e79-5381b0a9d682.jpg",
-   "date": "2026-10-28T11:11:53+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
@@ -1075,13 +1075,13 @@
    "cat": "world"
   },
   {
-   "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
-   "desc": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its ",
-   "image": "",
-   "date": "2026-10-28T09:22:09+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
+   "title": "Wawrinka retires in front of home crowd after defeat to Lehecka",
+   "link": "https://www.bbc.co.uk/sport/tennis/videos/c6zxj9d4rzd8o?at_medium=RSS&at_campaign=rss",
+   "desc": "Three-time Grand Slam champion Stan Wawrinka retires in front of his home crowd after losing in straight sets to Jiri Lehecka in the opening round of the Swiss Indoors in Basel.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b76/live/d7b17920-d2b2-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T09:36:05+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   }
  ]
 }
