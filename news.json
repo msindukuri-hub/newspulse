@@ -1,14 +1,32 @@
 {
- "generated_at": "2026-10-28T10:02:25.807647+00:00",
+ "generated_at": "2026-10-28T10:30:49.145912+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+   "desc": "It is the second deadly high-speed train collision in Spain this year.",
+   "image": "",
+   "date": "2026-10-28T10:29:56+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
    "desc": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
    "image": "",
-   "date": "2026-10-28T09:59:08+00:00",
+   "date": "2026-10-28T10:18:19+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
+   "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
+   "desc": "A chip factory being built by Elon Musk's Tesla and SpaceX is in Texas's 10th District, where his PAC's former lawyer Chris Gober is the GOP U.S. House nominee.",
+   "image": "",
+   "date": "2026-10-28T10:00:01+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -22,22 +40,13 @@
    "cat": "india"
   },
   {
-   "title": "'Didn't want Mamata to contest another election': Suvendu on why he kept Bhabanipur seat",
-   "link": "https://timesofindia.indiatimes.com/india/didnt-want-mamata-to-contest-another-election-suvendu-on-why-he-kept-bhabanipur-seat/articleshow/135259975.cms",
-   "desc": "",
+   "title": "Disabled flyer stranded 24 hrs at airport without wheelchair, airlines to pay Rs 60k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-65-year-old-with-55-disability-was-left-stranded-at-istanbul-airport-without-wheelchair-assistance-after-a-24-hour-wait-and-delayed-baggage-disrupted-his-onward-journey-a-consumer-court-ordered-indigo-and-turkish-airlines-to-pay-rs-60000-for-the-ordeal/articleshow/135260016.cms",
+   "desc": "A 65-year-old disabled passenger, Kirpal Singh, faced issues during his air travel from Amritsar to London. Singh did not receive the requested wheelchair assistance at Istanbul airport, leaving him stranded for nearly 2",
    "image": "",
-   "date": "2026-10-28T09:50:34+00:00",
+   "date": "2026-10-28T09:56:49+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T09:50:29+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Exclusive: Centre's Online Content Blocking Orders Triple Amid Surge In AI Content",
@@ -49,7 +58,7 @@
    "cat": "india"
   },
   {
-   "title": "10 killed as two high-speed trains collide in Spain's Toledo, many feared injured",
+   "title": "10 dead as high-speed train rams another in Spain; videos show gutted carriages",
    "link": "https://timesofindia.indiatimes.com/world/europe/10-killed-as-two-high-speed-trains-collide-in-spains-toledo-many-feared-injured-services-disrupted/articleshow/135259381.cms",
    "desc": "Spain's rail infrastructure operator ADIF confirmed the accident and announced the suspension of services on the affected routes. According to Spanish state broadcaster TVE, the collision involved two high-speed trains t",
    "image": "",
@@ -76,7 +85,7 @@
    "cat": "sports"
   },
   {
-   "title": "Cabinet approves 3% DA increase for Central govt employees",
+   "title": "Festive cheer for central govt employees! Cabinet approves 3% DA increase",
    "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-3-da-increase-for-central-govt-employees/articleshow/135259780.cms",
    "desc": "",
    "image": "",
@@ -385,7 +394,7 @@
    "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
    "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
    "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ef/live/78ab39a0-d250-11f1-8ba3-9fd3e261415f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
    "date": "2026-10-28T07:14:18+00:00",
    "source": "BBC Sport",
    "cat": "sports"
@@ -668,15 +677,6 @@
    "date": "2026-10-27T22:55:05+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Midterm elections: How affordability and the economy could affect voters' decisions",
-   "link": "https://www.cnbc.com/guide/midterm-elections-economy-affordability/",
-   "desc": "Several economic issues could affect voters' decisions in the midterm elections. Here's what to expect on Nov. 3.",
-   "image": "",
-   "date": "2026-10-27T22:40:12+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
