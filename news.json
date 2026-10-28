@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-28T02:30:31.925137+00:00",
+ "generated_at": "2026-10-28T03:02:18.329135+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+   "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+   "desc": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
+   "image": "",
+   "date": "2026-10-28T02:57:36+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "'Brings the worst out of us’: Ex-cricketer on trolling after Ind's NZ demolition",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/brings-the-worst-out-of-all-of-us-ex-india-cricketer-reacts-to-trolling-after-indias-nz-demolition/articleshow/135249964.cms",
+   "desc": "Aakash Chopra found himself the target of social media trolls after his prediction for India's chase in Wellington. With a witty tone, he clarified that he was referring to a 10-over target, which he deemed challenging. ",
+   "image": "",
+   "date": "2026-10-28T02:55:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Bradley Cooper's family home bought for $38,000 now worth $700,000",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1970-bradley-coopers-parents-bought-a-pennsylvania-home-for-38000-decades-later-the-family-still-held-the-house-estimated-at-nearly-700000-while-the-actor-bought-a-33-acre-estate-nearby-for-6-5-million/articleshow/135239742.cms",
+   "desc": "Bradley Cooper's family residence in Pennsylvania, originally acquired for $38,000 in 1970, now commands an impressive value of nearly $700,000. This home carries deep sentimental value for Cooper as he reflects on his u",
+   "image": "",
+   "date": "2026-10-28T02:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "‘Raped by Rohingya refugees’: Landlord finds woman held captive for 5 months",
+   "link": "https://timesofindia.indiatimes.com/city/hyderabad/raped-by-other-rohingya-refugees-landlord-breaks-lock-over-unpaid-rent-finds-woman-held-captive-for-5-months-in-hyderabad/articleshow/135249424.cms",
+   "desc": "A young Rohingya woman was trafficked from Bangladesh and confined in Hyderabad for five months. During her confinement, she was raped multiple times by four men, including one who falsely married her. The case came to l",
+   "image": "",
+   "date": "2026-10-28T02:21:54+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Amazon updates AI usage rules for engineers in new memo",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-updates-ai-usage-rules-for-engineers-sends-memo-we-are-seeing-the-beginning-of-ais-effect-on-software-engineering/articleshow/135249517.cms",
+   "desc": "Amazon's engineering executives have revised the guidelines for Software Development Engineers, emphasizing the necessity of achieving tangible results in the real world. They urge engineers to seamlessly integrate AI in",
+   "image": "",
+   "date": "2026-10-28T02:21:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
    "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
@@ -13,7 +58,16 @@
    "cat": "world"
   },
   {
-   "title": "Bibi claims ‘decisive majority’ for right-wing bloc, despite inconclusive exit polls",
+   "title": "Upset Palmer Luckey is not leaving California over 'Billionaire tax'",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/upset-palmer-luckey-is-not-leaving-california-over-billionaire-tax-making-it-very-clear-that-he-will-stay-as-wants-to-/articleshow/135249466.cms",
+   "desc": "Although the proposed billionaire wealth tax looms over California, Palmer Luckey, the founder of Anduril Industries, remains steadfast in the state. He stands against the tax, arguing that it could drive away residents ",
+   "image": "",
+   "date": "2026-10-28T02:17:29+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Netanyahu seeks 'right-wing, national, strong govt' in tight Israel election race",
    "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-is-stronger-than-ever-netanyahu-calls-for-strong-right-wing-govt-amid-tight-election-race/articleshow/135249427.cms",
    "desc": "Netanyahu calls for a ‘strong, right-wing’ government, rejects reliance on Arab parties and vows to end Iranian threat with Trump; Eisenkot says voters have backed change",
    "image": "",
@@ -31,15 +85,6 @@
    "cat": "business"
   },
   {
-   "title": "Oil price today: Brent crude holds firm at $115 per barrel, WTI trades at $100",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/oil-price-today-brent-crude-holds-firm-at-115-per-barrel-wti-trades-at-100/articleshow/135249292.cms",
-   "desc": "After the Houthis announced a missile strike, Brent crude prices jumped to $115 a barrel, intensifying fears of oil supply disruptions from the conflict-laden Middle East. Additionally, a slight uptick in US oil inventor",
-   "image": "",
-   "date": "2026-10-28T02:08:26+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
    "desc": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
@@ -55,15 +100,6 @@
    "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T01:51:55+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Karnataka voter roll drops by nearly 1 crore, Gen Z makes up 20% of electorate",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-roll-shrinks-by-nearly-1-crore-gen-z-makes-up-to-20-of-revised-electorate/articleshow/135249103.cms",
-   "desc": "The special intensive revision of electoral rolls in Karnataka resulted in a reduction of 99.76 lakh electors. The final electoral rolls revealed a total of 4.55 crore eligible voters by October 27. Women made up a major",
-   "image": "",
-   "date": "2026-10-28T01:50:02+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -103,15 +139,6 @@
    "cat": "india"
   },
   {
-   "title": "'Ball was still seaming': Iyer 'mind-boggled' by Abhishek, Sooryavanshi's blitz",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ball-was-seaming-when-sanju-and-i-went-in-shreyas-iyer-mind-boggled-by-abhishek-sooryavanshis-blitz/articleshow/135248860.cms",
-   "desc": "India achieved a remarkable six-wicket victory against New Zealand in the third T20I at Wellington's Hnry Stadium. Abhishek Sharma's impressive 113 runs and Vaibhav Sooryavanshi's 45 runs set a strong foundation for the ",
-   "image": "",
-   "date": "2026-10-28T01:18:31+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
    "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -148,15 +175,6 @@
    "cat": "india"
   },
   {
-   "title": "Michael J. Fox’s Parkinson’s study data downloaded over 50 million times",
-   "link": "https://timesofindia.indiatimes.com/world/us/michael-j-foxs-foundation-launched-a-parkinsons-study-in-2010-16-years-later-its-data-has-been-downloaded-over-50-million-times-and-is-helping-researchers-design-more-targeted-clinical-trials/articleshow/135238462.cms",
-   "desc": "The Michael J. Fox Foundation has evolved its Parkinson’s Progression Markers Initiative into the Parkinson’s Precision Medicine Initiative, focusing on tailored treatments based on individual biological differences in p",
-   "image": "",
-   "date": "2026-10-28T00:40:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "'Biggest night in the club's history' for fearless Fleetwood",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
    "desc": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
@@ -173,6 +191,15 @@
    "date": "2026-10-28T00:34:31+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "'That's why I praised my team': Sammy backs WI's 2-2 draw, calls India 'dangerous'",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/thats-why-i-praised-my-team-daren-sammy-backs-west-indies-2-2-draw-says-india-remains-a-dangerous-team/articleshow/135239311.cms",
+   "desc": "West Indies coach Daren Sammy praised his team's performance in the recent T20I series against India. The West Indies managed a commendable 2-2 draw against the formidable Indian team on their home ground. Sammy emphasiz",
+   "image": "",
+   "date": "2026-10-28T00:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
@@ -218,15 +245,6 @@
    "date": "2026-10-28T00:01:10+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Need to balance right to free speech, privacy: Supreme Court",
-   "link": "https://timesofindia.indiatimes.com/india/need-to-balance-right-to-free-speech-privacy-supreme-court/articleshow/135248091.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T23:57:22+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
@@ -373,6 +391,15 @@
    "cat": "business"
   },
   {
+   "title": "Travis Kelce helps provide 25,000 meals to children through charity effort",
+   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/wanted-to-make-it-bigger-for-more-kids-travis-kelces-heartfelt-gesture-helped-feed-25000-meals-to-children-while-keeping-the-operation-breakthrough-founders-dream-alive/articleshow/135232234.cms",
+   "desc": "In 2024, Travis Kelce partnered with breakfast brand Kodiak to donate 25,000 meals to children at Kansas City’s Operation Breakthrough. The contribution came as the nonprofit mourned co-founder Sister Berta, who establis",
+   "image": "",
+   "date": "2026-10-27T22:21:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
    "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
    "desc": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
@@ -398,15 +425,6 @@
    "date": "2026-10-27T22:11:08+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Cabinet secretary lists 12 types of secretaries: File throwers, latecomers, etc",
-   "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T22:11:06+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "GM is embracing hybrids now",
@@ -443,6 +461,15 @@
    "date": "2026-10-27T21:38:20+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "India invites Pakistan for SCO civilisational dialogue forum meet next month",
+   "link": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-27T21:37:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Show 1st Exit Polls",
@@ -526,6 +553,15 @@
    "cat": "world"
   },
   {
+   "title": "Solar leases revive unprofitable Massachusetts cranberry bogs",
+   "link": "https://timesofindia.indiatimes.com/world/us/two-massachusetts-cranberry-bogs-were-too-unprofitable-to-farm-until-owners-installed-solar-fields-10-feet-above-the-vines-income-from-solar-land-leases-helped-restore-berry-production-without-abandoning-agriculture/articleshow/135245299.cms",
+   "desc": "In Massachusetts, a groundbreaking approach has emerged as two cranberry bogs have implemented solar panels above their crops. This eco-friendly strategy not only cuts farming expenses but also creates extra revenue thro",
+   "image": "",
+   "date": "2026-10-27T20:41:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
    "desc": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
@@ -533,6 +569,15 @@
    "date": "2026-10-27T20:31:17+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Appeals court overturns $1.55M judgment in $1.275M Michigan home sale",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-michigan-couple-agreed-to-buy-a-1-275-million-home-for-their-growing-family-but-the-seller-cited-his-ex-wifes-name-on-the-title-after-a-1-55-million-judgment-against-the-buyers-an-appeals-court-overturned-it/articleshow/135245204.cms",
+   "desc": "In an intriguing legal twist, a Michigan appeals court has vacated a $1.55 million judgment against a couple who pulled out of purchasing a home over unresolved ownership concerns. The court uncovered notable procedural ",
+   "image": "",
+   "date": "2026-10-27T19:49:28+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
@@ -571,15 +616,6 @@
    "cat": "tech"
   },
   {
-   "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
-   "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
-   "desc": "Boeing reset investor expectations on free cash flow growth in the coming years. We're hopeful this represents a clearing event.",
-   "image": "",
-   "date": "2026-10-27T19:21:20+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Ballon d'Or in London - the most chaotic ever?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
    "desc": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
@@ -616,15 +652,6 @@
    "cat": "sports"
   },
   {
-   "title": "Australian court upholds A$99,382 damages for neighbour's flooded backyard",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-homeowner-said-water-from-an-uphill-neighbours-blocked-drainage-pipe-flooded-his-backyard-and-pool-a-court-awarded-a99382-in-damages-and-a-2026-appeals-court-upheld-the-ruling-and-repair-order/articleshow/135244233.cms",
-   "desc": "In a significant legal victory, an Australian homeowner triumphed over his neighbor who contributed to ongoing flooding that devastated his land and pool. The New South Wales Court of Appeal upheld the initial ruling, as",
-   "image": "",
-   "date": "2026-10-27T18:56:06+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
    "desc": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
@@ -641,15 +668,6 @@
    "date": "2026-10-27T18:43:41+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Irish farmer installs 1,008 solar panels on 1.5 acres while sheep graze below",
-   "link": "https://timesofindia.indiatimes.com/world/europe/an-irish-dairy-farmer-devoted-only-1-5-acres-of-his-110-acre-holding-to-1008-solar-panels-kept-sheep-grazing-underneath-and-secured-a-15-year-electricity-agreement-to-supply-power-equivalent-to-about-150-homes/articleshow/135243018.cms",
-   "desc": "In County Cork, Sean Keating, a dedicated dairy farmer, has innovatively transformed a portion of his land into a solar farm. This eco-friendly venture enables him to harvest renewable energy while still allowing sheep t",
-   "image": "",
-   "date": "2026-10-27T18:41:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Controversial Islamic cleric shot dead in northern Nigeria",
@@ -776,15 +794,6 @@
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Meet T K Radha: Kerala physicist personally invited to Princeton by Oppenheimer",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/born-in-1938-in-a-kerala-village-without-electricity-t-k-radha-topped-her-class-in-mathematics-chose-physics-instead-and-was-personally-invited-by-j-robert-oppenheimer-to-princeton-yet-her-story-stayed-in-the-shadows-for-decades/articleshow/135239800.cms",
-   "desc": "Thayyoor K. Radha's journey as a physicist is a testament to resilience and brilliance. Growing up in a small village in Kerala, she thrived in mathematics and physics, breaking through societal barriers. Her valuable re",
-   "image": "",
-   "date": "2026-10-27T16:15:43+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
@@ -938,15 +947,6 @@
    "date": "2026-10-27T13:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
-  },
-  {
-   "title": "Elon Musk’s six-word reply to Verizon CEO who said SpaceX needs 8 years to take it on",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-has-a-six-word-reply-for-ceo-of-americas-largest-mobile-network-company-who-said-spacex-needs-eight-years-to-build-a-rival-network/articleshow/135233943.cms",
-   "desc": "Verizon CEO Dan Schulman says SpaceX would need up to $500 billion, 80,000 cell towers and as long as eight years to build a US mobile network that rivals Verizon. Elon Musk hit back on X, saying it \"will take 2 or 3 yea",
-   "image": "",
-   "date": "2026-10-27T12:18:15+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
