@@ -1,8 +1,179 @@
 {
- "generated_at": "2026-10-28T20:00:17.907359+00:00",
+ "generated_at": "2026-10-28T20:30:25.203066+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "image": "",
+   "date": "2026-10-28T20:29:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "desc": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+   "image": "",
+   "date": "2026-10-28T20:27:53+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T20:24:39+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+   "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+   "desc": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
+   "image": "",
+   "date": "2026-10-28T20:23:00+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T20:22:49+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Google says its investments in AI are driving more searches",
+   "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+   "desc": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc",
+   "image": "",
+   "date": "2026-10-28T20:22:26+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Three media outlets seek full White House access in amended lawsuit",
+   "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+   "desc": "President Donald Trump banned MS NOW, CNN and Politico from the White House in September, only to have a judge he appointed order their return.",
+   "image": "",
+   "date": "2026-10-28T20:21:03+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "May instruct courts not to give bail in digital arrest cases: SC",
+   "link": "https://timesofindia.indiatimes.com/india/may-instruct-courts-not-to-give-bail-in-digital-arrest-cases-sc/articleshow/135279768.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T20:20:21+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft earnings are out – here are the numbers.",
+   "image": "",
+   "date": "2026-10-28T20:20:16+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+   "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+   "desc": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has inc",
+   "image": "",
+   "date": "2026-10-28T20:20:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+   "desc": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+   "image": "",
+   "date": "2026-10-28T20:17:19+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+   "desc": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $",
+   "image": "",
+   "date": "2026-10-28T20:12:44+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Eye on Punjab poll, BJP fields Harshdeep Puri for RS from Madhya Pradesh",
+   "link": "https://timesofindia.indiatimes.com/india/eye-on-punjab-poll-bjp-fields-harshdeep-puri-for-rs-from-madhya-pradesh/articleshow/135278859.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T20:08:49+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "What we now know about the UK economy in four charts",
+   "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+   "desc": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T20:08:45+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "desc": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+   "image": "",
+   "date": "2026-10-28T20:06:21+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi",
+   "image": "",
+   "date": "2026-10-28T20:03:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T20:02:38+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+   "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+   "desc": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+   "image": "",
+   "date": "2026-10-28T20:01:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+   "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+   "desc": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
+   "image": "",
+   "date": "2026-10-28T20:00:44+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "Sesko ruled out until January with shin injury",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
@@ -11,15 +182,6 @@
    "date": "2026-10-28T19:57:04+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Three media outlets seek full White House access in amended lawsuit",
-   "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-   "desc": "President Donald Trump banned MS NOW, CNN and Politico from the White House in September, only to have a judge he appointed order their return.",
-   "image": "",
-   "date": "2026-10-28T19:54:49+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
@@ -74,33 +236,6 @@
    "date": "2026-10-28T19:37:31+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
-   "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-   "desc": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
-   "image": "",
-   "date": "2026-10-28T19:35:07+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Microsoft will post earnings after the bell as investors focus on job cuts and cash flow",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
-   "image": "",
-   "date": "2026-10-28T19:33:23+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-   "desc": "Chipotle's stock has fallen about 22% so far this year, dragging its market cap down to about $36 billion.",
-   "image": "",
-   "date": "2026-10-28T19:30:01+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Australian dark-sky reserve faces proposed data centre development",
@@ -166,6 +301,15 @@
    "cat": "business"
   },
   {
+   "title": "From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains",
+   "link": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
+   "desc": "Edward III of England enacted the Justice of Peace Act, which evolved over even centuries.",
+   "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T19:11:28+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "US Federal Reserve keeps rates unchanged, leaves door open to further hikes",
    "link": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms",
    "desc": "",
@@ -182,6 +326,33 @@
    "date": "2026-10-28T19:05:46+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
+   "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
+   "desc": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
+   "image": "https://c.ndtvimg.com/2026-10/el3sot3o_spain-train-collision-twitter-_650x400_28_October_26.jpg",
+   "date": "2026-10-28T19:04:37+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "House Vandalised During Arunachal Dam Protest, Ex-Minister Calls For Talks",
+   "link": "https://www.ndtv.com/india-news/house-vandalised-during-arunachal-dam-protest-ex-minister-calls-for-talks-12250832#publisher=newsstand",
+   "desc": "The MLA also urged the Union government to initiate discussions with China.",
+   "image": "https://c.ndtvimg.com/2026-10/1uq9e3vk_att_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T19:04:12+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "10 Lakh Target, Anti-SIR Push: Congress Strategy For November 1 Ramlila Maidan Rally",
+   "link": "https://www.ndtv.com/india-news/10-lakh-target-anti-sir-push-congresss-strategy-for-november-1-ramlila-rally-12250668#publisher=newsstand",
+   "desc": "\"Our target is to bring 10 lakh (one million) people. Ensuring the success of this rally is the collective responsibility of all parties within the INDIA alliance, and everyone is actively involved,\" Congress Rajya Sabha",
+   "image": "https://c.ndtvimg.com/2026-10/tdb7ngq_ramlila-maidan_625x300_12_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T19:02:07+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Healey tells departments to make 1% cuts to fund defence",
@@ -202,6 +373,24 @@
    "cat": "sports"
   },
   {
+   "title": "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
+   "link": "https://www.ndtv.com/india-news/bjp-ahead-but-akhilesh-yadavs-party-gains-ground-in-up-mlc-elections-12250819#publisher=newsstand",
+   "desc": "Yogi Adityanath's government is facing anti-incumbency, says Akhilesh Yadav.",
+   "image": "https://c.ndtvimg.com/2024-08/aolallao_yogi-akhilesh_625x300_05_August_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T19:00:50+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Akal Takht Jathedar Flags Punjab's Drug Menace At UK Parliament",
+   "link": "https://www.ndtv.com/india-news/akal-takht-jathedar-flags-punjabs-drug-menace-at-uk-parliament-12250898#publisher=newsstand",
+   "desc": "Kuldip Singh Gargajj called for collaboration to develop a structured recovery programme in Punjab.",
+   "image": "https://c.ndtvimg.com/2026-10/4nhn3in_akal-takht-jathedar_625x300_29_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:59:48+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Brendan Carr plans to let prisons jam cellphone signals",
    "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
    "desc": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act ",
@@ -211,15 +400,6 @@
    "cat": "tech"
   },
   {
-   "title": "Five ways the Budget will affect you if you are under 25",
-   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-   "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-28T18:55:56+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "Prem eyes English expansion despite Welsh interest",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c54g1x0z4rygo?at_medium=RSS&at_campaign=rss",
    "desc": "Welsh rugby may be keen on forming an Anglo-Welsh league but the Prem and RFU say they are only currently looking at English clubs in any expansion.",
@@ -227,6 +407,15 @@
    "date": "2026-10-28T18:55:30+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "India Closely Monitoring Tehran Talks Involving Pakistan, Says Centre",
+   "link": "https://www.ndtv.com/world-news/india-closely-monitoring-tehran-talks-involving-pakistan-says-centre-12250886#publisher=newsstand",
+   "desc": "Centre said India's position remained unchanged following the Pulwama terror attack. (Representational)",
+   "image": "https://c.ndtvimg.com/2024-01/rd5g613g_iran-pakistan-generic-reuters_625x300_22_January_24.jpeg",
+   "date": "2026-10-28T18:52:23+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "How did Flávio Bolsonaro end up in Miami?",
@@ -247,22 +436,49 @@
    "cat": "ai"
   },
   {
-   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-   "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-   "desc": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
-   "image": "",
-   "date": "2026-10-28T18:44:40+00:00",
-   "source": "CNBC",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+   "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T18:45:09+00:00",
+   "source": "BBC Business",
    "cat": "business"
   },
   {
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-   "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "desc": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T18:42:45+00:00",
-   "source": "BBC News",
-   "cat": "world"
+   "title": "Netanyahu's \"Poll Stolen\" Charge At Arab Parties Amid Fractured Mandate",
+   "link": "https://www.ndtv.com/world-news/benjamin-netanyahus-poll-stolen-charge-at-arab-parties-amid-fractured-mandate-12250870#publisher=newsstand",
+   "desc": "Netanyahu's Likud party has not been able to secure a majority",
+   "image": "https://i.ndtvimg.com/i/2015-03/benjamin-netanyahu_650x400_61426369659.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:44:26+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Cyclone Arnab Highlights: Cyclone Arnab Kills 5 In Andhra Pradesh, Weakens After Landfall",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab Highlights: The landfall point is specified between Bapatla and Visakhapatnam.",
+   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
+   "date": "2026-10-28T18:42:36+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Spain Train Crash: Human 'Error' Behind Toledo Crash That Killed 68",
+   "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
+   "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
+   "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:38:53+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Security To Cybersecurity: 11 Nodal Officers To Oversee 2027 Manipur Polls",
+   "link": "https://www.ndtv.com/india-news/security-to-cybersecurity-11-nodal-officers-to-oversee-2027-manipur-polls-12250854#publisher=newsstand",
+   "desc": "The term of the 60-member Manipur Legislative Assembly ends on 13 March 2027.",
+   "image": "https://c.ndtvimg.com/2023-05/2ha0carg_manipur-violence-ndtv-650_650x400_04_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:37:11+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Microsoft is ending Copilot support on smart TVs",
@@ -274,20 +490,11 @@
    "cat": "tech"
   },
   {
-   "title": "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
-   "link": "https://www.ndtv.com/india-news/bjp-ahead-but-akhilesh-yadavs-party-gains-ground-in-up-mlc-elections-12250819#publisher=newsstand",
-   "desc": "Yogi Adityanath's government is facing anti-incumbency, says Akhilesh Yadav.",
-   "image": "https://c.ndtvimg.com/2026-10/ios98d68_yogi-akhilesh_625x300_13_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:33:57+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "House Vandalised During Arunachal Dam Protest, Ex-Minister Calls For Talks",
-   "link": "https://www.ndtv.com/india-news/house-vandalised-during-arunachal-dam-protest-ex-minister-calls-for-talks-12250832#publisher=newsstand",
-   "desc": "The MLA also urged the Union government to initiate discussions with China.",
-   "image": "https://c.ndtvimg.com/2026-10/8pk37j3c_rat_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:29:25+00:00",
+   "title": "22 Indians Killed In Middle East Conflict, Including 14 Seafares: Centre",
+   "link": "https://www.ndtv.com/world-news/22-indians-killed-in-middle-east-conflict-including-14-seafares-centre-12250842#publisher=newsstand",
+   "desc": "MEA said Indian diplomatic posts across West Asia continue to monitor developments (Representational)",
+   "image": "https://c.ndtvimg.com/2026-09/9pt2g9m_strait-of-hormuz_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:33:06+00:00",
    "source": "NDTV",
    "cat": "india"
   },
@@ -321,7 +528,7 @@
   {
    "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
    "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-   "desc": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual",
+   "desc": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtua",
    "image": "",
    "date": "2026-10-28T18:14:11+00:00",
    "source": "The Verge",
@@ -346,15 +553,6 @@
    "cat": "business"
   },
   {
-   "title": "\"Secretly Happy With Our Win\": Akhilesh Yadav On Minister's MLC Poll Remark",
-   "link": "https://www.ndtv.com/india-news/secretly-happy-with-our-win-akhilesh-yadav-on-ministers-mlc-poll-remark-12250782#publisher=newsstand",
-   "desc": "\"The MLC elections have packed off the BJP bag and baggage,\" Akhilesh Yadav said.",
-   "image": "https://c.ndtvimg.com/2026-10/lm32v9eg_akhilesh-yadav-kp-maurya_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:10:56+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Here’s where to preorder the new MacBook Pros",
    "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
    "desc": "As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent \"Pro and tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weig",
@@ -362,15 +560,6 @@
    "date": "2026-10-28T18:10:23+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
-   "link": "https://www.ndtv.com/india-news/mumbai-airport-airlines-work-out-plan-to-shift-traffic-to-navi-mumbai-12250714#publisher=newsstand",
-   "desc": "CSMIA currently handles around 55 million passengers annually.",
-   "image": "https://c.ndtvimg.com/2023-07/d3i6b0k_mumbai-airport_625x300_12_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:09:10+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Here is what changed in the new Fed statement",
@@ -382,31 +571,13 @@
    "cat": "business"
   },
   {
-   "title": "You can see every red flag in Theranos 2.0",
-   "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
-   "desc": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From",
+   "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+   "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts.",
    "image": "",
-   "date": "2026-10-28T18:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "10 Lakh Target, Anti-SIR Push: Congress Strategy for November 1 Ramlila Rally",
-   "link": "https://www.ndtv.com/india-news/10-lakh-target-anti-sir-push-congresss-strategy-for-november-1-ramlila-rally-12250668#publisher=newsstand",
-   "desc": "\"Our target is to bring 10 lakh (one million) people. Ensuring the success of this rally is the collective responsibility of all parties within the INDIA alliance, and everyone is actively involved,\" Congress Rajya Sabha",
-   "image": "https://c.ndtvimg.com/2026-10/tdb7ngq_ramlila-maidan_625x300_12_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:57:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Here’s how macOS is changing for touchscreens",
-   "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
-   "desc": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Mo",
-   "image": "",
-   "date": "2026-10-28T17:48:28+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "date": "2026-10-28T18:01:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "Will I get the £100 energy payment and when will I receive it?",
@@ -427,42 +598,6 @@
    "cat": "india"
   },
   {
-   "title": "Jamia Extends Online Classes Till November 24, Will Hold Exams Virtually",
-   "link": "https://www.ndtv.com/education/jamia-milia-islamia-extends-online-classes-till-november-24-will-hold-exams-virtually-12250708#publisher=newsstand",
-   "desc": "The university had earlier ordered classes to be conducted online till November 8. (File Photo)",
-   "image": "https://c.ndtvimg.com/2026-10/1q5dnm9k_jamia-milia-islamia-students-protest-continue-pti_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1",
-   "date": "2026-10-28T17:46:33+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Yamuna Cruise To Launch Before Chhath, But Data Shows River Still Polluted",
-   "link": "https://www.ndtv.com/india-news/yamuna-cruise-to-launch-before-chhath-but-data-shows-river-still-polluted-12250697#publisher=newsstand",
-   "desc": "The proposed cruise service aims to offer residents and tourists a new way to experience the Yamuna.",
-   "image": "https://w.ndtvimg.com/sites/3/2019/02/07123159/yamuna-froth-bubble.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:43:06+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Akali Leader Bikram Majithia's 'Prove Or Apologise' Warning To AAP On Drug Case",
-   "link": "https://www.ndtv.com/india-news/stop-linking-assets-case-to-drugs-akali-leader-challenges-arvind-kejriwal-bhagwant-mann-12250676#publisher=newsstand",
-   "desc": "Bikram Singh Majithia said allegations of disproportionate assets have no link with drugs.",
-   "image": "https://c.ndtvimg.com/2026-10/o3c98i0s_bikram-singh-majithia-said-allegations-of-disproportionate-assets-have-no-link-with-drugs_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:40:09+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-   "desc": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-   "image": "",
-   "date": "2026-10-28T17:39:43+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Labuschagne's form hits record low but Australia hint at future",
    "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
    "desc": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
@@ -481,51 +616,6 @@
    "cat": "india"
   },
   {
-   "title": "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
-   "link": "https://www.ndtv.com/world-news/within-96-hours-us-forces-ready-to-renew-iran-strikes-await-donald-trump-nod-12250274#publisher=newsstand",
-   "desc": "Enough US forces are already deployed in the region to carry out the attacks",
-   "image": "https://c.ndtvimg.com/2026-10/sgmciad8_trump-afp_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T17:32:33+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Mumbai Airport Shares Vision For Redevelopment Of Terminal 1",
-   "link": "https://www.ndtv.com/india-news/mumbai-airport-shares-vision-for-redevelopment-of-terminal-1-12250648#publisher=newsstand",
-   "desc": "Mumbai Airport's existing Terminal 1 is an ageing facility. (File Photo)",
-   "image": "https://c.ndtvimg.com/2026-10/2cn2usrg_mumbai-airport-t1-redevelopment-airlines-get-slot-assurance-october-28-deadline-set_625x300_13_October_26.jpg",
-   "date": "2026-10-28T17:32:12+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Domestic Air Passenger Traffic Falls In September, IndiGo Retains Lead",
-   "link": "https://www.ndtv.com/india-news/domestic-air-passenger-traffic-falls-in-september-indigo-retains-lead-12250611#publisher=newsstand",
-   "desc": "IndiGo carried 77.30 lakh passengers in September.",
-   "image": "https://c.ndtvimg.com/2025-08/5vb4qh3_indigo_625x300_06_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:29:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Deaths, Defence, Inflation: What Drove Israel's Poll Highest Turnout Since 1999",
-   "link": "https://www.ndtv.com/world-news/deaths-defence-inflation-what-drove-israels-poll-highest-turnout-since-1999-12250637#publisher=newsstand",
-   "desc": "The Hamas attack of October 7, 2023 and the conflicts that followed have taken a heavy toll on Israel.",
-   "image": "https://c.ndtvimg.com/2026-10/qe2qtoe8_israel-elections_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:29:40+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Apple ‘Pro and tell’ event: Everything announced this week",
-   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-   "desc": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciti",
-   "image": "",
-   "date": "2026-10-28T17:27:38+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Apple launches its new touchscreen MacBook Pro",
    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
    "desc": "Apple's new touchscreen MacBook Pro starts at $2,899.",
@@ -533,24 +623,6 @@
    "date": "2026-10-28T17:26:10+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-   "desc": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to ",
-   "image": "",
-   "date": "2026-10-28T17:19:23+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/molineux-mania-up-warriorz-outgun-rcb-in-rs-1-10-cr-showstopper-at-wpl-auction/articleshow/135273852.cms",
-   "desc": "UP Warriorz secured Australia captain Sophie Molineux for Rs 1.10 crore after a bidding battle with RCB at the WPL mini auction in Kochi. They also signed Grace Harris, Sushma Verma and Sneh Rana, prioritising experience",
-   "image": "",
-   "date": "2026-10-28T17:00:11+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Xreal Aura is a new wired headset powered by Android XR",
@@ -589,15 +661,6 @@
    "cat": "ai"
   },
   {
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T16:59:47+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Budget 2026: Key points at a glance",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
@@ -622,15 +685,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
    "date": "2026-10-28T16:43:35+00:00",
    "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-   "image": "",
-   "date": "2026-10-28T16:33:22+00:00",
-   "source": "CNBC",
    "cat": "business"
   },
   {
@@ -677,15 +731,6 @@
    "date": "2026-10-28T15:53:21+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "At least 68 people dead in high-speed Spain train crash",
-   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-   "desc": "It is the second deadly high-speed train collision in Spain this year.",
-   "image": "",
-   "date": "2026-10-28T15:41:54+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
@@ -796,15 +841,6 @@
    "cat": "tech"
   },
   {
-   "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-   "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-   "desc": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-   "image": "",
-   "date": "2026-10-28T13:39:18+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "All Spanish cup matches suspended after Madrid train collision",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
    "desc": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.",
@@ -812,15 +848,6 @@
    "date": "2026-10-28T13:25:48+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-   "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-   "desc": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
-   "image": "",
-   "date": "2026-10-28T13:09:08+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Scientists discover a hidden reason why muscles weaken with age",
@@ -1048,15 +1075,6 @@
    "cat": "science"
   },
   {
-   "title": "The debt bill that keeps growing: Inside Pakistan's gas crisis",
-   "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-gas-mess-lpg-prices-soar-imported-lng-piles-up-and-the-debt-bill-keeps-growing/articleshow/135258993.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T09:09:47+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
    "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
    "desc": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T08:28:39+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
-   "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
-   "desc": "The Atlanta Dream criticized the WNBA for scheduling a Finals game on Thursday afternoon, drawing reactions from Flavor Flav and Hillary Clinton.",
-   "image": "",
-   "date": "2026-10-28T07:58:09+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
-   "date": "2026-10-28T07:14:18+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   }
  ]
 }
