@@ -1,8 +1,161 @@
 {
- "generated_at": "2026-10-28T09:30:06.972490+00:00",
+ "generated_at": "2026-10-28T10:02:25.807647+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+   "desc": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+   "image": "",
+   "date": "2026-10-28T09:59:08+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "5 Killed In Andhra Pradesh Due To Cyclone Arnab",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
+   "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
+   "image": "https://c.ndtvimg.com/2026-10/gkn5uupc_cyclone-arnab_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:57:54+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "'Didn't want Mamata to contest another election': Suvendu on why he kept Bhabanipur seat",
+   "link": "https://timesofindia.indiatimes.com/india/didnt-want-mamata-to-contest-another-election-suvendu-on-why-he-kept-bhabanipur-seat/articleshow/135259975.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:50:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:50:29+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Exclusive: Centre's Online Content Blocking Orders Triple Amid Surge In AI Content",
+   "link": "https://www.ndtv.com/india-news/centres-online-content-blocking-orders-triples-amid-surge-in-ai-content-12247552#publisher=newsstand",
+   "desc": "Parliamentary data show a rise in blocking activity over the years.",
+   "image": "https://c.ndtvimg.com/2026-10/ci6dc4eg_ai-agents-us-banks-reuters_625x300_23_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:48:58+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "10 killed as two high-speed trains collide in Spain's Toledo, many feared injured",
+   "link": "https://timesofindia.indiatimes.com/world/europe/10-killed-as-two-high-speed-trains-collide-in-spains-toledo-many-feared-injured-services-disrupted/articleshow/135259381.cms",
+   "desc": "Spain's rail infrastructure operator ADIF confirmed the accident and announced the suspension of services on the affected routes. According to Spanish state broadcaster TVE, the collision involved two high-speed trains t",
+   "image": "",
+   "date": "2026-10-28T09:44:08+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+   "desc": "UBS reported a third quarter pretax profit of almost $3.6 billion.",
+   "image": "",
+   "date": "2026-10-28T09:42:03+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Kuyt named Fenerbahce interim boss before Liverpool tie",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg",
+   "date": "2026-10-28T09:41:34+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Cabinet approves 3% DA increase for Central govt employees",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-3-da-increase-for-central-govt-employees/articleshow/135259780.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:38:17+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Tamil Nadu Toddler Found In Andhra Pradesh Month After She Went Missing",
+   "link": "https://www.ndtv.com/india-news/tamil-nadu-toddler-found-in-andhra-pradesh-month-after-she-went-missing-12247848#publisher=newsstand",
+   "desc": "Maheswari, 1, went missing on September 23.",
+   "image": "https://c.ndtvimg.com/2026-10/0kfhftgo_tamil-nadu-toddler_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:38:17+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Opinion: Opinion | Is America Staring At A 'Blue Wave' Again? Why Trump Feels Threatened",
+   "link": "https://www.ndtv.com/opinion/will-america-punish-trump-for-the-damage-he-has-done-why-midterms-are-a-threat-12247810#publisher=newsstand",
+   "desc": "Wonder of wonders, the so-called 'red-neck' states - like Texas - are leaning democrat, and Vivek Ramaswamy is probably going to lose in Ohio. But will this be enough for a 'blue wave'?",
+   "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:34:20+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Malaysia Seizes AI Chips Worth $12 Million At Airport, 5th Case This Year",
+   "link": "https://www.ndtv.com/world-news/malaysia-seizes-ai-chips-worth-12-million-at-airport-5th-case-this-year-12247789#publisher=newsstand",
+   "desc": "Malaysia tightened export and transshipment controls on chips from the United States last year.",
+   "image": "https://c.ndtvimg.com/2026-10/lq4gjtpg_ai-chips-malaysia-reuters_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T09:32:15+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Bangladesh Foreign Secretary Set To Take Charge As High Commissioner To India",
+   "link": "https://www.ndtv.com/world-news/bangladesh-foreign-secretary-set-to-take-charge-as-high-commissioner-to-india-12247809#publisher=newsstand",
+   "desc": "Siam will also have to ensure that the crucial Ganga Water Sharing Treaty is renewed",
+   "image": "https://c.ndtvimg.com/2026-10/loppi56o_asad-alam-siam_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T09:31:31+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Italian farmer plants attic seeds, discovers wheat with seven ears on one stalk",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/italian-farmer-planted-mysterious-seeds-found-in-attic-discovered-ancient-biblical-wheat-with-seven-ears-on-one-stalk-that-could-help-crops-survive-drought-and-climate-change/articleshow/135257644.cms",
+   "desc": "In a remarkable find, Claudio Grossi, an Italian farmer, unearthed an ancient wheat variety known as Triticum turgidum, which is believed to be over a century old. This heritage wheat demonstrated impressive drought resi",
+   "image": "",
+   "date": "2026-10-28T09:30:52+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Congress Fails To Win Any Seat Across 4 States In Legislative Council Bypolls",
+   "link": "https://www.ndtv.com/india-news/congress-fails-to-win-any-seat-across-4-states-in-legislative-council-bypolls-12247802#publisher=newsstand",
+   "desc": "The biggest setback for the Congress came in Karnataka, where, despite being in power, it failed to secure a single seat.",
+   "image": "https://c.ndtvimg.com/2025-12/ssgeuboc_congress-flag-generic_625x300_03_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:29:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "desc": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+   "image": "",
+   "date": "2026-10-28T09:29:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Ted Bundy, Who Killed 30 Women, Linked To 1974 Utah Girl Murder",
+   "link": "https://www.ndtv.com/world-news/ted-bundy-who-killed-30-women-linked-to-1974-utah-girl-murder-melissa-ann-smith-12247762#publisher=newsstand",
+   "desc": "The girl was at a pizza parlor and a restaurant before she disappeared on October 18, 1974",
+   "image": "https://c.ndtvimg.com/2026-10/kp53q9co_ted-bundy_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T09:28:43+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
@@ -11,6 +164,15 @@
    "date": "2026-10-28T09:25:19+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "Washington tenant keeps $75,000 award over paint fumes; extra damages reversed",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-man-rented-an-apartment-beside-a-car-painting-workshop-where-fumes-made-him-ill-after-a-95904-damages-judgment-an-october-26-appeals-court-preserved-75000-but-overturned-the-extra-damages/articleshow/135255592.cms",
+   "desc": "Eric Christiansen faced a significant dilemma when paint fumes from a neighboring workshop rendered his apartment unlivable, prompting him to take legal action. Health authorities confirmed the apartment's hazardous cond",
+   "image": "",
+   "date": "2026-10-28T09:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
@@ -22,6 +184,42 @@
    "cat": "business"
   },
   {
+   "title": "Sweeping machine runs 56.5km in Gurgaon, sweeps 0.3km",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/sweeping-machine-runs-56-5km-in-gurgaon-sweeps-0-3km/articleshow/135259355.cms",
+   "desc": "In Gurgaon, a mechanised road-sweeping machine claimed to cover 56.5km; however, further investigation revealed it actually swept only 0.3km, having veered off course at high speeds. Meanwhile, the Commission for Air Qua",
+   "image": "",
+   "date": "2026-10-28T09:22:10+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Nepal faces days of rain, snow and storms as Cyclone Arnab wreaks havoc in India",
+   "link": "https://timesofindia.indiatimes.com/india/nepal-faces-days-of-rain-snow-and-storms-as-cyclone-arnab-wreaks-havoc-in-india/articleshow/135259326.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:21:46+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Kills 5 In Andhra Pradesh",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+   "desc": "Cyclone Arnab LIVE Updates: The landfall point is specified between Bapatla and Visakhapatnam.",
+   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
+   "date": "2026-10-28T09:20:08+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Guwahati Hotel Shooting Accused Raises \"Encounter\" Fears, Court Sets Conditions",
+   "link": "https://www.ndtv.com/guwahati-news/guwahati-hotel-shooting-accused-raises-encounter-fears-court-sets-conditions-12247726#publisher=newsstand",
+   "desc": "CCTV showed a man being shot at point-blank",
+   "image": "https://c.ndtvimg.com/2026-10/jqjnfl98_guwahati_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:19:31+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Chair skills, quick brain - how O'Neill adapted to wheelchair rugby league",
    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5lyer2wvd3xo?at_medium=RSS&at_campaign=rss",
    "desc": "Finlay O'Neill thought his sporting days were over when his dislocated a knee at the age of 16. Now he is preparing to play a part in England's bid to retain the Wheelchair Rugby League World Cup.",
@@ -29,6 +227,33 @@
    "date": "2026-10-28T09:19:13+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "MLC polls: Congress faces setback across 4 states; state-wise results and key wins",
+   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:14:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Biden Sanctioned Putin's 'Slush Fund' After War. Trump Is Ready To Drop It",
+   "link": "https://www.ndtv.com/world-news/biden-sanctioned-putins-slush-fund-after-war-trump-is-ready-to-drop-it-12247695#publisher=newsstand",
+   "desc": "US official labelled the fund's chief, Kirill Dmitriev, \"a helpful envoy\" to US negotiators.",
+   "image": "https://c.ndtvimg.com/2026-10/mqgmea5g_russia-us-afp_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T09:13:55+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Jadeja loses No. 1 Test all-rounder crown after 4 years; Abhishek tops T20I rankings",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-loses-no-1-test-all-rounder-crown-after-four-years-abhishek-sharma-dethrones-kishan-to-top-t20i-batting-rankings/articleshow/135258889.cms",
+   "desc": "Jansen's rise to the top in two categories follows his performance in South Africa's comprehensive victory over Australia in the second Test in Gqeberha.",
+   "image": "",
+   "date": "2026-10-28T09:13:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
@@ -40,12 +265,12 @@
    "cat": "business"
   },
   {
-   "title": "Moon not visible on Karwa Chauth due to Cyclone Arnab? 3 ways to break your fast",
-   "link": "https://timesofindia.indiatimes.com/relationships/karwa-chauth-2026-moon-not-visible-due-to-cyclone-arnab-3-traditional-ways-to-break-your-fast/articleshow/135258768.cms",
-   "desc": "As Cyclone Arnab approaches India's eastern coast, Karwa Chauth on 29 October presents unique challenges for those observing the fast. The potential obscuring of the Moon by storm clouds may disrupt traditional practices",
-   "image": "",
-   "date": "2026-10-28T09:05:01+00:00",
-   "source": "Times of India",
+   "title": "Israel Election Results Live: Netanyahu Bloc Leads With 54 Seats After Two-Thirds Of Votes Counted",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T09:05:57+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -53,7 +278,16 @@
    "link": "https://www.ndtv.com/india-news/bjp-picks-hardeep-puri-for-rajya-sabha-bypoll-from-madhya-pradesh-12247548#publisher=newsstand",
    "desc": "The BJP central election committee has approved Hardeep Puri's name for the bypoll",
    "image": "https://c.ndtvimg.com/2026-08/eju31l64_hardeep-singh-puri_625x300_07_August_26.jpg",
-   "date": "2026-10-28T08:56:04+00:00",
+   "date": "2026-10-28T09:05:33+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Second Gurudwara Firing In Ludhiana In Two Days, Preacher's Room Targeted",
+   "link": "https://www.ndtv.com/ludhiana-news/second-gurudwara-firing-in-ludhiana-in-two-days-preachers-room-targeted-12247624#publisher=newsstand",
+   "desc": "No arrests have been made so far, and the investigation is ongoing.",
+   "image": "https://c.ndtvimg.com/2026-10/a5uqsnho_gurudwara_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T09:05:12+00:00",
    "source": "NDTV",
    "cat": "india"
   },
@@ -103,120 +337,12 @@
    "cat": "sports"
   },
   {
-   "title": "62% Indians Say Salary Growth Can't Beat Inflation, 70% Young Adults Worried: Report",
-   "link": "https://www.ndtv.com/business-news/indians-salary-growth-inflation-expenses-young-professionals-personal-finance-12247415#publisher=newsstand",
-   "desc": "Around 83% professionals feel they are not prepared for retirement, as per the survey.",
-   "image": "https://c.ndtvimg.com/2026-10/5bh1u61k_inflation_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T08:30:32+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Tamil Nadu Revises Auto Fares After 13 Years, Minimum Fare Doubled To Rs 50",
-   "link": "https://www.ndtv.com/india-news/tamil-nadu-revises-auto-fares-after-13-years-minimum-fare-doubled-to-rs-50-12247481#publisher=newsstand",
-   "desc": "The notification was issued under Section 67 of the Motor Vehicles Act, 1988.",
-   "image": "https://c.ndtvimg.com/2026-10/2el7kfjo_tamil-nadu-auto-generic-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T08:29:25+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Judge rules Trump's top LA prosecutor serving unlawfully, pauses 2-case ban",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-federal-judge-ruled-trump-appointed-prosecutor-bill-essayli-is-unlawfully-serving-as-los-angeless-top-u-s-attorney-and-disqualified-him-from-two-cases-but-paused-the-disqualification-while-the-justice-department-seeks-a-stay/articleshow/135256729.cms",
-   "desc": "A federal judge has deemed Bill Essayli's appointment as U.S. attorney to be unlawful. While this ruling comes with a temporary stay, it leaves him in his position for now. This case is crucial, as it raises questions ab",
+   "title": "Grandmother's Rs 200 coupon wins Rs 50 lakh SUV for 6-year-old grandson",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/she-bought-a-200-coupon-at-a-garba-event-and-wrote-her-6-year-old-grandsons-name-on-it-a-year-later-grandmother-kiran-raikwars-family-received-the-50-lakh-suv-they-had-dreamed-of-owning-for-years/articleshow/135257700.cms",
+   "desc": "During a lively Garba event, Kiran Raikwar made a simple gesture by purchasing a lottery ticket for her grandson Vedansh. To their astonishment, this small act led to a brand-new Toyota Fortuner, realizing a dream cheris",
    "image": "",
-   "date": "2026-10-28T08:28:15+00:00",
+   "date": "2026-10-28T08:31:41+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Edward III gold coin, in circulation just 7 months, sells for £70,000",
-   "link": "https://timesofindia.indiatimes.com/world/uk/a-rare-gold-coin-from-the-reign-of-englands-edward-iii-minted-as-a-leopard-that-was-in-circulation-for-just-seven-months-in-the-14th-century-emerged-from-an-ordinary-suburban-home-and-has-sold-at-auction-for-70000/articleshow/135255161.cms",
-   "desc": "An exquisite gold coin from the 14th century, known as a leopard, has recently fetched a staggering £70,000 at auction. Issued during the reign of King Edward III, this coin was only in circulation for seven months befor",
-   "image": "",
-   "date": "2026-10-28T08:28:04+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Scientists develop 3D cloak that hides complex objects from infrared cameras",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/researchers-have-developed-a-3d-thermal-invisibility-cloak-that-can-hide-complex-objects-from-infrared-cameras-while-also-protecting-them-from-extreme-heat-and-cold-a-step-beyond-earlier-cloaks-that-only-worked-with-simple-shapes/articleshow/135255767.cms",
-   "desc": "Researchers at University of Illinois Urbana-Champaign and Technical University of Denmark developed a thermal invisibility cloak. This cloak effectively hides complex objects from infrared cameras while managing extreme",
-   "image": "",
-   "date": "2026-10-28T08:27:42+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Failed to make presence felt': BJP's 'ballot paper' jibe at Rahul after MLC poll rout",
-   "link": "https://timesofindia.indiatimes.com/india/failed-to-establish-presence-bjp-takes-ballot-paper-jibe-at-rahul-after-congress-draws-blank-in-mlc-polls/articleshow/135257517.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T08:24:30+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Jailer 2' BO Day 14: Rajinikanth’s action drama crosses Rs 416 crore India net",
-   "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-14-live-rajinikanths-action-drama-crosses-rs-416-crore-india-net-nears-rs-490-crore-gross/articleshow/135258016.cms",
-   "desc": "Rajinikanth's latest blockbuster 'Jailer 2' has achieved a remarkable Rs 490 crore in box office earnings within just two weeks. Featuring stellar performances by Mohanlal and Vidya Balan, the film had a phenomenal openi",
-   "image": "",
-   "date": "2026-10-28T08:23:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Won't make questions disappear': Dipke accuses Centre of Instagram crackdown",
-   "link": "https://timesofindia.indiatimes.com/india/taking-down-instagram-accounts-wont-make-questions-disappear-abhijeet-dipke-accuses-centre-of-digital-crackdown/articleshow/135257840.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T08:17:34+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Will Ensure Justice\": Rahul Gandhi's Post On Tata Boardroom Battle",
-   "link": "https://www.ndtv.com/india-news/will-ensure-justice-rahul-gandhis-post-on-tata-boardroom-battle-12247411#publisher=newsstand",
-   "desc": "Rahul Gandhi has commented on the Tata group boardroom battle",
-   "image": "https://c.ndtvimg.com/2026-10/s4ipni0k_tata-rahul-gandhi_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T08:13:02+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "NDTV World Summit 2026: Nikhil Kamath On Why India May Not Need To Compete With US, China In Every Layer Of AI",
-   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-nikhil-kamath-explains-why-india-may-not-need-to-compete-with-us-china-in-every-layer-of-ai-12232114#publisher=newsstand",
-   "desc": "Nikhil Kamath at the NDTV World Summit 2026",
-   "image": "https://c.ndtvimg.com/2026-10/363r0juk_nikhil-kamath_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T08:10:35+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Alicia Keys' charity raises $86.6m, supports 9.3m across 28 countries",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2003-alicia-keys-co-founded-a-charity-to-help-children-affected-by-hiv-two-decades-later-it-has-raised-86-6-million-and-supports-9-3-million-children-young-people-and-families-in-28-countries/articleshow/135257460.cms",
-   "desc": "During her journey to South Africa, Alicia Keys encountered the profound effects of HIV/AIDS on families and children, which ignited her passion to co-found Keep a Child Alive in 2003. The organization has successfully r",
-   "image": "",
-   "date": "2026-10-28T08:07:53+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say",
-   "link": "https://www.ndtv.com/artificial-intelligence/hackers-used-44-ai-agents-to-automate-cyberattacks-researchers-say-12247387#publisher=newsstand",
-   "desc": "A cybercrime operation used AI to automate multiple stages of hacking, including reconnaissance, exploiting vulnerabilities and stealing data, according to researchers.",
-   "image": "https://i.ndtvimg.com/i/2017-09/cyber-crime-generic-istock_650x400_81504427706.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T08:07:46+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Nitin Nabin Leads BJP's Counter Against INDIA Bloc's 'Vote Theft' Claims",
-   "link": "https://www.ndtv.com/india-news/inside-nitin-nabins-strategy-to-counter-india-blocs-vote-theft-claim-12247257#publisher=newsstand",
-   "desc": "The BJP rally aims to strengthen public trust in India's democratic institutions",
-   "image": "https://c.ndtvimg.com/2026-10/e3ll6buk_nitin-nabin-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T08:07:24+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -229,15 +355,6 @@
    "cat": "business"
   },
   {
-   "title": "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls",
-   "link": "https://www.ndtv.com/india-news/bjp-jabs-dk-shivakumar-after-congress-loses-karnataka-legislative-council-mlc-polls-2026-its-done-bro-12247265#publisher=newsstand",
-   "desc": "DK Shivakumar said Congress expected to win two MLC seats (File photo)",
-   "image": "https://c.ndtvimg.com/2026-10/9ts4r0es_dk-shivakumar_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:53:50+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
@@ -245,6 +362,15 @@
    "date": "2026-10-28T07:53:20+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Andhra woman turns Rs 20,000 cashew loan into business with Rs 50 lakh turnover",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/in-2018-andhra-pradeshs-singampalli-parwathi-borrowed-rs-20000-to-trade-raw-cashews-today-she-processes-11-grades-of-cashew-kernels-and-reports-annual-business-turnover-near-rs-50-lakh/articleshow/135257205.cms",
+   "desc": "Singampalli Parwathi started her business in 2018 with a loan of Rs 20,000 to trade raw cashews. Over eight years, her enterprise evolved into a processing unit with an annual turnover of around Rs 50 lakh. The Sri Durga",
+   "image": "",
+   "date": "2026-10-28T07:49:54+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
@@ -256,85 +382,13 @@
    "cat": "business"
   },
   {
-   "title": "\"False, Baseless\": Ladakh Rebuts Sonam Wangchuk's \"Bars In Every Street\" Claim",
-   "link": "https://www.ndtv.com/india-news/ladakh-rebuts-sonam-wangchuks-bars-in-every-street-claim-false-baseless-12247278#publisher=newsstand",
-   "desc": "Sonam Wangchuk has questioned why liquor was being promoted in Ladakh while Gujarat remained a dry state.",
-   "image": "https://c.ndtvimg.com/2026-10/l3qlts1g_sonam-wangchuk_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:44:37+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
-   "image": "",
-   "date": "2026-10-28T07:41:35+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 55 Seats After Half Of Votes Counted",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:32:41+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Cheesesteak, Pepsi: Florida Man's Unusual Demand For Murder Confession",
-   "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
-   "desc": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
-   "image": "https://c.ndtvimg.com/2026-10/jqalphbk_robert-kessler_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:30:08+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 350 Points As Oil Prices Remains Steady At $115",
-   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
-   "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
-   "image": "https://c.ndtvimg.com/2026-08/97h4on7s_share-market_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T07:28:51+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Cyclone Arnab: Over 50 trains, several flights cancelled; Andhra, Odisha worst-hit",
-   "link": "https://timesofindia.indiatimes.com/city/vijayawada/cyclone-arnab-2-dead-several-flights-cancelled-over-50-trains-cancelled-as-storm-hits-andhra-odisha/articleshow/135256160.cms",
-   "desc": "Cyclone Arnab crossed the Andhra Pradesh coast, causing fatalities due to electrocution in separate incidents. Heavy rainfall exceeding 200 mm was recorded in several districts, with trees and electric poles uprooted. Fl",
-   "image": "",
-   "date": "2026-10-28T07:28:14+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Pretend I'm On Ballot\": Trump's Solution To Those Doubting Republicans",
-   "link": "https://www.ndtv.com/world-news/pretend-im-on-ballot-trumps-solution-to-those-doubting-republicans-in-us-midterms-12247169#publisher=newsstand",
-   "desc": "Republicans still love the president, who remains dominant even as he approaches the back half of his second term.",
-   "image": "https://c.ndtvimg.com/2026-10/gvotcqc4_trump-midterms-reuters_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T07:19:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
    "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
    "desc": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ef/live/78ab39a0-d250-11f1-8ba3-9fd3e261415f.jpg",
    "date": "2026-10-28T07:14:18+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "A One-Person Startup Just Got Bought By Anthropic",
-   "link": "https://www.ndtv.com/artificial-intelligence/one-person-one-ai-anthropic-buys-cody-tranbarger-startup-mithril-medicine-working-on-muscle-disease-12247104#publisher=newsstand",
-   "desc": "Anthropic acquired Cody Tranbarger's one-person startup",
-   "image": "https://c.ndtvimg.com/2026-10/q77s8o3_cody-tranbarger_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T07:11:34+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "McInnes' Tynecastle return, Goodwin's entertainers & Reedijk eyes first win",
@@ -344,24 +398,6 @@
    "date": "2026-10-28T07:10:28+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "From rivals to team-mates - Ball links up with Pope",
-   "link": "https://www.bbc.co.uk/sport/cycling/articles/cqwy7j5kr3y1o?at_medium=RSS&at_campaign=rss",
-   "desc": "James Ball is set to ride at his 10th Para-cycling Track World Championships as he looks to defend two titles with new pilot Aaron Pope.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e7/live/9c3cf620-c7cd-11f1-9e10-4dcbd31d4273.jpg",
-   "date": "2026-10-28T07:04:48+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
-   "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "desc": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
-   "image": "",
-   "date": "2026-10-28T06:56:49+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Why Hurts played with blood clot and what it means for NFL",
@@ -400,15 +436,6 @@
    "cat": "sports"
   },
   {
-   "title": "Neeraj Yadav: Polio, 3 Asian Para Games golds, doping ban and a life cut short",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/who-was-neeraj-yadav-three-time-asian-para-games-gold-medallist-dies-by-suicide/articleshow/135253718.cms",
-   "desc": "Neeraj Yadav, a prominent para-athlete, was found dead at his residence and is believed to have died by suicide. He won three gold medals at the Asian Para Games, showcasing his talent in athletics. Yadav faced a doping ",
-   "image": "",
-   "date": "2026-10-28T05:54:30+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
    "desc": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
@@ -416,15 +443,6 @@
    "date": "2026-10-28T05:20:32+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "'I call him Muhammed': Trump suggests daily metal-detector tests for Abdul",
-   "link": "https://timesofindia.indiatimes.com/world/us/i-call-him-muhammed-trump-attacks-michigan-candidate-abdul-suggests-daily-metal-detector-tests-to-sit-in-senate/articleshow/135252128.cms",
-   "desc": "During a campaign rally, Donald Trump made pointed accusations against Michigan Senate candidate Abdul El-Sayed, alleging connections to Sharia law and the Muslim Brotherhood. Trump raised issues about El-Sayed's fitness",
-   "image": "",
-   "date": "2026-10-28T04:50:52+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
@@ -497,15 +515,6 @@
    "date": "2026-10-28T03:02:38+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-   "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
-   "desc": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
-   "image": "",
-   "date": "2026-10-28T02:57:36+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
@@ -598,6 +607,15 @@
    "cat": "business"
   },
   {
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "desc": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "image": "",
+   "date": "2026-10-27T23:50:03+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
@@ -625,6 +643,15 @@
    "cat": "business"
   },
   {
+   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+   "desc": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+   "image": "",
+   "date": "2026-10-27T23:03:09+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "The data center boom has an upside: innovation for the US grid",
    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
    "desc": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
@@ -643,11 +670,11 @@
    "cat": "tech"
   },
   {
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "title": "Midterm elections: How affordability and the economy could affect voters' decisions",
+   "link": "https://www.cnbc.com/guide/midterm-elections-economy-affordability/",
+   "desc": "Several economic issues could affect voters' decisions in the midterm elections. Here's what to expect on Nov. 3.",
    "image": "",
-   "date": "2026-10-27T22:35:25+00:00",
+   "date": "2026-10-27T22:40:12+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -713,15 +740,6 @@
    "date": "2026-10-27T21:22:35+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "desc": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "image": "",
-   "date": "2026-10-27T21:12:55+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
@@ -796,15 +814,6 @@
    "cat": "tech"
   },
   {
-   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-   "desc": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
-   "image": "",
-   "date": "2026-10-27T18:57:45+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
    "desc": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
@@ -857,15 +866,6 @@
    "date": "2026-10-27T17:30:00+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-   "link": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-   "desc": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
-   "image": "",
-   "date": "2026-10-27T17:26:34+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Watch: The Mbappé-Chairman Mao controversy explained",
