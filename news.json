@@ -1,16 +1,142 @@
 {
- "generated_at": "2026-10-28T06:32:54.459241+00:00",
+ "generated_at": "2026-10-28T07:00:28.355299+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-   "desc": "",
+   "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "desc": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
    "image": "",
-   "date": "2026-10-28T06:32:05+00:00",
+   "date": "2026-10-28T06:56:49+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Cheesesteak, Pepsi: Florida Man's Unusual Quid Pro Quo For Murder Confession",
+   "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
+   "desc": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
+   "image": "https://c.ndtvimg.com/2026-10/jqalphbk_robert-kessler_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:52:54+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Trump Approves Flavio Bolsonaro's US Entry After He Flees Brazil",
+   "link": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand",
+   "desc": "Trump made the remarks while talking to reporters on his return from a Texas campaign trip.",
+   "image": "https://c.ndtvimg.com/2026-10/bvqidk1o_us-brazil-reuters_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:51:29+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Why Hurts played with blood clot and what it means for NFL",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&at_campaign=rss",
+   "desc": "Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition, having played with a blood clot and boarded a long-haul flight.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f853/live/e15eb220-d1c8-11f1-82d3-0562771fb08a.jpg",
+   "date": "2026-10-28T06:49:03+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "How Mbappé's 'dictator' remark on Mao led to China suspending La Liga broadcasts",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-china-suspended-la-liga-broadcasts-after-kylian-mbapps-dictator-remark-about-mao-zedong-full-controversy-explained/articleshow/135253775.cms",
+   "desc": "Kylian Mbappé faced intense criticism in China after labeling Mao Zedong a dictator during a video chat. This sparked outrage, prompting sponsors like Dongpeng and Mengniu to terminate their deals with him. Chinese media",
+   "image": "",
+   "date": "2026-10-28T06:48:38+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/mukesh-ambani-gets-teary-eyed-as-anant-ambani-talks-about-reliances-journey-at-jio-listing/articleshow/135255155.cms",
+   "desc": "Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and A",
+   "image": "",
+   "date": "2026-10-28T06:45:59+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
+   "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+   "desc": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+   "image": "",
+   "date": "2026-10-28T06:43:19+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "In China, The AI Bubble Has Already Burst",
+   "link": "https://www.ndtv.com/artificial-intelligence/in-china-the-ai-bubble-has-already-burst-12241386#publisher=newsstand",
+   "desc": "While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking",
+   "image": "https://i.ndtvimg.com/i/2015-12/china-flag_650x400_61451028230.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T06:39:31+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War",
+   "link": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
+   "desc": "Israeli voters delivered a rebuke to Netanyahu's far-right and religious governing coalition",
+   "image": "https://c.ndtvimg.com/2026-10/4thc7hlo_israel-polls_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:37:59+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "No water in washrooms, family forced to get off train; Railways to pay Rs 16k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/family-of-24-forced-to-get-off-a-train-over-washrooms-without-water-paid-extra-to-reach-destination-yet-railways-denied-the-problem-until-a-consumer-commission-ordered-a-rs-16000-payout/articleshow/135254695.cms",
+   "desc": "In an important ruling, a district consumer commission in Karnataka found that South Western Railway did not provide sufficient services to its passengers. A traveler and his family endured discomfort stemming from a lac",
+   "image": "",
+   "date": "2026-10-28T06:35:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Justin Jefferson raises $45k for cancer, gifts 7-year-old Super Bowl tickets",
+   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/justin-jeffersons-charity-bowling-night-raised-over-45000-for-cancer-research-the-vikings-star-also-surprised-7-year-old-fan-claire-van-epps-who-is-undergoing-treatment-with-super-bowl-tickets/articleshow/135253112.cms",
+   "desc": "Justin Jefferson’s charity bowling event, aptly named 'Strike Out Cancer', successfully raised over $45,000 for cancer research. This heartwarming gathering united patients, survivors, and caregivers, all supporting the ",
+   "image": "",
+   "date": "2026-10-28T06:33:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+   "desc": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a8/live/665f3680-d218-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-10-28T06:33:14+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "South African athlete crosses 600 monkey bars 216m above river in 47 minutes",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/south-african-athlete-thomas-van-tonder-crosses-600-monkey-bars-suspended-216-metres-above-ground-beneath-bloukrans-bridge-completes-280-metre-crossing-in-47-minutes-in-world-first-stunt/articleshow/135253745.cms",
+   "desc": "On October 26, Thomas van Tonder achieved a remarkable feat by completing a crossing under Bloukrans Bridge, navigating through 600 monkey bars in a challenging 280-meter course. This grueling challenge tested his grip s",
+   "image": "",
+   "date": "2026-10-28T06:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Jio makes strong debut at 21% premium to become India's second-most valuable firm",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/jio-share-price-jpl-makes-strong-debut-at-21-premium-becomes-indias-second-most-valuable-firm-all-you-need-to-know/articleshow/135253566.cms",
+   "desc": "Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 per share. The IPO attracted an impressive 22.19 times oversubscription, with bids surpassing Rs 7.4 lakh crore. Following this, the firm's m",
+   "image": "",
+   "date": "2026-10-28T06:29:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Tamil Nadu Launches Security Audit Of Jails After 2 Escape Incidents",
+   "link": "https://www.ndtv.com/india-news/thekkampatti-jail-tamil-nadu-launches-security-audit-of-jails-after-2-escape-incidents-12246887#publisher=newsstand",
+   "desc": "17 undertrial prisoners escaped from the jail in Theni district on Monday",
+   "image": "https://c.ndtvimg.com/2026-10/8c96sgdk_tamil-nadu-jail-break_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T06:17:00+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Hit-and-run: Kochi police commissioner transferred after crash involving judge’s son",
@@ -22,13 +148,49 @@
    "cat": "india"
   },
   {
-   "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "desc": "Shares of South Korean chipmaker SK Hynix soared over 10% on Wednesday as third-quarter profit sharply beats estimates.",
+   "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 56 Seats After Half Of Votes Counted",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:13:40+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Bengaluru man buys Rs 3 lakh used car to save new sedan from dents, scratches",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/best-money-ive-spent-bengaluru-man-spends-rs-3-lakh-on-a-used-car-to-protect-his-new-sedan-from-/articleshow/135252497.cms",
+   "desc": "A Bengaluru resident made a smart move by purchasing a 2015 Maruti Suzuki Celerio for Rs 3 lakh, aiming to ease his daily commute. By opting for an older model, he seeks to protect his newer sedan from the urban grind. A",
    "image": "",
-   "date": "2026-10-28T05:54:33+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-28T06:10:30+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "US Cruise Ship 'Odyssey' On World Voyage Stops After Fuel Prices Surge",
+   "link": "https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand",
+   "desc": "Passengers have been told to leave the ship, but the crew's status was unclear.",
+   "image": "https://c.ndtvimg.com/2026-10/0qulbclg_us-ship-villa-vie-residences-afp_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T06:08:07+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Kerala Congress Apologises To Chief Justice Surya Kant Over Controversial Post",
+   "link": "https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand",
+   "desc": "The apology came in a reply to a legal notice issued by a Supreme Court lawyer.",
+   "image": "https://c.ndtvimg.com/2026-10/nn1uvvp4_chief-justice-surya-kant-_625x300_12_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T06:04:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Analysis: India Needs Sector-Specific AI Rules, Not Omnibus Law",
+   "link": "https://www.ndtv.com/india-news/india-needs-sector-specific-ai-rules-not-omnibus-law-12246820#publisher=newsstand",
+   "desc": "The principal difficulty with technology-specific legislation is its durability",
+   "image": "https://c.ndtvimg.com/2026-10/na9gbs7s_artificial-intelligence_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T06:01:47+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
@@ -40,21 +202,48 @@
    "cat": "business"
   },
   {
-   "title": "Indiana contractor paid with Ford truck now personally liable for $82,020",
-   "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-couple-paid-a-contractor-with-cheques-and-a-ford-f-350-truck-for-home-repairs-but-he-made-roof-trusses-in-his-backyard-on-october-26-a-court-made-him-personally-liable-for-an-82020-judgment/articleshow/135229212.cms",
-   "desc": "An Indiana couple successfully secured an $82,020 judgment against a contractor for breach of contract and fraudulent misrepresentations. Tasked with property repairs, the contractor failed to deliver promised materials ",
+   "title": "NDTV World Summit: Shashi Tharoor On What's Working And What's Not In India's Foreign Policy",
+   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-shashi-tharoor-on-whats-working-and-whats-not-in-indias-foreign-policy-12232898#publisher=newsstand",
+   "desc": "Shashi Tharoor at the NDTV World Summit 2026",
+   "image": "https://c.ndtvimg.com/2026-10/imi5173_shashi-tharoor-ndtv-summit_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T05:45:55+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Rare Dinosaur Skeleton Sells For $47 Million In US",
+   "link": "https://www.ndtv.com/world-news/rare-nanotyrannus-skeleton-sold-for-47-3-million-to-mystery-buyer-in-us-12246507#publisher=newsstand",
+   "desc": "The winning bidder has chosen to remain anonymous as of now.",
+   "image": "https://c.ndtvimg.com/2026-10/2c8te7a8_nanotyrannus-afp_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T05:42:38+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Man Arrested For Falsely Claiming To Be Australia Bondi Beach Shooting Victim",
+   "link": "https://www.ndtv.com/world-news/man-arrested-for-falsely-claiming-to-be-australia-bondi-beach-shooting-victim-12246722#publisher=newsstand",
+   "desc": "One of the Bondi Beach gunmen was shot and killed by police during the December 14 attack.",
+   "image": "https://c.ndtvimg.com/2025-12/9klmlth_bondi-beach_625x300_17_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T05:42:00+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Scientists recreate 1,600-year-old Roman cup's colour-changing glass",
+   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-1600-year-old-roman-cup-turns-green-or-ruby-red-depending-on-how-light-hits-it-after-years-of-experiments-sheffield-researchers-have-recreated-the-glass-effect-using-tiny-gold-and-silver-particles/articleshow/135253340.cms",
+   "desc": "A team of researchers has made a groundbreaking achievement by replicating the color-shifting glass of the ancient Roman Lycurgus Cup. Created 1,600 years ago, this unique glass displays stunning optical effects thanks t",
    "image": "",
-   "date": "2026-10-28T05:38:25+00:00",
+   "date": "2026-10-28T05:36:35+00:00",
    "source": "Times of India",
    "cat": "india"
   },
   {
-   "title": "Japan DNA study finds 126 fish species farther north than previously recorded",
-   "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-collected-dna-from-seawater-at-316-sites-across-japan-and-found-126-fish-species-farther-north-than-previously-recorded-revealing-how-warming-seas-may-be-reshaping-where-coastal-wildlife-can-survive/articleshow/135240516.cms",
-   "desc": "Japan is witnessing a dramatic transformation in its marine ecosystems as rising ocean temperatures prompt fish species to migrate northward. An extensive research effort involving the analysis of water samples has revea",
-   "image": "",
-   "date": "2026-10-28T05:38:00+00:00",
-   "source": "Times of India",
+   "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash",
+   "link": "https://www.ndtv.com/business-news/why-is-stock-market-falling-today-4-key-reasons-behind-sensex-nifty-crash-12246601#publisher=newsstand",
+   "desc": "Share Market Crash Today: High oil prices, heavy FII selling major reasons behind market crash today.",
+   "image": "https://c.ndtvimg.com/2026-10/ggav8oug_bear-market_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T05:26:48+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -85,21 +274,12 @@
    "cat": "india"
   },
   {
-   "title": "Meet 82-year-old Haryana dadi who learnt to ride a bike at 74, drives tractors",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/dar-koi-na-laagda-meet-the-82-year-old-haryana-dadi-who-learnt-to-ride-a-bike-at-74-and-now-drives-tractors-too-how-her-grandsons-joke-started-it-all/articleshow/135252657.cms",
-   "desc": "At 82, Sukhma from Sundana village has become a beacon of inspiration for many. With her grandson's encouragement, she embraced the thrill of motorcycle riding and mastered it, proving that age is merely a number. Not st",
-   "image": "",
-   "date": "2026-10-28T05:07:24+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Process becomes punishment in our system': Ex-SC judge Kaul on Umar Khalid case",
-   "link": "https://timesofindia.indiatimes.com/india/process-becomes-punishment-in-our-system-ex-sc-judge-sanjay-kaul-on-umar-khalid-sharjeel-imam-bail-pleas/articleshow/135252397.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T05:03:15+00:00",
-   "source": "Times of India",
+   "title": "Cyclone Arnab Completes Landfall, Brings Heavy Rain In Andhra, Odisha",
+   "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
+   "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
+   "image": "https://c.ndtvimg.com/2026-10/gkn5uupc_cyclone-arnab_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T05:07:52+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -109,6 +289,15 @@
    "image": "",
    "date": "2026-10-28T04:58:20+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "20 Markets, 20 Traders, 20 Minutes: Delhi Trade Body's Offer To Rahul Gandhi",
+   "link": "https://www.ndtv.com/india-news/20-markets-20-traders-20-minutes-delhi-trade-bodys-offer-to-rahul-gandhi-12246502#publisher=newsstand",
+   "desc": "\"We want dialogue, not a fight,\" the association said in its letter, written in Hindi.",
+   "image": "https://c.ndtvimg.com/2026-10/ptd9ulhc_delhi-traders-ians_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T04:42:34+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -139,60 +328,6 @@
    "cat": "india"
   },
   {
-   "title": "'You can't just go and score': Abhishek Sharma responds to Yuvraj Singh's 12-ball fifty jibe",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-cant-just-go-and-score-abhishek-sharma-responds-to-yuvraj-singhs-12-ball-fifty-jibe/articleshow/135251736.cms",
-   "desc": "Abhishek Sharma celebrated his century against New Zealand while responding to Yuvraj Singh’s playful reminder. Yuvraj highlighted his record of a 12-ball fifty during the exchange. Nepal's Dipendra Singh Airee set a new",
-   "image": "",
-   "date": "2026-10-28T04:20:49+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Why Were You Recording Me?\" Woman Confronts Man On Bengaluru Metro",
-   "link": "https://www.ndtv.com/bangalore-news/bengaluru-metro-recording-news-why-were-you-recording-me-woman-confronts-man-on-bengaluru-metro-12246240#publisher=newsstand",
-   "desc": "The video shows her confronting the man and demanding that he unlock his phone.",
-   "image": "https://c.ndtvimg.com/2026-10/g42usfko_bengaluru_625x300_28_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T04:12:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Israeli Arab Parties Claim Kingmaker Status In Extra-Tight Vote",
-   "link": "https://www.ndtv.com/world-news/israeli-arab-parties-claim-kingmaker-status-in-extra-tight-vote-12246394#publisher=newsstand",
-   "desc": "Gadi Eisenkot casts his vote at a polling station in Herzliya, Israel.",
-   "image": "https://c.ndtvimg.com/2026-10/mt8nel3_gadi-eisenkot-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T04:12:10+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Non-Hindus Wearing Religious Markers Can't Enter Agamic Temples Without Affirming Reverence: Madras High Court",
-   "link": "https://www.ndtv.com/india-news/non-hindus-wearing-religious-markers-cant-enter-agamic-temples-without-affirming-reverence-madras-high-court-12246385#publisher=newsstand",
-   "desc": "The order does not impose an unqualified ban on everyone wearing another religion's markers",
-   "image": "https://c.ndtvimg.com/2026-10/bnce8pt8_arunachaleswarar-temple_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T04:09:48+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Israel Election Results Live: No Clear Winner In Israel Election As Netanyahu Refuses Arab Alliance",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/4cs30pt4_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T04:07:48+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Married To ISIS Fighter, US Woman Convicted Of Getting Terrorist Training",
-   "link": "https://www.ndtv.com/world-news/married-to-isis-fighter-us-woman-convicted-of-getting-terrorist-training-halima-salman-12246365#publisher=newsstand",
-   "desc": "Salman's conviction carries the potential for up to 10 years in prison.",
-   "image": "https://i.ndtvimg.com/i/2016-01/al-qaeda_650x400_51452511720.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T04:07:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
    "desc": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the b",
@@ -200,24 +335,6 @@
    "date": "2026-10-28T03:56:09+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "\"This Is America. Back Up\": US, Cuba Officials' Shouting Match At UN. Watch",
-   "link": "https://www.ndtv.com/world-news/this-is-america-back-up-us-cuba-officials-shouting-match-at-un-watch-12246311#publisher=newsstand",
-   "desc": "The heated moment captured the heightened tensions between Cuba and the US.",
-   "image": "https://c.ndtvimg.com/2026-10/qb335ah_us-cuba_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T03:55:46+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "NDA Dominates Karnataka Legislative Council Polls As BJP Wins 3, Ally JDS 1",
-   "link": "https://www.ndtv.com/india-news/karnataka-mlc-election-results-nda-dominates-karnataka-legislative-council-elections-as-bjp-wins-3-jds-1-12246192#publisher=newsstand",
-   "desc": "The NDA has won the Karnataka MLC elections in a setback to the ruling Congress",
-   "image": "https://c.ndtvimg.com/2026-10/rvmrfjd4_vijayendra-yediyurappa-hd-kumaraswamy_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:50:05+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -236,60 +353,6 @@
    "date": "2026-10-28T03:33:53+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Explainer: Why News Publishers Challenged Data Protection Law In Supreme Court",
-   "link": "https://www.ndtv.com/india-news/explainer-why-news-publishers-challenged-data-protection-law-in-supreme-court-12242810#publisher=newsstand",
-   "desc": "The Rules lay down how consent, notices and breach reporting are to work in practice.",
-   "image": "https://c.ndtvimg.com/2026-06/cipb68p4_data-centre_625x300_10_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:28:44+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "How Sir Alex Ferguson's 'horse' ruined Manchester United",
-   "link": "https://timesofindia.indiatimes.com/sports/football/offside/offside-how-man-utd-became-europes-worst-run-club-with-a-little-help-from-sir-alex-fergusons-horse/articleshow/135240908.cms",
-   "desc": "In this week’s edition of Offside, we examine how the world’s most popular football institution went from being a perennial winner to a mid-table banter club.",
-   "image": "",
-   "date": "2026-10-28T03:25:44+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Will Gold Prices Fall Further? Why Shoppers Are Holding Back Ahead Of Diwali",
-   "link": "https://www.ndtv.com/business-news/will-gold-prices-fall-further-why-shoppers-are-holding-back-ahead-of-diwali-12246244#publisher=newsstand",
-   "desc": "Prime Minister Narendra Modi has also repeatedly urged Indians to curb purchases.",
-   "image": "https://c.ndtvimg.com/2026-10/h8pgoih8_gold-prices-extend-decline_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:21:04+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Netanyahu's Bloc Ahead Of Opposition, But Falls Short Of Majority: Exit Polls",
-   "link": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
-   "desc": "Final results are expected over the next 48 hours",
-   "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:19:45+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Kerala Congress Apologises To Chief Justice Surya Kant Over Controversial Post",
-   "link": "https://www.ndtv.com/kerala-news/kerala-congress-apologises-to-chief-justice-surya-kant-over-controversial-post-12246217#publisher=newsstand",
-   "desc": "The apology came in a reply to a legal notice issued by a Supreme Court lawyer.",
-   "image": "https://c.ndtvimg.com/2026-10/nn1uvvp4_chief-justice-surya-kant-_625x300_12_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:14:11+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "India Weighs US-Style Frontier AI Safeguards As Government Prepares New Law",
-   "link": "https://www.ndtv.com/artificial-intelligence/india-weighs-us-style-frontier-ai-safeguards-as-government-prepares-new-law-12246199#publisher=newsstand",
-   "desc": "Government will release a consultation paper on a new AI law in the coming weeks (Representational Image)",
-   "image": "https://c.ndtvimg.com/2026-10/na9gbs7s_artificial-intelligence_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T03:09:15+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
@@ -317,42 +380,6 @@
    "date": "2026-10-28T02:57:36+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "US Cost Of Iran War Rises Over $47 Billion, 25% More Than Estimated",
-   "link": "https://www.ndtv.com/world-news/us-cost-of-iran-war-rises-over-47-billion-25-more-than-estimated-pentagon-defence-department-12246112#publisher=newsstand",
-   "desc": "Trump launched the Iran war jointly with Israel in February.",
-   "image": "https://c.ndtvimg.com/2026-10/a44krso8_iran-war-reuters_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T02:52:33+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "UAE President Honours flydubai Hero Captain, Crew For Courageous Actions",
-   "link": "https://www.ndtv.com/world-news/uae-president-honours-flydubai-hero-captain-smit-machchhar-crew-for-courageous-actions-12246128#publisher=newsstand",
-   "desc": "Captain Smit Machchhar has been conferred with the First Class Order of Zayed II.",
-   "image": "https://c.ndtvimg.com/2026-10/9oink4kc_uae-president-honours-flydubai-hero-captain-smit-machchhar-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T02:46:56+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 700 Points As Oil Prices Remains Steady At $115",
-   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
-   "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
-   "image": "https://c.ndtvimg.com/2026-08/97h4on7s_share-market_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T02:44:11+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Watch: High tides, uprooted trees as Cyclone Arnab makes landfall along Andhra coast",
-   "link": "https://timesofindia.indiatimes.com/india/watch-high-tides-uprooted-trees-as-cyclone-arnab-makes-landfall-along-andhra-coast/articleshow/135249584.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T02:42:21+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
@@ -445,7 +472,7 @@
    "cat": "business"
   },
   {
-   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+   "title": "I get £4,062 a year and am trying my best to get a job - here's what I want from the Budget",
    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
@@ -461,15 +488,6 @@
    "date": "2026-10-28T00:01:10+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/38ec2910-d24a-11f1-8ba3-9fd3e261415f.jpg",
-   "date": "2026-10-27T23:54:14+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
@@ -805,15 +823,6 @@
    "cat": "business"
   },
   {
-   "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
-   "desc": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9c/live/048c89c0-d228-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-27T17:15:11+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
    "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
    "desc": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
@@ -875,15 +884,6 @@
    "date": "2026-10-27T16:30:57+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Meet T K Radha: Kerala physicist personally invited to Princeton by Oppenheimer",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/born-in-1938-in-a-kerala-village-without-electricity-t-k-radha-topped-her-class-in-mathematics-chose-physics-instead-and-was-personally-invited-by-j-robert-oppenheimer-to-princeton-yet-her-story-stayed-in-the-shadows-for-decades/articleshow/135239800.cms",
-   "desc": "Thayyoor K. Radha's journey as a physicist is a testament to resilience and brilliance. Growing up in a small village in Kerala, she thrived in mathematics and physics, breaking through societal barriers. Her valuable re",
-   "image": "",
-   "date": "2026-10-27T16:15:43+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
