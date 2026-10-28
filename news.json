@@ -1,14 +1,104 @@
 {
- "generated_at": "2026-10-28T18:32:28.296198+00:00",
+ "generated_at": "2026-10-28T19:00:24.848066+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Fed holds rates steady despite concerns over inflation",
-   "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-   "desc": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
+   "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+   "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+   "desc": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
    "image": "",
-   "date": "2026-10-28T18:29:26+00:00",
+   "date": "2026-10-28T18:58:55+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Five ways the Budget will affect you if you are under 25",
+   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T18:55:56+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "desc": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w",
+   "image": "",
+   "date": "2026-10-28T18:50:39+00:00",
+   "source": "TechCrunch AI",
+   "cat": "ai"
+  },
+  {
+   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+   "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+   "desc": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
+   "image": "",
+   "date": "2026-10-28T18:44:40+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "desc": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year",
+   "image": "",
+   "date": "2026-10-28T18:36:26+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
+   "link": "https://www.ndtv.com/india-news/bjp-ahead-but-akhilesh-yadavs-party-gains-ground-in-up-mlc-elections-12250819#publisher=newsstand",
+   "desc": "Yogi Adityanath's government is facing anti-incumbency, says Akhilesh Yadav.",
+   "image": "https://c.ndtvimg.com/2026-10/ios98d68_yogi-akhilesh_625x300_13_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:33:57+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "House Vandalised During Arunachal Dam Protest, Ex-Minister Calls For Talks",
+   "link": "https://www.ndtv.com/india-news/house-vandalised-during-arunachal-dam-protest-ex-minister-calls-for-talks-12250832#publisher=newsstand",
+   "desc": "The MLA also urged the Union government to initiate discussions with China.",
+   "image": "https://c.ndtvimg.com/2026-10/8pk37j3c_rat_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:29:25+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Angelina Jolie's charity helps over 17,000 children secure legal representation",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2008-angelina-jolie-co-founded-kind-with-microsoft-it-has-since-secured-legal-representation-for-over-17000-children-in-the-us-and-supported-migrant-families/articleshow/135271543.cms",
+   "desc": "Kids in Need of Defense, co-founded by Angelina Jolie in 2008, assists unaccompanied children with legal representation. KIND ensures that these children receive psychosocial support and comprehensive services across the",
+   "image": "",
+   "date": "2026-10-28T18:26:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "AAP Wants Delhi Liquor App Scrapped. Agency Says Approval Came In 2024",
+   "link": "https://www.ndtv.com/india-news/aap-wants-delhi-liquor-app-scrapped-agency-says-approval-came-in-2024-12250818#publisher=newsstand",
+   "desc": "The document shows that the corporation awarded a contract worth Rs 5 lakh, including GST.",
+   "image": "https://i.ndtvimg.com/i/2017-07/liquor-shop-istock_650x400_71499238652.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:26:08+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Indians In Madrid Asked To Contact Embassy For Help After Train Crash",
+   "link": "https://www.ndtv.com/world-news/indians-in-madrid-asked-to-contact-embassy-for-help-after-train-crash-12250821#publisher=newsstand",
+   "desc": "At least 68 people have died and several injured in a train crash early on Wednesday near Madrid.",
+   "image": "https://c.ndtvimg.com/2026-10/6ls2flv4_spain-train-crash_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T18:25:58+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+   "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+   "desc": "The DOJ wants a judge to temporarily block certification of the Alaska Senate election if incumbent Sen. Dan Sullivan loses due to voter confusion.",
+   "image": "",
+   "date": "2026-10-28T18:22:14+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -31,6 +121,15 @@
    "cat": "tech"
   },
   {
+   "title": "Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives",
+   "link": "https://www.ndtv.com/india-news/ghaziabad-woman-falls-for-gym-trainer-plots-husbands-murder-he-survives-12250387#publisher=newsstand",
+   "desc": "Police said Pratap told them during questioning that the two planned to marry.",
+   "image": "https://c.ndtvimg.com/2026-10/5paq9404_ghaziabad-woman-gym-trainer_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T18:12:43+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
    "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
@@ -40,6 +139,15 @@
    "cat": "business"
   },
   {
+   "title": "\"Secretly Happy With Our Win\": Akhilesh Yadav On Minister's MLC Poll Remark",
+   "link": "https://www.ndtv.com/india-news/secretly-happy-with-our-win-akhilesh-yadav-on-ministers-mlc-poll-remark-12250782#publisher=newsstand",
+   "desc": "\"The MLC elections have packed off the BJP bag and baggage,\" Akhilesh Yadav said.",
+   "image": "https://c.ndtvimg.com/2026-10/lm32v9eg_akhilesh-yadav-kp-maurya_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:10:56+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Here’s where to preorder the latest MacBook Pros",
    "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
    "desc": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilit",
@@ -47,6 +155,33 @@
    "date": "2026-10-28T18:10:23+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
+   "link": "https://www.ndtv.com/india-news/mumbai-airport-airlines-work-out-plan-to-shift-traffic-to-navi-mumbai-12250714#publisher=newsstand",
+   "desc": "CSMIA currently handles around 55 million passengers annually.",
+   "image": "https://c.ndtvimg.com/2023-07/d3i6b0k_mumbai-airport_625x300_12_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T18:09:10+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Here is what changed in the new Fed statement",
+   "link": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+   "desc": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in September.",
+   "image": "",
+   "date": "2026-10-28T18:06:50+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Meet Ryan Ragsdale, 11: Sold 700 Pokémon cards, raised $20k for heart research",
+   "link": "https://timesofindia.indiatimes.com/world/us/meet-ryan-ragsdale-the-11-year-old-texas-boy-who-sold-700-pokmon-cards-childhood-toys-and-hand-painted-rocks-turning-six-years-of-school-fundraising-into-more-than-20000-for-heart-research-and-outreach/articleshow/135274958.cms",
+   "desc": "In an inspiring display of generosity, Texas schoolboy Ryan Ragsdale, age 11, has successfully raised over $20,000 for charity through selling his toys and other items. Since the tender age of five, Ryan has organized fu",
+   "image": "",
+   "date": "2026-10-28T18:04:44+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
@@ -101,15 +236,6 @@
    "date": "2026-10-28T17:48:28+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
-   "link": "https://www.ndtv.com/india-news/mumbai-airport-airlines-work-out-plan-to-shift-traffic-to-navi-mumbai-12250714#publisher=newsstand",
-   "desc": "In a meeting with the Airline Operators Committee (AOC) on Wednesday, the airport said IndiGo, Air India and Akasa Air have finalised plans to move international operations accounting for around three million passengers ",
-   "image": "https://c.ndtvimg.com/2023-07/d3i6b0k_mumbai-airport_625x300_12_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:48:27+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Will I get the £100 energy payment and when will I receive it?",
@@ -229,18 +355,9 @@
    "cat": "india"
   },
   {
-   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-   "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-   "desc": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
-   "image": "",
-   "date": "2026-10-28T17:29:21+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+   "title": "Apple ‘Pro and Tell’ event: Everything announced this week",
    "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-   "desc": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting",
+   "desc": "Apple closed out its week of product announcements with its \"Pro and tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciti",
    "image": "",
    "date": "2026-10-28T17:27:38+00:00",
    "source": "The Verge",
@@ -249,38 +366,11 @@
   {
    "title": "Apple launches its new touchscreen MacBook Pro",
    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-   "desc": "Apple's new touchscreen MacBook Pro starts at $2,899",
+   "desc": "Apple's new touchscreen MacBook Pro starts at $2,899.",
    "image": "",
    "date": "2026-10-28T17:26:10+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Teacher Attacked With Sharp Weapon By Cook's Son In Assam School",
-   "link": "https://www.ndtv.com/india-news/teacher-attacked-with-sharp-weapon-by-cooks-son-in-assam-school-12250602#publisher=newsstand",
-   "desc": "The reason behind the attack is unclear. (Representational Photo)",
-   "image": "https://c.ndtvimg.com/2025-07/ih3kamd8_assam-police-_625x300_11_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-   "date": "2026-10-28T17:25:00+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Madonna's Malawi surgery centre treats over 2,000 children a year for free",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2017-madonnas-charity-opened-a-childrens-surgery-centre-in-malawi-by-2025-it-reported-life-saving-operations-for-over-2000-children-a-year-with-care-provided-at-a-free-public-facility/articleshow/135271600.cms",
-   "desc": "Madonna's charity, Raising Malawi, has established the Mercy James Centre for Paediatric Surgery and Intensive Care in Malawi. This facility performs over 2,000 life-saving surgeries each year at Queen Elizabeth Central ",
-   "image": "",
-   "date": "2026-10-28T17:24:08+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Working To Fix This\": YouTube After Thousands Of Users Face Outage In US",
-   "link": "https://www.ndtv.com/world-news/working-to-fix-this-youtube-after-thousands-of-users-face-outage-in-us-12250312#publisher=newsstand",
-   "desc": "User complaints spiked drastically with over 24,000 active outage reports",
-   "image": "https://i.ndtvimg.com/i/2015-10/youtube-logo_650x400_61445453025.jpg",
-   "date": "2026-10-28T17:21:51+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
@@ -299,15 +389,6 @@
    "date": "2026-10-28T17:16:55+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "How Cyclone 'Arnab' Gave Many Babies Their Names In Odisha",
-   "link": "https://www.ndtv.com/india-news/how-cyclone-arnab-gave-many-babies-their-names-in-odisha-12250572#publisher=newsstand",
-   "desc": "Cyclone Arnab was named by Bangladesh, and is pronounced 'Ornab'.",
-   "image": "https://c.ndtvimg.com/2026-10/2vm1igtk_cyclone-arnab-source-pti_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T17:15:46+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
@@ -335,15 +416,6 @@
    "date": "2026-10-28T17:08:13+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Apple announces its first touchscreen MacBook Pro",
-   "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-   "desc": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it's available to preorder",
-   "image": "",
-   "date": "2026-10-28T17:05:56+00:00",
-   "source": "The Verge",
-   "cat": "tech"
   },
   {
    "title": "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
@@ -400,31 +472,13 @@
    "cat": "world"
   },
   {
-   "title": "Israel Election Results Live: Israel Elections 'Stolen' By Arab Parties, Claims Netanyahu, As His Party Falls Short Of Majority",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T16:58:05+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Budget 2026: Key points at a glance",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ab/live/eb6eebf0-d2fd-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-10-28T16:55:27+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Harvard Professor Ranjay Gulati On AI Divide And How Courage Will Determine Winners | NDTV Profit Ignite",
-   "link": "https://www.ndtv.com/india-news/harvard-professor-ranjay-gulati-on-ai-divide-and-how-courage-will-determine-winners-12250384#publisher=newsstand",
-   "desc": "Ranjay Gulati said it is prudent to \"surface your beliefs\" amid uncertainity.",
-   "image": "https://c.ndtvimg.com/2026-10/4f4pcir_rahul_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T16:48:47+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Watch: At the scene of Spain's deadly train crash",
@@ -442,15 +496,6 @@
    "image": "",
    "date": "2026-10-28T16:45:01+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Probe Agency ED Attaches Jauhar University's Assets Worth Rs 1,170 Crore In Azam Khan Case",
-   "link": "https://www.ndtv.com/india-news/probe-agency-ed-attaches-jauhar-university-assets-worth-rs-1-170-crore-in-azam-khan-case-12250428#publisher=newsstand",
-   "desc": "Azam Khan was a minister and a top functionary of the university trust.",
-   "image": "https://c.ndtvimg.com/2026-08/rsomaqa4_azam-khan_625x300_19_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T16:43:46+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -580,24 +625,6 @@
    "cat": "sports"
   },
   {
-   "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-   "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-   "desc": "Total political ad spending and reservations for the 2026 cycle have topped $11.2 billion, according to AdImpact.",
-   "image": "",
-   "date": "2026-10-28T15:09:38+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Cyclone Arnab leaves trail of destruction in Andhra, 8 killed",
-   "link": "https://timesofindia.indiatimes.com/city/vijayawada/8-dead-as-cyclone-arnab-batters-andhra-coast-uproots-trees-poles-damages-homes/articleshow/135270547.cms",
-   "desc": "In the wake of severe cyclonic storm Arnab, eight fatalities have been reported across Andhra Pradesh. The cyclone caused extensive damage, uprooting trees and downing power lines, leaving many communities in despair wit",
-   "image": "",
-   "date": "2026-10-28T15:09:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
    "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
@@ -643,6 +670,15 @@
    "cat": "business"
   },
   {
+   "title": "From Brazil to Cuba, US turns up the heat",
+   "link": "https://timesofindia.indiatimes.com/world/us/from-brazil-to-cuba-us-turns-up-the-heat/articleshow/135269303.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T14:34:59+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
    "desc": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
@@ -686,24 +722,6 @@
    "date": "2026-10-28T13:53:31+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
-   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-   "desc": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-   "image": "",
-   "date": "2026-10-28T13:48:05+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Minnesota farmer finds 11-foot metal bowl in cornfield; Chinese rocket suspected",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-farmer-found-a-shiny-11-foot-wide-bowl-shaped-metal-object-lying-in-his-cornfield-where-he-believes-it-sat-for-about-six-weeks-experts-now-suspect-it-fell-from-a-chinese-rocket/articleshow/135266490.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T13:40:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T03:56:09+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "The autistic brain processes faces differently than scientists thought",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-   "desc": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recogn",
-   "image": "",
-   "date": "2026-10-28T03:02:38+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "Microsoft employees in India can now opt for a buyout: Who qualifies and what it pays",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
-   "desc": "Microsoft is offering buyouts to around 60,000 employees, over a quarter of its workforce, in India, the US, the UK and Canada. HR head Amy Coleman announced the Voluntary Exit Offer in a memo to staff. The package match",
-   "image": "",
-   "date": "2026-10-28T02:23:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
   }
  ]
 }
