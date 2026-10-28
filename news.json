@@ -1,16 +1,151 @@
 {
- "generated_at": "2026-10-28T15:30:12.725326+00:00",
+ "generated_at": "2026-10-28T16:00:21.163442+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+   "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+   "desc": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+   "image": "",
+   "date": "2026-10-28T16:00:00+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Reddit is getting a For You feed",
+   "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+   "desc": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For ",
+   "image": "",
+   "date": "2026-10-28T16:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+   "image": "",
+   "date": "2026-10-28T15:59:50+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "AI execs may be too out of touch to build for the general public",
+   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "image": "",
+   "date": "2026-10-28T15:53:52+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+   "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+   "desc": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+   "image": "",
+   "date": "2026-10-28T15:53:21+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "UK brings forward defense spending target, pledging billions to Ukraine",
+   "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+   "desc": "Healey presented his first budget as Chancellor, and reiterated the UK's support of Ukraine on Wednesday.",
+   "image": "",
+   "date": "2026-10-28T15:53:19+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "The one thing that didn't change that will affect your pay the most",
+   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c0/live/84a71380-caec-11f0-9fb5-5f3a3703a365.jpg",
+   "date": "2026-10-28T15:48:03+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
   {
    "title": "At least 68 people dead in high-speed Spain train crash",
    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
    "desc": "It is the second deadly high-speed train collision in Spain this year.",
    "image": "",
-   "date": "2026-10-28T15:22:37+00:00",
+   "date": "2026-10-28T15:41:54+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "image": "",
+   "date": "2026-10-28T15:41:18+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+   "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+   "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+   "image": "",
+   "date": "2026-10-28T15:39:14+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Budget 2026: Key points at a glance",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T15:37:50+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "What we know so far about deadly Spain train crash",
+   "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T15:36:11+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Govee’s colorful smart string lights are down to their best price of the year",
+   "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+   "desc": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or what",
+   "image": "",
+   "date": "2026-10-28T15:34:43+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Your pay, energy bills and savings: How the Budget affects you",
+   "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
+   "date": "2026-10-28T15:32:58+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Sony has new transparent PS5 controllers launching next year",
+   "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
+   "desc": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching conso",
+   "image": "",
+   "date": "2026-10-28T15:31:02+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Georgia court overturns $186,000 home renovation judgment, orders review",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2021-a-georgia-home-renovation-ended-in-a-contractor-dispute-a-186000-default-judgment-followed-in-2022-but-an-october-2026-appeals-ruling-vacated-the-award-and-sent-the-case-back-for-review/articleshow/135270731.cms",
+   "desc": "A Georgia appeals court has recently vacated a default judgment related to a home construction issue between Juan Ramirez and Big Sky Remodel. The court identified that the initial trial court lacked adequate jurisdictio",
+   "image": "",
+   "date": "2026-10-28T15:16:33+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
@@ -19,15 +154,6 @@
    "image": "",
    "date": "2026-10-28T15:12:09+00:00",
    "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "The one thing the chancellor didn't mention that will affect your pay",
-   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c0/live/84a71380-caec-11f0-9fb5-5f3a3703a365.jpg",
-   "date": "2026-10-28T15:11:48+00:00",
-   "source": "BBC Business",
    "cat": "business"
   },
   {
@@ -58,15 +184,6 @@
    "cat": "india"
   },
   {
-   "title": "Budget 2026: Key points at a glance",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T15:04:50+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
    "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
@@ -85,6 +202,15 @@
    "cat": "tech"
   },
   {
+   "title": "UK charity recycles 88,544 Christmas trees, raises £1.88m for local causes",
+   "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-charity-collected-88544-unwanted-christmas-trees-and-recycled-them-into-mulch-biomass-and-other-uses-while-the-2026-campaign-raised-1-88-million-for-charities-and-helped-support-local-communities/articleshow/135270376.cms",
+   "desc": "A charitable organization in the UK has triumphantly gathered 88,544 discarded Christmas trees, turning them into valuable products. This initiative raised £1.88 million for various local charities, breaking past records",
+   "image": "",
+   "date": "2026-10-28T14:58:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Investors Should Bet Against Market Trends: ICICI Prudential AMC's S Naren | NDTV Profit Ignite",
    "link": "https://www.ndtv.com/india-news/why-investors-should-bet-against-popular-stock-market-trends-explains-s-naren-12249021#publisher=newsstand",
    "desc": "S Naren, Executive Director and Chief Investment Officer of ICICI Prudential Asset Management Company.",
@@ -92,24 +218,6 @@
    "date": "2026-10-28T14:56:22+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-   "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-   "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
-   "image": "",
-   "date": "2026-10-28T14:55:13+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "What we know so far about deadly Spain train crash",
-   "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-28T14:53:38+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "How much is the minimum wage going up by?",
@@ -130,20 +238,11 @@
    "cat": "india"
   },
   {
-   "title": "Your pay, energy bills and savings: How the Budget affects you",
-   "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ee/live/d1c1f870-d1fc-11f1-b093-bfeeb34f4026.jpg",
-   "date": "2026-10-28T14:50:31+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "‘He’s gone’: Mike Waltz says Cuban diplomat to be expelled from US after heated UN confrontation",
-   "link": "https://timesofindia.indiatimes.com/world/us/hes-gone-mike-waltz-says-cuban-diplomat-to-be-expelled-from-us-after-heated-un-confrontation/articleshow/135269667.cms",
-   "desc": "",
+   "title": "Philadelphia turns illegal dump into 33-acre wetland with 7,000 trees",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2022-workers-began-turning-an-illegal-dumping-ground-at-philadelphias-fdr-park-into-a-wetland-by-2026-33-acres-had-been-restored-with-7000-trees-and-new-space-for-birds-and-turtles/articleshow/135268278.cms",
+   "desc": "In South Philadelphia, a once-neglected dumping ground has been reborn as a thriving tidal wetland, nurturing local wildlife. This impressive restoration project earned the Governor’s Award for Environmental Excellence f",
    "image": "",
-   "date": "2026-10-28T14:48:04+00:00",
+   "date": "2026-10-28T14:49:11+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -175,15 +274,6 @@
    "cat": "india"
   },
   {
-   "title": "'They will fly': MEA on direct India-Taiwan flights after Pak blocks airspace",
-   "link": "https://timesofindia.indiatimes.com/india/they-will-fly-mea-on-direct-india-taiwan-flights-after-pak-blocks-airspace-over-one-china-policy/articleshow/135269470.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T14:36:43+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
    "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
    "desc": "Wendy's has endured a tough two-year stretch as diners eat out less often.",
@@ -195,7 +285,7 @@
   {
    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-   "desc": "Amazon's other new decides include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+   "desc": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
    "image": "",
    "date": "2026-10-28T14:34:25+00:00",
    "source": "TechCrunch",
@@ -227,15 +317,6 @@
    "date": "2026-10-28T14:29:55+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-   "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-   "desc": "Healey presented his first budget as Chancellor, and reiterated the UK's support of Ukraine on Wednesday.",
-   "image": "",
-   "date": "2026-10-28T14:29:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
@@ -355,6 +436,15 @@
    "cat": "business"
   },
   {
+   "title": "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
+   "link": "https://timesofindia.indiatimes.com/india/supreme-court-says-legality-of-ecs-logical-discrepancy-checks-in-sir-remains-undecided/articleshow/135268027.cms",
+   "desc": "A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana said its earlier decision allowing the Election Commission to use the category in West Bengal was only an interim measure. It",
+   "image": "",
+   "date": "2026-10-28T13:47:04+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "'Businesses already hate all of you': Rahul's 4-point reply to Sitharaman's advice",
    "link": "https://timesofindia.indiatimes.com/india/already-hate-all-of-you-rahul-gandhis-4-point-reply-to-nirmala-sitharamans-advice/articleshow/135267268.cms",
    "desc": "Rahul Gandhi responded to Finance Minister Nirmala Sitharaman regarding the Tata Group's ongoing dispute. He questioned the motives behind hosting Tata representatives at Amit Shah's residence. The exchange followed Rahu",
@@ -379,24 +469,6 @@
    "image": "https://c.ndtvimg.com/2026-10/d4brlq5c_damani_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T13:44:10+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "US court strikes down West Virginia ban on publishing judges’ home addresses",
-   "link": "https://timesofindia.indiatimes.com/world/us/west-virginia-passed-a-law-in-2021-after-a-federal-judges-son-was-murdered-five-years-later-a-us-appeals-court-struck-down-its-ban-on-publishing-judges-and-police-officers-home-addresses-without-a-notice-safeguard/articleshow/135265055.cms",
-   "desc": "A recent ruling by a federal appeals court has invalidated a West Virginia statute aimed at safeguarding the personal information of public officials. The court found the law contradictory to the First Amendment’s free s",
-   "image": "",
-   "date": "2026-10-28T13:42:31+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Minnesota farmer finds 11-foot metal bowl in cornfield; Chinese rocket suspected",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-farmer-found-a-shiny-11-foot-wide-bowl-shaped-metal-object-lying-in-his-cornfield-where-he-believes-it-sat-for-about-six-weeks-experts-now-suspect-it-fell-from-a-chinese-rocket/articleshow/135266490.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T13:40:09+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -508,6 +580,15 @@
    "cat": "science"
   },
   {
+   "title": "Indian-American candidates in US midterms: Key races, latest polling & what's at stake",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-american-candidates-in-2026-us-midterms-key-races-profiles-latest-polling-whats-at-stake/articleshow/135164500.cms",
+   "desc": "From Ro Khanna's re-election bid in Silicon Valley to Vivek Ramaswamy's gubernatorial contest in Ohio, Indian-American politicians are competing in some of the most closely watched congressional, statewide and mayoral el",
+   "image": "",
+   "date": "2026-10-28T13:03:08+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Spain train crash: Drone footage captures twisted carriages as toll tops 60",
    "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-accident-drone-view-shows-tilted-carriages-twisted-rail-body-at-site/articleshow/135265093.cms",
    "desc": "The crash occurred along the Madrid-Seville high-speed railway line in Toledo province, where two trains carrying hundreds of passengers were travelling in the same direction towards Seville in southwestern Spain, accord",
@@ -553,15 +634,6 @@
    "cat": "tech"
   },
   {
-   "title": "'I failed with burnout': Techie mom spends Rs 31,500/month on house help",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/i-failed-terribly-with-burnout-software-engineer-reveals-why-she-spends-rs-31500-a-month-on-household-help-to-balance-work-and-motherhood/articleshow/135261567.cms",
-   "desc": "As a senior software engineer with Walmart, Gunjan Tanwani openly discusses her monthly household expenses, reaching Rs 31,500 for essential help. Her breakdown includes the crucial roles of nannies, maids, and cooking a",
-   "image": "",
-   "date": "2026-10-28T12:46:36+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "A single sauna session sends immune cells surging through your body",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
    "desc": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprisin",
@@ -569,33 +641,6 @@
    "date": "2026-10-28T12:37:31+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Almost all of Amazon’s new Echo gear is available now",
-   "link": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
-   "desc": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The",
-   "image": "",
-   "date": "2026-10-28T12:29:52+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
-   "title": "Taylor Swift and Travis Kelce's gift lets Nashville grocery store resume aid",
-   "link": "https://timesofindia.indiatimes.com/world/us/how-taylor-swift-and-travis-kelces-donation-helped-a-nashville-free-grocery-store-resume-support-for-families-on-its-waitlist/articleshow/135265150.cms",
-   "desc": "Prior to their wedding at Madison Square Garden, Taylor Swift and Travis Kelce donated $26 million to various charities. One of the notable beneficiaries was The Store, a Nashville non-profit aimed at combating food inse",
-   "image": "",
-   "date": "2026-10-28T12:28:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-   "desc": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-   "image": "",
-   "date": "2026-10-28T12:27:07+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
@@ -614,15 +659,6 @@
    "date": "2026-10-28T12:25:43+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Everything announced at Amazon’s October 2026 hardware launch",
-   "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-   "desc": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the big news this year is s",
-   "image": "",
-   "date": "2026-10-28T12:20:40+00:00",
-   "source": "The Verge",
-   "cat": "tech"
   },
   {
    "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
@@ -650,15 +686,6 @@
    "date": "2026-10-28T12:10:00+00:00",
    "source": "MIT Tech Review",
    "cat": "ai"
-  },
-  {
-   "title": "Amazon’s new Echo line is here: the 6 biggest updates",
-   "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
-   "desc": "Amazon has just taken the wraps off a bunch of new devices as part of a string of fall announcements. Today's news focuses largely on new Echo speakers, with a few new smart home gadgets sprinkled in. Here's a roundup of",
-   "image": "",
-   "date": "2026-10-28T12:08:15+00:00",
-   "source": "The Verge",
-   "cat": "tech"
   },
   {
    "title": "'Commit to ballot paper': Congress dares PM Modi after his swipe over MLC results",
@@ -803,6 +830,15 @@
    "date": "2026-10-28T10:17:54+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Disabled flyer stranded 24 hrs at airport without wheelchair, airlines to pay Rs 60k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-65-year-old-with-55-disability-was-left-stranded-at-istanbul-airport-without-wheelchair-assistance-after-a-24-hour-wait-and-delayed-baggage-disrupted-his-onward-journey-a-consumer-court-ordered-indigo-and-turkish-airlines-to-pay-rs-60000-for-the-ordeal/articleshow/135260016.cms",
+   "desc": "A 65-year-old disabled passenger, Kirpal Singh, faced issues during his air travel from Amritsar to London. Singh did not receive the requested wheelchair assistance at Istanbul airport, leaving him stranded for nearly 2",
+   "image": "",
+   "date": "2026-10-28T09:56:49+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
@@ -1003,24 +1039,6 @@
    "cat": "tech"
   },
   {
-   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-   "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-   "desc": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-   "image": "",
-   "date": "2026-10-27T22:26:03+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-   "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-   "desc": "A whole crop of venture capital firms are raising significant new funds.",
-   "image": "",
-   "date": "2026-10-27T22:17:18+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
    "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -1030,22 +1048,13 @@
    "cat": "world"
   },
   {
-   "title": "GM is embracing hybrids now",
-   "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-   "desc": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-   "image": "",
-   "date": "2026-10-27T21:47:02+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
    "desc": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
    "image": "",
    "date": "2026-10-27T21:44:34+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
+   "source": "TechCrunch AI",
+   "cat": "ai"
   },
   {
    "title": "Who’s really in charge at Anthropic after the IPO?",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-27T20:54:48+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course ",
-   "image": "",
-   "date": "2026-10-27T20:48:58+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
   }
  ]
 }
