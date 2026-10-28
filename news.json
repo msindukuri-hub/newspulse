@@ -1,14 +1,32 @@
 {
- "generated_at": "2026-10-28T20:30:25.203066+00:00",
+ "generated_at": "2026-10-28T21:00:37.074138+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+   "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts.",
    "image": "",
-   "date": "2026-10-28T20:29:26+00:00",
+   "date": "2026-10-28T20:59:23+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "image": "",
+   "date": "2026-10-28T20:58:31+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+   "image": "",
+   "date": "2026-10-28T20:57:21+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -17,9 +35,72 @@
    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
    "desc": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
    "image": "",
-   "date": "2026-10-28T20:27:53+00:00",
+   "date": "2026-10-28T20:57:20+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "image": "",
+   "date": "2026-10-28T20:55:46+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Privacy law doesn’t infringe upon press freedom: IT & I&B minister",
+   "link": "https://timesofindia.indiatimes.com/india/privacy-law-doesnt-infringe-upon-press-freedom-it-ib-minister/articleshow/135280108.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T20:48:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Chelsea continue unbeaten start with win over Roma",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
+   "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T20:36:25+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+   "desc": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
+   "image": "",
+   "date": "2026-10-28T20:35:33+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Maine river sees preliminary count of 5.85m herring after dams removed",
+   "link": "https://timesofindia.indiatimes.com/science/wildlife/in-2012-and-2013-maine-removed-two-old-penobscot-river-dams-to-restore-migratory-spaces-for-milford-fish-lift-had-counted-a-preliminary-5-85-million-river-herring-returning-upstream/articleshow/135257249.cms",
+   "desc": "In a significant ecological feat, the Penobscot River restoration in Maine has revitalized migratory fish numbers dramatically. The removal of the Great Works and Veazie dams has paved the way for essential fish migratio",
+   "image": "",
+   "date": "2026-10-28T20:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Sensitive US tech to Pak could end up in third country: Rajnath warns Hegseth",
+   "link": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T20:27:02+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Convict-built 1832 Australian mansion bought for A$500k sells for A$1.6m",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2012-an-australian-couple-bought-a-convict-built-georgian-mansion-dating-to-1832-for-a500000-after-preserving-its-interiors-for-14-years-they-sold-the-32-hectare-estate-for-a1-6-million/articleshow/135232748.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T20:26:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -29,6 +110,15 @@
    "date": "2026-10-28T20:24:39+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Norfolk couple spend £1.5m fighting to save wetland, win third court battle",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-norfolk-farming-couple-spent-1-5-million-fighting-to-protect-a-wetland-after-15-years-and-three-legal-victories-a-court-ruled-that-regulators-had-failed-to-prevent-pollution-threatening-2500-species/articleshow/135223737.cms",
+   "desc": "In an impressive legal battle, two Norfolk farmers have secured a significant ruling for the Catfield Fen wetland, which faces threats from pollution. The High Court determined that Natural England neglected its duty to ",
+   "image": "",
+   "date": "2026-10-28T20:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
@@ -74,15 +164,6 @@
    "date": "2026-10-28T20:20:21+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft earnings are out – here are the numbers.",
-   "image": "",
-   "date": "2026-10-28T20:20:16+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
@@ -202,15 +283,6 @@
    "cat": "india"
   },
   {
-   "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-   "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-   "desc": "The DOJ wants a judge to temporarily block certification of the Alaska Senate election if incumbent Sen. Dan Sullivan loses due to voter confusion.",
-   "image": "",
-   "date": "2026-10-28T19:52:06+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Djokovic celebrates 'big win' on return to Basel",
    "link": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
    "desc": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
@@ -236,33 +308,6 @@
    "date": "2026-10-28T19:37:31+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Australian dark-sky reserve faces proposed data centre development",
-   "link": "https://timesofindia.indiatimes.com/science/nature/community-in-south-australia-fights-to-protect-dark-sky-reserve-from-proposed-data-centre-development/articleshow/135261957.cms",
-   "desc": "Residents of Tungkillo, South Australia, are concerned about a proposed data centre that could disrupt their dark-sky reserve. The development may introduce light and noise pollution that affects the rural landscape. Com",
-   "image": "",
-   "date": "2026-10-28T19:28:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Dubai grows 2,500 coral fragments in hotel lagoons before moving them to sea",
-   "link": "https://timesofindia.indiatimes.com/science/nature/dubai-is-growing-coral-in-hotel-lagoons-before-moving-it-back-to-the-sea-the-unusual-nursery-has-produced-more-than-2500-coral-fragments/articleshow/135262462.cms",
-   "desc": "In an ambitious effort to rejuvenate its marine life, Dubai is spearheading the Dubai Reef initiative, directed by the Dubai Department of Economy and Tourism. The project focuses on restoring coral biodiversity along th",
-   "image": "",
-   "date": "2026-10-28T19:25:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Hamptons estate with private golf course cuts asking price from $125m to $79m",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/vitamin-shoppe-founder-jeffrey-horowitz-assembled-a-3-5-acre-hamptons-estate-for-about-2-7-million-in-the-1990s-and-built-a-private-nine-hole-golf-course-after-seeking-125-million-he-is-now-asking-79-million/articleshow/135229607.cms",
-   "desc": "Jeffrey Horowitz has reduced his Sagaponack estate's asking price to $79 million after attempting to sell it off market. Originally assembled in the mid-1990s for about $2.7 million, the property now features extensive a",
-   "image": "",
-   "date": "2026-10-28T19:22:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Man runs 58 half-marathons in 58 days to honour mother, raises over $30,000",
@@ -400,9 +445,9 @@
    "cat": "tech"
   },
   {
-   "title": "Prem eyes English expansion despite Welsh interest",
+   "title": "Prem reluctant to commit on Anglo-Welsh league",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c54g1x0z4rygo?at_medium=RSS&at_campaign=rss",
-   "desc": "Welsh rugby may be keen on forming an Anglo-Welsh league but the Prem and RFU say they are only currently looking at English clubs in any expansion.",
+   "desc": "Welsh rugby may be keen on forming an Anglo-Welsh league but the Prem and RFU are only looking at English clubs in any expansion.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3508/live/a8a9b230-d2f5-11f1-8d86-83eebc838351.jpg",
    "date": "2026-10-28T18:55:30+00:00",
    "source": "BBC Sport",
@@ -562,24 +607,6 @@
    "cat": "tech"
   },
   {
-   "title": "Here is what changed in the new Fed statement",
-   "link": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-   "desc": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in September.",
-   "image": "",
-   "date": "2026-10-28T18:06:50+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
-   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
-   "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts.",
-   "image": "",
-   "date": "2026-10-28T18:01:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Will I get the £100 energy payment and when will I receive it?",
    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
    "desc": "Here is what you need to know about the payment that millions will receive from January.",
@@ -587,15 +614,6 @@
    "date": "2026-10-28T17:47:37+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "World Wrestling C'ships: India script history as Neelam, Kajal settle for silver",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/world-wrestling-championships-india-script-history-as-neelam-sirohi-kajal-dhochak-settle-for-silver/articleshow/135274220.cms",
-   "desc": "India’s Kajal Dhochak and Neelam Sirohi created history by winning silver medals at the World Wrestling Championships in Astana, becoming the first Indian women to reach finals at the same edition. Kajal narrowly lost 6-",
-   "image": "",
-   "date": "2026-10-28T17:47:03+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Labuschagne's form hits record low but Australia hint at future",
@@ -859,15 +877,6 @@
    "cat": "science"
   },
   {
-   "title": "Indian-American candidates in US midterms: Key races, latest polling & what's at stake",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-american-candidates-in-2026-us-midterms-key-races-profiles-latest-polling-whats-at-stake/articleshow/135164500.cms",
-   "desc": "From Ro Khanna's re-election bid in Silicon Valley to Vivek Ramaswamy's gubernatorial contest in Ohio, Indian-American politicians are competing in some of the most closely watched congressional, statewide and mayoral el",
-   "image": "",
-   "date": "2026-10-28T13:03:08+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
    "desc": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced",
@@ -947,15 +956,6 @@
    "date": "2026-10-28T12:00:00+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Arsenal to appeal against Dowman red card",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
-   "desc": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T11:55:21+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Carrick and Fernandes hold clear-the-air talks",
