@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-28T03:02:18.329135+00:00",
+ "generated_at": "2026-10-28T03:30:20.884122+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+   "date": "2026-10-28T03:05:11+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+   "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+   "desc": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+   "image": "",
+   "date": "2026-10-28T03:02:44+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Israel Election Results Live: Netanyahu, Rival Eisenkot Both Claim Mandate After Tight Israel Election",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/4cs30pt4_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T02:58:51+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
    "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
@@ -19,6 +46,105 @@
    "image": "",
    "date": "2026-10-28T02:55:20+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "US Cost Of Iran War Rises Over $47 Billion, 25% More Than Estimated",
+   "link": "https://www.ndtv.com/world-news/us-cost-of-iran-war-rises-over-47-billion-25-more-than-estimated-pentagon-defence-department-12246112#publisher=newsstand",
+   "desc": "Trump launched the Iran war jointly with Israel in February.",
+   "image": "https://c.ndtvimg.com/2026-10/a44krso8_iran-war-reuters_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T02:52:33+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Netanyahu's Bloc Ahead Of Opposition, But Falls Short Of Majority: Exit Polls",
+   "link": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
+   "desc": "Final results are expected over the next 48 hours",
+   "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:48:11+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "UAE President Honours flydubai Hero Captain, Crew For Courageous Actions",
+   "link": "https://www.ndtv.com/world-news/uae-president-honours-flydubai-hero-captain-smit-machchhar-crew-for-courageous-actions-12246128#publisher=newsstand",
+   "desc": "Captain Smit Machchhar has been conferred with the First Class Order of Zayed II.",
+   "image": "https://c.ndtvimg.com/2026-10/9oink4kc_uae-president-honours-flydubai-hero-captain-smit-machchhar-_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T02:46:56+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Remains Steady At $115",
+   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
+   "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+   "image": "https://c.ndtvimg.com/2026-08/97h4on7s_share-market_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:44:11+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "'Not Accidental, Calculated': Probe Reveals Biker Sia Was Intentionally Hit",
+   "link": "https://www.ndtv.com/india-news/gurugram-hit-and-run-sit-probe-reveals-biker-sia-was-intentionally-hit-not-accidental-calculated-12246110#publisher=newsstand",
+   "desc": "Shivani, known as \"Rebel Wheels Sia\" on Instagram, was riding her Aprilia RS 457 when she was hit.",
+   "image": "https://c.ndtvimg.com/2026-09/b44vgat4_gurugram-biker-sia-_650x400_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:41:28+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Rage Against E20 Over, It Was \"Paid Campaign\": Union Minister Nitin Gadkari",
+   "link": "https://www.ndtv.com/india-news/nitin-gadkari-on-e20-fuel-rage-against-e20-over-it-was-paid-campaign-12246102#publisher=newsstand",
+   "desc": "Nitin Gadkari calls rage over E20 petrol a paid campaign.",
+   "image": "https://c.ndtvimg.com/2026-10/p3deda5k_nitin-gadkari-pti_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T02:40:43+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Poll Body Issues Guidelines For Officers' Transfer, Posting Ahead Of UP Polls",
+   "link": "https://www.ndtv.com/india-news/poll-body-issues-guidelines-for-officers-transfer-posting-ahead-of-up-polls-12246092#publisher=newsstand",
+   "desc": "The EC has directed that guidelines be strictly followed to ensure the fairness of electoral process.",
+   "image": "https://c.ndtvimg.com/2025-06/0njflp64_office-of-election-commission-of-india_625x300_26_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:34:48+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "\"No Exception\": Delhi's Vehicle Curbs May Hit Congress' November 1 Rally",
+   "link": "https://www.ndtv.com/india-news/no-exception-delhis-vehicle-curbs-may-hit-congress-november-1-rally-12246036#publisher=newsstand",
+   "desc": "Delhi's restrictions on older vehicles registered outside the city will kick in the same day.",
+   "image": "https://c.ndtvimg.com/2026-10/5822pmbo_rahul-gandhi_625x300_24_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:33:54+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Not Just Oil, US-Iran War Is Hitting Bitcoin Too. What Investors Must Know",
+   "link": "https://www.ndtv.com/business-news/cryptocurrency-bitcoin-impact-us-iran-war-oil-price-what-investors-must-know-12235691#publisher=newsstand",
+   "desc": "Bitcoin can come under pressure during periods of geopolitical stress.",
+   "image": "https://c.ndtvimg.com/2026-10/1b0au54k_bitcoin_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:32:42+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Should You Take A Small Personal Loan? Here's How To Decide",
+   "link": "https://www.ndtv.com/business-news/small-personal-loans-when-borrowing-make-financial-sense-personal-finance-12246020#publisher=newsstand",
+   "desc": "Personal loans provide flexibility during difficult emergencies, but they shouldn't substitute savings.",
+   "image": "https://c.ndtvimg.com/2026-01/8i2t2nso_personal-loan-tips_625x300_02_January_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:31:18+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Russia-Linked AI Videos Target Midterms Candidates, Spread Disinformation",
+   "link": "https://www.ndtv.com/world-news/russia-linked-ai-videos-target-midterms-candidates-spread-disinformation-12246077#publisher=newsstand",
+   "desc": "The videos demonstrate how foreign adversaries continue to try to influence American voters.",
+   "image": "https://c.ndtvimg.com/2026-10/pm9putvc_us-midterms-polls-afp_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T02:27:36+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -85,6 +211,24 @@
    "cat": "business"
   },
   {
+   "title": "'No Question Of Arab Parties-Backed Government': Netanyahu Amid Deadlock",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-no-question-of-government-backed-by-arab-parties-netanyahus-1st-reaction-as-exit-polls-show-deadlock-12246006#publisher=newsstand",
+   "desc": "The speech was short by Netanyahu's standards, and he did not directly claim victory, only noting that his Likud was projected to be the largest single party.",
+   "image": "https://c.ndtvimg.com/2026-10/fv0j0gi_benjamin-netanyahu_625x300_26_October_26.jpg",
+   "date": "2026-10-28T02:12:19+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Centre Tells Airlines To Ensure Qualified Crew, Realistic Schedules Amid Fog",
+   "link": "https://www.ndtv.com/india-news/centre-tells-airlines-to-ensure-qualified-crew-realistic-schedules-amid-fog-12246031#publisher=newsstand",
+   "desc": "The DGCA has been asked to ensure regulatory oversight, compliance with applicable instructions.",
+   "image": "https://c.ndtvimg.com/2026-04/665f37v_delhi-airport-travel-advisory_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T02:05:35+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
    "desc": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
@@ -92,15 +236,6 @@
    "date": "2026-10-28T01:56:59+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "No Clear Winner In Israel With Netanyahu Fighting For A Tie, Exit Polls Show",
-   "link": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
-   "desc": "Final results are expected over the next 48 hours",
-   "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T01:51:55+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Drug Trafficker's Properties Worth Over Rs 1 Crore Seized In Himachal",
@@ -121,24 +256,6 @@
    "cat": "india"
   },
   {
-   "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-   "desc": "Cyclone Arnab LIVE Updates: The landfall point is specified between Bapatla and Visakhapatnam.",
-   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
-   "date": "2026-10-28T01:20:03+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Sheikh Hasina Accuses Bangladesh Government Of Conducting \"Mass Arrests\", \"Torture\"",
-   "link": "https://www.ndtv.com/world-news/sheikh-hasina-accuses-bangladesh-government-of-conducting-mass-arrests-torture-12245947#publisher=newsstand",
-   "desc": "Hasina said the people of Bangladesh need to be \"guaranteed their basic rights and legal protection.\"",
-   "image": "https://c.ndtvimg.com/2026-06/37ivco94_sheikh-hasina_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T01:19:34+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
    "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -146,33 +263,6 @@
    "date": "2026-10-28T01:15:28+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Israel Election Results Live: Israel Exit Polls Signal Setback For Netanyahu, Coalition Talks Loom",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/4cs30pt4_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T01:15:23+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Climate Change Must Be Declared \"Global Health Emergency\": Report",
-   "link": "https://www.ndtv.com/world-news/climate-change-must-be-declared-global-health-emergency-report-12245937#publisher=newsstand",
-   "desc": "According to the report, there were a record 710,000 heat-related deaths in 2023.",
-   "image": "https://c.ndtvimg.com/2026-01/rsvv6vn8_climate-change_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T01:11:54+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Flavio Bolsonaro Flees To US After Losing Brazil Election",
-   "link": "https://www.ndtv.com/world-news/flavio-bolsonaro-lands-in-us-after-losing-brazil-election-reports-12245887#publisher=newsstand",
-   "desc": "Flavio Bolsonaro lost Sunday's presidential runoff election.",
-   "image": "https://c.ndtvimg.com/2026-10/5f1d0o9k_flavio-bolsonaro-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T01:01:24+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "'Biggest night in the club's history' for fearless Fleetwood",
@@ -193,15 +283,6 @@
    "cat": "sports"
   },
   {
-   "title": "'That's why I praised my team': Sammy backs WI's 2-2 draw, calls India 'dangerous'",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/thats-why-i-praised-my-team-daren-sammy-backs-west-indies-2-2-draw-says-india-remains-a-dangerous-team/articleshow/135239311.cms",
-   "desc": "West Indies coach Daren Sammy praised his team's performance in the recent T20I series against India. The West Indies managed a commendable 2-2 draw against the formidable Indian team on their home ground. Sammy emphasiz",
-   "image": "",
-   "date": "2026-10-28T00:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
    "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
    "desc": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
@@ -209,15 +290,6 @@
    "date": "2026-10-28T00:14:24+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Netanyahu Rival Gadi Eisenkot Hopes To Form Government As Opposition Gains Ground",
-   "link": "https://www.ndtv.com/world-news/netanyahu-rival-gadi-eisenkot-hopes-to-form-government-as-opposition-gains-ground-12245878#publisher=newsstand",
-   "desc": "\"The people have spoken against the continuation of Netanyahu's rule,\" Eisenkot said.",
-   "image": "https://c.ndtvimg.com/2026-10/o8n7plqc_-gadi-eisenkot_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T00:08:31+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
@@ -256,15 +328,6 @@
    "cat": "sports"
   },
   {
-   "title": "Indians Travelling To UAE Advised To Take Adequate Medical Insurance",
-   "link": "https://www.ndtv.com/india-news/indians-travelling-to-uae-advised-to-take-adequate-medical-insurance-12245857#publisher=newsstand",
-   "desc": "Indians residing in the UAE have also been advised to verify that their medical insurance.",
-   "image": "https://c.ndtvimg.com/2026-10/lvejcmm8_indians-in-uae-ai_625x300_28_October_26.jpeg",
-   "date": "2026-10-27T23:50:37+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
    "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
    "desc": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
@@ -290,15 +353,6 @@
    "date": "2026-10-27T23:34:27+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Pete Hegseth To Face Questions On US Role In Indo-Pacific At ASEAN Summit",
-   "link": "https://www.ndtv.com/world-news/pete-hegseth-to-face-questions-on-us-role-in-indo-pacific-at-asean-summit-12245838#publisher=newsstand",
-   "desc": "Analysts said ASEAN nations could use meetings with Hegseth to seek clarity about the endgame in Iran.",
-   "image": "https://c.ndtvimg.com/2026-04/qajblofg_pete-hegseth_625x300_16_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T23:27:32+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
@@ -346,15 +400,6 @@
    "cat": "tech"
   },
   {
-   "title": "UN Nuclear Watchdog Chief Urges Iran To Grant Access",
-   "link": "https://www.ndtv.com/world-news/un-nuclear-watchdog-chief-urges-iran-to-grant-access-12245792#publisher=newsstand",
-   "desc": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel.",
-   "image": "https://c.ndtvimg.com/2026-10/8262onfg_-rafael-grossi_625x300_28_October_26.jpeg",
-   "date": "2026-10-27T22:38:46+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
    "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
    "desc": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
@@ -362,15 +407,6 @@
    "date": "2026-10-27T22:35:25+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "US Says It Will Issue Visas To Brazil's Flavio Bolsonaro After Election Loss",
-   "link": "https://www.ndtv.com/world-news/us-says-it-will-issue-visas-to-brazils-flavio-bolsonaro-after-election-loss-12245733#publisher=newsstand",
-   "desc": "According to reports, Flavio Bolsonaro fled Brazil hours after losing the presidential election.",
-   "image": "https://c.ndtvimg.com/2026-10/cehd8els_flavio-bolsonaro-_625x300_28_October_26.jpeg",
-   "date": "2026-10-27T22:26:47+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
@@ -472,15 +508,6 @@
    "cat": "india"
   },
   {
-   "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Show 1st Exit Polls",
-   "link": "https://www.ndtv.com/world-news/israel-opposition-holds-narrow-edge-over-netanyahus-party-shows-first-exit-polls-12245652#publisher=newsstand",
-   "desc": "Israeli voters on Tuesday gave a narrow edge to opposition parties over PM Benjamin Netanyahu.",
-   "image": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T21:34:19+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Discord is making its public communities more searchable, and people have concerns",
    "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
    "desc": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
@@ -515,15 +542,6 @@
    "date": "2026-10-27T21:09:12+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Gadi Eisenkot: The Man Who Could Bring Benjamin Netanyahu's Long Rule To An End",
-   "link": "https://www.ndtv.com/world-news/israel-elections-israel-exit-polls-israel-election-results-gadi-eisenkot-the-man-who-could-bring-benjamin-netanyahus-long-rule-to-an-end-12245680#publisher=newsstand",
-   "desc": "Eisenkot was the military chief of staff of Israel from 2015 to 2019.",
-   "image": "https://c.ndtvimg.com/2026-10/49nvrflc_gadi-eisenkot-afp-_625x300_28_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T21:06:32+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Landline switchover could cut people off in emergency, minister warned",
@@ -577,24 +595,6 @@
    "image": "",
    "date": "2026-10-27T19:49:28+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
-   "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
-   "desc": "\"'Rockin' in the Free World' is the opposite of everything that Donald J. Trump stands for,\" the suit by the two-time Rock and Roll Hall of Fame member says.",
-   "image": "",
-   "date": "2026-10-27T19:49:18+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
-   "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
-   "desc": "The company raised concerns about AI agents taking actions before humans can stop them",
-   "image": "https://c.ndtvimg.com/2026-05/44jeg4kk_anthropic_625x300_07_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-27T19:45:49+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -1030,6 +1030,15 @@
    "cat": "ai"
   },
   {
+   "title": "Waited 3 months for silver Royal Enfield, got blue; dealer ordered to pay Rs 28,000",
+   "link": "https://timesofindia.indiatimes.com/legal/news/man-waited-3-months-for-a-silver-royal-enfield-classic-350-but-got-a-blue-one-consumer-commission-found-dealer-guilty-and-ordered-it-to-pay-rs-28000-with-interest/articleshow/135230108.cms",
+   "desc": "A Kerala consumer commission has taken a firm stand against a Royal Enfield dealer for unfair practices following a delayed motorcycle delivery. After an arduous wait of three months, the buyer received a different color",
+   "image": "",
+   "date": "2026-10-27T09:58:52+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
    "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
    "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreakin",
@@ -1071,15 +1080,6 @@
    "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
    "date": "2026-10-27T06:33:11+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Donald Trump's biggest economic problem looks strangely familiar",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-   "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
-   "date": "2026-10-27T06:01:11+00:00",
    "source": "BBC Business",
    "cat": "business"
   }
