@@ -1,15 +1,69 @@
 {
- "generated_at": "2026-10-28T15:03:44.351143+00:00",
+ "generated_at": "2026-10-28T15:30:12.725326+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "At least 64 people dead in high-speed Spain train crash",
+   "title": "At least 68 people dead in high-speed Spain train crash",
    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
    "desc": "It is the second deadly high-speed train collision in Spain this year.",
    "image": "",
-   "date": "2026-10-28T15:01:05+00:00",
+   "date": "2026-10-28T15:22:37+00:00",
    "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+   "desc": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+   "image": "",
+   "date": "2026-10-28T15:12:09+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "The one thing the chancellor didn't mention that will affect your pay",
+   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c0/live/84a71380-caec-11f0-9fb5-5f3a3703a365.jpg",
+   "date": "2026-10-28T15:11:48+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+   "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+   "desc": "Total political ad spending and reservations for the 2026 cycle have topped $11.2 billion, according to AdImpact.",
+   "image": "",
+   "date": "2026-10-28T15:09:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Cyclone Arnab leaves trail of destruction in Andhra, 8 killed",
+   "link": "https://timesofindia.indiatimes.com/city/vijayawada/8-dead-as-cyclone-arnab-batters-andhra-coast-uproots-trees-poles-damages-homes/articleshow/135270547.cms",
+   "desc": "In the wake of severe cyclonic storm Arnab, eight fatalities have been reported across Andhra Pradesh. The cyclone caused extensive damage, uprooting trees and downing power lines, leaving many communities in despair wit",
+   "image": "",
+   "date": "2026-10-28T15:09:05+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Shots Fired At Delhi Businessman's Home, Cops Probe Lawrence Bishnoi Link",
+   "link": "https://www.ndtv.com/india-news/shots-fired-at-delhi-businessmans-home-cops-probe-lawrence-bishnoi-link-12248550#publisher=newsstand",
+   "desc": "Police have recovered one live cartridge and two empty cartridge cases from the spot.",
+   "image": "https://c.ndtvimg.com/2026-07/dinnn344_delhi-police-generic-pti_625x300_27_July_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T15:05:43+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Budget 2026: Key points at a glance",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T15:04:50+00:00",
+   "source": "BBC Business",
    "cat": "business"
   },
   {
@@ -31,6 +85,24 @@
    "cat": "tech"
   },
   {
+   "title": "Investors Should Bet Against Market Trends: ICICI Prudential AMC's S Naren | NDTV Profit Ignite",
+   "link": "https://www.ndtv.com/india-news/why-investors-should-bet-against-popular-stock-market-trends-explains-s-naren-12249021#publisher=newsstand",
+   "desc": "S Naren, Executive Director and Chief Investment Officer of ICICI Prudential Asset Management Company.",
+   "image": "https://c.ndtvimg.com/2026-10/cd6hi5lo_ds_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T14:56:22+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+   "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+   "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+   "image": "",
+   "date": "2026-10-28T14:55:13+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "What we know so far about deadly Spain train crash",
    "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
    "desc": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
@@ -49,22 +121,13 @@
    "cat": "business"
   },
   {
-   "title": "Budget 2026: Key points at a glance",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T14:52:42+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-   "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-   "desc": "Total political ad spending and reservations for the 2026 cycle has topped $11.2 billion, according to AdImpact.",
-   "image": "",
-   "date": "2026-10-28T14:51:05+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "SEBI Chief Asks Investors To Be Cautious While Buying Direct Mutual Funds",
+   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-sebi-chief-tuhin-kanta-pandey-caution-investors-mutual-funds-12249761#publisher=newsstand",
+   "desc": "Easy market access does not guarantee understanding, said SEBI chief Tuhin Kanta Pandey.",
+   "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T14:53:28+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
@@ -103,6 +166,15 @@
    "cat": "tech"
   },
   {
+   "title": "From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains",
+   "link": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
+   "desc": "Edward III of England enacted the Justice of Peace Act, which evolved over even centuries.",
+   "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T14:41:38+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "'They will fly': MEA on direct India-Taiwan flights after Pak blocks airspace",
    "link": "https://timesofindia.indiatimes.com/india/they-will-fly-mea-on-direct-india-taiwan-flights-after-pak-blocks-airspace-over-one-china-policy/articleshow/135269470.cms",
    "desc": "",
@@ -121,15 +193,6 @@
    "cat": "business"
   },
   {
-   "title": "From Brazil to Cuba, US turns up the heat",
-   "link": "https://timesofindia.indiatimes.com/world/us/from-brazil-to-cuba-us-turns-up-the-heat/articleshow/135269303.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T14:34:59+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
    "desc": "Amazon's other new decides include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
@@ -137,6 +200,15 @@
    "date": "2026-10-28T14:34:25+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "CJP Backs INDIA Bloc's November 1 Rally After Months Of Distance From Congress",
+   "link": "https://www.ndtv.com/india-news/cjp-backs-congress-led-india-blocs-november-1-rally-against-gyanesh-kumar-after-weeks-of-distance-from-congress-12249634#publisher=newsstand",
+   "desc": "Abhijeet Dipke has insisted the CJP will have nothing to do with politics directly.",
+   "image": "https://c.ndtvimg.com/2026-10/2e362lps_cockroach-janta-party-founder-abhijeet-dipke_625x300_17_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T14:33:23+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "'People choose government, not vice versa': CJP backs INDIA bloc's November 1 rally",
@@ -184,6 +256,24 @@
    "cat": "world"
   },
   {
+   "title": "11 Suspects In Tiger Shroff Firing Case Re-Arrested Under Criminal Act MCOCA",
+   "link": "https://www.ndtv.com/india-news/11-suspects-in-tiger-shroff-firing-case-re-arrested-under-criminal-act-mcoca-12249045#publisher=newsstand",
+   "desc": "Members of the Lawrence Bishnoi gang claimed responsibility for the firing.",
+   "image": "https://c.ndtvimg.com/2026-10/so8n0o_tiger-shroff_625x300_20_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T14:23:42+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "In First Visuals Of Captain Smit Machchhar's Injury, Stitches Seen On Head",
+   "link": "https://www.ndtv.com/india-news/in-first-visuals-of-captain-smit-machchhars-injury-stitches-seen-on-head-12249640#publisher=newsstand",
+   "desc": "The honour is the latest in a series for Captain Machchhar.",
+   "image": "https://c.ndtvimg.com/2026-10/6kctki_captain-smit-machchhar_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T14:21:07+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
    "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
    "desc": "Anthropic warned the market there may not be enough insurance in the world to covers its AI risks. To less extreme degrees, it's an issue all companies face.",
@@ -202,6 +292,15 @@
    "cat": "tech"
   },
   {
+   "title": "Flavio Bolsonaro, Who Fled Brazil After Election Defeat, Lands In Miami",
+   "link": "https://www.ndtv.com/world-news/flavio-bolsonaro-who-fled-brazil-after-election-defeat-lands-in-miami-12249563#publisher=newsstand",
+   "desc": "Bolsonaro first fled from Brazil to Argentina and then Ecuador alongside his wife and two daughters.",
+   "image": "https://c.ndtvimg.com/2026-10/dss1mkpk_flavio-bolsonaro_625x300_05_October_26.jpeg",
+   "date": "2026-10-28T14:11:02+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "Ulster trio sign contract extensions until 2029",
    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm1dw94nvqy3o?at_medium=RSS&at_campaign=rss",
    "desc": "Robert Baloucoune, James McNabney and Joe Hopes sign contract extensions with Ulster.",
@@ -209,6 +308,15 @@
    "date": "2026-10-28T14:02:07+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "\"Ghosts Everywhere\": Nirmala Sitharaman Hits Back At Rahul Gandhi's Tata Remark",
+   "link": "https://www.ndtv.com/india-news/ghosts-everywhere-nirmala-sitharaman-hits-back-at-rahul-gandhis-tata-remark-12249425#publisher=newsstand",
+   "desc": "The finance minister alleged that the Congress had tried to stifle the spirit of Indian entrepreneurs.",
+   "image": "https://c.ndtvimg.com/2026-10/bjlcju98_nirmala-sitharaman-rahul-gandhi_625x300_28_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T13:58:42+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Meta has a new AI pet app called Waddle World",
@@ -256,6 +364,24 @@
    "cat": "india"
   },
   {
+   "title": "India Is A \"Diversifier\" In AI-Driven Global Economy: BlackRock's Ben Powell | NDTV Profit IGNITE",
+   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-india-is-a-diversifier-in-ai-driven-global-economy-blackrocks-ben-powell-12248862#publisher=newsstand",
+   "desc": "Ben Powell said that mobilising domestic savings into productive assets remains a big task for India.",
+   "image": "https://c.ndtvimg.com/2026-10/e9q1620g_ben-powell_625x300_28_October_26.jpeg",
+   "date": "2026-10-28T13:44:51+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "'No Good Outcome For Markets': BSE Member Ramesh Damani On US Midterm Polls | NDTV Profit Ignite",
+   "link": "https://www.ndtv.com/india-news/ndtv-profit-ignite-no-good-outcome-for-markets-ramesh-damani-on-us-midterm-polls-12249279#publisher=newsstand",
+   "desc": "Ramesh Damani at NDTV Profit Ignite",
+   "image": "https://c.ndtvimg.com/2026-10/d4brlq5c_damani_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T13:44:10+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "US court strikes down West Virginia ban on publishing judges’ home addresses",
    "link": "https://timesofindia.indiatimes.com/world/us/west-virginia-passed-a-law-in-2021-after-a-federal-judges-son-was-murdered-five-years-later-a-us-appeals-court-struck-down-its-ban-on-publishing-judges-and-police-officers-home-addresses-without-a-notice-safeguard/articleshow/135265055.cms",
    "desc": "A recent ruling by a federal appeals court has invalidated a West Virginia statute aimed at safeguarding the personal information of public officials. The court found the law contradictory to the First Amendment’s free s",
@@ -281,6 +407,15 @@
    "date": "2026-10-28T13:39:18+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Shiv Sena office-bearer killed as speeding SUV hits bike on Mumbai-Goa highway",
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-office-bearer-killed-as-speeding-suv-hits-bike-on-mumbai-goa-highway/articleshow/135267538.cms",
+   "desc": "Tragedy struck when Janardan Changya Gowari, a spokesperson for Shiv Sena, lost his life in a road accident on the Mumbai-Goa highway. His motorcycle was tragically hit by a speeding SUV driven by Mahesh Shivdas Hirve at",
+   "image": "",
+   "date": "2026-10-28T13:32:56+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "This is how badly X wants you to pay to promote your posts",
@@ -310,13 +445,31 @@
    "cat": "sports"
   },
   {
-   "title": "Why China is desperate to ship cars outside of the country",
-   "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-   "desc": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-   "image": "",
-   "date": "2026-10-28T13:17:20+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "64 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
+   "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
+   "desc": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
+   "image": "https://c.ndtvimg.com/2026-10/el3sot3o_spain-train-collision-twitter-_650x400_28_October_26.jpg",
+   "date": "2026-10-28T13:25:47+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Amid Akali-BJP Alliance Buzz, AAP Steps Up Attack On Majithia Over Drugs",
+   "link": "https://www.ndtv.com/india-news/amid-akali-bjp-alliance-buzz-aap-steps-up-attack-on-majithia-over-drugs-12249268#publisher=newsstand",
+   "desc": "AAP has sought to link the case against Bikram Majithia to alleged drug-money transactions.",
+   "image": "https://c.ndtvimg.com/2020-11/6c27m3o_bikram-majithia-650_625x300_21_November_20.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T13:23:27+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Mangled Trains, Derailed Carriages: Drone Footage Of Spain Crash Site",
+   "link": "https://www.ndtv.com/world-news/spain-train-collision-mangled-trains-derailed-carriages-drone-footage-of-spain-crash-site-12248553#publisher=newsstand",
+   "desc": "The video also shows a large emergency response operation already underway",
+   "image": "https://c.ndtvimg.com/2026-10/v1vob5f4_spain-train-crash-_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T13:19:39+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Briton Azim set for December return against Valenzuela",
@@ -335,6 +488,15 @@
    "date": "2026-10-28T13:09:08+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "\"Guess How Many Congress Won?\" PM's Taunt With Emoji After MLC Results",
+   "link": "https://www.ndtv.com/india-news/guess-how-many-seats-congress-won-pm-modis-ballot-papers-jibe-at-opposition-with-emoji-after-mlc-elections-12248718#publisher=newsstand",
+   "desc": "PM Modi spotlighted that MLC elections were held using ballot papers, throwing shade at the Congress",
+   "image": "https://c.ndtvimg.com/2026-10/co4hln3o_modi-ji_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-28T13:06:53+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Scientists discover a hidden reason why muscles weaken with age",
@@ -562,24 +724,6 @@
    "cat": "business"
   },
   {
-   "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-   "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-   "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans.",
-   "image": "",
-   "date": "2026-10-28T11:33:43+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-28T11:30:26+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "Meta quietly launched an ‘AI pet journal’ app",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
    "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit",
@@ -587,51 +731,6 @@
    "date": "2026-10-28T11:27:30+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Opinion: Opinion | Kazakhstan Is Trying Something Different As The Muslim World Stands Divided",
-   "link": "https://www.ndtv.com/opinion/kazakhstan-is-trying-something-different-as-the-muslim-world-stands-divided-12248484#publisher=newsstand",
-   "desc": "The country has a long history of using mediation to mitigate conflict; now, it has added another, much-wanted dimension to it.",
-   "image": "https://c.ndtvimg.com/2026-10/8hvhecrs_kazakhstan_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T11:27:18+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'Election Commission Can't Modify Forms 6, 7 And 8': Supreme Court During Delhi SIR Hearing",
-   "link": "https://www.ndtv.com/india-news/election-commission-cant-modify-forms-6-7-and-8-supreme-court-during-delhi-sir-hearing-12248065#publisher=newsstand",
-   "desc": "The bench questioned why individuals who were already on electoral rolls are being asked to fill out Form 6 to have their names re-enrolled.",
-   "image": "https://c.ndtvimg.com/2026-09/du8nkqi_delhi-sir-notice_625x300_20_September_26.jpg",
-   "date": "2026-10-28T11:21:30+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Delhi Trade Body Objects To BJP Rally, Gets '1-Hour' Assurance",
-   "link": "https://www.ndtv.com/delhi-news/delhi-trade-body-cti-objects-to-bjp-rally-in-chandni-chowk-gets-1-hour-assurance-12248438#publisher=newsstand",
-   "desc": "BJP's march in Chandni Chowk is part of its 'Save Democracy, Remove Anarchy' campaign. (File)",
-   "image": "https://c.ndtvimg.com/2026-10/66jfm6qk_chandni-chowk-car-free-ani_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T11:20:32+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Spain Train Crash Updates: Human Error Believed To Be Behind Toledo Train Crash, Says Report",
-   "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
-   "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
-   "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T11:16:55+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "46 Killed As 2 Trains Collide In Spain, Human Error Likely Cause: Report",
-   "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
-   "desc": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
-   "image": "https://c.ndtvimg.com/2026-10/el3sot3o_spain-train-collision-twitter-_650x400_28_October_26.jpg",
-   "date": "2026-10-28T11:15:35+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Serrano to end career in Puerto Rico in January",
@@ -670,33 +769,6 @@
    "cat": "business"
   },
   {
-   "title": "Israelis Await Final Election Results As Netanyahu Remains Far From Defeated",
-   "link": "https://www.ndtv.com/world-news/israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated-12248039#publisher=newsstand",
-   "desc": "Netanyahu has had a nearly unbroken 17-year rule.",
-   "image": "https://c.ndtvimg.com/2025-09/tcksh5j8_netanyahu_625x300_29_September_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T10:42:24+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Spain train crash: Govt blames 'human error' by operator — what led to collision?",
-   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-crash-govt-blames-human-error-by-operator-what-led-to-collision/articleshow/135259696.cms",
-   "desc": "\"A human error by an Adif operator in the face of a breakdown of the main signaling system is the possible cause of the accident,\" sources from the government led by Prime Minister Pedro Sánchez told Okdiario. The collis",
-   "image": "",
-   "date": "2026-10-28T10:42:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Will Ensure Justice\": Rahul Gandhi's Post On Tata Boardroom Battle",
-   "link": "https://www.ndtv.com/india-news/will-ensure-justice-rahul-gandhis-post-on-tata-boardroom-battle-12247411#publisher=newsstand",
-   "desc": "Rahul Gandhi has commented on the Tata group boardroom battle",
-   "image": "https://c.ndtvimg.com/2026-10/s4ipni0k_tata-rahul-gandhi_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T10:40:19+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
    "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
@@ -731,78 +803,6 @@
    "date": "2026-10-28T10:17:54+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "\"OpenAI Has Been Very Bad For The World\": Ex-Google Researcher",
-   "link": "https://www.ndtv.com/artificial-intelligence/openai-has-been-very-bad-for-the-world-ex-google-researcher-12248042#publisher=newsstand",
-   "desc": "Alex Turner quit Google DeepMind over its Pentagon deal",
-   "image": "https://c.ndtvimg.com/2026-10/lorupils_alex-turner_625x300_23_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T10:14:39+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Adani Ports Revenue Crosses Rs 11,300 Crore In Q2, Raises FY27 Outlook",
-   "link": "https://www.ndtv.com/india-news/adani-ports-revenue-crosses-rs-11-300-crore-in-q2-raises-fy27-outlook-12247528#publisher=newsstand",
-   "desc": "Buoyed by its performance in the first half of FY27, APSEZ raised its full-year guidance.",
-   "image": "https://c.ndtvimg.com/2026-10/hv25po38_adani-ports-_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T10:08:13+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Stock Market Highlights, Sensex Today: Sensex Closes 350 Points Lower As Oil Prices Remains Steady At $115",
-   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-28-october-us-iran-war-oil-prices-12246103#publisher=newsstand",
-   "desc": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
-   "image": "https://c.ndtvimg.com/2026-08/97h4on7s_share-market_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T10:01:39+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "5 Killed In Andhra Pradesh Due To Cyclone Arnab",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-brings-heavy-rain-weather-body-warns-of-winds-up-to-140-kmph-12246086#publisher=newsstand",
-   "desc": "High tidal waves hit the coast in Visakhapatnam ahead of Cyclone Arnab's landfall",
-   "image": "https://c.ndtvimg.com/2026-10/gkn5uupc_cyclone-arnab_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T09:57:54+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Exclusive: Centre's Online Content Blocking Orders Triple Amid Surge In AI Content",
-   "link": "https://www.ndtv.com/india-news/centres-online-content-blocking-orders-triples-amid-surge-in-ai-content-12247552#publisher=newsstand",
-   "desc": "Parliamentary data show a rise in blocking activity over the years.",
-   "image": "https://c.ndtvimg.com/2026-10/ci6dc4eg_ai-agents-us-banks-reuters_625x300_23_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T09:48:58+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Tamil Nadu Toddler Found In Andhra Pradesh Month After She Went Missing",
-   "link": "https://www.ndtv.com/india-news/tamil-nadu-toddler-found-in-andhra-pradesh-month-after-she-went-missing-12247848#publisher=newsstand",
-   "desc": "Maheswari, 1, went missing on September 23.",
-   "image": "https://c.ndtvimg.com/2026-10/0kfhftgo_tamil-nadu-toddler_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T09:38:17+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Opinion: Opinion | Is America Staring At A 'Blue Wave' Again? Why Trump Feels Threatened",
-   "link": "https://www.ndtv.com/opinion/will-america-punish-trump-for-the-damage-he-has-done-why-midterms-are-a-threat-12247810#publisher=newsstand",
-   "desc": "Wonder of wonders, the so-called 'red-neck' states - like Texas - are leaning democrat, and Vivek Ramaswamy is probably going to lose in Ohio. But will this be enough for a 'blue wave'?",
-   "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T09:34:20+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Malaysia Seizes AI Chips Worth $12 Million At Airport, 5th Case This Year",
-   "link": "https://www.ndtv.com/world-news/malaysia-seizes-ai-chips-worth-12-million-at-airport-5th-case-this-year-12247789#publisher=newsstand",
-   "desc": "Malaysia tightened export and transshipment controls on chips from the United States last year.",
-   "image": "https://c.ndtvimg.com/2026-10/lq4gjtpg_ai-chips-malaysia-reuters_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T09:32:15+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
