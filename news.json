@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-28T18:00:29.488125+00:00",
+ "generated_at": "2026-10-28T18:32:28.296198+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Fed holds rates steady despite concerns over inflation",
+   "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+   "desc": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
+   "image": "",
+   "date": "2026-10-28T18:29:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Burnley appoint ex-Basel boss Celestini as head coach",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd67v45523o?at_medium=RSS&at_campaign=rss",
+   "desc": "Burnley appoint Fabio Celestini as their head coach, four days after the departure of Nicky Hayen.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea39/live/d7a8fff0-d2fa-11f1-8091-57f2713cabe8.jpg",
+   "date": "2026-10-28T18:16:58+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+   "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+   "desc": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual",
+   "image": "",
+   "date": "2026-10-28T18:14:11+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T18:12:24+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Here’s where to preorder the latest MacBook Pros",
+   "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
+   "desc": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilit",
+   "image": "",
+   "date": "2026-10-28T18:10:23+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+   "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+   "desc": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
+   "image": "",
+   "date": "2026-10-28T18:01:20+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "You can see every red flag in Theranos 2.0",
    "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
@@ -42,7 +96,7 @@
   {
    "title": "Here’s how macOS is changing for touchscreens",
    "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
-   "desc": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though; mo",
+   "desc": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Mo",
    "image": "",
    "date": "2026-10-28T17:48:28+00:00",
    "source": "The Verge",
@@ -65,6 +119,15 @@
    "date": "2026-10-28T17:47:37+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "World Wrestling C'ships: India script history as Neelam, Kajal settle for silver",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/world-wrestling-championships-india-script-history-as-neelam-sirohi-kajal-dhochak-settle-for-silver/articleshow/135274220.cms",
+   "desc": "India’s Kajal Dhochak and Neelam Sirohi created history by winning silver medals at the World Wrestling Championships in Astana, becoming the first Indian women to reach finals at the same edition. Kajal narrowly lost 6-",
+   "image": "",
+   "date": "2026-10-28T17:47:03+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Jamia Extends Online Classes Till November 24, Will Hold Exams Virtually",
@@ -119,6 +182,15 @@
    "date": "2026-10-28T17:32:51+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "Israel elections 'stolen by Arab parties that support terrorism': Netanyahu",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-elections-stolen-by-arab-parties-that-support-terrorism-netanyahu/articleshow/135274745.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T17:32:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
@@ -267,7 +339,7 @@
   {
    "title": "Apple announces its first touchscreen MacBook Pro",
    "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-   "desc": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorde",
+   "desc": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it's available to preorder",
    "image": "",
    "date": "2026-10-28T17:05:56+00:00",
    "source": "The Verge",
@@ -285,7 +357,7 @@
   {
    "title": "Xreal Aura is a new wired headset powered by Android XR",
    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-   "desc": "Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+   "desc": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
    "image": "",
    "date": "2026-10-28T17:00:00+00:00",
    "source": "TechCrunch",
@@ -315,8 +387,8 @@
    "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the f",
    "image": "",
    "date": "2026-10-28T17:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -346,39 +418,12 @@
    "cat": "business"
   },
   {
-   "title": "The one thing that didn't change that will affect your pay the most",
-   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-   "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T16:55:03+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Hero Haughey's 'surreal moment' after Arsenal shock",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko?at_medium=RSS&at_campaign=rss",
-   "desc": "Fleetwood Town defender Conor Haughey tells BBC Sport NI's Thomas Kane about his winning penalty in the Carabao Cup shootout win against Arsenal, the reaction from those back home in Belfast and who he wants next in the ",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d448/live/1b4f5870-d2e3-11f1-8af5-e1db7ad65222.jpg",
-   "date": "2026-10-28T16:50:58+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Harvard Professor Ranjay Gulati On AI Divide And How Courage Will Determine Winners | NDTV Profit Ignite",
    "link": "https://www.ndtv.com/india-news/harvard-professor-ranjay-gulati-on-ai-divide-and-how-courage-will-determine-winners-12250384#publisher=newsstand",
    "desc": "Ranjay Gulati said it is prudent to \"surface your beliefs\" amid uncertainity.",
    "image": "https://c.ndtvimg.com/2026-10/4f4pcir_rahul_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T16:48:47+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Kamala Harris warns Democrats against third Trump impeachment, urges focus on investigations",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/kamala-harris-warns-democrats-against-third-trump-impeachment-urges-focus-on-investigations/articleshow/135272377.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T16:46:56+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -427,15 +472,6 @@
    "cat": "sports"
   },
   {
-   "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
-   "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
-   "desc": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative upd",
-   "image": "",
-   "date": "2026-10-28T16:33:32+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
    "desc": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
@@ -445,22 +481,13 @@
    "cat": "business"
   },
   {
-   "title": "America's largest budget airline reports 71% jump in airfare",
-   "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-   "desc": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-   "image": "",
-   "date": "2026-10-28T16:29:09+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-   "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-   "desc": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
-   "image": "",
-   "date": "2026-10-28T16:19:29+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+   "link": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+   "desc": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2708/live/9df1e7e0-d2eb-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-28T16:30:29+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Meta says it’ll probably delay its controversial new business terms again",
@@ -551,15 +578,6 @@
    "date": "2026-10-28T15:34:02+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Man clings to moving Thar SUV as traffic cops try to seize vehicle in Gurgaon",
-   "link": "https://timesofindia.indiatimes.com/city/gurgaon/no-number-plate-tinted-windows-man-clings-to-moving-thar-as-traffic-cops-try-to-impound-vehicle-in-gurgaon/articleshow/135271151.cms",
-   "desc": "On a Tuesday evening, traffic police pulled over a black Mahindra Thar for inspection after noticing violations, including the absence of a number plate and heavily tinted windows. The driver was unable to provide any do",
-   "image": "",
-   "date": "2026-10-28T15:28:21+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T02:23:35+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-   "desc": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mob",
-   "image": "",
-   "date": "2026-10-28T01:40:35+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-   "image": "",
-   "date": "2026-10-28T01:15:28+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
   }
  ]
 }
