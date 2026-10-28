@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-28T01:00:17.350290+00:00",
+ "generated_at": "2026-10-28T01:30:18.620653+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "desc": "South Korean chipmaker SK Hynix on Wednesday announces over 25 billion in dividends and buyback as third-quarter profit sharply beats estimates.",
+   "image": "",
+   "date": "2026-10-28T01:25:18+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "'Ball was still seaming': Iyer 'mind-boggled' by Abhishek, Sooryavanshi's blitz",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ball-was-seaming-when-sanju-and-i-went-in-shreyas-iyer-mind-boggled-by-abhishek-sooryavanshis-blitz/articleshow/135248860.cms",
+   "desc": "India achieved a remarkable six-wicket victory against New Zealand in the third T20I at Wellington's Hnry Stadium. Abhishek Sharma's impressive 113 runs and Vaibhav Sooryavanshi's 45 runs set a strong foundation for the ",
+   "image": "",
+   "date": "2026-10-28T01:18:31+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "desc": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "image": "",
+   "date": "2026-10-28T01:15:28+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Michael J. Fox’s Parkinson’s study data downloaded over 50 million times",
+   "link": "https://timesofindia.indiatimes.com/world/us/michael-j-foxs-foundation-launched-a-parkinsons-study-in-2010-16-years-later-its-data-has-been-downloaded-over-50-million-times-and-is-helping-researchers-design-more-targeted-clinical-trials/articleshow/135238462.cms",
+   "desc": "The Michael J. Fox Foundation has evolved its Parkinson’s Progression Markers Initiative into the Parkinson’s Precision Medicine Initiative, focusing on tailored treatments based on individual biological differences in p",
+   "image": "",
+   "date": "2026-10-28T00:40:17+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "'Biggest night in the club's history' for fearless Fleetwood",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
@@ -45,15 +81,6 @@
    "desc": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
    "image": "",
    "date": "2026-10-28T00:14:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "desc": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
-   "image": "",
-   "date": "2026-10-28T00:09:17+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -193,15 +220,6 @@
    "cat": "business"
   },
   {
-   "title": "Bound to be ‘tamasha’ over my book: Sonia Gandhi",
-   "link": "https://timesofindia.indiatimes.com/india/bound-to-be-tamasha-over-my-book-sonia-gandhi/articleshow/135247894.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T23:01:28+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "The data center boom has an upside: innovation for the US grid",
    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
    "desc": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
@@ -220,15 +238,6 @@
    "cat": "tech"
   },
   {
-   "title": "Brics forum concerned over West Asia tensions, calls for max restraint",
-   "link": "https://timesofindia.indiatimes.com/india/brics-forum-concerned-over-west-asia-tensions-calls-for-max-restraint/articleshow/135247841.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-27T22:44:16+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "UN Nuclear Watchdog Chief Urges Iran To Grant Access",
    "link": "https://www.ndtv.com/world-news/un-nuclear-watchdog-chief-urges-iran-to-grant-access-12245792#publisher=newsstand",
    "desc": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel.",
@@ -245,24 +254,6 @@
    "date": "2026-10-27T22:35:25+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Florida sinks nearly 200 unwanted concrete pipes to create new ocean reef",
-   "link": "https://timesofindia.indiatimes.com/world/us/nearly-200-unwanted-concrete-pipes-and-culverts-were-lowered-into-the-atlantic-off-jacksonville-in-2026-instead-of-being-dumped-on-land-the-pieces-now-form-a-new-fish-habitat-roughly-90-feet-below-the-water/articleshow/135227479.cms",
-   "desc": "Concrete pipes and structures have found new life as an artificial reef off Florida's coastline. This dynamic project aims to enrich marine ecosystems in the region's sandy ocean floors, driven by partnerships among fish",
-   "image": "",
-   "date": "2026-10-27T22:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Michigan court overturns $1.55m judgment against couple in home sale dispute",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-home-inspection-triggered-a-150000-price-cut-fight-six-years-later-an-appeals-court-wiped-out-a-1-55-million-judgment-against-the-buyers/articleshow/135205507.cms",
-   "desc": "A Michigan couple's $1.275 million home purchase turned into a six-year legal dispute after they sought a $150,000 discount following an inspection. The failed deal led to a judgment exceeding $1.55 million against them.",
-   "image": "",
-   "date": "2026-10-27T22:27:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "US Says It Will Issue Visas To Brazil's Flavio Bolsonaro After Election Loss",
@@ -544,15 +535,6 @@
    "cat": "tech"
   },
   {
-   "title": "Colin Farrell's foundation selects 16 charities for grants up to $50,000",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2024-colin-farrell-launched-a-foundation-inspired-by-his-son-james-by-2026-it-had-selected-16-us-organisations-for-grants-of-10000-to-50000-to-help-adults-with-intellectual-disabilities/articleshow/135211538.cms",
-   "desc": "With a commitment to enhancing the lives of individuals with intellectual and developmental disabilities, the Colin Farrell Foundation has launched multiple grant initiatives across the country. By selecting 16 key organ",
-   "image": "",
-   "date": "2026-10-27T19:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
    "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
    "desc": "Boeing reset investor expectations on free cash flow growth in the coming years. We're hopeful this represents a clearing event.",
@@ -679,11 +661,20 @@
    "cat": "tech"
   },
   {
-   "title": "Denver moves to permanently protect 155-acre former golf course as public park",
-   "link": "https://timesofindia.indiatimes.com/world/us/denver-voters-rejected-development-on-a-155-acre-former-golf-course-in-2023-after-a-land-swap-and-70-million-bond-allocation-the-city-is-moving-to-permanently-protect-it-as-a-public-park/articleshow/135222627.cms",
-   "desc": "Denver is advancing plans to convert the former Park Hill Golf Course into Park Hill Park. The city has selected Michael Van Valkenburgh Associates to design the 155-acre site. Voters rejected a development proposal for ",
+   "title": "300-year-old London house linked to Diagon Alley goes on sale for £1.595m",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/300-year-old-london-house-believed-to-have-inspired-harry-potters-diagon-alley-goes-on-sale-for-1-595-million-after-2-million-asking-price-is-cut-by-405000-with-original-georgian-features-preserved/articleshow/135243258.cms",
+   "desc": "A 300-year-old house on Goodwin’s Court in London’s Covent Garden has gone on sale for £1.595 million after its original £2 million asking price was reduced by £405,000. The property is believed to have inspired location",
    "image": "",
-   "date": "2026-10-27T18:21:00+00:00",
+   "date": "2026-10-27T18:14:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Shay Mitchell bought LA home for $1.35m, sold it for $1.95m in 2015",
+   "link": "https://timesofindia.indiatimes.com/real-estate/in-2012-shay-mitchell-bought-a-1931-los-angeles-home-for-1-35-million-and-transformed-its-interiors-three-years-later-the-former-pretty-little-liars-star-sold-the-house-for-1-95-million-above-its-asking-price/articleshow/135242636.cms",
+   "desc": "Shay Mitchell has made waves once again as she sells her stunning Los Angeles home for $1.95 million. Originally bought in 2012 for $1.35 million, this vintage property boasts traditional Spanish architecture, enhanced b",
+   "image": "",
+   "date": "2026-10-27T17:53:41+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -778,6 +769,15 @@
    "cat": "tech"
   },
   {
+   "title": "5 mths after fastest Everest climb, US cancer survivor sets mountain run record",
+   "link": "https://timesofindia.indiatimes.com/world/south-asia/5-months-after-fastest-everest-climb-us-cancer-survivor-sets-mountain-run-record/articleshow/135240619.cms",
+   "desc": "The route, which involves approximately 3,000m of elevation loss along with several uphill stretches, typically takes trekkers three to four days to complete.",
+   "image": "",
+   "date": "2026-10-27T16:35:13+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
    "desc": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
@@ -864,15 +864,6 @@
    "desc": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
    "image": "",
    "date": "2026-10-27T14:51:33+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "US government says hackers are now exploiting critical PHP web bugs",
-   "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-   "desc": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
-   "image": "",
-   "date": "2026-10-27T14:40:39+00:00",
    "source": "TechCrunch",
    "cat": "tech"
   },
@@ -974,6 +965,15 @@
    "date": "2026-10-27T11:51:25+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "Meet Disha Daga: Pune artist who taught 25,000 students mandala art",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-disha-daga-the-26-year-old-pune-woman-who-began-drawing-mandalas-in-her-notebooks-without-studying-art-and-went-on-to-paint-for-the-rbi-work-with-major-brands-and-teach-over-25000-students/articleshow/135232384.cms",
+   "desc": "Disha Daga embarked on her mandala journey in 2016 as a creative pastime, transitioning to a professional artist. Garnering online recognition, she landed her first commission in August 2021, collaborating with esteemed ",
+   "image": "",
+   "date": "2026-10-27T11:32:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
