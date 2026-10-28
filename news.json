@@ -1,8 +1,98 @@
 {
- "generated_at": "2026-10-28T17:00:18.737763+00:00",
+ "generated_at": "2026-10-28T17:30:35.877759+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+   "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+   "desc": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
+   "image": "",
+   "date": "2026-10-28T17:29:21+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+   "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+   "desc": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting",
+   "image": "",
+   "date": "2026-10-28T17:27:38+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Apple launches its new touchscreen MacBook Pro",
+   "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+   "desc": "Apple's new touchscreen MacBook Pro starts at $2,899",
+   "image": "",
+   "date": "2026-10-28T17:26:10+00:00",
+   "source": "TechCrunch",
+   "cat": "tech"
+  },
+  {
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "desc": "Here is what you need to know about the payment that millions will receive from January.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T17:22:00+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+   "desc": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to ",
+   "image": "",
+   "date": "2026-10-28T17:19:23+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+   "desc": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a ",
+   "image": "",
+   "date": "2026-10-28T17:16:55+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+   "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+   "desc": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet ",
+   "image": "",
+   "date": "2026-10-28T17:12:47+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Instagram doesn’t have a plan to pay long-form video creators",
+   "link": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
+   "desc": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, cr",
+   "image": "",
+   "date": "2026-10-28T17:10:46+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Apple announces its first touchscreen MacBook Pro",
+   "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+   "desc": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorde",
+   "image": "",
+   "date": "2026-10-28T17:05:56+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/molineux-mania-up-warriorz-outgun-rcb-in-rs-1-10-cr-showstopper-at-wpl-auction/articleshow/135273852.cms",
+   "desc": "UP Warriorz secured Australia captain Sophie Molineux for Rs 1.10 crore after a bidding battle with RCB at the WPL mini auction in Kochi. They also signed Grace Harris, Sushma Verma and Sneh Rana, prioritising experience",
+   "image": "",
+   "date": "2026-10-28T17:00:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Xreal Aura is a new wired headset powered by Android XR",
    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
@@ -31,6 +121,24 @@
    "cat": "tech"
   },
   {
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the f",
+   "image": "",
+   "date": "2026-10-28T17:00:00+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T16:59:47+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
    "title": "Budget 2026: Key points at a glance",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
@@ -56,6 +164,24 @@
    "date": "2026-10-28T16:51:27+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "Hero Haughey's 'surreal moment' after Arsenal shock",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2dr41x9vko?at_medium=RSS&at_campaign=rss",
+   "desc": "Fleetwood Town defender Conor Haughey tells BBC Sport NI's Thomas Kane about his winning penalty in the Carabao Cup shootout win against Arsenal, the reaction from those back home in Belfast and who he wants next in the ",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d448/live/1b4f5870-d2e3-11f1-8af5-e1db7ad65222.jpg",
+   "date": "2026-10-28T16:50:58+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Kamala Harris warns Democrats against third Trump impeachment, urges focus on investigations",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/kamala-harris-warns-democrats-against-third-trump-impeachment-urges-focus-on-investigations/articleshow/135272377.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T16:46:56+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Watch: At the scene of Spain's deadly train crash",
@@ -112,6 +238,15 @@
    "cat": "india"
   },
   {
+   "title": "Davies crossing divide between pitch and boardroom",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmx2w477qwjpo?at_medium=RSS&at_campaign=rss",
+   "desc": "Ben Davies hopes to bridge the gap between those who execute the strategy on the pitch and those who draft it in the boardroom.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ce/live/c6513520-d2f4-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T16:35:19+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
    "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
    "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
    "desc": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative upd",
@@ -127,15 +262,6 @@
    "image": "",
    "date": "2026-10-28T16:33:22+00:00",
    "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Will I get the £100 energy payment and when will I receive it?",
-   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-   "desc": "Here is what you need to know about the payment that millions will receive from January.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T16:30:53+00:00",
-   "source": "BBC Business",
    "cat": "business"
   },
   {
@@ -220,15 +346,6 @@
    "cat": "india"
   },
   {
-   "title": "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2027-full-squads-how-mi-rcb-dc-gg-upw-stack-up-after-the-auction/articleshow/135272090.cms",
-   "desc": "The five franchises — Royal Challengers Bengaluru, Mumbai Indians, Delhi Capitals, Gujarat Giants and UP Warriorz — had a total of 27 slots to fill.",
-   "image": "",
-   "date": "2026-10-28T16:15:12+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Crude Price Drop Not Enough To Attract Foreign Investors To India: Quantum's Ajit Dayal",
    "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-crude-price-drop-not-enough-to-attract-foreign-investors-to-india-quantums-ajit-dayal-12248930#publisher=newsstand",
    "desc": "Ajit Dayal said the country must provide suitable conditions for investment.",
@@ -289,15 +406,6 @@
    "image": "",
    "date": "2026-10-28T16:00:00+00:00",
    "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Reddit is getting a For You feed",
-   "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
-   "desc": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For ",
-   "image": "",
-   "date": "2026-10-28T16:00:00+00:00",
-   "source": "The Verge",
    "cat": "tech"
   },
   {
@@ -364,15 +472,6 @@
    "cat": "india"
   },
   {
-   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-   "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-   "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
-   "image": "",
-   "date": "2026-10-28T15:39:14+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
    "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
    "desc": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
@@ -400,15 +499,6 @@
    "cat": "india"
   },
   {
-   "title": "Govee’s colorful smart string lights are down to their best price of the year",
-   "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
-   "desc": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or what",
-   "image": "",
-   "date": "2026-10-28T15:34:43+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Scottish side to play two cup ties simultaneously after schedule clash",
    "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
    "desc": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
@@ -418,21 +508,21 @@
    "cat": "sports"
   },
   {
-   "title": "Sony has new transparent PS5 controllers launching next year",
-   "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
-   "desc": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching conso",
-   "image": "",
-   "date": "2026-10-28T15:31:02+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Singapore Investors Propose High-Tech Township Near Noida Airport",
    "link": "https://www.ndtv.com/india-news/singapore-investors-propose-high-tech-township-near-noida-international-airport-in-uttar-pradesh-12249760#publisher=newsstand",
    "desc": "The proposal was discussed during a meeting between Chief Minister Yogi Adityanath and the delegation.",
    "image": "https://c.ndtvimg.com/2026-10/0tg2bkds_noida-airport_625x300_09_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-28T15:28:49+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Man clings to moving Thar SUV as traffic cops try to seize vehicle in Gurgaon",
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/no-number-plate-tinted-windows-man-clings-to-moving-thar-as-traffic-cops-try-to-impound-vehicle-in-gurgaon/articleshow/135271151.cms",
+   "desc": "On a Tuesday evening, traffic police pulled over a black Mahindra Thar for inspection after noticing violations, including the absence of a number plate and heavily tinted windows. The driver was unable to provide any do",
+   "image": "",
+   "date": "2026-10-28T15:28:21+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -481,15 +571,6 @@
    "cat": "tech"
   },
   {
-   "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-   "link": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
-   "desc": "It's hard to make an Xbox controller that stands out these days, especially one that's expensive, due to a wealth of great semi-affordable options. Still, 8BitDo's $150 Ultimate 3E is a bold controller that holds its own",
-   "image": "",
-   "date": "2026-10-28T15:00:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Investors Should Bet Against Market Trends: ICICI Prudential AMC's S Naren | NDTV Profit Ignite",
    "link": "https://www.ndtv.com/india-news/why-investors-should-bet-against-popular-stock-market-trends-explains-s-naren-12249021#publisher=newsstand",
    "desc": "S Naren, Executive Director and Chief Investment Officer of ICICI Prudential Asset Management Company.",
@@ -508,15 +589,6 @@
    "cat": "business"
   },
   {
-   "title": "Apple raises the MacBook Neo’s student pricing again",
-   "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
-   "desc": "The MacBook Neo now starts at $649 on Apple's Education Store, up $150 from its initial $499 education starting price. As reported earlier by MacRumors, the student discount for the Neo received a $50 price bump in recen",
-   "image": "",
-   "date": "2026-10-28T14:47:28+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Dropbox layoffs: Co-CEO announces 9% job cuts in company memo",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/dropbox-layoffs-co-ceo-ashraf-alkarmi-sends-memo-to-employees-announcing-9-job-cuts-cto-ali-dasdan-to-leave/articleshow/135269701.cms",
    "desc": "Dropbox has announced a significant reduction in its workforce, planning to eliminate approximately 9% of its positions as part of a strategic realignment of resources. This move is expected to result in severance expens",
@@ -531,8 +603,8 @@
    "desc": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from ",
    "image": "",
    "date": "2026-10-28T14:44:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
@@ -580,15 +652,6 @@
    "cat": "world"
   },
   {
-   "title": "Here’s Virgin Galactic’s new Apeiron spaceship",
-   "link": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
-   "desc": "Virgin Galactic's new spaceship is here, dubbed \"Apeiron\" by popular vote from a public poll. Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated to launch for nearly another year. Earli",
-   "image": "",
-   "date": "2026-10-28T14:17:43+00:00",
-   "source": "The Verge",
-   "cat": "tech"
-  },
-  {
    "title": "Meta has a new AI pet app called Waddle World",
    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
    "desc": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
@@ -605,15 +668,6 @@
    "date": "2026-10-28T13:48:05+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
-   "link": "https://timesofindia.indiatimes.com/india/supreme-court-says-legality-of-ecs-logical-discrepancy-checks-in-sir-remains-undecided/articleshow/135268027.cms",
-   "desc": "A bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V Mohana said its earlier decision allowing the Election Commission to use the category in West Bengal was only an interim measure. It",
-   "image": "",
-   "date": "2026-10-28T13:47:04+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
@@ -666,15 +720,6 @@
    "desc": "From Ro Khanna's re-election bid in Silicon Valley to Vivek Ramaswamy's gubernatorial contest in Ohio, Indian-American politicians are competing in some of the most closely watched congressional, statewide and mayoral el",
    "image": "",
    "date": "2026-10-28T13:03:08+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Spain train crash: Drone footage captures twisted carriages as toll tops 60",
-   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-accident-drone-view-shows-tilted-carriages-twisted-rail-body-at-site/articleshow/135265093.cms",
-   "desc": "The crash occurred along the Madrid-Seville high-speed railway line in Toledo province, where two trains carrying hundreds of passengers were travelling in the same direction towards Seville in southwestern Spain, accord",
-   "image": "",
-   "date": "2026-10-28T13:02:29+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -740,15 +785,6 @@
    "date": "2026-10-28T12:10:00+00:00",
    "source": "MIT Tech Review",
    "cat": "ai"
-  },
-  {
-   "title": "'Commit to ballot paper': Congress dares PM Modi after his swipe over MLC results",
-   "link": "https://timesofindia.indiatimes.com/india/guess-how-many-seats-congress-won-pm-modis-ballot-taunt-on-mlc-results/articleshow/135264651.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T12:02:25+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Scientists discover a hidden 100-million-year-old volcanic system",
@@ -841,6 +877,15 @@
    "cat": "sports"
   },
   {
+   "title": "'There was mangled mess of metal': Eyewitnesses recount Spain train crash",
+   "link": "https://timesofindia.indiatimes.com/world/europe/there-was-mangled-mess-of-metal-eyewitnesses-recount-spain-train-crash/articleshow/135262141.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T11:01:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "You may get the right to find out what your colleagues earn - here's why",
    "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
    "desc": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
@@ -848,15 +893,6 @@
    "date": "2026-10-28T10:42:39+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "'Not a concern': 118 runs, no fifty in tri-series but Babar still has Pakistan's backing",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/not-a-concern-118-runs-in-four-innings-no-fifty-in-tri-series-but-babar-azam-still-has-pakistans-backing/articleshow/135261450.cms",
-   "desc": "Pakistan suffered their first defeat of the series on Tuesday, losing to Sri Lanka by eight wickets in Lahore. Babar top-scored for Pakistan with 29, but the team's batting lineup collapsed as they were bowled out for ju",
-   "image": "",
-   "date": "2026-10-28T10:32:57+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -913,13 +949,13 @@
    "cat": "science"
   },
   {
-   "title": "Chair skills, quick brain - how O'Neill adapted to wheelchair rugby league",
-   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5lyer2wvd3xo?at_medium=RSS&at_campaign=rss",
-   "desc": "Finlay O'Neill thought his sporting days were over when his dislocated a knee at the age of 16. Now he is preparing to play a part in England's bid to retain the Wheelchair Rugby League World Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0e/live/0dd334b0-cadb-11f1-b12b-29678970ab1b.jpg",
-   "date": "2026-10-28T09:19:13+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
+   "title": "MLC election results: NDA wins 16, Congress draws blank; SP gets 5 in UP",
+   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T09:14:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Liverpool gambled on Jacquet and it is paying off",
@@ -965,15 +1001,6 @@
    "date": "2026-10-28T06:49:03+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-   "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-   "desc": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-   "image": "",
-   "date": "2026-10-28T05:20:32+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
   },
   {
    "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
@@ -1039,15 +1066,6 @@
    "cat": "science"
   },
   {
-   "title": "'Biggest night in club's history' for fearless Fleetwood",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
-   "desc": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg",
-   "date": "2026-10-28T00:39:30+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "'An annoying buzz': The search for stealthier drones",
    "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
    "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
@@ -1062,24 +1080,6 @@
    "desc": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
    "image": "",
    "date": "2026-10-27T23:34:27+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
-  },
-  {
-   "title": "China's families are now supporting more old people than kids",
-   "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-   "desc": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
-   "date": "2026-10-27T23:16:08+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "The data center boom has an upside: innovation for the US grid",
-   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-   "desc": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-   "image": "",
-   "date": "2026-10-27T22:55:41+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
   }
