@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-29T07:00:28.325205+00:00",
+ "generated_at": "2026-10-29T07:32:20.167706+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+   "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T07:26:36+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+   "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+   "desc": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+   "image": "",
+   "date": "2026-10-29T07:01:50+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Forces fortify key Arunachal bridge to fight dam objectors",
+   "link": "https://timesofindia.indiatimes.com/india/forces-fortify-key-arunachal-bridge-to-fight-dam-objectors/articleshow/135293686.cms",
+   "desc": "Protests against the dam at the Dite-Dime bridge have prompted a strong response from law enforcement. The Central Armed Police Forces have been deployed to ensure order in the affected districts. Recent confrontations d",
+   "image": "",
+   "date": "2026-10-29T06:53:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Weekly sports quiz: Which league are Fleetwood in?",
    "link": "https://www.bbc.co.uk/sport/articles/cmrly1jy31p1o?at_medium=RSS&at_campaign=rss",
@@ -283,15 +310,6 @@
    "cat": "india"
   },
   {
-   "title": "'Garam paani piyo, thanda mat peena': Vaibhav Sooryavanshi's reaction to fan goes viral",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/garam-paani-piyo-thanda-mat-peena-vaibhav-sooryavanshis-reaction-to-fan-goes-viral-watch/articleshow/135290341.cms",
-   "desc": "In the third T20I against New Zealand in Wellington, Vaibhav Sooryavanshi smashed 45 runs off just 19 balls, giving India a flying start in their chase of 199. At the other end, Abhishek Sharma played a sensational knock",
-   "image": "",
-   "date": "2026-10-29T04:45:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
    "desc": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
@@ -418,15 +436,6 @@
    "cat": "business"
   },
   {
-   "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-   "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-   "desc": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
-   "image": "",
-   "date": "2026-10-29T00:11:14+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
    "desc": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
@@ -520,19 +529,10 @@
    "title": "Fleetwood to face Everton or Newcastle in last eight",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
    "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83d/live/3ba1f500-d320-11f1-ba7d-b5eab6da6837.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg",
    "date": "2026-10-28T22:45:35+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-   "desc": "Any button that can be clicked can also be touched.",
-   "image": "",
-   "date": "2026-10-28T22:38:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Russo scores hat-trick as Arsenal beat Benfica",
@@ -913,7 +913,7 @@
    "cat": "tech"
   },
   {
-   "title": "Bolsonaro’s Route To Miami: Senator slips out via Argentina and Ecuador",
+   "title": "72 hours, 3 countries, 1 private jet: Flavio Bolsonaro’s wild escape to US",
    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/72-hours-3-countries-1-private-jet-flavio-bolsonaros-wild-escape-to-us/articleshow/135273923.cms",
    "desc": "",
    "image": "",
