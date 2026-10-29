@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-29T06:00:31.689064+00:00",
+ "generated_at": "2026-10-29T06:30:32.751247+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+   "desc": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f99/live/b256c500-d117-11f1-921d-7d7921390179.png",
+   "date": "2026-10-29T06:27:10+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
+   "desc": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "date": "2026-10-29T06:23:21+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "'Don't worry about lathis': Rahul calls on people to join INDIA bloc's 'Delhi chalo' march",
+   "link": "https://timesofindia.indiatimes.com/india/dont-worry-about-lathis-rahul-calls-on-people-to-join-india-blocs-delhi-chalo-march/articleshow/135292996.cms",
+   "desc": "Rahul Gandhi invited everyone to partake in the upcoming Chalo Delhi march at Ramlila Maidan. This initiative seeks to challenge purported electoral malfeasance and uphold democratic integrity. He stated the march embodi",
+   "image": "",
+   "date": "2026-10-29T06:08:44+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+   "image": "",
+   "date": "2026-10-29T06:03:35+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Rupee gains 11 paise to 95.17 against dollar after Fed holds interest rates",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-11-paise-to-95-17-against-dollar-after-fed-holds-interest-rates/articleshow/135291110.cms",
+   "desc": "In early trading on Thursday, the rupee gained 11 paise against the US dollar, reaching 95.17. This uptick followed the US Federal Reserve's decision to keep interest rates steady, causing a weakening of the dollar as tr",
+   "image": "",
+   "date": "2026-10-29T05:54:38+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "‘Raids for reels’: Stalin cries foul over TN govt searching KN Nehru-linked premises",
    "link": "https://timesofindia.indiatimes.com/india/raids-to-produce-reels-ex-tn-cm-stalin-cries-foul-over-vijay-govt-searching-kn-nehru-linked-premises/articleshow/135292135.cms",
@@ -31,7 +76,7 @@
    "cat": "india"
   },
   {
-   "title": "Kerala Judge named accused in son’s fatal Mercedes crash gets anticipatory bail",
+   "title": "Anticipatory bail given to Kerala Judge accused in minor son’s fatal Mercedes crash",
    "link": "https://timesofindia.indiatimes.com/city/kochi/no-arrest-for-judge-in-fatal-mercedes-crash-case-involving-his-minor-son/articleshow/135291489.cms",
    "desc": "The Kerala High Court provided interim protection from arrest to an additional district judge involved in a fatal accident. His 17-year-old son allegedly drove a car during the incident in Kochi. The police interrogated ",
    "image": "",
@@ -148,7 +193,7 @@
    "cat": "india"
   },
   {
-   "title": "'Garam paani piyo, thanda mat peena': Sooryavanshi's reaction to fan goes viral",
+   "title": "'Garam paani piyo, thanda mat peena': Vaibhav Sooryavanshi's reaction to fan goes viral",
    "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/garam-paani-piyo-thanda-mat-peena-vaibhav-sooryavanshis-reaction-to-fan-goes-viral-watch/articleshow/135290341.cms",
    "desc": "In the third T20I against New Zealand in Wellington, Vaibhav Sooryavanshi smashed 45 runs off just 19 balls, giving India a flying start in their chase of 199. At the other end, Abhishek Sharma played a sensational knock",
    "image": "",
@@ -393,7 +438,7 @@
   {
    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-   "desc": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+   "desc": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg",
    "date": "2026-10-29T00:05:21+00:00",
    "source": "BBC Sport",
@@ -454,15 +499,6 @@
    "cat": "tech"
   },
   {
-   "title": "On debut, Jio 2nd most valuable company, behind only parent Reliance Industries",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms",
-   "desc": "Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group ",
-   "image": "",
-   "date": "2026-10-28T23:10:34+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
    "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
    "desc": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
@@ -504,15 +540,6 @@
    "desc": "Any button that can be clicked can also be touched.",
    "image": "",
    "date": "2026-10-28T22:38:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "image": "",
-   "date": "2026-10-28T22:34:56+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -769,15 +796,6 @@
    "cat": "tech"
   },
   {
-   "title": "Farmers claim Rs 35 cr missing from PNB FDs in Greater Noida; 5 suspended",
-   "link": "https://timesofindia.indiatimes.com/city/noida/pnb-branch-under-scanner-as-customers-allege-rs-35-crore-embezzlement-manager-among-5-suspended/articleshow/135279379.cms",
-   "desc": "Employees at Punjab National Bank's Aichhar branch are under investigation due to allegations of financial misconduct. Account holders have accused bank staff of embezzling approximately Rs 35 crore through unauthorized ",
-   "image": "",
-   "date": "2026-10-28T19:51:29+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Djokovic celebrates 'big win' on return to Basel",
    "link": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
    "desc": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
@@ -830,15 +848,6 @@
    "date": "2026-10-28T19:05:46+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Healey tells departments to make 1% cuts to fund defence",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-   "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T19:01:34+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   },
   {
    "title": "Red Roses make six changes but Kildunne on bench again",
@@ -1019,15 +1028,6 @@
    "date": "2026-10-28T15:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
-  },
-  {
-   "title": "How much is the minimum wage going up by?",
-   "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-   "desc": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg",
-   "date": "2026-10-28T14:53:29+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   },
   {
    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
