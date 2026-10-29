@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-29T10:02:34.647305+00:00",
+ "generated_at": "2026-10-29T10:30:13.517947+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "President of the European Central Bank Christine Lagarde to stand down in February",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T10:27:20+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "13 killed as Russian drone hits busy train platform in Ukraine’s Dnipro",
+   "link": "https://timesofindia.indiatimes.com/world/europe/13-killed-as-russian-drone-hits-busy-train-platform-in-ukraines-dnipro/articleshow/135301097.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T10:15:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T10:14:03+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Eli Lilly is about to report earnings. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+   "desc": "Eli Lilly is slated to report third-quarter earnings and revenue, which will likely be fueled by its obesity drug Zepbound and diabetes counterpart Mounjaro.",
+   "image": "",
+   "date": "2026-10-29T10:13:33+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
   {
    "title": "AI has come for Arizona’s water",
    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
@@ -22,13 +58,40 @@
    "cat": "business"
   },
   {
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-   "date": "2026-10-29T09:58:05+00:00",
-   "source": "BBC Business",
-   "cat": "business"
+   "title": "Our climate models have a big, dangerous blind spot",
+   "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+   "desc": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our",
+   "image": "",
+   "date": "2026-10-29T10:00:00+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Spain train crash: Audio reveals chilling exchange before deadly collision",
+   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-crash-audio-reveals-chilling-exchange-between-operators-before-deadly-collision/articleshow/135299791.cms",
+   "desc": "According to the recordings published by Spanish outlets including El País and RTVE, a technical problem had disrupted the automatic signalling system, forcing trains on the affected stretch to stop. The system helps con",
+   "image": "",
+   "date": "2026-10-29T09:53:18+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Israel polls: Netanyahu cries foul; poll chief orders probe into 'foreign hand'",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-polls-poll-chief-orders-probe-into-foreign-interference-netanyahu-levels-big-charge-top-developments/articleshow/135299653.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T09:52:46+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "MLC polls: BJP wins big, but Congress & SP send a message from Nagpur, Varanasi",
+   "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
+   "desc": "While the BJP-led NDA won big in the MLC elections across four states, it suffered setbacks in two politically significant constituencies: Nagpur and Varanasi where the Congress and SP held their ground.",
+   "image": "",
+   "date": "2026-10-29T09:51:31+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "\"Worst Is Behind Us\": Quant's Sandeep Tandon On Indian Markets",
@@ -94,15 +157,6 @@
    "cat": "india"
   },
   {
-   "title": "Bangladesh: Hindu salon owner stabbed to death over unpaid haircut bills; 1 held",
-   "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-hindu-salon-owner-stabbed-to-death-over-unpaid-haircut-bills-one-arrested/articleshow/135299207.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T09:28:41+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "1 Ship, 6 Indians, 6 Months: Long Wait For Seafarers Stranded At Karachi Port",
    "link": "https://www.ndtv.com/world-news/1-ship-6-indians-6-months-long-wait-for-seafarers-stranded-at-karachi-port-vineet-kishore-mishra-12253129#publisher=newsstand",
    "desc": "Vineet with his wife, Neha, and two children.",
@@ -137,6 +191,15 @@
    "date": "2026-10-29T09:17:58+00:00",
    "source": "NDTV",
    "cat": "india"
+  },
+  {
+   "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+   "desc": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e853/live/77bf7200-d36c-11f1-a2f1-9d8bc53db834.jpg",
+   "date": "2026-10-29T09:17:05+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Rain Forest, Glass Skywalk, Breeding Centre: PM Modi To Launch Key Projects During 2-Day Gujarat Visit",
@@ -220,6 +283,15 @@
    "cat": "business"
   },
   {
+   "title": "XUV700 booked in 2022, never delivered: Mahindra ordered to refund and pay Rs 62k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-customer-booked-a-mahindra-xuv700-in-2022-but-never-received-the-suv-four-years-later-a-consumer-commission-has-ordered-mahindra-and-its-dealer-to-refund-the-booking-amount-with-interest-and-pay-rs-62000/articleshow/135296096.cms",
+   "desc": "A consumer in Haryana sought redress after Mahindra & Mahindra failed to deliver a booked SUV. The booking was made in February 2022, but the vehicle was never delivered to the customer. The manufacturer and dealer provi",
+   "image": "",
+   "date": "2026-10-29T08:54:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "10 Killed As Oxygen Cylinder Explodes Inside Ambulance In Pakistan",
    "link": "https://www.ndtv.com/world-news/10-killed-as-oxygen-cylinder-explodes-inside-ambulance-in-pakistan-tharparkar-12252924#publisher=newsstand",
    "desc": "Victims included staff at the medical facility, patients, and their relatives.",
@@ -274,15 +346,6 @@
    "cat": "india"
   },
   {
-   "title": "Appeals court backs Prairie Lake access, overturns $148K trespass award",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-lake-boundary-battle-dating-to-2017-takes-a-new-turn-as-an-appeals-court-backs-a-trusts-access-to-prairie-lake-and-upholds-a-ruling-that-wiped-out-neighbours-earlier-148500-trespass-award/articleshow/135293812.cms",
-   "desc": "A nine-year property dispute over access to Minnesota's Prairie Lake has taken another turn after an appeals court upheld a ruling in favour of the Blackwood Trust. The Monday decision confirms the trust's direct access ",
-   "image": "",
-   "date": "2026-10-29T08:25:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
    "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
    "desc": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
@@ -290,15 +353,6 @@
    "date": "2026-10-29T08:23:31+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "6 dead in MP: 2 sisters, one 8 months pregnant, and 4 children found in separate wells",
-   "link": "https://timesofindia.indiatimes.com/city/bhopal/6-dead-in-mp-2-sisters-one-8-months-pregnant-and-4-children-found-in-separate-wells/articleshow/135293334.cms",
-   "desc": "Two sisters from Madhya Pradesh committed suicide by jumping into wells with their children on Wednesday. Anjali Rawat, who was eight months pregnant, took her son Prashant with her while Sita Rawat jumped with her three",
-   "image": "",
-   "date": "2026-10-29T08:23:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Self-Declaration Form Row Erupts Amid Telangana's Paddy Cultivation Push",
@@ -373,15 +427,6 @@
    "cat": "world"
   },
   {
-   "title": "Cong calls Rahul's 'Sitarama' misspelling in Tata post 'typo marketing', mocks BJP",
-   "link": "https://timesofindia.indiatimes.com/india/congress-calls-rahul-gandhis-sitharama-misspelling-in-tata-post-typo-marketing-mocks-bjp/articleshow/135295965.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T07:45:10+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
    "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
    "desc": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
@@ -389,15 +434,6 @@
    "date": "2026-10-29T07:35:45+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "TVK leader Christopher arrested for 'sexually harassing' college student",
-   "link": "https://timesofindia.indiatimes.com/city/chennai/tvk-leader-christopher-arrested-for-sexually-harassing-college-student-after-offering-lift/articleshow/135295011.cms",
-   "desc": "In Kanyakumari, a member of the Tamilaga Vettri Kazhagam has been arrested for allegedly sexually harassing a college student. The student accepted a ride home, and after dropping off a friend, the accused reportedly mad",
-   "image": "",
-   "date": "2026-10-29T07:27:19+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "California couple wins garden rights after neighbour’s 1955 deal for $250",
@@ -452,6 +488,15 @@
    "date": "2026-10-29T06:03:35+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Meet the Welsh teenager hoping to beat Littler",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxlrwn27eyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Makinley Cooper-Johnson is aiming to bury Luke Littler on the darts stage and use the prize money to become an undertaker.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add3/live/49f4d550-d307-11f1-ad4f-5d2bbacf0caf.jpg",
+   "date": "2026-10-29T05:29:17+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Your blood pressure could be dangerous even when your numbers look normal",
@@ -562,15 +607,6 @@
    "cat": "business"
   },
   {
-   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-   "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
-   "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
-   "image": "",
-   "date": "2026-10-28T23:53:58+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "How unbeaten Chelsea are getting back to their best",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
    "desc": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
@@ -623,15 +659,6 @@
    "date": "2026-10-28T23:05:39+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
-   "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
-   "desc": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
-   "image": "",
-   "date": "2026-10-28T23:00:27+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
@@ -785,15 +812,6 @@
    "date": "2026-10-28T21:06:37+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Chelsea continue unbeaten start with win over Roma",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
-   "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T20:36:25+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Creating AI value with enterprise context",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T15:00:00+00:00",
    "source": "TechCrunch AI",
    "cat": "ai"
-  },
-  {
-   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-   "desc": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from ",
-   "image": "",
-   "date": "2026-10-28T14:44:00+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Scientists discover a hidden reason why muscles weaken with age",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
-   "desc": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented ",
-   "image": "",
-   "date": "2026-10-28T13:04:55+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
