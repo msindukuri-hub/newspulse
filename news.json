@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-28T23:30:25.155976+00:00",
+ "generated_at": "2026-10-29T00:00:29.942299+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+   "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+   "desc": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
+   "image": "",
+   "date": "2026-10-28T23:38:00+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Arab parties claim kingmaker status in Israel elections",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/arab-parties-claim-kingmaker-status-in-israel/articleshow/135283765.cms",
+   "desc": "Joint list open to Eisenkot minority government; Ra'am's Abbas says 'everyone talking to us'",
+   "image": "",
+   "date": "2026-10-28T23:29:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Florida court reverses HOA auction cancellation made without hearing buyer",
+   "link": "https://timesofindia.indiatimes.com/world/us/florida-homeowners-property-was-sold-at-an-hoa-foreclosure-auction-in-2024-he-paid-the-debt-five-days-later-but-an-october-23-court-overturned-the-decision-to-cancel-the-sale-without-hearing-the-buyer/articleshow/135231598.cms",
+   "desc": "A Florida homeowner paid his outstanding homeowners' association fees five days after his property was sold at a foreclosure auction in October 2024. The sale was subsequently cancelled, but the winning bidder challenged",
+   "image": "",
+   "date": "2026-10-28T23:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -76,6 +103,15 @@
    "cat": "tech"
   },
   {
+   "title": "SC summons Sanjay Raut in contempt case",
+   "link": "https://timesofindia.indiatimes.com/india/sc-summons-sanjay-raut-in-contempt-case/articleshow/135283522.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T23:00:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
    "desc": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
@@ -121,15 +157,6 @@
    "cat": "business"
   },
   {
-   "title": "British historian donates 50 colonial-era Indian paintings to Tate",
-   "link": "https://timesofindia.indiatimes.com/world/uk/after-decades-collecting-artworks-from-colonial-era-india-british-historian-charles-greig-has-donated-50-paintings-and-watercolours-to-tate-including-rare-18th-century-portraits-a-public-display-is-planned-for-2028/articleshow/135268296.cms",
-   "desc": "In a remarkable gesture, Tate London has received a donation of 50 artworks from the British colonial era in India, showcasing the talents of both Indian and European artists. This diverse collection, meticulously curate",
-   "image": "",
-   "date": "2026-10-28T22:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
    "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
    "desc": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
@@ -137,24 +164,6 @@
    "date": "2026-10-28T22:27:00+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Texas barber, $100 short on rent, returns $128,514 found at ATM",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-barber-was-100-short-on-rent-when-he-spotted-a-bag-containing-128514-left-near-an-atm-newly-released-police-body-camera-footage-shows-how-he-contacted-officers-and-helped-return-the-cash/articleshow/135240900.cms",
-   "desc": "In Lewisville, Texas, a barber stumbled upon two bags at an ATM, one filled with an astonishing $128,514 in cash. Struggling with rent and financial issues, he made the commendable choice to report this to the authoritie",
-   "image": "",
-   "date": "2026-10-28T22:26:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Georgia court backs daughter as guardian of mother, 95, amid sibling dispute",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-95-year-old-georgia-mothers-three-children-fought-over-her-care-after-one-son-moved-assets-into-a-trust-and-blocked-his-sisters-visits-an-october-26-court-upheld-the-daughters-appointment-as-guardian/articleshow/135230872.cms",
-   "desc": "A dispute between three siblings over their 95-year-old mother's care reached the Georgia Court of Appeals after one son restricted his sister's visits and questions emerged over the handling of their mother's money. The",
-   "image": "",
-   "date": "2026-10-28T22:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "NDA wins 1 6 of 28 seats, Congress falters in MLC polls",
@@ -346,15 +355,6 @@
    "cat": "world"
   },
   {
-   "title": "California brothers face 35 felony charges each over unbuilt backyard homes",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2023-a-california-woman-paid-over-40000-for-a-backyard-home-that-was-never-built-two-brothers-behind-the-company-now-face-35-felony-charges-each-following-200-complaints-in-18-counties/articleshow/135229118.cms",
-   "desc": "A retired nurse in California paid more than $40,000 in 2023 for a backyard home that was never built. The company, Anchored Tiny Homes, later faced more than 200 complaints across 18 counties over unfinished projects an",
-   "image": "",
-   "date": "2026-10-28T21:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
    "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
@@ -526,15 +526,6 @@
    "cat": "tech"
   },
   {
-   "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
-   "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-   "desc": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
-   "image": "",
-   "date": "2026-10-28T20:00:44+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
    "desc": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
@@ -542,6 +533,15 @@
    "date": "2026-10-28T19:53:50+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "UK parliamentary group to raise persecution of Hindus in Pakistan with UK govt",
+   "link": "https://timesofindia.indiatimes.com/world/uk/uk-parliamentary-group-to-raise-persecution-of-hindus-in-pakistan-with-uk-govt/articleshow/135278420.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T19:52:32+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Djokovic celebrates 'big win' on return to Basel",
