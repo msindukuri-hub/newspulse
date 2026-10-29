@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-29T00:00:29.942299+00:00",
+ "generated_at": "2026-10-29T00:30:12.928846+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+   "desc": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg",
+   "date": "2026-10-29T00:17:48+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Spain train collision sparks protests, calls for transport minister’s resignation",
+   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-collision-sparks-protests-calls-for-transport-ministers-resignation/articleshow/135284503.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T00:13:54+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
+   "desc": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg",
+   "date": "2026-10-29T00:05:21+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+   "date": "2026-10-29T00:00:25+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
+   "date": "2026-10-29T00:00:15+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
   {
    "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
@@ -18,6 +63,24 @@
    "desc": "Joint list open to Eisenkot minority government; Ra'am's Abbas says 'everyone talking to us'",
    "image": "",
    "date": "2026-10-28T23:29:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Diver finds centuries-old three-legged iron cauldron in England's River Wear",
+   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-diver-searching-the-bottom-of-englands-river-wear-has-pulled-up-a-huge-three-legged-iron-cauldron-that-lay-hidden-underwater-for-hundreds-of-years-and-researchers-are-still-trying-to-work-out-how-it-got-there/articleshow/135270204.cms",
+   "desc": "An ancient iron cauldron, potentially from the medieval or Iron Age, was found submerged under water. Underwater archaeologist Gary Bankhead led a team of divers in this ambitious recovery mission. Experts are currently ",
+   "image": "",
+   "date": "2026-10-28T23:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Megan Fox's $5m Malibu home defects case reportedly settled for $100k in 2021",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2016-megan-fox-bought-a-3-3-million-malibu-home-then-sued-for-5-million-over-alleged-mold-and-other-defects-after-a-three-year-court-fight-she-reportedly-accepted-a-100000-settlement-in-2021/articleshow/135230816.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T23:27:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -103,15 +166,6 @@
    "cat": "tech"
   },
   {
-   "title": "SC summons Sanjay Raut in contempt case",
-   "link": "https://timesofindia.indiatimes.com/india/sc-summons-sanjay-raut-in-contempt-case/articleshow/135283522.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T23:00:09+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
    "desc": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
@@ -166,6 +220,15 @@
    "cat": "business"
   },
   {
+   "title": "Georgia court backs daughter as guardian of mother, 95, amid sibling dispute",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-95-year-old-georgia-mothers-three-children-fought-over-her-care-after-one-son-moved-assets-into-a-trust-and-blocked-his-sisters-visits-an-october-26-court-upheld-the-daughters-appointment-as-guardian/articleshow/135230872.cms",
+   "desc": "A dispute between three siblings over their 95-year-old mother's care reached the Georgia Court of Appeals after one son restricted his sister's visits and questions emerged over the handling of their mother's money. The",
+   "image": "",
+   "date": "2026-10-28T22:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "NDA wins 1 6 of 28 seats, Congress falters in MLC polls",
    "link": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/articleshow/135282065.cms",
    "desc": "",
@@ -182,15 +245,6 @@
    "date": "2026-10-28T22:19:57+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Rahul lashes out at government over Tatas, FM Nirmala Sitharaman hits back",
-   "link": "https://timesofindia.indiatimes.com/india/rahul-lashes-out-at-government-over-tatas-fm-nirmala-sitharaman-hits-back/articleshow/135280964.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T22:14:38+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
@@ -218,15 +272,6 @@
    "date": "2026-10-28T22:07:17+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "In SC, biological women oppose equal rights for transgender women",
-   "link": "https://timesofindia.indiatimes.com/india/in-sc-biological-women-oppose-equal-rights-for-transgender-women/articleshow/135280857.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T22:04:27+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
@@ -290,15 +335,6 @@
    "date": "2026-10-28T21:38:54+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Kompany discharged from hospital following collapse",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
-   "desc": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg",
-   "date": "2026-10-28T21:37:08+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Sancho rejects Getafe - Thursday's gossip",
@@ -427,7 +463,7 @@
    "cat": "ai"
   },
   {
-   "title": "Sensitive US tech to Pak could end up in third country: Rajnath warns Hegseth",
+   "title": "Sensitive US tech supplied to Pak could end up in third country: Rajnath warns Hegseth",
    "link": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms",
    "desc": "",
    "image": "",
@@ -533,15 +569,6 @@
    "date": "2026-10-28T19:53:50+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "UK parliamentary group to raise persecution of Hindus in Pakistan with UK govt",
-   "link": "https://timesofindia.indiatimes.com/world/uk/uk-parliamentary-group-to-raise-persecution-of-hindus-in-pakistan-with-uk-govt/articleshow/135278420.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T19:52:32+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Djokovic celebrates 'big win' on return to Basel",
@@ -1055,33 +1082,6 @@
    "date": "2026-10-28T11:27:30+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-   "desc": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the North",
-   "image": "",
-   "date": "2026-10-28T11:08:25+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "You may get the right to find out what your colleagues earn - here's why",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
-   "date": "2026-10-28T10:42:39+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
-   "date": "2026-10-28T10:31:22+00:00",
-   "source": "BBC News",
-   "cat": "world"
   }
  ]
 }
