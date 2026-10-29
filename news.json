@@ -1,8 +1,107 @@
 {
- "generated_at": "2026-10-29T12:02:47.239302+00:00",
+ "generated_at": "2026-10-29T12:30:17.104987+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "desc": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+   "image": "",
+   "date": "2026-10-29T12:28:55+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-29T12:27:31+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "DoorDash to acquire Instacart for $17 billion",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
+   "image": "",
+   "date": "2026-10-29T12:24:30+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Josh Inglis becomes first Australian cricketer to achieve this rare feat in all three formats",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sa-vs-aus-josh-inglis-becomes-first-australian-cricketer-to-achieve-this-rare-feat-in-all-three-formats/articleshow/135305352.cms",
+   "desc": "In a remarkable comeback to Test cricket, Josh Inglis achieved his second century, scoring 102 runs, as Australia triumphed with a total of 429 runs against South Africa. This impressive performance marked him as the fir",
+   "image": "",
+   "date": "2026-10-29T12:16:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+   "desc": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
+   "image": "",
+   "date": "2026-10-29T12:10:29+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+   "desc": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+   "image": "",
+   "date": "2026-10-29T12:09:47+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T12:09:14+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "IndiGo CEO says ‘no choice’ but to consider fare hikes as fuel costs surge",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/indigo-ceo-says-no-choice-but-to-consider-fare-hikes-as-fuel-costs-surge/articleshow/135307300.cms",
+   "desc": "IndiGo's CEO Willie Walsh has indicated that ticket prices may soon rise as the airline grapples with soaring fuel costs, which have climbed by 67.2 percent compared to last year. Despite facing substantial challenges, w",
+   "image": "",
+   "date": "2026-10-29T12:08:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+   "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+   "desc": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+   "image": "",
+   "date": "2026-10-29T12:06:03+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Kalshi valuation jumps to $40 billion in latest funding round",
+   "link": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+   "desc": "The prediction market platform one year ago was valued at $5 billion.",
+   "image": "",
+   "date": "2026-10-29T12:05:18+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Minnesota charges James O'Keefe, Cam Higby with 2 felonies over voting stunt",
+   "link": "https://timesofindia.indiatimes.com/world/us/minnesota-prosecutors-have-charged-conservative-activists-james-okeefe-and-cam-higby-with-two-felonies-after-an-undercover-voting-stunt-though-both-say-they-were-testing-election-rules-and-neither-cast-a-ballot/articleshow/135305104.cms",
+   "desc": "Two conservative activists, James O'Keefe and Cam Higby, have been charged with unlawful voting and identity theft in Minnesota after visiting polling stations and allegedly using other voters' identities during an under",
+   "image": "",
+   "date": "2026-10-29T12:04:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
    "link": "https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html",
@@ -13,13 +112,22 @@
    "cat": "business"
   },
   {
-   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-   "desc": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+   "title": "Texas court scraps $796,906 award in grandmother's diamond and cash dispute",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-texas-grandmothers-safe-deposit-box-sparked-a-family-fight-over-alleged-400000-cash-an-eight-carat-diamond-and-gold-coins-after-a-jury-awarded-her-niece-796906-an-october-27-appeals-court-overturned-it/articleshow/135301487.cms",
+   "desc": "A Texas grandmother's safe-deposit box became the centre of a family dispute after her death in 2019. Her grandson reported finding $16,000, while another family member claimed it contained $400,000, an eight-carat diamo",
    "image": "",
-   "date": "2026-10-29T11:59:27+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-29T12:00:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Meet Isaac Nelson, 13: Helps release 23,000 clams into Florida's coastal waters",
+   "link": "https://timesofindia.indiatimes.com/science/nature/meet-isaac-nelson-the-13-year-old-florida-boy-whose-ecoscouts-team-released-over-23000-native-clams-rescued-3000-mangrove-propagules-and-built-oyster-gardens-estimated-to-filter-250000-gallons-of-water-daily/articleshow/135303848.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T12:00:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "DoorDash is acquiring Instacart for around $17 billion",
@@ -36,15 +144,6 @@
    "desc": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
    "image": "",
    "date": "2026-10-29T11:56:23+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "DoorDash to acquire Instacart for $17 billion",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "image": "",
-   "date": "2026-10-29T11:54:29+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -72,15 +171,6 @@
    "desc": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
    "image": "",
    "date": "2026-10-29T11:44:57+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-   "desc": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
-   "image": "",
-   "date": "2026-10-29T11:43:26+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -139,24 +229,6 @@
    "cat": "world"
   },
   {
-   "title": "Trump moves to end H-1B visa deference: What it means for Indians",
-   "link": "https://timesofindia.indiatimes.com/world/us/trump-moves-to-end-h-1b-visa-deference-what-it-means-for-indians-stuck-in-the-green-card-backlog/articleshow/135302881.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T11:20:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-   "date": "2026-10-29T11:19:10+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
    "link": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
    "desc": "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
@@ -166,20 +238,11 @@
    "cat": "business"
   },
   {
-   "title": "Texas family faces losing 64-year home to road project, says offer $150k short",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-1962-the-willis-family-moved-onto-farmland-in-rowlett-texas-64-years-later-the-city-wants-their-four-generation-home-for-a-road-project-and-the-family-says-the-citys-offer-is-150000-short/articleshow/135300662.cms",
-   "desc": "The Willis family is facing a property dispute with the city of Rowlett, Texas over compensation issues. The city intends to acquire their family home for road improvement projects, offering $429,000 as compensation. The",
+   "title": "Saving for distant future is pointless due to AI-driven abundance: Elon Musk",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-to-everyone-saving-money-for-the-distant-future-is-pointless-the-reason-is-/articleshow/135303962.cms",
+   "desc": "Elon Musk has expressed his belief that artificial intelligence will create a future of abundance and wealth equality. He suggests that traditional currency will decline in relevance as production costs diminish due to r",
    "image": "",
-   "date": "2026-10-29T11:16:15+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Hyderabad developer relocates 800 mango trees for road instead of cutting them",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/a-hyderabad-developer-building-a-150-acre-residential-project-faced-losing-around-800-mango-trees-to-a-link-road-so-he-bought-another-plot-and-spent-six-to-eight-months-moving-the-trees-instead-of-cutting-them-down/articleshow/135302046.cms",
-   "desc": "Faced with the challenge of relocating 800 mango trees for a new road project in Hyderabad, Ashwin Rao opted for preservation instead of removal. With the Vata Foundation's expertise in translocating trees, including ban",
-   "image": "",
-   "date": "2026-10-29T11:15:00+00:00",
+   "date": "2026-10-29T11:15:44+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -220,15 +283,6 @@
    "cat": "sports"
   },
   {
-   "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-   "desc": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
-   "image": "",
-   "date": "2026-10-29T11:04:27+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Opinion: Opinion | Netanyahu May Have Found A Way To Lose - And Still Rule",
    "link": "https://www.ndtv.com/opinion/netanyahu-may-have-found-a-way-to-lose-and-still-rule-12253528#publisher=newsstand",
    "desc": "History often repeats itself in Israel, and you just can't write off Netanyahu.",
@@ -265,15 +319,6 @@
    "cat": "sports"
   },
   {
-   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-   "desc": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-   "image": "",
-   "date": "2026-10-29T11:00:02+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "2,000-year-old Vesuvius bread still shows 8 segments and baker's stamp",
    "link": "https://timesofindia.indiatimes.com/world/europe/when-mount-vesuvius-erupted-in-ad-79-a-round-loaf-of-bread-in-herculaneum-was-buried-under-volcanic-debris-it-was-found-carbonised-nearly-2000-years-later-still-showing-its-eight-segments-and-a-bakers-stamp/articleshow/135300020.cms",
    "desc": "A loaf of bread left inside an oven in Herculaneum during the AD 79 eruption of Mount Vesuvius was discovered carbonised during excavations in 1930. The nearly 2,000-year-old find offers a glimpse into ancient Roman food",
@@ -301,11 +346,11 @@
    "cat": "india"
   },
   {
-   "title": "Odisha homemaker farms 25-30 tonnes of fish yearly, earns Rs 7-10 lakh",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/a-homemaker-in-odisha-learned-to-raise-fish-in-cages-inside-the-hirakud-reservoir-within-three-years-sujata-bhuyan-was-producing-25-to-30-tonnes-a-year-and-earning-rs-7-lakh-to-rs-10-lakh/articleshow/135302153.cms",
-   "desc": "After observing the vast potential at Hirakud Reservoir, Sujata Bhuyan from Odisha transformed her life through fish farming. Engaging with the Fisheries Department for training, she turned her vision into reality, produ",
+   "title": "Elena Rybakina clinches year-end world No. 1 ranking for first time ahead of WTA Finals",
+   "link": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/elena-rybakina-clinches-year-end-world-no-1-ranking-for-first-time-ahead-of-wta-finals/articleshow/135301690.cms",
+   "desc": "Elena Rybakina has officially clinched the coveted year-end world No. 1 ranking after triumphing over Yulia Putintseva in Tokyo. This victory marks a significant milestone, solidifying her position at the top of women's ",
    "image": "",
-   "date": "2026-10-29T10:42:12+00:00",
+   "date": "2026-10-29T10:51:42+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -346,6 +391,15 @@
    "cat": "india"
   },
   {
+   "title": "'Hit phone on wall': SC wonders what's 'wrong' with victims of digital arrest",
+   "link": "https://timesofindia.indiatimes.com/india/act-as-protective-umbrella-sc-says-banks-must-compensate-digital-fraud-victims/articleshow/135301419.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T10:23:01+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Elon Musk's One-Word Response to Sundar Pichai's Post On New AI Model",
    "link": "https://www.ndtv.com/artificial-intelligence/elon-musk-calls-googles-new-gemini-4-carbon-ai-model-impressive-12253455#publisher=newsstand",
    "desc": "Google's latest AI model focuses on cybersecurity, with the company claiming major gains in finding software vulnerabilities and generating secure code.",
@@ -361,15 +415,6 @@
    "image": "https://c.ndtvimg.com/2026-10/cidnov0o_stock-market-bubble_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T10:17:26+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Russia drone hits 2 trains at busy Ukraine station, 13 killed",
-   "link": "https://timesofindia.indiatimes.com/world/europe/13-killed-as-russian-drone-hits-busy-train-platform-in-ukraines-dnipro/articleshow/135301097.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T10:15:51+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -397,15 +442,6 @@
    "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T10:11:09+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Anthropic hiring manager’s advice for young engineers scared of losing jobs to AI",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/claude-maker-anthropics-hiring-manager-has-a-message-for-young-engineers-scared-of-ai-taking-their-jobs-nobody-cares-what-you-think-but/articleshow/135300812.cms",
-   "desc": "Claude-maker Anthropic's engineering manager Felix Rieseberg has stopped giving coding interviews, saying Claude is now better at them. In a new blog post, he tells junior engineers worried about AI taking their jobs tha",
-   "image": "",
-   "date": "2026-10-29T10:10:22+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -454,15 +490,6 @@
    "cat": "ai"
   },
   {
-   "title": "From Hitler to India’s farmers: How Great Depression changed lives beyond US",
-   "link": "https://timesofindia.indiatimes.com/india/from-hitlers-rise-to-farmers-misery-in-india-how-the-great-depression-changed-lives-far-beyond-america/articleshow/135300062.cms",
-   "desc": "The October 1929 stock market crash in the United States ignited a global economic disaster that resulted in widespread unemployment and business closures. In Germany and India, the crisis led to heightened political unr",
-   "image": "",
-   "date": "2026-10-29T09:59:22+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "MLC polls: BJP wins big, but Congress & SP send a message from Nagpur, Varanasi",
    "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
    "desc": "While the BJP-led NDA won big in the MLC elections across four states, it suffered setbacks in two politically significant constituencies: Nagpur and Varanasi where the Congress and SP held their ground.",
@@ -472,15 +499,6 @@
    "cat": "india"
   },
   {
-   "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-   "desc": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-29T09:51:06+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "\"Worst Is Behind Us\": Quant's Sandeep Tandon On Indian Markets",
    "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-2026-worst-is-behind-us-quants-sandeep-tandon-on-indian-markets-12252118#publisher=newsstand",
    "desc": "Sandeep Tandon, Founder and Chief Investment Officer of Quant Mutual Fund.",
@@ -488,6 +506,15 @@
    "date": "2026-10-29T09:43:09+00:00",
    "source": "NDTV",
    "cat": "india"
+  },
+  {
+   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+   "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+   "desc": "The oil major hiked its share buyback program as geopolitical volatility and a refined products crunch drove energy and fuel prices sharply higher.",
+   "image": "",
+   "date": "2026-10-29T09:36:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
@@ -515,6 +542,15 @@
    "date": "2026-10-29T09:17:05+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "desc": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+   "image": "",
+   "date": "2026-10-29T09:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
@@ -578,15 +614,6 @@
    "date": "2026-10-29T07:54:33+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-   "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-   "desc": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
-   "image": "",
-   "date": "2026-10-29T07:35:45+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Weekly sports quiz: Which league are Fleetwood in?",
@@ -715,15 +742,6 @@
    "cat": "sports"
   },
   {
-   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-   "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
-   "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
-   "image": "",
-   "date": "2026-10-28T23:53:58+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "How unbeaten Chelsea are getting back to their best",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
    "desc": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
@@ -767,15 +785,6 @@
    "date": "2026-10-28T22:47:50+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-   "desc": "Any button that can be clicked can also be touched.",
-   "image": "",
-   "date": "2026-10-28T22:38:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Girl seriously injured in wolf attack at German wildlife park",
@@ -1073,15 +1082,6 @@
    "date": "2026-10-28T16:43:35+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Meta says it’ll probably delay its controversial new business terms again",
-   "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-   "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
-   "image": "",
-   "date": "2026-10-28T16:15:30+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
   }
  ]
 }
