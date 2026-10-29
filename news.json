@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-29T03:30:41.956349+00:00",
+ "generated_at": "2026-10-29T04:00:41.754311+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Your blood pressure could be dangerous even when your numbers look normal",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+   "desc": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open ",
+   "image": "",
+   "date": "2026-10-29T03:54:37+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Fuel costs jump from $1,800 to $8,000: Cruise ship residents forced ashore in Cambodia",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/iran-war-fallout-cruise-ship-carrying-permanent-residents-suspends-voyages-over-soaring-fuel-costs/articleshow/135288607.cms",
+   "desc": "Cruise ship Villa Vie Odyssey had to disembark its passengers in Cambodia due to soaring fuel expenses. The ship had operated for over two years, accommodating long-term residents on board. As fuel costs increased signif",
+   "image": "",
+   "date": "2026-10-29T03:43:10+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Scientists just broke a textbook rule of physics",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+   "desc": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overc",
+   "image": "",
+   "date": "2026-10-29T03:39:27+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
+  {
+   "title": "Neeraj Yadav death: Woman friend says she met him hours before he was found beside SUV",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/neeraj-yadav-death-woman-friend-says-she-met-para-athlete-hours-before-he-was-found-beside-suv/articleshow/135288116.cms",
+   "desc": "During inquiry, a woman who had brought Yadav to the hospital told police she had been friends with him since Dec 2025. According to her statement, she went to Sonipat on Oct 27 to meet Yadav and tell him she could no lo",
+   "image": "",
+   "date": "2026-10-29T03:28:14+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg",
+   "date": "2026-10-29T03:16:19+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Meteors don't just burn up. What really happens is far more violent",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+   "desc": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The disco",
+   "image": "",
+   "date": "2026-10-29T03:06:41+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
+  },
   {
    "title": "US-Japan's Joint Missiles Production Plan Against China's Aggression In Asia",
    "link": "https://www.ndtv.com/world-news/us-japans-joint-missiles-production-plan-against-chinas-aggression-in-asia-12251569#publisher=newsstand",
@@ -76,6 +130,24 @@
    "cat": "india"
   },
   {
+   "title": "Who is Manju Nautiyal? Pahadi housewife behind viral ‘Mari Murga Shikar’ song",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/who-is-manju-nautiyal-the-pahadi-housewife-whose-song-mari-murga-shikar-has-gone-viral-on-internet-as-the-ultimate-transition-song/articleshow/135286930.cms",
+   "desc": "Manju Nautiyal, an actress who hails from the picturesque Uttarakhand, captured the hearts of music lovers with her enchanting vocals after joining forces with rapper Badshah. Beginning her journey in 2018, she has since",
+   "image": "",
+   "date": "2026-10-29T02:45:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Sam Altman to MBA students: ‘Chronic disappointment’ that they chase old trends",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-is-unhappy-with-most-mba-students-that-he-calls-his-chronic-disappointment-says-they-always-want-to-go-do-the-thing-that-/articleshow/135287091.cms",
+   "desc": "Sam Altman, CEO of OpenAI, expressed disappointment that MBA graduates pursue outdated career paths instead of embracing AI. He emphasized that AI presents transformative opportunities for ambitious workers and entrepren",
+   "image": "",
+   "date": "2026-10-29T02:41:10+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "'Received No Message, Signed No Document': How PNB Customers In Greater Noida Lost Rs 35 Crore",
    "link": "https://www.ndtv.com/business-news/received-no-message-signed-no-document-how-pnb-customers-in-greater-noida-lost-rs-35-crore-12251478#publisher=newsstand",
    "desc": "Several bank employees, including the PNB branch manager, have been suspended.",
@@ -100,15 +172,6 @@
    "image": "https://c.ndtvimg.com/2026-10/8c7cubf8_israel_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T02:29:01+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Perfect pairing? Why India must stick with Abhishek Sharma and Vaibhav Sooryavanshi",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/perfect-pairing-why-india-must-stick-with-abhishek-sharma-and-vaibhav-sooryavanshi/articleshow/135286725.cms",
-   "desc": "While Abhishek’s century was the headline act, Sooryavanshi’s fearless approach set the tone. The pair raced to a stunning 133-run stand in just seven overs, blowing New Zealand away. The Abhishek-Sooryavanshi partnershi",
-   "image": "",
-   "date": "2026-10-29T02:27:01+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -157,30 +220,12 @@
    "cat": "business"
   },
   {
-   "title": "'From the river to the sea': Hundreds rally across Israel advocating Jewish-Arab gov",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/from-the-river-to-the-sea-hundreds-rally-across-israel-for-jewish-arab-government-as-election-count-continues/articleshow/135286444.cms",
-   "desc": "Around 300 demonstrators gathered in Jerusalem, Tel Aviv, and Haifa to demand a Jewish-Arab government. Protesters held signs advocating for freedom and inclusive governance, reflecting their unified call. The demonstrat",
-   "image": "",
-   "date": "2026-10-29T02:11:45+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark",
    "link": "https://www.ndtv.com/world-news/ndtv-world-summit-dont-touch-indian-products-nikhil-kamath-recalls-satya-nadella-remark-12229706#publisher=newsstand",
    "desc": "Nikhil Kamath recalled a conversation with Satya Nadella at NDTV World Summit 2026.",
    "image": "https://c.ndtvimg.com/2026-10/p13tpcsc_nikhil-kamath_625x300_24_October_26.jpeg",
    "date": "2026-10-29T02:09:37+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Delhi-NCR wakes up to rain; IMD issues yellow alert",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/imd-issues-yellow-alert-for-delhi-ncr-rain-thunderstorms-and-hailstorms-likely/articleshow/135286167.cms",
-   "desc": "A yellow alert has been issued for rain and thunderstorms in Delhi-NCR for Thursday and Friday. The IMD forecasts a generally cloudy sky with winds reaching 40-50 kmph during the morning. Light to moderate rainfall is ex",
-   "image": "",
-   "date": "2026-10-29T02:06:58+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -229,15 +274,6 @@
    "cat": "business"
   },
   {
-   "title": "Amazon layoffs hit devices and services unit, email cites ‘review of our structure’",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-layoffs-hit-devices-and-services-unit-companys-early-morning-email-to-laid-off-employees-says-a-thorough-review-of-our-/articleshow/135285564.cms",
-   "desc": "Amazon has confirmed plans to cut approximately 250 jobs in its devices and services division. These layoffs follow recent product launches, including new Kindle e-readers and tablet computers. This decision aims to impr",
-   "image": "",
-   "date": "2026-10-29T01:24:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Jantar Mantar to be prime venue for India Biennale",
    "link": "https://timesofindia.indiatimes.com/city/delhi/jantar-mantar-to-be-prime-venue-for-india-biennale/articleshow/135285391.cms",
    "desc": "India Biennale 2026 is set to occur from December 4 to March 21 across various monuments. Jantar Mantar will be used as a venue, marking its first major event since being designated a no protest zone. Nine countries have",
@@ -254,6 +290,15 @@
    "date": "2026-10-29T01:14:01+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+   "desc": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient v",
+   "image": "",
+   "date": "2026-10-29T01:13:05+00:00",
+   "source": "ScienceDaily",
+   "cat": "science"
   },
   {
    "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
@@ -524,15 +569,6 @@
    "date": "2026-10-28T21:24:41+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "California brothers face 35 felony charges each over unbuilt backyard homes",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2023-a-california-woman-paid-over-40000-for-a-backyard-home-that-was-never-built-two-brothers-behind-the-company-now-face-35-felony-charges-each-following-200-complaints-in-18-counties/articleshow/135229118.cms",
-   "desc": "A retired nurse in California paid more than $40,000 in 2023 for a backyard home that was never built. The company, Anchored Tiny Homes, later faced more than 200 complaints across 18 counties over unfinished projects an",
-   "image": "",
-   "date": "2026-10-28T21:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -886,6 +922,15 @@
    "cat": "business"
   },
   {
+   "title": "'Battle scars': Massive stitches on Capt Smit's head draw attention as UAE honours him",
+   "link": "https://timesofindia.indiatimes.com/india/battle-scars-massive-stitches-on-captain-smit-machchhar-head-draw-attention-as-uae-honours-hero-indian-pilot/articleshow/135273505.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T16:45:01+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
@@ -1030,15 +1075,6 @@
    "cat": "ai"
   },
   {
-   "title": "Scientists discover a hidden 100-million-year-old volcanic system",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-   "desc": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an an",
-   "image": "",
-   "date": "2026-10-28T12:00:17+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
    "title": "Pairing industrial AI autonomy and human control",
    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
    "desc": "",
@@ -1046,42 +1082,6 @@
    "date": "2026-10-28T12:00:00+00:00",
    "source": "MIT Tech Review",
    "cat": "ai"
-  },
-  {
-   "title": "Voters in Texas agree: They hate data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-   "desc": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's ",
-   "image": "",
-   "date": "2026-10-28T12:00:00+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Meta quietly launched an ‘AI pet journal’ app",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit",
-   "image": "",
-   "date": "2026-10-28T11:27:30+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-   "desc": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the North",
-   "image": "",
-   "date": "2026-10-28T11:08:25+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "You may get the right to find out what your colleagues earn - here's why",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-   "desc": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
-   "date": "2026-10-28T10:42:39+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   }
  ]
 }
