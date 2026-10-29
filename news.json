@@ -1,34 +1,151 @@
 {
- "generated_at": "2026-10-29T11:00:44.920874+00:00",
+ "generated_at": "2026-10-29T11:30:36.625353+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
+   "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+   "desc": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
+   "image": "",
+   "date": "2026-10-29T11:24:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "desc": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-29T11:22:18+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T11:19:10+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "Watch: Armenia parliament turns into boxing ring as MPs trade blows",
+   "link": "https://timesofindia.indiatimes.com/world/europe/chaos-on-camera-armenia-mps-trade-blows-as-parliament-erupts-into-mass-brawl/articleshow/135303894.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T11:18:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
+   "link": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+   "desc": "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
+   "image": "",
+   "date": "2026-10-29T11:16:52+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Texas family faces losing 64-year home to road project, says offer $150k short",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-1962-the-willis-family-moved-onto-farmland-in-rowlett-texas-64-years-later-the-city-wants-their-four-generation-home-for-a-road-project-and-the-family-says-the-citys-offer-is-150000-short/articleshow/135300662.cms",
+   "desc": "The Willis family is facing a property dispute with the city of Rowlett, Texas over compensation issues. The city intends to acquire their family home for road improvement projects, offering $429,000 as compensation. The",
+   "image": "",
+   "date": "2026-10-29T11:16:15+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "President of the European Central Bank Christine Lagarde to step down in February",
    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
    "desc": "",
    "image": "",
-   "date": "2026-10-29T10:59:20+00:00",
+   "date": "2026-10-29T11:15:40+00:00",
    "source": "CNBC",
    "cat": "business"
   },
   {
-   "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
+   "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
    "desc": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
    "image": "",
-   "date": "2026-10-29T10:56:02+00:00",
+   "date": "2026-10-29T11:13:06+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+   "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
+   "date": "2026-10-29T11:07:35+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "'Hungrier than ever' - Paul to return on 24 December",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
+   "desc": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9791/live/205f0810-d2f7-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-29T11:06:04+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
    "desc": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
    "image": "",
-   "date": "2026-10-29T10:44:00+00:00",
+   "date": "2026-10-29T11:04:27+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "China deploys over 50 vessels in western Pacific, raising alarm in Taiwan, Japan",
+   "link": "https://timesofindia.indiatimes.com/defence/international/china-deploys-over-50-vessels-in-western-pacific-raising-alarm-in-taiwan-japan-the-philippines/articleshow/135301675.cms",
+   "desc": "In a significant military maneuver, China has stationed over 50 naval vessels, including 34 warships and the aircraft carrier Liaoning, in key zones of the western Pacific. This show of force has raised alarms within Tai",
+   "image": "",
+   "date": "2026-10-29T11:00:57+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Sometimes managers need sacking for own good - Neville",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
+   "desc": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T11:00:53+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "It only takes one rumour: How a small trigger can lead to a deadly stampede",
+   "link": "https://timesofindia.indiatimes.com/india/it-only-takes-one-rumour-how-a-small-trigger-can-lead-to-a-deadly-stampede/articleshow/135302224.cms",
+   "desc": "On October 17, a tragic stampede in Kolkata claimed 19 lives during the Durga Puja celebrations. The incident was caused by overcrowding, panic, and a misleading announcement about structural failure. Experts emphasize t",
+   "image": "",
+   "date": "2026-10-29T11:00:28+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+   "desc": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+   "image": "",
+   "date": "2026-10-29T11:00:02+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "England boss McDermott urges patience in PNG points chase",
+   "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm8xz7we02dyo?at_medium=RSS&at_campaign=rss",
+   "desc": "England boss Brian McDermott has urged his players not to panic as they chase points against Papua New Guinea in Wollongong on Friday in a bid to keep alive their Rugby League World Cup hopes.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2b/live/196f62b0-d384-11f1-b5f4-fd541fd21001.jpg",
+   "date": "2026-10-29T10:57:31+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "13 Killed As Russian Drone Slams Into Ukraine Train Platform: Authorities",
@@ -67,15 +184,6 @@
    "cat": "india"
   },
   {
-   "title": "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda shows strength",
-   "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-   "desc": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
-   "image": "",
-   "date": "2026-10-29T10:31:13+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains",
    "link": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
    "desc": "Edward III of England enacted the Justice of Peace Act, which evolved over even centuries.",
@@ -85,20 +193,20 @@
    "cat": "india"
   },
   {
-   "title": "24 wins, 7 titles, 1 heartbreaking defeat: Wrestler Kalkal's winning streak ends",
-   "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/24-wins-seven-titles-one-heartbreaking-defeat-wrestler-sujeet-kalkals-winning-streak-ends/articleshow/135301096.cms",
-   "desc": "Sujeet Kalkal’s wait for a World Championships medal continued as the Indian wrestler suffered a heartbreaking defeat in the men’s 65kg quarterfinals on Thursday. Sujeet lost 3-3 on criteria to Tajikistan’s Abdulmazhid K",
-   "image": "",
-   "date": "2026-10-29T10:26:35+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "WhatsApp co-founder Jan Koum's $36m gift helps open new LA school campus",
    "link": "https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-jan-koum-donated-36-million-to-help-establish-a-los-angeles-school-campus-on-october-25-the-new-campus-opened-for-grades-912-bringing-the-schools-total-footprint-to-28-acres/articleshow/135295170.cms",
    "desc": "WhatsApp co-founder Jan Koum's $36 million donation has helped Milken Community School open a new campus in Bel Air, Los Angeles, for students in grades 9 to 12. Inaugurated on Sunday, the campus has expanded the school'",
    "image": "",
    "date": "2026-10-29T10:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Act as protective umbrella': SC says banks must compensate digital fraud victims",
+   "link": "https://timesofindia.indiatimes.com/india/act-as-protective-umbrella-sc-says-banks-must-compensate-digital-fraud-victims/articleshow/135301419.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T10:23:01+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -121,15 +229,6 @@
    "cat": "india"
   },
   {
-   "title": "Insurance firm denied Rs 5 lakh to sister after brother's death, Allahabad HC overrules",
-   "link": "https://timesofindia.indiatimes.com/legal/news/brother-dies-in-a-road-accident-in-2019-leaving-his-unmarried-sister-dependent-on-him-insurer-refuses-rs-5-lakh-death-benefit-because-sisters-are-not-listed-but-allahabad-hc-orders-payment-to-her-as-legal-heir/articleshow/135300980.cms",
-   "desc": "The Allahabad high court has made a significant decision by siding with an unmarried sister in an insurance claim case, ordering Oriental Insurance Company to pay her Rs 5 lakh after her brother's death. Initially denied",
-   "image": "",
-   "date": "2026-10-29T10:18:55+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Bubble Or Bargain: Have Stock Market Corrections Finally Made Valuations Fair?",
    "link": "https://www.ndtv.com/business-news/bubble-or-bargain-have-stock-market-corrections-made-share-prices-fair-12247058#publisher=newsstand",
    "desc": "Share Market Today: For long-term investors, the market is now closer to a bargain than a bubble.",
@@ -146,15 +245,6 @@
    "date": "2026-10-29T10:15:51+00:00",
    "source": "Times of India",
    "cat": "india"
-  },
-  {
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "desc": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-   "date": "2026-10-29T10:14:03+00:00",
-   "source": "BBC Business",
-   "cat": "business"
   },
   {
    "title": "India World-Class In Markets, But High On Compliance: SEBI Chief",
@@ -181,6 +271,15 @@
    "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T10:11:09+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Anthropic hiring manager’s advice for young engineers scared of losing jobs to AI",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/claude-maker-anthropics-hiring-manager-has-a-message-for-young-engineers-scared-of-ai-taking-their-jobs-nobody-cares-what-you-think-but/articleshow/135300812.cms",
+   "desc": "Claude-maker Anthropic's engineering manager Felix Rieseberg has stopped giving coding interviews, saying Claude is now better at them. In a new blog post, he tells junior engineers worried about AI taking their jobs tha",
+   "image": "",
+   "date": "2026-10-29T10:10:22+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -238,33 +337,6 @@
    "cat": "ai"
   },
   {
-   "title": "Big shake-up! MI confirm exits of three coaches, including Malinga",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-shake-up-before-ipl-2027-mumbai-indians-confirm-exits-of-three-coaches-including-lasith-malinga/articleshow/135299897.cms",
-   "desc": "Mumbai Indians have parted ways with coaches Lasith Malinga, Paras Mhambrey and Carl Hopkinson ahead of IPL 2027. Malinga contributed to four IPL titles, while Mhambrey helped develop the team’s bowling talent and Hopkin",
-   "image": "",
-   "date": "2026-10-29T09:53:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Spain train crash: Audio reveals chilling exchange before deadly collision",
-   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-crash-audio-reveals-chilling-exchange-between-operators-before-deadly-collision/articleshow/135299791.cms",
-   "desc": "According to the recordings published by Spanish outlets including El País and RTVE, a technical problem had disrupted the automatic signalling system, forcing trains on the affected stretch to stop. The system helps con",
-   "image": "",
-   "date": "2026-10-29T09:53:18+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Israel polls: Netanyahu cries foul; poll chief orders probe into 'foreign hand'",
-   "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-polls-poll-chief-orders-probe-into-foreign-interference-netanyahu-levels-big-charge-top-developments/articleshow/135299653.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T09:52:46+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "MLC polls: BJP wins big, but Congress & SP send a message from Nagpur, Varanasi",
    "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
    "desc": "While the BJP-led NDA won big in the MLC elections across four states, it suffered setbacks in two politically significant constituencies: Nagpur and Varanasi where the Congress and SP held their ground.",
@@ -308,15 +380,6 @@
    "date": "2026-10-29T09:39:28+00:00",
    "source": "NDTV",
    "cat": "india"
-  },
-  {
-   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-   "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-   "desc": "The oil major hiked its share buyback program as geopolitical volatility and a refined products crunch drove energy and fuel prices sharply higher.",
-   "image": "",
-   "date": "2026-10-29T09:36:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Israel Election Results Live: Israel Awaits Final Results As Netanyahu, Rivals Fall Short Of Majority",
@@ -373,15 +436,6 @@
    "cat": "world"
   },
   {
-   "title": "US declares national emergency to secure power grid; what it means for Americans",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-the-us-department-of-energy-announced-power-grid-emergency-in-13-states-government-declares-national-emergency-to-secure-bulk-power-system-what-it-is-and-what-it-means-for-americans/articleshow/135298581.cms",
-   "desc": "US government has declared a national emergency to address security risks posed by foreign-made electricity equipment. An executive order has been signed, allowing tighter restrictions on potentially dangerous foreign eq",
-   "image": "",
-   "date": "2026-10-29T09:05:47+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
    "desc": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
@@ -391,22 +445,13 @@
    "cat": "business"
   },
   {
-   "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-   "desc": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+   "title": "XUV700 booked in 2022, never delivered: Mahindra ordered to refund and pay Rs 62k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-customer-booked-a-mahindra-xuv700-in-2022-but-never-received-the-suv-four-years-later-a-consumer-commission-has-ordered-mahindra-and-its-dealer-to-refund-the-booking-amount-with-interest-and-pay-rs-62000/articleshow/135296096.cms",
+   "desc": "A consumer in Haryana sought redress after Mahindra & Mahindra failed to deliver a booked SUV. The booking was made in February 2022, but the vehicle was never delivered to the customer. The manufacturer and dealer provi",
    "image": "",
-   "date": "2026-10-29T08:54:59+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-   "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
-   "date": "2026-10-29T08:38:54+00:00",
-   "source": "BBC News",
-   "cat": "world"
+   "date": "2026-10-29T08:54:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
@@ -479,15 +524,6 @@
    "date": "2026-10-29T07:35:45+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "California couple wins garden rights after neighbour’s 1955 deal for $250",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-california-couple-bought-a-home-with-a-20-by-20-foot-garden-then-a-neighbour-claimed-the-land-a-1955-deal-involving-250-and-babysitting-helped-secure-their-exclusive-gardening-rights-in-an-october-26-ruling/articleshow/135292512.cms",
-   "desc": "A California couple who bought a home in 2019 found themselves in a legal battle after their neighbour claimed ownership of a 20-by-20-foot garden they believed was theirs. The dispute centred on a 1955 agreement involvi",
-   "image": "",
-   "date": "2026-10-29T07:25:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Weekly sports quiz: Which league are Fleetwood in?",
@@ -616,15 +652,6 @@
    "cat": "science"
   },
   {
-   "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-   "desc": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg",
-   "date": "2026-10-29T00:17:48+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
    "desc": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
@@ -715,13 +742,13 @@
    "cat": "tech"
   },
   {
-   "title": "Fleetwood to face Everton or Newcastle in last eight",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
-   "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg",
-   "date": "2026-10-28T22:45:35+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
+   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+   "desc": "Any button that can be clicked can also be touched.",
+   "image": "",
+   "date": "2026-10-28T22:38:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
@@ -731,15 +758,6 @@
    "date": "2026-10-28T22:23:10+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Russo scores hat-trick as Arsenal beat Benfica",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
-   "desc": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e961/live/0fec4210-d31d-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-28T22:19:57+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Girl seriously injured in wolf attack at German wildlife park",
@@ -823,15 +841,6 @@
    "cat": "tech"
   },
   {
-   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-   "desc": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-   "image": "",
-   "date": "2026-10-28T21:06:37+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Creating AI value with enterprise context",
    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
    "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i",
@@ -839,15 +848,6 @@
    "date": "2026-10-28T20:32:02+00:00",
    "source": "MIT Tech Review",
    "cat": "ai"
-  },
-  {
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-   "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T20:24:39+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Google says its investments in AI are driving more searches",
