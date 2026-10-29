@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-29T08:30:11.764775+00:00",
+ "generated_at": "2026-10-29T09:00:17.640841+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+   "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+   "desc": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
+   "image": "",
+   "date": "2026-10-29T08:46:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Decoys, secret jet and Trump's help: How Bolsonaro pulled off his escape to US",
+   "link": "https://timesofindia.indiatimes.com/world/us/decoys-secret-jet-and-trumps-help-how-bolsonaro-pulled-off-his-escape-from-brazil-to-us/articleshow/135297514.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T08:34:37+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Judge rejects Richard Sacklers' bid to save mansion tied to $7.4B opioid deal",
+   "link": "https://timesofindia.indiatimes.com/world/us/richard-sackler-and-his-wife-tried-to-stop-the-sale-of-their-connecticut-mansion-pledged-toward-purdue-pharmas-7-4-billion-opioid-settlement-on-october-28-a-bankruptcy-judge-rejected-both-requests/articleshow/135295894.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T08:30:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Appeals court backs Prairie Lake access, overturns $148K trespass award",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-lake-boundary-battle-dating-to-2017-takes-a-new-turn-as-an-appeals-court-backs-a-trusts-access-to-prairie-lake-and-upholds-a-ruling-that-wiped-out-neighbours-earlier-148500-trespass-award/articleshow/135293812.cms",
+   "desc": "A nine-year property dispute over access to Minnesota's Prairie Lake has taken another turn after an appeals court upheld a ruling in favour of the Blackwood Trust. The Monday decision confirms the trust's direct access ",
+   "image": "",
+   "date": "2026-10-29T08:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "6 dead in MP: 2 sisters, one 8 months pregnant, and 4 children found in separate wells",
+   "link": "https://timesofindia.indiatimes.com/city/bhopal/6-dead-in-mp-2-sisters-one-8-months-pregnant-and-4-children-found-in-separate-wells/articleshow/135293334.cms",
+   "desc": "Two sisters from Madhya Pradesh committed suicide by jumping into wells with their children on Wednesday. Anjali Rawat, who was eight months pregnant, took her son Prashant with her while Sita Rawat jumped with her three",
+   "image": "",
+   "date": "2026-10-29T08:23:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Do Dundee United have Scotland's best midfield three?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
+   "desc": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0205/live/a303f5c0-d331-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-29T08:21:35+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
   {
    "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
    "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
@@ -11,15 +65,6 @@
    "date": "2026-10-29T08:07:22+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-   "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T08:00:15+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Wales make five changes as Lynn rewards bench",
@@ -47,6 +92,15 @@
    "date": "2026-10-29T07:54:33+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "69-year-old writes 5,000+ free petitions since 1995, spends Rs 300 daily",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-kannan-ramakrishnan-the-69-year-old-tamil-nadu-man-who-has-written-over-5000-petitions-since-1995-spends-rs-300-daily-from-his-pocket-and-helps-people-seek-justice-for-free/articleshow/135295338.cms",
+   "desc": "Kannan N Ramakrishnan, who has been assisting people with grievances for nearly three decades, remains dedicated to public service. He transforms individuals' concerns into written petitions to present to government offi",
+   "image": "",
+   "date": "2026-10-29T07:50:04+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Tendulkar over Inzamam, Kohli over Babar, Dhoni over Miandad: Waqar makes bold picks",
@@ -85,6 +139,15 @@
    "cat": "india"
   },
   {
+   "title": "Common anti-inflammatory drugs may help flu, COVID viruses spread: study",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/common-anti-inflammatory-drugs-may-help-covid-19-and-flu-viruses-spread-in-the-body-scientists-warn-that-some-medications-could-weaken-key-immune-responses-and-potentially-worsen-viral-infections/articleshow/135295244.cms",
+   "desc": "Researchers at the Norwegian University of Science and Technology have found that JAK inhibitors may weaken the body's defenses. These drugs can increase vulnerability to viral infections, such as COVID-19 and influenza.",
+   "image": "",
+   "date": "2026-10-29T07:39:36+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
    "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
    "desc": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
@@ -92,15 +155,6 @@
    "date": "2026-10-29T07:35:45+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Florida appeals court backs Miami woman in 12-year fight over home damage",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2014-demolition-work-next-door-damaged-a-miami-womans-home-but-her-insurer-said-the-policy-excluded-the-loss-12-years-later-a-florida-appeals-court-upheld-her-victory-over-the-insurer/articleshow/135294404.cms",
-   "desc": "In Florida, Sandra Moise faced significant challenges when her home was damaged due to vibrations from nearby demolition activities. Initially, her insurance provider, Homeowners Choice, denied her claim citing policy ex",
-   "image": "",
-   "date": "2026-10-29T07:28:55+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "TVK leader Christopher arrested for 'sexually harassing' college student",
@@ -121,24 +175,6 @@
    "cat": "india"
   },
   {
-   "title": "Deaf children exposed to sign language from birth match hearing peers in early maths",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/researchers-studying-deaf-children-aged-3-to-7-found-those-exposed-to-sign-language-from-birth-performed-comparably-in-early-maths-to-hearing-children-who-learnt-spoken-language-from-birth/articleshow/135293734.cms",
-   "desc": "A new study indicates that early access to language is crucial for children's understanding of numbers. Deaf children with exposure to sign language from birth perform similarly to hearing children learning spoken langua",
-   "image": "",
-   "date": "2026-10-29T07:12:48+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Paralysed at 18, Esme Gummer, 35, ran 5,000 km in 99 days",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/at-18-esme-gummer-was-paralysed-after-surgery-and-told-she-might-never-walk-again-at-35-she-has-run-5000-km-in-99-days-hosted-a-record-76-running-clubs-and-involved-6684-people/articleshow/135294989.cms",
-   "desc": "Esmée Gummer was left paralysed from the waist down after a surgery at the age of 18. She gradually learned to walk again, which later led her to discover a passion for running. Gummer completed a 5,000-km journey across",
-   "image": "",
-   "date": "2026-10-29T07:11:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Tencent, Visa deepen payments push in China after regulatory green light",
    "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
    "desc": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
@@ -146,15 +182,6 @@
    "date": "2026-10-29T07:01:50+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Forces fortify key Arunachal bridge to fight dam objectors",
-   "link": "https://timesofindia.indiatimes.com/india/forces-fortify-key-arunachal-bridge-to-fight-dam-objectors/articleshow/135293686.cms",
-   "desc": "Protests against the dam at the Dite-Dime bridge have prompted a strong response from law enforcement. The Central Armed Police Forces have been deployed to ensure order in the affected districts. Recent confrontations d",
-   "image": "",
-   "date": "2026-10-29T06:53:45+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Weekly sports quiz: Which league are Fleetwood in?",
@@ -181,6 +208,15 @@
    "image": "https://c.ndtvimg.com/2026-10/upk9djns_ghaziabad-murder_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T06:36:15+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Why Nike stayed away from the IPL for 18 years, and what brings it back",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/nikes-mumbai-indians-deal-a-statement-of-intent-in-indias-growing-sports-market/articleshow/135292351.cms",
+   "desc": "Nike has entered into a multi-year partnership with Mumbai Indians to supply kits from 2027. This partnership marks Nike's return to the IPL after almost two decades. The new gear will be presented to MI's teams ahead of",
+   "image": "",
+   "date": "2026-10-29T06:32:23+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -220,15 +256,6 @@
    "cat": "india"
   },
   {
-   "title": "'Better late than never': Why did F1 leave India, and why is it back on the agenda?",
-   "link": "https://timesofindia.indiatimes.com/sports/racing/top-stories/better-late-than-never-why-did-f1-leave-india-and-why-is-it-back-on-the-agenda/articleshow/135291659.cms",
-   "desc": "Tax disputes ended the Indian Grand Prix after three races. Thirteen years later, the government has put Formula 1 back on its agenda, with a task force examining the challenges that led to the sport’s exit, including ta",
-   "image": "",
-   "date": "2026-10-29T06:19:04+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "\"Won By Not Losing\": How Netanyahu Will Still Wield Power In Israel",
    "link": "https://www.ndtv.com/world-news/how-netanyahu-will-still-wield-power-in-israel-after-election-won-by-not-losing-12252257#publisher=newsstand",
    "desc": "Netanyahu's bloc lost seats and fell short of the 61 needed to govern alone.",
@@ -244,15 +271,6 @@
    "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T06:13:17+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'Don't worry about lathis': Rahul calls on people to join INDIA bloc's 'Delhi chalo' march",
-   "link": "https://timesofindia.indiatimes.com/india/dont-worry-about-lathis-rahul-calls-on-people-to-join-india-blocs-delhi-chalo-march/articleshow/135292996.cms",
-   "desc": "Rahul Gandhi invited everyone to partake in the upcoming Chalo Delhi march at Ramlila Maidan. This initiative seeks to challenge purported electoral malfeasance and uphold democratic integrity. He stated the march embodi",
-   "image": "",
-   "date": "2026-10-29T06:08:44+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -316,15 +334,6 @@
    "image": "https://c.ndtvimg.com/2026-10/mjd0vdjo_missing-indian-_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T05:36:14+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "No UP govt jobs for those involved in violent activities seeking ‘regime change’",
-   "link": "https://timesofindia.indiatimes.com/city/lucknow/no-up-govt-jobs-for-those-involved-in-violent-activities-seeking-regime-change/articleshow/135291354.cms",
-   "desc": "The Uttar Pradesh government has updated its character verification rules for selected candidates in direct recruitment. Candidates involved in violent activities aiming for regime change could be denied government jobs.",
-   "image": "",
-   "date": "2026-10-29T05:29:25+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -938,15 +947,6 @@
    "date": "2026-10-28T17:47:37+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Labuschagne's form hits record low but Australia hint at future",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-28T17:33:41+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Apple launches its new touchscreen MacBook Pro",
