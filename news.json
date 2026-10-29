@@ -1,12 +1,84 @@
 {
- "generated_at": "2026-10-29T02:00:30.877873+00:00",
+ "generated_at": "2026-10-29T02:30:19.622633+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
+   "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+   "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+   "desc": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin",
+   "image": "",
+   "date": "2026-10-29T02:22:46+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "3 Wall Street firms agree to pay up to $100,000 a month to get Trump’s posts faster",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/3-wall-street-firms-agree-to-pay-up-to-100000-a-month-to-get-trumps-posts-faster-how-it-works/articleshow/135286328.cms",
+   "desc": "Donald Trump's Truth API, a subscription-based social media service, is attracting a diverse clientele, including Bloomberg and various trading firms, by offering rapid access to his posts. This service's growing popular",
+   "image": "",
+   "date": "2026-10-29T02:14:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+   "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+   "desc": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+   "image": "",
+   "date": "2026-10-29T02:14:14+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "'From the river to the sea': Hundreds rally across Israel advocating Jewish-Arab gov",
+   "link": "https://timesofindia.indiatimes.com/world/middle-east/from-the-river-to-the-sea-hundreds-rally-across-israel-for-jewish-arab-government-as-election-count-continues/articleshow/135286444.cms",
+   "desc": "Around 300 demonstrators gathered in Jerusalem, Tel Aviv, and Haifa to demand a Jewish-Arab government. Protesters held signs advocating for freedom and inclusive governance, reflecting their unified call. The demonstrat",
+   "image": "",
+   "date": "2026-10-29T02:11:45+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Mystery surrounds deaths of Ayurveda hospital owner, son, daughter",
+   "link": "https://timesofindia.indiatimes.com/city/vadodara/mystery-surrounds-deaths-of-ayurveda-hospital-owner-son-daughter-no-sign-of-stress-she-spoke-of-expanding-hospital-days-ago/articleshow/135286050.cms",
+   "desc": "Aarti Soni, along with her children Nilkanth and Jainy, was found dead in their home. The domestic worker's concern led to the discovery of the bodies hanging from a ceiling fan. Investigators suspect the deaths occurred",
+   "image": "",
+   "date": "2026-10-29T02:10:25+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "IMD issues yellow alert for Delhi-NCR; rain, thunderstorms & hailstorms likely",
+   "link": "https://timesofindia.indiatimes.com/city/delhi/imd-issues-yellow-alert-for-delhi-ncr-rain-thunderstorms-and-hailstorms-likely/articleshow/135286167.cms",
+   "desc": "A yellow alert has been issued for rain and thunderstorms in Delhi-NCR for Thursday and Friday. The IMD forecasts a generally cloudy sky with winds reaching 40-50 kmph during the morning. Light to moderate rainfall is ex",
+   "image": "",
+   "date": "2026-10-29T02:06:58+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "desc": "Samsung Electronics reported third-quarter earnings on Thursday.",
+   "image": "",
+   "date": "2026-10-29T02:06:04+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Big setback for New Zealand! Star player ruled out of India T20I series",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/big-setback-for-new-zealand-star-player-ruled-out-of-india-t20i-series/articleshow/135286030.cms",
+   "desc": "Lockie Ferguson, New Zealand's fast bowler, is out of the ongoing T20I series against India due to a calf injury. With India already leading 3-0, the team has summoned Matt Fisher to enhance their bowling strength. Concu",
+   "image": "",
+   "date": "2026-10-29T02:04:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Spain train crash: How a system failure and red signal led to a deadly collision",
    "link": "https://timesofindia.indiatimes.com/world/europe/red-signal-system-failure-fatal-impact-how-spains-train-collision-unfolded/articleshow/135285991.cms",
-   "desc": "A high-speed train operated by Spain’s state-owned RENFE collided with a stationary IRYO train in Toledo, killing at least 64 people.",
+   "desc": "A high-speed train operated by Spain’s state-owned RENFE collided with a stationary IRYO train in Toledo, killing at least 68 people.",
    "image": "",
    "date": "2026-10-29T01:52:39+00:00",
    "source": "Times of India",
@@ -22,11 +94,11 @@
    "cat": "india"
   },
   {
-   "title": "‘Threatened and discriminated’: Sangakkara alleges discrimination by staff in Dublin",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/threatened-and-discriminated-kumar-sangakkara-alleges-discrimination-by-ryanair-staff-in-dublin/articleshow/135285688.cms",
-   "desc": "Kumar Sangakkara recently recounted a distressing experience involving alleged discrimination by Ryanair staff at Dublin airport. He found the encounter shocking and used social media to connect with others who faced sim",
+   "title": "In setback to BJP, Congress wins Nagpur MLC seat",
+   "link": "https://timesofindia.indiatimes.com/city/nagpur/after-a-nail-biting-contest-congress-candidate-abhijit-wanjari-wins-nagpur-seat/articleshow/135285750.cms",
+   "desc": "Abhijeet Wanjari from Congress has retained the Nagpur Division Graduates' constituency seat after a tight election. He defeated BJP's Sudhakar Kohale by 3,271 votes following over 40 hours of counting. Kohale initially ",
    "image": "",
-   "date": "2026-10-29T01:38:00+00:00",
+   "date": "2026-10-29T01:40:41+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -64,6 +136,15 @@
    "image": "https://c.ndtvimg.com/2026-10/53ta6rqs_india-eu_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T01:24:35+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Amazon layoffs hit devices and services unit, email cites ‘review of our structure’",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-layoffs-hit-devices-and-services-unit-companys-early-morning-email-to-laid-off-employees-says-a-thorough-review-of-our-/articleshow/135285564.cms",
+   "desc": "Amazon has confirmed plans to cut approximately 250 jobs in its devices and services division. These layoffs follow recent product launches, including new Kindle e-readers and tablet computers. This decision aims to impr",
+   "image": "",
+   "date": "2026-10-29T01:24:05+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -112,30 +193,12 @@
    "cat": "world"
   },
   {
-   "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-   "desc": "Samsung Electronics reported third-quarter earnings on Thursday.",
-   "image": "",
-   "date": "2026-10-29T01:13:47+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Spain Train Crash Highlights: Human 'Error' Behind Toledo Crash That Killed 68",
    "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
    "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
    "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T01:01:35+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "‘Vaibhav heads out’: Ashwin’s blunt call on Sooryavanshi if Ishan Kishan returns",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/vaibhav-heads-out-ashwins-blunt-call-on-sooryavanshi-if-ishan-kishan-returns/articleshow/135284857.cms",
-   "desc": "Ravichandran Ashwin has urged fans and experts to be patient with young player Vaibhav Sooryavanshi. He believes Sooryavanshi showcased his talent in the latest T20I match, contributing to India's successful chase. Meanw",
-   "image": "",
-   "date": "2026-10-29T00:49:28+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -247,15 +310,6 @@
    "cat": "tech"
   },
   {
-   "title": "On debut, Jio 2nd most valuable company, behind only parent Reliance Industries",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms",
-   "desc": "Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group ",
-   "image": "",
-   "date": "2026-10-28T23:10:34+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
    "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
    "desc": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
@@ -281,6 +335,15 @@
    "date": "2026-10-28T22:47:50+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Yet to test legality of logical discrepancy in SIR: Supreme Court",
+   "link": "https://timesofindia.indiatimes.com/india/yet-to-test-legality-of-logical-discrepancy-in-sir-supreme-court/articleshow/135283243.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T22:46:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Fleetwood to face Everton or Newcastle in last eight",
@@ -353,15 +416,6 @@
    "date": "2026-10-28T21:58:32+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Vance sends letter to Iran hard-liner in bid to revive peace talks as Trump threatens strikes",
-   "link": "https://timesofindia.indiatimes.com/world/us/vance-sends-letter-to-iran-hard-liner-in-bid-to-revive-peace-talks-as-trump-threatens-strikes-report/articleshow/135280661.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T21:57:46+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "A hacker stole more than 40,000 DHS employee records",
@@ -463,29 +517,11 @@
    "cat": "tech"
   },
   {
-   "title": "Bolsonaro declares himself Brazil’s ‘true president’, vows to lead opposition from US",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/flvio-bolsonaro-declares-himself-brazils-true-president-vows-to-lead-opposition-from-us/articleshow/135280305.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T21:10:19+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
    "desc": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
    "image": "",
    "date": "2026-10-28T21:06:37+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
-   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
-   "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts.",
-   "image": "",
-   "date": "2026-10-28T20:59:23+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -649,15 +685,6 @@
    "image": "",
    "date": "2026-10-28T19:19:58+00:00",
    "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "Hands-on with the new OLED iPad Mini",
-   "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-   "desc": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the op",
-   "image": "",
-   "date": "2026-10-28T19:18:58+00:00",
-   "source": "The Verge",
    "cat": "tech"
   },
   {
@@ -868,15 +895,6 @@
    "cat": "business"
   },
   {
-   "title": "'Battle scars': Massive stitches on Capt Smit's head draw attention as UAE honours him",
-   "link": "https://timesofindia.indiatimes.com/india/battle-scars-massive-stitches-on-captain-smit-machchhar-head-draw-attention-as-uae-honours-hero-indian-pilot/articleshow/135273505.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T16:45:01+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T12:00:00+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Meta quietly launched an ‘AI pet journal’ app",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "desc": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit",
-   "image": "",
-   "date": "2026-10-28T11:27:30+00:00",
-   "source": "The Verge AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-   "desc": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the North",
-   "image": "",
-   "date": "2026-10-28T11:08:25+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
   }
  ]
 }
