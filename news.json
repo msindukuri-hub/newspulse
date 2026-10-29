@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-10-29T04:30:12.185756+00:00",
+ "generated_at": "2026-10-29T05:03:18.023747+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+   "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+   "desc": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
+   "image": "",
+   "date": "2026-10-29T04:55:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Meet Seiji Iigaya, 14: Python violin study wins $3,500 national science award",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/meet-seiji-iigaya-14-from-new-jersey-used-python-to-model-100-violin-bow-string-contact-points-and-uncover-the-physics-of-expressive-playing-winning-a-3500-national-science-award/articleshow/135279704.cms",
+   "desc": "Seiji Iigaya, a 14-year-old violinist from New Jersey, won the First Place Science Award at a national contest. He conducted research on how bow movements impact the tone of violin strings. Using programming, he modeled ",
+   "image": "",
+   "date": "2026-10-29T04:34:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Florida climber rescued after 2 freezing nights on Mount Shasta, 60mph winds",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-39-year-old-florida-climber-spent-two-nights-in-freezing-conditions-after-falling-into-a-crevasse-on-californias-mount-shasta-with-helicopter-access-blocked-by-60-mph-winds-rescuers-reached-him-on-foot-and-carried-him-out/articleshow/135288394.cms",
+   "desc": "A 39-year-old man from Florida found himself in a perilous situation on Mount Shasta when his GPS misled him. After suffering a leg injury from falling into a crevasse while descending, he endured freezing conditions. Re",
+   "image": "",
+   "date": "2026-10-29T04:34:02+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Dallas Cowboys Cheerleaders owner sues My Chemical Romance over copied uniforms",
+   "link": "https://timesofindia.indiatimes.com/sports/nfl/news/dallas-cowboys-cheerleaders-brand-owner-seeks-an-injunction-against-my-chemical-romance-after-lookalike-dancers-appeared-in-a-staged-hollywood-bowl-gunfight/articleshow/135250429.cms",
+   "desc": "My Chemical Romance finds itself in a legal predicament with Pro Silver Star Ltd., which claims that the band’s dancers wore uniforms too similar to its trademarked designs during their Hollywood Bowl performance. Pro Si",
+   "image": "",
+   "date": "2026-10-29T04:33:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "MIT builds column-free, room-sized structure from folded aluminium panels",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/mit-researchers-folded-flat-aluminium-panels-into-a-room-sized-load-bearing-structure-without-interior-columns-lab-simulations-showed-greater-stiffness-while-using-roughly-two-thirds-as-much-material/articleshow/135264985.cms",
+   "desc": "Engineers at MIT have created a new construction method inspired by origami, utilizing folded aluminium sheets. This technique allows for the design of lightweight, rigid structures that bear loads efficiently without in",
+   "image": "",
+   "date": "2026-10-29T04:33:44+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+   "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+   "desc": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
+   "image": "",
+   "date": "2026-10-29T04:29:32+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "'Fadnavis forced to delete tweet': Congress after win in Nagpur MLC polls",
+   "link": "https://timesofindia.indiatimes.com/india/fadnavis-forced-to-delete-tweet-congress-takes-swipe-at-maharashtra-cm-after-win-in-nagpur-mlc-polls/articleshow/135289568.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T04:29:10+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Bank holiday on Karwa Chauth? Will banks be closed on Thursday",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-karwa-chauth-will-banks-be-closed-on-thursday/articleshow/135289459.cms",
+   "desc": "Banking services in various Indian states will face disruptions due to ongoing holidays and approaching regional festivities. Customers are encouraged to consult their local bank schedules for specific closure dates. Wit",
+   "image": "",
+   "date": "2026-10-29T04:28:43+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "US Judge Who Presided Over Trump, Maduro, 9/11 Cases, Dies At 92",
    "link": "https://www.ndtv.com/world-news/us-judge-alvin-k-hellerstein-who-presided-over-trump-maduro-9-11-cases-dies-at-92-12251825#publisher=newsstand",
@@ -10,15 +82,6 @@
    "image": "https://c.ndtvimg.com/2026-10/3dkbqr1k_us-judge_625x300_29_October_26.jpeg",
    "date": "2026-10-29T04:14:40+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "‘We have run down our stock of missiles’: Obama asks 'how is this war going' - watch",
-   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/we-have-run-down-our-stock-of-missiles-obama-asks-how-is-this-war-going-watch/articleshow/135289480.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T04:11:37+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -31,11 +94,11 @@
    "cat": "india"
   },
   {
-   "title": "Suspected ballistic missile launched from North Korea: Japan",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/suspected-ballistic-missile-launched-from-north-korea-japan/articleshow/135288990.cms",
+   "title": "'Never knew he was dangerous’: Rijiju reacts to Naseeruddin's 'deemagi naxal' post",
+   "link": "https://timesofindia.indiatimes.com/india/never-knew-he-was-dangerous-rijiju-on-naseeruddin-shah-after-he-calls-himself-dimagi-naxal/articleshow/135288724.cms",
    "desc": "",
    "image": "",
-   "date": "2026-10-29T04:00:52+00:00",
+   "date": "2026-10-29T04:09:36+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -193,15 +256,6 @@
    "cat": "india"
   },
   {
-   "title": "Who is Manju Nautiyal? Pahadi housewife behind viral ‘Mari Murga Shikar’ song",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/who-is-manju-nautiyal-the-pahadi-housewife-whose-song-mari-murga-shikar-has-gone-viral-on-internet-as-the-ultimate-transition-song/articleshow/135286930.cms",
-   "desc": "Manju Nautiyal, an actress who hails from the picturesque Uttarakhand, captured the hearts of music lovers with her enchanting vocals after joining forces with rapper Badshah. Beginning her journey in 2018, she has since",
-   "image": "",
-   "date": "2026-10-29T02:45:22+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Sam Altman to MBA students: ‘Chronic disappointment’ that they chase old trends",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-is-unhappy-with-most-mba-students-that-he-calls-his-chronic-disappointment-says-they-always-want-to-go-do-the-thing-that-/articleshow/135287091.cms",
    "desc": "Sam Altman, CEO of OpenAI, expressed disappointment that MBA graduates pursue outdated career paths instead of embracing AI. He emphasized that AI presents transformative opportunities for ambitious workers and entrepren",
@@ -247,15 +301,6 @@
    "cat": "tech"
   },
   {
-   "title": "Meet Bowen Wang: Seventh grader wins $3,500 for AI aftershock prediction too",
-   "link": "https://timesofindia.indiatimes.com/science/earth/meet-bowen-wang-the-san-carlos-seventh-grader-who-built-an-ai-tool-to-predict-earthquake-aftershocks-and-won-a-3500-first-place-national-technology-award/articleshow/135278996.cms",
-   "desc": "Bowen Wang, a 12-year-old student from California, has won a national technology prize for his innovative work. He created an artificial intelligence tool called Aftershock Oracle that forecasts earthquake aftershocks. T",
-   "image": "",
-   "date": "2026-10-29T02:20:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
    "desc": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
@@ -281,15 +326,6 @@
    "date": "2026-10-29T01:27:40+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Jantar Mantar to be prime venue for India Biennale",
-   "link": "https://timesofindia.indiatimes.com/city/delhi/jantar-mantar-to-be-prime-venue-for-india-biennale/articleshow/135285391.cms",
-   "desc": "India Biennale 2026 is set to occur from December 4 to March 21 across various monuments. Jantar Mantar will be used as a venue, marking its first major event since being designated a no protest zone. Nine countries have",
-   "image": "",
-   "date": "2026-10-29T01:19:31+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -328,6 +364,15 @@
    "cat": "business"
   },
   {
+   "title": "Spain train collision sparks protests demanding transport minister’s resignation",
+   "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-collision-sparks-protests-calls-for-transport-ministers-resignation/articleshow/135284503.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T00:13:54+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
    "desc": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
@@ -364,6 +409,15 @@
    "cat": "business"
   },
   {
+   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+   "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+   "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
+   "image": "",
+   "date": "2026-10-28T23:53:58+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
    "desc": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
@@ -380,15 +434,6 @@
    "date": "2026-10-28T23:17:33+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "image": "",
-   "date": "2026-10-28T23:17:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -470,15 +515,6 @@
    "date": "2026-10-28T22:19:57+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-   "desc": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
-   "image": "",
-   "date": "2026-10-28T22:12:28+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Girl seriously injured in wolf attack at German wildlife park",
@@ -731,15 +767,6 @@
    "date": "2026-10-28T20:01:00+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-   "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-   "desc": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
-   "image": "",
-   "date": "2026-10-28T19:53:50+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Djokovic celebrates 'big win' on return to Basel",
@@ -1055,33 +1082,6 @@
    "date": "2026-10-28T12:25:43+00:00",
    "source": "ScienceDaily",
    "cat": "science"
-  },
-  {
-   "title": "Scientists discover a secret glow in toxic fire salamanders",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
-   "desc": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in th",
-   "image": "",
-   "date": "2026-10-28T12:11:52+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "The Download: dead startups fueling AI and interspecies communication",
-   "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-   "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miske",
-   "image": "",
-   "date": "2026-10-28T12:10:00+00:00",
-   "source": "MIT Tech Review",
-   "cat": "ai"
-  },
-  {
-   "title": "Pairing industrial AI autonomy and human control",
-   "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T12:00:00+00:00",
-   "source": "MIT Tech Review",
-   "cat": "ai"
   }
  ]
 }
