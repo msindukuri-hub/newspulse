@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-29T08:00:14.747164+00:00",
+ "generated_at": "2026-10-29T08:30:11.764775+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "Brewers win first World Series in 57-year history",
-   "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
-   "desc": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg",
-   "date": "2026-10-29T07:56:38+00:00",
+   "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+   "desc": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg",
+   "date": "2026-10-29T08:07:22+00:00",
    "source": "BBC Sport",
    "cat": "sports"
   },
@@ -17,9 +17,27 @@
    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
    "desc": "",
    "image": "",
-   "date": "2026-10-29T07:55:21+00:00",
+   "date": "2026-10-29T08:00:15+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Wales make five changes as Lynn rewards bench",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b470/live/91591cd0-d2c6-11f1-8e79-5381b0a9d682.jpg",
+   "date": "2026-10-29T07:59:38+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Brewers win first World Series in 57-year history",
+   "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg",
+   "date": "2026-10-29T07:56:38+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
@@ -40,7 +58,7 @@
    "cat": "india"
   },
   {
-   "title": "Cong calls Rahul's 'Sitharama' misspelling in Tata post 'typo marketing', mocks BJP",
+   "title": "Cong calls Rahul's 'Sitarama' misspelling in Tata post 'typo marketing', mocks BJP",
    "link": "https://timesofindia.indiatimes.com/india/congress-calls-rahul-gandhis-sitharama-misspelling-in-tata-post-typo-marketing-mocks-bjp/articleshow/135295965.cms",
    "desc": "",
    "image": "",
@@ -49,13 +67,31 @@
    "cat": "india"
   },
   {
-   "title": "3 siblings found dead in flat near Mumbai; trio recorded video before deaths",
+   "title": "Pichai shares Google's Q3 numbers; while Musk says 'wow', Wall Street ‘not happy’",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-shares-googles-q3-numbers-shows-strong-growth-in-numbers-for-search-cloud-and-ai-models-while-elon-musk-says-wow-wall-street-not-happy/articleshow/135296018.cms",
+   "desc": "Google reported its Q3 2026 financial results, highlighting a 25% revenue growth and a run rate of half a trillion dollars. However, the company missed profit projections and experienced a stock decline of nearly 10%. Al",
+   "image": "",
+   "date": "2026-10-29T07:43:42+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "3 siblings found dead in flat near Mumbai; trio recorded video before tragedy",
    "link": "https://timesofindia.indiatimes.com/city/mumbai/3-siblings-found-dead-in-flat-near-mumbai-trio-recorded-video-before-deaths/articleshow/135295872.cms",
    "desc": "Three siblings were discovered dead in their Virar flat, believed to have died by suicide. They recorded a video mentioning their health issues and financial troubles prior to their deaths. Residents noticed a foul smell",
    "image": "",
    "date": "2026-10-29T07:41:50+00:00",
    "source": "Times of India",
    "cat": "india"
+  },
+  {
+   "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+   "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+   "desc": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+   "image": "",
+   "date": "2026-10-29T07:35:45+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "Florida appeals court backs Miami woman in 12-year fight over home damage",
@@ -67,7 +103,7 @@
    "cat": "india"
   },
   {
-   "title": "TVK leader Christopher arrested for sexually harassing college student after offering lift",
+   "title": "TVK leader Christopher arrested for 'sexually harassing' college student",
    "link": "https://timesofindia.indiatimes.com/city/chennai/tvk-leader-christopher-arrested-for-sexually-harassing-college-student-after-offering-lift/articleshow/135295011.cms",
    "desc": "In Kanyakumari, a member of the Tamilaga Vettri Kazhagam has been arrested for allegedly sexually harassing a college student. The student accepted a ride home, and after dropping off a friend, the accused reportedly mad",
    "image": "",
@@ -292,15 +328,6 @@
    "cat": "india"
   },
   {
-   "title": "Meet the Welsh teenager hoping to beat Littler",
-   "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxlrwn27eyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Makinley Cooper-Johnson is aiming to bury Luke Littler on the darts stage and use the prize money to become an undertaker.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add3/live/49f4d550-d307-11f1-ad4f-5d2bbacf0caf.jpg",
-   "date": "2026-10-29T05:29:17+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Observing Karwa Chauth For Another Man Is Mental Cruelty: Jaipur Court",
    "link": "https://www.ndtv.com/india-news/observing-karwa-chauth-for-another-man-is-mental-cruelty-jaipur-court-12252060#publisher=newsstand",
    "desc": "After considering the available evidence, the court granted the husband's petition. (AI-generated image)",
@@ -427,15 +454,6 @@
    "cat": "tech"
   },
   {
-   "title": "Nvidia CEO names 3 countries that are leading the world in tech & manufacturing",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-names-three-countries-that-are-leading-the-world-in-technology-and-manufacturing-and-tells-why-he-did-not-include-us-on-the-list/articleshow/135286716.cms",
-   "desc": "Nvidia's CEO Jensen Huang has praised Germany, Japan, and China as the frontrunners in manufacturing. He pointed out that China's rapid industrial advancement coincided with the emergence of computing technologies. Huang",
-   "image": "",
-   "date": "2026-10-29T02:22:08+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
    "desc": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
@@ -488,15 +506,6 @@
    "date": "2026-10-29T00:17:48+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-   "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-   "desc": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
-   "image": "",
-   "date": "2026-10-29T00:16:39+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
@@ -668,15 +677,6 @@
    "date": "2026-10-28T21:38:54+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Sancho rejects Getafe - Thursday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
-   "desc": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/a55976f0-d30f-11f1-93e1-3b657b665bcf.png",
-   "date": "2026-10-28T21:34:36+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
