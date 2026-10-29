@@ -1,19 +1,145 @@
 {
- "generated_at": "2026-10-29T10:30:13.517947+00:00",
+ "generated_at": "2026-10-29T11:00:44.920874+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
   {
-   "title": "President of the European Central Bank Christine Lagarde to stand down in February",
+   "title": "President of the European Central Bank Christine Lagarde to step down in February",
    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
    "desc": "",
    "image": "",
-   "date": "2026-10-29T10:27:20+00:00",
+   "date": "2026-10-29T10:59:20+00:00",
    "source": "CNBC",
    "cat": "business"
   },
   {
-   "title": "13 killed as Russian drone hits busy train platform in Ukraine’s Dnipro",
+   "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
+   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+   "desc": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+   "image": "",
+   "date": "2026-10-29T10:56:02+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
+   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+   "desc": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+   "image": "",
+   "date": "2026-10-29T10:44:00+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "13 Killed As Russian Drone Slams Into Ukraine Train Platform: Authorities",
+   "link": "https://www.ndtv.com/world-news/13-killed-as-russian-drone-slams-into-ukraine-train-platform-in-dnipro-authorities-12253365#publisher=newsstand",
+   "desc": "The Ukrainian Railways stated that the train was supposed to be heading forZaporizhzhia",
+   "image": "https://c.ndtvimg.com/2026-10/7gb73nvg_ukraine-station-attack-twitter_650x400_29_October_26.jpg",
+   "date": "2026-10-29T10:43:13+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Rybakina secures year-end number one ranking",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/c6x2qr1v11xyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Elena Rybakina secures the year-end women's singles number one spot by beating Yulia Putintseva in the last 16 of the Pan Pacific Open in Tokyo.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6601/live/33ab3620-d37c-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T10:38:08+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+   "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+   "desc": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
+   "image": "",
+   "date": "2026-10-29T10:33:14+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Opinion: Opinion | Netanyahu May Have Found A Way To Lose - And Still Rule",
+   "link": "https://www.ndtv.com/opinion/netanyahu-may-have-found-a-way-to-lose-and-still-rule-12253528#publisher=newsstand",
+   "desc": "",
+   "image": "https://c.ndtvimg.com/2025-11/0umj7758_benjamin-netanyahu-_625x300_24_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:31:32+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda shows strength",
+   "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+   "desc": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
+   "image": "",
+   "date": "2026-10-29T10:31:13+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains",
+   "link": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
+   "desc": "Edward III of England enacted the Justice of Peace Act, which evolved over even centuries.",
+   "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:27:11+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "24 wins, 7 titles, 1 heartbreaking defeat: Wrestler Kalkal's winning streak ends",
+   "link": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/24-wins-seven-titles-one-heartbreaking-defeat-wrestler-sujeet-kalkals-winning-streak-ends/articleshow/135301096.cms",
+   "desc": "Sujeet Kalkal’s wait for a World Championships medal continued as the Indian wrestler suffered a heartbreaking defeat in the men’s 65kg quarterfinals on Thursday. Sujeet lost 3-3 on criteria to Tajikistan’s Abdulmazhid K",
+   "image": "",
+   "date": "2026-10-29T10:26:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "WhatsApp co-founder Jan Koum's $36m gift helps open new LA school campus",
+   "link": "https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-jan-koum-donated-36-million-to-help-establish-a-los-angeles-school-campus-on-october-25-the-new-campus-opened-for-grades-912-bringing-the-schools-total-footprint-to-28-acres/articleshow/135295170.cms",
+   "desc": "WhatsApp co-founder Jan Koum's $36 million donation has helped Milken Community School open a new campus in Bel Air, Los Angeles, for students in grades 9 to 12. Inaugurated on Sunday, the campus has expanded the school'",
+   "image": "",
+   "date": "2026-10-29T10:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Richard Simmons' Hollywood Hills home sells for $3.8m after $6.99m listing",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/richard-simmons-lived-in-this-hollywood-hills-home-from-the-1980s-until-his-death-in-2024-the-estate-has-sold-for-3-8-million-after-initially-asking-6-99-million-new-owner-plans-to-restore-its-classic-roots/articleshow/135301249.cms",
+   "desc": "After a price cut from $6.99 million, Richard Simmons' Sunset Strip estate has sold for $3.827 million. Initially listed in June 2025, the Colonial-style house piqued interest but failed to secure deals until now. The ne",
+   "image": "",
+   "date": "2026-10-29T10:22:51+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Elon Musk's One-Word Response to Sundar Pichai's Post On New AI Model",
+   "link": "https://www.ndtv.com/artificial-intelligence/elon-musk-calls-googles-new-gemini-4-carbon-ai-model-impressive-12253455#publisher=newsstand",
+   "desc": "Google's latest AI model focuses on cybersecurity, with the company claiming major gains in finding software vulnerabilities and generating secure code.",
+   "image": "https://c.ndtvimg.com/2025-07/a7ubtq5o_musk-pichai_625x300_25_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:19:14+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Insurance firm denied Rs 5 lakh to sister after brother's death, Allahabad HC overrules",
+   "link": "https://timesofindia.indiatimes.com/legal/news/brother-dies-in-a-road-accident-in-2019-leaving-his-unmarried-sister-dependent-on-him-insurer-refuses-rs-5-lakh-death-benefit-because-sisters-are-not-listed-but-allahabad-hc-orders-payment-to-her-as-legal-heir/articleshow/135300980.cms",
+   "desc": "The Allahabad high court has made a significant decision by siding with an unmarried sister in an insurance claim case, ordering Oriental Insurance Company to pay her Rs 5 lakh after her brother's death. Initially denied",
+   "image": "",
+   "date": "2026-10-29T10:18:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Bubble Or Bargain: Have Stock Market Corrections Finally Made Valuations Fair?",
+   "link": "https://www.ndtv.com/business-news/bubble-or-bargain-have-stock-market-corrections-made-share-prices-fair-12247058#publisher=newsstand",
+   "desc": "Share Market Today: For long-term investors, the market is now closer to a bargain than a bubble.",
+   "image": "https://c.ndtvimg.com/2026-10/cidnov0o_stock-market-bubble_625x300_28_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:17:26+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Russia drone hits 2 trains at busy Ukraine station, 13 killed",
    "link": "https://timesofindia.indiatimes.com/world/europe/13-killed-as-russian-drone-hits-busy-train-platform-in-ukraines-dnipro/articleshow/135301097.cms",
    "desc": "",
    "image": "",
@@ -31,13 +157,58 @@
    "cat": "business"
   },
   {
-   "title": "Eli Lilly is about to report earnings. Here's what to expect",
-   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-   "desc": "Eli Lilly is slated to report third-quarter earnings and revenue, which will likely be fueled by its obesity drug Zepbound and diabetes counterpart Mounjaro.",
+   "title": "India World-Class In Markets, But High On Compliance: SEBI Chief",
+   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-direct-mutual-fund-plans-default-option-from-november-1-sebi-chief-tuhin-kanta-pandey-12252192#publisher=newsstand",
+   "desc": "Tuhin Kanta Pandey said that direct mutual fund plans would become the default option from November 1.",
+   "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:13:44+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "We urgently need to monitor AI agents’ actions in real time",
+   "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+   "desc": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
    "image": "",
-   "date": "2026-10-29T10:13:33+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-29T10:11:12+00:00",
+   "source": "MIT Tech Review",
+   "cat": "ai"
+  },
+  {
+   "title": "Direct Plans Will Be Default Option On Digital Platforms From November 1: SEBI Chief",
+   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-direct-plans-will-be-default-option-on-digital-platforms-from-november-1-sebi-chief-12249761#publisher=newsstand",
+   "desc": "Easy market access does not guarantee understanding, said SEBI chief Tuhin Kanta Pandey.",
+   "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:11:09+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Bihar woman loses son to electric shock, starts solar irrigation for 38 farmers",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/after-losing-her-son-to-an-electric-shock-on-the-family-farm-a-bihar-woman-invested-in-solar-irrigation-now-ladli-khatoon-supplies-water-to-35-to-38-farmers-and-has-earned-around-rs-1-lakh/articleshow/135297571.cms",
+   "desc": "Ladli Khatoon from Bahwanpur, Bihar, has transformed her family's tragedy into a solar irrigation venture. After losing her son, she discovered the risks of conventional irrigation methods and sought alternatives. Throug",
+   "image": "",
+   "date": "2026-10-29T10:04:02+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Stock Market Highlights, Sensex Today: Sensex Closes 905 Points Higher Amid Mixed Global Cues",
+   "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-29-october-us-iran-war-oil-price-12251496#publisher=newsstand",
+   "desc": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
+   "image": "https://c.ndtvimg.com/2026-10/8vc7632s_stock-market-live-unsplash_625x300_13_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T10:02:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Delhi Air Force Golf Course Shut, Air Chief's Farewell Cancelled Amid Land Row",
+   "link": "https://www.ndtv.com/india-news/delhi-air-force-golf-course-shut-air-chief-marshal-a-p-singhs-farewell-cancelled-amid-land-row-12253327#publisher=newsstand",
+   "desc": "The Centre has expedited the process to reclaim prime land parcels in the surrounding area.",
+   "image": "https://c.ndtvimg.com/2026-10/m1mh4tss_delhi-air-force-golf-course-_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T10:00:39+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "AI has come for Arizona’s water",
@@ -67,6 +238,15 @@
    "cat": "ai"
   },
   {
+   "title": "Big shake-up! MI confirm exits of three coaches, including Malinga",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/big-shake-up-before-ipl-2027-mumbai-indians-confirm-exits-of-three-coaches-including-lasith-malinga/articleshow/135299897.cms",
+   "desc": "Mumbai Indians have parted ways with coaches Lasith Malinga, Paras Mhambrey and Carl Hopkinson ahead of IPL 2027. Malinga contributed to four IPL titles, while Mhambrey helped develop the team’s bowling talent and Hopkin",
+   "image": "",
+   "date": "2026-10-29T09:53:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Spain train crash: Audio reveals chilling exchange before deadly collision",
    "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-crash-audio-reveals-chilling-exchange-between-operators-before-deadly-collision/articleshow/135299791.cms",
    "desc": "According to the recordings published by Spanish outlets including El País and RTVE, a technical problem had disrupted the automatic signalling system, forcing trains on the affected stretch to stop. The system helps con",
@@ -94,12 +274,30 @@
    "cat": "india"
   },
   {
+   "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+   "desc": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-29T09:51:06+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
    "title": "\"Worst Is Behind Us\": Quant's Sandeep Tandon On Indian Markets",
    "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-2026-worst-is-behind-us-quants-sandeep-tandon-on-indian-markets-12252118#publisher=newsstand",
    "desc": "Sandeep Tandon, Founder and Chief Investment Officer of Quant Mutual Fund.",
    "image": "https://c.ndtvimg.com/2026-10/plpana4o_sandeep-tandon_625x300_29_October_26.jpeg",
    "date": "2026-10-29T09:43:09+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Tea shop worker turned lawyer helps 30 tribal families, one lands govt job",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/a-tamil-nadu-lawyer-who-once-worked-in-a-tea-shop-helped-30-tribal-families-secure-long-delayed-certificates-in-2022-one-young-man-later-used-the-document-to-qualify-for-a-government-clerks-job/articleshow/135299619.cms",
+   "desc": "Advocate V Akathiyan made a significant visit to Vayaloor village to aid 30 tribal families in acquiring overdue caste certificates, essential for expanding educational and job prospects. One of the beneficiaries, M Mani",
+   "image": "",
+   "date": "2026-10-29T09:42:03+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -133,28 +331,10 @@
    "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
    "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19a/live/79bf7e60-d385-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-10-29T09:30:03+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "New Jersey court upholds dismissal of fight over pool 8 feet from bulkhead",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-new-jersey-homeowner-tried-to-stop-a-neighbours-plunge-pool-just-eight-feet-from-a-waterfront-bulkhead-claiming-it-could-worsen-flooding-an-october-26-appeals-court-upheld-dismissal-of-the-challenge/articleshow/135296121.cms",
-   "desc": "In Toms River, New Jersey, a family contested a neighbour's pool due to flooding fears. David Faloba represented his parents in challenging the project, citing environmental concerns. The court found the DEP had approved",
-   "image": "",
-   "date": "2026-10-29T09:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Newsom-linked SF cottage sells for $5.85m in 14 days, up from $2.8m in 2019",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/the-san-francisco-cottage-linked-to-gavin-newsoms-early-childhood-sold-for-2-8-million-in-2019-this-month-it-went-on-the-market-for-4-5-million-and-sold-in-just-14-days-for-5-85-million-more-than-double-its-price-seven-years-ago/articleshow/135297464.cms",
-   "desc": "A beautifully preserved redwood cottage in San Francisco, formerly owned by the family of Gavin Newsom, has recently fetched $5.85 million at sale. Initially on the market for $4.5 million, the residence located in Cole ",
-   "image": "",
-   "date": "2026-10-29T09:30:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "1 Ship, 6 Indians, 6 Months: Long Wait For Seafarers Stranded At Karachi Port",
@@ -163,15 +343,6 @@
    "image": "https://c.ndtvimg.com/2026-10/poo5b81c_seafarers-stranded-at-karachi-port-vineet-kishore-mishra_625x300_29_October_26.jpeg",
    "date": "2026-10-29T09:23:36+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Wife leaves at 5.17am, lover enters 3mins later: CCTV captures plot to kill husband",
-   "link": "https://timesofindia.indiatimes.com/city/ghaziabad/wife-leaves-at-5-17am-gym-trainer-enters-3-minutes-later-cctv-captures-plot-to-kill-ghaziabad-man-victim-survives/articleshow/135296663.cms",
-   "desc": "On October 26, a woman named Priya allegedly conspired with her gym trainer lover to stab her husband. CCTVs captured Priya leaving their home in Ghaziabad shortly before the attack occurred. The attack was brutal, happe",
-   "image": "",
-   "date": "2026-10-29T09:20:58+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -202,48 +373,12 @@
    "cat": "world"
   },
   {
-   "title": "Rain Forest, Glass Skywalk, Breeding Centre: PM Modi To Launch Key Projects During 2-Day Gujarat Visit",
-   "link": "https://www.ndtv.com/india-news/pm-modi-to-launch-3-key-banas-dairy-projects-worth-rs-407-crore-in-gujarat-12252832#publisher=newsstand",
-   "desc": "The facility was approved under the Animal Husbandry Infrastructure Development Fund scheme.",
-   "image": "https://c.ndtvimg.com/2026-10/n0vs6ca8_banas-dairy_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T09:15:23+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "PNB Rs 35 Crore Fraud: Take These 5 Steps If Money Disappears From Your Bank Account",
-   "link": "https://www.ndtv.com/business-news/pnb-bank-fraud-greater-noida-5-steps-savings-bank-account-cyber-fraud-12253029#publisher=newsstand",
-   "desc": "The first step is to alert the bank as soon as you notice a transaction you do not recognise.",
-   "image": "https://c.ndtvimg.com/2026-10/tqgui934_pnb-fraud_625x300_29_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T09:12:19+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
-   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-   "desc": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
-   "image": "",
-   "date": "2026-10-29T09:06:00+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "US declares national emergency to secure power grid; what it means for Americans",
    "link": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-the-us-department-of-energy-announced-power-grid-emergency-in-13-states-government-declares-national-emergency-to-secure-bulk-power-system-what-it-is-and-what-it-means-for-americans/articleshow/135298581.cms",
    "desc": "US government has declared a national emergency to address security risks posed by foreign-made electricity equipment. An executive order has been signed, allowing tighter restrictions on potentially dangerous foreign eq",
    "image": "",
    "date": "2026-10-29T09:05:47+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Cows Regarded As Mothers': 3 Men Caught With Beef Jailed For Life By Gujarat Court",
-   "link": "https://www.ndtv.com/india-news/cows-regarded-as-mothers-3-men-caught-with-beef-jailed-for-life-by-gujarat-court-citing-manusmriti-12253037#publisher=newsstand",
-   "desc": "The accused were identified as Wasim Qureshi, Mohammad Qureshi, and Ashfaq",
-   "image": "https://c.ndtvimg.com/2026-10/ospa6osk_gujarat-cow-slaughter-case_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T09:05:39+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -256,24 +391,6 @@
    "cat": "business"
   },
   {
-   "title": "China's secret space plane seen with attached module in rare US-released image",
-   "link": "https://timesofindia.indiatimes.com/science/space/chinas-secretive-space-plane-spotted-docked-to-another-spacecraft-in-orbit-us-military-intelligence-agency-releases-rare-image-revealing-a-new-detail-about-beijings-mysterious-space-programme/articleshow/135297112.cms",
-   "desc": "A US military intelligence agency has released a rare photograph of China's secretive Shenlong space plane, showing it attached to another spacecraft in orbit. Taken in May 2024 and made public in October 2026, the image",
-   "image": "",
-   "date": "2026-10-29T09:00:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Top US Military Planner Removed As Trump Plans Fresh Iran Strikes: Report",
-   "link": "https://www.ndtv.com/world-news/top-us-military-planner-brett-sylvia-removed-as-trump-plans-fresh-iran-strikes-report-12252996#publisher=newsstand",
-   "desc": "Hegseth said last month that he ordered the military to cut the overall number of top officers by 20%.",
-   "image": "https://c.ndtvimg.com/2026-10/s70cr27g_trump-reuters_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T08:57:07+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
    "desc": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
@@ -281,33 +398,6 @@
    "date": "2026-10-29T08:54:59+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "XUV700 booked in 2022, never delivered: Mahindra ordered to refund and pay Rs 62k",
-   "link": "https://timesofindia.indiatimes.com/legal/news/a-customer-booked-a-mahindra-xuv700-in-2022-but-never-received-the-suv-four-years-later-a-consumer-commission-has-ordered-mahindra-and-its-dealer-to-refund-the-booking-amount-with-interest-and-pay-rs-62000/articleshow/135296096.cms",
-   "desc": "A consumer in Haryana sought redress after Mahindra & Mahindra failed to deliver a booked SUV. The booking was made in February 2022, but the vehicle was never delivered to the customer. The manufacturer and dealer provi",
-   "image": "",
-   "date": "2026-10-29T08:54:11+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "10 Killed As Oxygen Cylinder Explodes Inside Ambulance In Pakistan",
-   "link": "https://www.ndtv.com/world-news/10-killed-as-oxygen-cylinder-explodes-inside-ambulance-in-pakistan-tharparkar-12252924#publisher=newsstand",
-   "desc": "Victims included staff at the medical facility, patients, and their relatives.",
-   "image": "https://c.ndtvimg.com/2026-10/ebqlmrlc_oxygen-cylinder-afp_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T08:41:08+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'Minister Of Death': Huge Anti-Government Protests In Spain After Train Crash Kill 68",
-   "link": "https://www.ndtv.com/world-news/criminals-down-huge-anti-government-protests-in-spain-after-train-crash-kill-68-12252846#publisher=newsstand",
-   "desc": "Spain's network of high-speed rail has been considered one of the nation's crowning achievements.",
-   "image": "https://c.ndtvimg.com/2026-10/e12l6rok_train_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T08:40:02+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
@@ -319,33 +409,6 @@
    "cat": "world"
   },
   {
-   "title": "Man, 31, Tied To Tree, Beaten To Death Over Love Affair In Gujarat",
-   "link": "https://www.ndtv.com/india-news/man-31-tied-to-tree-beaten-to-death-over-love-affair-in-gujarat-12252901#publisher=newsstand",
-   "desc": "Ranjeetji Chaturji Thakor was beaten to death in Gujarat",
-   "image": "https://c.ndtvimg.com/2026-10/qcmhjrd4_mehsana-_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T08:35:01+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Decoys, secret jet and Trump's help: How Bolsonaro pulled off his escape to US",
-   "link": "https://timesofindia.indiatimes.com/world/us/decoys-secret-jet-and-trumps-help-how-bolsonaro-pulled-off-his-escape-from-brazil-to-us/articleshow/135297514.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T08:34:37+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "‘He still has a lot to prove’: Waqar makes bold claim on Jasprit Bumrah",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/he-still-has-a-lot-to-prove-waqar-younis-makes-bold-claim-on-jasprit-bumrah/articleshow/135297163.cms",
-   "desc": "Waqar Younis praised Jasprit Bumrah’s remarkable skills in white-ball formats but raised questions about his Test career achievements. Although Bumrah maintains a solid Test record, concerns linger due to his limited app",
-   "image": "",
-   "date": "2026-10-29T08:32:53+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
    "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
    "desc": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
@@ -355,15 +418,6 @@
    "cat": "world"
   },
   {
-   "title": "Self-Declaration Form Row Erupts Amid Telangana's Paddy Cultivation Push",
-   "link": "https://www.ndtv.com/telangana-news/self-declaration-form-row-erupts-amid-telanganas-paddy-cultivation-push-12252536#publisher=newsstand",
-   "desc": "Telangana farmers dispute self-declaration forms amid water crisis fears and government appeals.",
-   "image": "https://c.ndtvimg.com/2021-07/42hcmrno_farmer-generic_650x400_05_July_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T08:22:11+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Do Dundee United have Scotland's best midfield three?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
    "desc": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland.",
@@ -371,15 +425,6 @@
    "date": "2026-10-29T08:21:35+00:00",
    "source": "BBC Sport",
    "cat": "sports"
-  },
-  {
-   "title": "'Don't Like To Be The Aunty Who Criticises': Radhika Gupta On Gen Z Investments",
-   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-dont-like-to-be-the-aunty-who-criticises-radhika-gupta-on-gen-z-investments-12252636#publisher=newsstand",
-   "desc": "Radhika Gupta advised young investors against checking their portfolios too frequently.",
-   "image": "https://c.ndtvimg.com/2026-10/bhm03pg4_radhika-gupta_625x300_29_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T08:20:16+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
@@ -490,15 +535,6 @@
    "cat": "business"
   },
   {
-   "title": "Meet the Welsh teenager hoping to beat Littler",
-   "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxlrwn27eyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Makinley Cooper-Johnson is aiming to bury Luke Littler on the darts stage and use the prize money to become an undertaker.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add3/live/49f4d550-d307-11f1-ad4f-5d2bbacf0caf.jpg",
-   "date": "2026-10-29T05:29:17+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Your blood pressure could be dangerous even when your numbers look normal",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
    "desc": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open ",
@@ -607,6 +643,15 @@
    "cat": "business"
   },
   {
+   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+   "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+   "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
+   "image": "",
+   "date": "2026-10-28T23:53:58+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "How unbeaten Chelsea are getting back to their best",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
    "desc": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
@@ -679,15 +724,6 @@
    "cat": "sports"
   },
   {
-   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-   "desc": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
-   "image": "",
-   "date": "2026-10-28T22:27:00+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
    "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
    "desc": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
@@ -742,15 +778,6 @@
    "cat": "tech"
   },
   {
-   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-   "desc": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
-   "image": "",
-   "date": "2026-10-28T21:42:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
    "desc": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
@@ -769,15 +796,6 @@
    "cat": "tech"
   },
   {
-   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-   "desc": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-   "image": "",
-   "date": "2026-10-28T21:31:46+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
    "desc": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q",
@@ -790,7 +808,7 @@
    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
    "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg",
    "date": "2026-10-28T21:16:30+00:00",
    "source": "BBC News",
    "cat": "world"
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T15:53:52+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "desc": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-   "image": "",
-   "date": "2026-10-28T15:41:18+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
-  },
-  {
-   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "desc": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
-   "image": "",
-   "date": "2026-10-28T15:00:00+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
   }
  ]
 }
