@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-29T00:30:12.928846+00:00",
+ "generated_at": "2026-10-29T01:00:17.410925+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "‘Vaibhav heads out’: Ashwin’s blunt call on Sooryavanshi if Ishan Kishan returns",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/vaibhav-heads-out-ashwins-blunt-call-on-sooryavanshi-if-ishan-kishan-returns/articleshow/135284857.cms",
+   "desc": "Ravichandran Ashwin has urged fans and experts to be patient with young player Vaibhav Sooryavanshi. He believes Sooryavanshi showcased his talent in the latest T20I match, contributing to India's successful chase. Meanw",
+   "image": "",
+   "date": "2026-10-29T00:49:28+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Guess how many seats Congress won: PM Modi",
+   "link": "https://timesofindia.indiatimes.com/india/guess-how-many-congress-won-pm-modi/articleshow/135284773.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T00:38:09+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "desc": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
+   "date": "2026-10-29T00:36:12+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
   {
    "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
@@ -13,6 +40,15 @@
    "cat": "sports"
   },
   {
+   "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+   "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+   "desc": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+   "image": "",
+   "date": "2026-10-29T00:16:39+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "Spain train collision sparks protests, calls for transport minister’s resignation",
    "link": "https://timesofindia.indiatimes.com/world/europe/spain-train-collision-sparks-protests-calls-for-transport-ministers-resignation/articleshow/135284503.cms",
    "desc": "",
@@ -20,6 +56,15 @@
    "date": "2026-10-29T00:13:54+00:00",
    "source": "Times of India",
    "cat": "india"
+  },
+  {
+   "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+   "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+   "desc": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+   "image": "",
+   "date": "2026-10-29T00:11:14+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
@@ -63,33 +108,6 @@
    "desc": "Joint list open to Eisenkot minority government; Ra'am's Abbas says 'everyone talking to us'",
    "image": "",
    "date": "2026-10-28T23:29:51+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Diver finds centuries-old three-legged iron cauldron in England's River Wear",
-   "link": "https://timesofindia.indiatimes.com/science/archaeology/a-diver-searching-the-bottom-of-englands-river-wear-has-pulled-up-a-huge-three-legged-iron-cauldron-that-lay-hidden-underwater-for-hundreds-of-years-and-researchers-are-still-trying-to-work-out-how-it-got-there/articleshow/135270204.cms",
-   "desc": "An ancient iron cauldron, potentially from the medieval or Iron Age, was found submerged under water. Underwater archaeologist Gary Bankhead led a team of divers in this ambitious recovery mission. Experts are currently ",
-   "image": "",
-   "date": "2026-10-28T23:29:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Megan Fox's $5m Malibu home defects case reportedly settled for $100k in 2021",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2016-megan-fox-bought-a-3-3-million-malibu-home-then-sued-for-5-million-over-alleged-mold-and-other-defects-after-a-three-year-court-fight-she-reportedly-accepted-a-100000-settlement-in-2021/articleshow/135230816.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T23:27:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Florida court reverses HOA auction cancellation made without hearing buyer",
-   "link": "https://timesofindia.indiatimes.com/world/us/florida-homeowners-property-was-sold-at-an-hoa-foreclosure-auction-in-2024-he-paid-the-debt-five-days-later-but-an-october-23-court-overturned-the-decision-to-cancel-the-sale-without-hearing-the-buyer/articleshow/135231598.cms",
-   "desc": "A Florida homeowner paid his outstanding homeowners' association fees five days after his property was sold at a foreclosure auction in October 2024. The sale was subsequently cancelled, but the winning bidder challenged",
-   "image": "",
-   "date": "2026-10-28T23:23:00+00:00",
    "source": "Times of India",
    "cat": "india"
   },
@@ -220,15 +238,6 @@
    "cat": "business"
   },
   {
-   "title": "Georgia court backs daughter as guardian of mother, 95, amid sibling dispute",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-95-year-old-georgia-mothers-three-children-fought-over-her-care-after-one-son-moved-assets-into-a-trust-and-blocked-his-sisters-visits-an-october-26-court-upheld-the-daughters-appointment-as-guardian/articleshow/135230872.cms",
-   "desc": "A dispute between three siblings over their 95-year-old mother's care reached the Georgia Court of Appeals after one son restricted his sister's visits and questions emerged over the handling of their mother's money. The",
-   "image": "",
-   "date": "2026-10-28T22:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "NDA wins 1 6 of 28 seats, Congress falters in MLC polls",
    "link": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/articleshow/135282065.cms",
    "desc": "",
@@ -245,6 +254,15 @@
    "date": "2026-10-28T22:19:57+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "Rahul lashes out at government over Tatas, FM Nirmala Sitharaman hits back",
+   "link": "https://timesofindia.indiatimes.com/india/rahul-lashes-out-at-government-over-tatas-fm-nirmala-sitharaman-hits-back/articleshow/135280964.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T22:14:38+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
@@ -274,13 +292,13 @@
    "cat": "business"
   },
   {
-   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-   "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-   "desc": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
+   "title": "In SC, biological women oppose equal rights for transgender women",
+   "link": "https://timesofindia.indiatimes.com/india/in-sc-biological-women-oppose-equal-rights-for-transgender-women/articleshow/135280857.cms",
+   "desc": "",
    "image": "",
-   "date": "2026-10-28T21:58:51+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-28T22:04:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -317,15 +335,6 @@
    "date": "2026-10-28T21:48:37+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-   "desc": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
-   "image": "",
-   "date": "2026-10-28T21:42:24+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "High-speed train crash kills at least 68 people in Spain",
@@ -965,15 +974,6 @@
    "date": "2026-10-28T14:53:29+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Dropbox layoffs: Co-CEO announces 9% job cuts in company memo",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/dropbox-layoffs-co-ceo-ashraf-alkarmi-sends-memo-to-employees-announcing-9-job-cuts-cto-ali-dasdan-to-leave/articleshow/135269701.cms",
-   "desc": "Dropbox has announced a significant reduction in its workforce, planning to eliminate approximately 9% of its positions as part of a strategic realignment of resources. This move is expected to result in severance expens",
-   "image": "",
-   "date": "2026-10-28T14:46:54+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
