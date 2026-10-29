@@ -1,8 +1,125 @@
 {
- "generated_at": "2026-10-29T11:30:36.625353+00:00",
+ "generated_at": "2026-10-29T12:02:47.239302+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
+   "link": "https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html",
+   "desc": "Warren asked the DOJ to disclose by Nov. 12 whether it has launched a criminal investigation into Bank of America after it admitted to violations.",
+   "image": "",
+   "date": "2026-10-29T12:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "desc": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+   "image": "",
+   "date": "2026-10-29T11:59:27+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "DoorDash is acquiring Instacart for around $17 billion",
+   "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+   "desc": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketp",
+   "image": "",
+   "date": "2026-10-29T11:56:35+00:00",
+   "source": "The Verge",
+   "cat": "tech"
+  },
+  {
+   "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+   "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+   "desc": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+   "image": "",
+   "date": "2026-10-29T11:56:23+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "DoorDash to acquire Instacart for $17 billion",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "image": "",
+   "date": "2026-10-29T11:54:29+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+   "date": "2026-10-29T11:52:55+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "‘Koi sharam hoti hai?’ Pak lawmaker mocks Khawaja Asif after Munir’s Iran visit",
+   "link": "https://timesofindia.indiatimes.com/world/pakistan/koi-sharam-hoti-hai-pak-lawmaker-mocks-khawaja-asif-after-munirs-iran-visit-watch/articleshow/135306597.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T11:50:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+   "desc": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+   "image": "",
+   "date": "2026-10-29T11:44:57+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+   "desc": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
+   "image": "",
+   "date": "2026-10-29T11:43:26+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Karnataka hikes milk prices by Rs 8 per litre from Nov 1",
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-hikes-milk-prices-by-rs-8-per-litre-from-nov-1-farmers-to-get-rs-7/articleshow/135305099.cms",
+   "desc": "The Karnataka Cabinet has sanctioned an increase in milk prices by Rs 8 per litre, set to commence on November 1. This adjustment will grant farmers an additional Rs 7 per litre, while cooperatives will benefit from Re 1",
+   "image": "",
+   "date": "2026-10-29T11:42:53+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
+   "date": "2026-10-29T11:34:03+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "1 House, 2 Brothers, 3 Buried Drums: UP Cops Unearth Cash Worth Crores",
+   "link": "https://www.ndtv.com/india-news/1-house-2-brothers-3-buried-drums-up-cops-unearth-cash-worth-crores-12253898#publisher=newsstand",
+   "desc": "Cops are now trying to trace the source of the money.",
+   "image": "https://c.ndtvimg.com/2026-10/qkfo607o_up-village-drum_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T11:30:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+   "desc": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-29T11:27:05+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
   {
    "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
    "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
@@ -22,6 +139,15 @@
    "cat": "world"
   },
   {
+   "title": "Trump moves to end H-1B visa deference: What it means for Indians",
+   "link": "https://timesofindia.indiatimes.com/world/us/trump-moves-to-end-h-1b-visa-deference-what-it-means-for-indians-stuck-in-the-green-card-backlog/articleshow/135302881.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T11:20:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Poundland's future hangs in the balance as chain edges towards collapse",
    "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
    "desc": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
@@ -29,15 +155,6 @@
    "date": "2026-10-29T11:19:10+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "Watch: Armenia parliament turns into boxing ring as MPs trade blows",
-   "link": "https://timesofindia.indiatimes.com/world/europe/chaos-on-camera-armenia-mps-trade-blows-as-parliament-erupts-into-mass-brawl/articleshow/135303894.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T11:18:20+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
@@ -58,22 +175,22 @@
    "cat": "india"
   },
   {
-   "title": "President of the European Central Bank Christine Lagarde to step down in February",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-   "desc": "",
+   "title": "Hyderabad developer relocates 800 mango trees for road instead of cutting them",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/a-hyderabad-developer-building-a-150-acre-residential-project-faced-losing-around-800-mango-trees-to-a-link-road-so-he-bought-another-plot-and-spent-six-to-eight-months-moving-the-trees-instead-of-cutting-them-down/articleshow/135302046.cms",
+   "desc": "Faced with the challenge of relocating 800 mango trees for a new road project in Hyderabad, Ashwin Rao opted for preservation instead of removal. With the Vata Foundation's expertise in translocating trees, including ban",
    "image": "",
-   "date": "2026-10-29T11:15:40+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "date": "2026-10-29T11:15:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
-   "title": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
-   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-   "desc": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
-   "image": "",
-   "date": "2026-10-29T11:13:06+00:00",
-   "source": "CNBC",
-   "cat": "business"
+   "title": "BJP Gains In Maharashtra MLC Polls, But Alliance Strength Tested To Its Limit",
+   "link": "https://www.ndtv.com/india-news/bjp-gains-in-maharashtra-mlc-polls-but-alliance-strength-tested-to-its-limit-12253005#publisher=newsstand",
+   "desc": "Within the coalition, the BJP has blamed the Shiv Sena for the loss of three MLC seats",
+   "image": "https://c.ndtvimg.com/2026-10/gehk5vm4_mahayuti_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T11:08:24+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
@@ -83,6 +200,15 @@
    "date": "2026-10-29T11:07:35+00:00",
    "source": "BBC News",
    "cat": "world"
+  },
+  {
+   "title": "13 Killed As Russian Drone Slams Into Ukraine Train Platform: Authorities",
+   "link": "https://www.ndtv.com/world-news/13-killed-as-russian-drone-slams-into-ukraine-train-platform-in-dnipro-authorities-12253365#publisher=newsstand",
+   "desc": "The Ukrainian Railways stated that the train was supposed to be heading forZaporizhzhia",
+   "image": "https://c.ndtvimg.com/2026-10/7gb73nvg_ukraine-station-attack-twitter_650x400_29_October_26.jpg",
+   "date": "2026-10-29T11:06:09+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "'Hungrier than ever' - Paul to return on 24 December",
@@ -103,12 +229,30 @@
    "cat": "business"
   },
   {
-   "title": "China deploys over 50 vessels in western Pacific, raising alarm in Taiwan, Japan",
-   "link": "https://timesofindia.indiatimes.com/defence/international/china-deploys-over-50-vessels-in-western-pacific-raising-alarm-in-taiwan-japan-the-philippines/articleshow/135301675.cms",
-   "desc": "In a significant military maneuver, China has stationed over 50 naval vessels, including 34 warships and the aircraft carrier Liaoning, in key zones of the western Pacific. This show of force has raised alarms within Tai",
-   "image": "",
-   "date": "2026-10-29T11:00:57+00:00",
-   "source": "Times of India",
+   "title": "Opinion: Opinion | Netanyahu May Have Found A Way To Lose - And Still Rule",
+   "link": "https://www.ndtv.com/opinion/netanyahu-may-have-found-a-way-to-lose-and-still-rule-12253528#publisher=newsstand",
+   "desc": "History often repeats itself in Israel, and you just can't write off Netanyahu.",
+   "image": "https://c.ndtvimg.com/2025-11/0umj7758_benjamin-netanyahu-_625x300_24_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T11:03:30+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Bengaluru Techie's Kidnapper Accuses Him Of Rape, Both Arrested",
+   "link": "https://www.ndtv.com/india-news/bengaluru-techies-kidnapper-accuse-him-of-rape-both-arrested-12253614#publisher=newsstand",
+   "desc": "The accused in the kidnapping case were to be produced before a court.",
+   "image": "https://c.ndtvimg.com/2026-10/7326uv5k_bengaluru-techie_625x300_29_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T11:01:49+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "3 Oil Tankers On Fire After Hitting Mines In Hormuz, Say Iran Guards",
+   "link": "https://www.ndtv.com/world-news/3-oil-tankers-on-fire-after-hitting-mines-in-hormuz-say-iran-guards-12253174#publisher=newsstand",
+   "desc": "Iran Revolutionary Guards said that the vessels had disregarded their warnings. (Representational)",
+   "image": "https://c.ndtvimg.com/2026-09/gnlf3lac_strait-of-hormuz_625x300_15_September_26.jpeg",
+   "date": "2026-10-29T11:01:34+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -121,15 +265,6 @@
    "cat": "sports"
   },
   {
-   "title": "It only takes one rumour: How a small trigger can lead to a deadly stampede",
-   "link": "https://timesofindia.indiatimes.com/india/it-only-takes-one-rumour-how-a-small-trigger-can-lead-to-a-deadly-stampede/articleshow/135302224.cms",
-   "desc": "On October 17, a tragic stampede in Kolkata claimed 19 lives during the Durga Puja celebrations. The incident was caused by overcrowding, panic, and a misleading announcement about structural failure. Experts emphasize t",
-   "image": "",
-   "date": "2026-10-29T11:00:28+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
    "desc": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
@@ -137,6 +272,15 @@
    "date": "2026-10-29T11:00:02+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "2,000-year-old Vesuvius bread still shows 8 segments and baker's stamp",
+   "link": "https://timesofindia.indiatimes.com/world/europe/when-mount-vesuvius-erupted-in-ad-79-a-round-loaf-of-bread-in-herculaneum-was-buried-under-volcanic-debris-it-was-found-carbonised-nearly-2000-years-later-still-showing-its-eight-segments-and-a-bakers-stamp/articleshow/135300020.cms",
+   "desc": "A loaf of bread left inside an oven in Herculaneum during the AD 79 eruption of Mount Vesuvius was discovered carbonised during excavations in 1930. The nearly 2,000-year-old find offers a glimpse into ancient Roman food",
+   "image": "",
+   "date": "2026-10-29T11:00:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "England boss McDermott urges patience in PNG points chase",
@@ -148,12 +292,21 @@
    "cat": "sports"
   },
   {
-   "title": "13 Killed As Russian Drone Slams Into Ukraine Train Platform: Authorities",
-   "link": "https://www.ndtv.com/world-news/13-killed-as-russian-drone-slams-into-ukraine-train-platform-in-dnipro-authorities-12253365#publisher=newsstand",
-   "desc": "The Ukrainian Railways stated that the train was supposed to be heading forZaporizhzhia",
-   "image": "https://c.ndtvimg.com/2026-10/7gb73nvg_ukraine-station-attack-twitter_650x400_29_October_26.jpg",
-   "date": "2026-10-29T10:43:13+00:00",
+   "title": "Ex-Bangladesh Minister Sentenced To Death For 6 Murders During 2024 Uprising",
+   "link": "https://www.ndtv.com/world-news/ex-bangladesh-minister-sentenced-to-death-for-6-murders-during-2024-uprising-12253580#publisher=newsstand",
+   "desc": "Three other leaders of Awami League were sentenced to life imprisonment. (File Photo)",
+   "image": "https://c.ndtvimg.com/2024-08/ufejn73_bangladesh-protest-afp_625x300_07_August_24.jpeg",
+   "date": "2026-10-29T10:52:50+00:00",
    "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Odisha homemaker farms 25-30 tonnes of fish yearly, earns Rs 7-10 lakh",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/a-homemaker-in-odisha-learned-to-raise-fish-in-cages-inside-the-hirakud-reservoir-within-three-years-sujata-bhuyan-was-producing-25-to-30-tonnes-a-year-and-earning-rs-7-lakh-to-rs-10-lakh/articleshow/135302153.cms",
+   "desc": "After observing the vast potential at Hirakud Reservoir, Sujata Bhuyan from Odisha transformed her life through fish farming. Engaging with the Fisheries Department for training, she turned her vision into reality, produ",
+   "image": "",
+   "date": "2026-10-29T10:42:12+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -175,12 +328,12 @@
    "cat": "business"
   },
   {
-   "title": "Opinion: Opinion | Netanyahu May Have Found A Way To Lose - And Still Rule",
-   "link": "https://www.ndtv.com/opinion/netanyahu-may-have-found-a-way-to-lose-and-still-rule-12253528#publisher=newsstand",
+   "title": "Ex-Bangladesh air force officer linked to Hasina's fleeing clip found dead in Dhaka",
+   "link": "https://timesofindia.indiatimes.com/world/south-asia/ex-bangladesh-air-force-officer-linked-to-hasinas-fleeing-clip-found-dead-in-dhaka/articleshow/135301530.cms",
    "desc": "",
-   "image": "https://c.ndtvimg.com/2025-11/0umj7758_benjamin-netanyahu-_625x300_24_November_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T10:31:32+00:00",
-   "source": "NDTV",
+   "image": "",
+   "date": "2026-10-29T10:28:28+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -190,33 +343,6 @@
    "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T10:27:11+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "WhatsApp co-founder Jan Koum's $36m gift helps open new LA school campus",
-   "link": "https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-jan-koum-donated-36-million-to-help-establish-a-los-angeles-school-campus-on-october-25-the-new-campus-opened-for-grades-912-bringing-the-schools-total-footprint-to-28-acres/articleshow/135295170.cms",
-   "desc": "WhatsApp co-founder Jan Koum's $36 million donation has helped Milken Community School open a new campus in Bel Air, Los Angeles, for students in grades 9 to 12. Inaugurated on Sunday, the campus has expanded the school'",
-   "image": "",
-   "date": "2026-10-29T10:25:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "'Act as protective umbrella': SC says banks must compensate digital fraud victims",
-   "link": "https://timesofindia.indiatimes.com/india/act-as-protective-umbrella-sc-says-banks-must-compensate-digital-fraud-victims/articleshow/135301419.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T10:23:01+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Richard Simmons' Hollywood Hills home sells for $3.8m after $6.99m listing",
-   "link": "https://timesofindia.indiatimes.com/real-estate/news/richard-simmons-lived-in-this-hollywood-hills-home-from-the-1980s-until-his-death-in-2024-the-estate-has-sold-for-3-8-million-after-initially-asking-6-99-million-new-owner-plans-to-restore-its-classic-roots/articleshow/135301249.cms",
-   "desc": "After a price cut from $6.99 million, Richard Simmons' Sunset Strip estate has sold for $3.827 million. Initially listed in June 2025, the Colonial-style house piqued interest but failed to secure deals until now. The ne",
-   "image": "",
-   "date": "2026-10-29T10:22:51+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -283,15 +409,6 @@
    "cat": "india"
   },
   {
-   "title": "Bihar woman loses son to electric shock, starts solar irrigation for 38 farmers",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/after-losing-her-son-to-an-electric-shock-on-the-family-farm-a-bihar-woman-invested-in-solar-irrigation-now-ladli-khatoon-supplies-water-to-35-to-38-farmers-and-has-earned-around-rs-1-lakh/articleshow/135297571.cms",
-   "desc": "Ladli Khatoon from Bahwanpur, Bihar, has transformed her family's tragedy into a solar irrigation venture. After losing her son, she discovered the risks of conventional irrigation methods and sought alternatives. Throug",
-   "image": "",
-   "date": "2026-10-29T10:04:02+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Stock Market Highlights, Sensex Today: Sensex Closes 905 Points Higher Amid Mixed Global Cues",
    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-29-october-us-iran-war-oil-price-12251496#publisher=newsstand",
    "desc": "Sensex Today, Stock Market, Nifty, Share Market Highlights",
@@ -337,6 +454,15 @@
    "cat": "ai"
   },
   {
+   "title": "From Hitler to India’s farmers: How Great Depression changed lives beyond US",
+   "link": "https://timesofindia.indiatimes.com/india/from-hitlers-rise-to-farmers-misery-in-india-how-the-great-depression-changed-lives-far-beyond-america/articleshow/135300062.cms",
+   "desc": "The October 1929 stock market crash in the United States ignited a global economic disaster that resulted in widespread unemployment and business closures. In Germany and India, the crisis led to heightened political unr",
+   "image": "",
+   "date": "2026-10-29T09:59:22+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "MLC polls: BJP wins big, but Congress & SP send a message from Nagpur, Varanasi",
    "link": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
    "desc": "While the BJP-led NDA won big in the MLC elections across four states, it suffered setbacks in two politically significant constituencies: Nagpur and Varanasi where the Congress and SP held their ground.",
@@ -364,33 +490,6 @@
    "cat": "india"
   },
   {
-   "title": "Tea shop worker turned lawyer helps 30 tribal families, one lands govt job",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/a-tamil-nadu-lawyer-who-once-worked-in-a-tea-shop-helped-30-tribal-families-secure-long-delayed-certificates-in-2022-one-young-man-later-used-the-document-to-qualify-for-a-government-clerks-job/articleshow/135299619.cms",
-   "desc": "Advocate V Akathiyan made a significant visit to Vayaloor village to aid 30 tribal families in acquiring overdue caste certificates, essential for expanding educational and job prospects. One of the beneficiaries, M Mani",
-   "image": "",
-   "date": "2026-10-29T09:42:03+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Sheikh Hasina's Regime Change Was Planned Days Before Her Ouster: Yunus Aide",
-   "link": "https://www.ndtv.com/world-news/sheikh-hasinas-regime-change-was-planned-days-before-her-ouster-yunus-aide-12253198#publisher=newsstand",
-   "desc": "Alam alleged that an Agence France-Presse's (AFP) became a link between Yunus and the protesters.",
-   "image": "https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T09:39:28+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Israel Election Results Live: Israel Awaits Final Results As Netanyahu, Rivals Fall Short Of Majority",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/ruehb3qk_israel_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T09:30:20+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
    "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
@@ -400,30 +499,12 @@
    "cat": "business"
   },
   {
-   "title": "1 Ship, 6 Indians, 6 Months: Long Wait For Seafarers Stranded At Karachi Port",
-   "link": "https://www.ndtv.com/world-news/1-ship-6-indians-6-months-long-wait-for-seafarers-stranded-at-karachi-port-vineet-kishore-mishra-12253129#publisher=newsstand",
-   "desc": "Vineet with his wife, Neha, and two children.",
-   "image": "https://c.ndtvimg.com/2026-10/poo5b81c_seafarers-stranded-at-karachi-port-vineet-kishore-mishra_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T09:23:36+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Arunachal Protesters Rally Against Siang Project, Demand Activists' Release",
-   "link": "https://www.ndtv.com/india-news/arunachal-pradesh-protesters-rally-against-siang-dam-project-demand-activists-release-12253106#publisher=newsstand",
-   "desc": "The agitation comes amid tensions over pre-feasibility report surveys for the proposed hydropower project",
-   "image": "https://c.ndtvimg.com/2026-10/pdut1luc_arunachal_625x300_24_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T09:18:53+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "BJP Gains In Maharashtra MLC Polls, But Alliance Strength Tested To Its Limit",
-   "link": "https://www.ndtv.com/india-news/bjp-gains-in-maharashtra-mlc-polls-but-alliance-strength-tested-to-its-limit-12253005#publisher=newsstand",
-   "desc": "Within the coalition, the BJP has blamed the Shiv Sena for the loss of three MLC seats",
-   "image": "https://c.ndtvimg.com/2026-10/gehk5vm4_mahayuti_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T09:17:58+00:00",
-   "source": "NDTV",
+   "title": "UFC commits $1 million to brain health research with WWE and boxing athletes",
+   "link": "https://timesofindia.indiatimes.com/sports/mma/news/ufc-commits-another-1-million-to-brain-health-research-in-2026-as-wwe-and-boxing-athletes-join-study-running-through-2030/articleshow/135291401.cms",
+   "desc": "UFC has renewed its partnership with Cleveland Clinic, pledging to explore the impact of head injuries until 2030. With WWE and Zuffa Boxing athletes joining the research, the initiative will broaden its reach. The focus",
+   "image": "",
+   "date": "2026-10-29T09:30:00+00:00",
+   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -434,24 +515,6 @@
    "date": "2026-10-29T09:17:05+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-   "desc": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-   "image": "",
-   "date": "2026-10-29T09:00:01+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "XUV700 booked in 2022, never delivered: Mahindra ordered to refund and pay Rs 62k",
-   "link": "https://timesofindia.indiatimes.com/legal/news/a-customer-booked-a-mahindra-xuv700-in-2022-but-never-received-the-suv-four-years-later-a-consumer-commission-has-ordered-mahindra-and-its-dealer-to-refund-the-booking-amount-with-interest-and-pay-rs-62000/articleshow/135296096.cms",
-   "desc": "A consumer in Haryana sought redress after Mahindra & Mahindra failed to deliver a booked SUV. The booking was made in February 2022, but the vehicle was never delivered to the customer. The manufacturer and dealer provi",
-   "image": "",
-   "date": "2026-10-29T08:54:11+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
@@ -562,15 +625,6 @@
    "cat": "sports"
   },
   {
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "desc": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "image": "",
-   "date": "2026-10-29T06:03:35+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Your blood pressure could be dangerous even when your numbers look normal",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
    "desc": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open ",
@@ -661,15 +715,6 @@
    "cat": "sports"
   },
   {
-   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
-   "date": "2026-10-29T00:00:25+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "As Waymo expands overseas, it remains a niche cash-burning business",
    "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
    "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
@@ -688,15 +733,6 @@
    "cat": "sports"
   },
   {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "image": "",
-   "date": "2026-10-28T23:17:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
    "desc": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
@@ -704,15 +740,6 @@
    "date": "2026-10-28T23:15:00+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-   "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-   "desc": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg",
-   "date": "2026-10-28T23:11:59+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
@@ -747,15 +774,6 @@
    "desc": "Any button that can be clicked can also be touched.",
    "image": "",
    "date": "2026-10-28T22:38:41+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-   "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-   "desc": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
-   "image": "",
-   "date": "2026-10-28T22:23:10+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -891,8 +909,8 @@
    "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi",
    "image": "",
    "date": "2026-10-28T20:03:00+00:00",
-   "source": "The Verge",
-   "cat": "tech"
+   "source": "The Verge AI",
+   "cat": "ai"
   },
   {
    "title": "What the Budget offers for under 25s - and what it leaves out",
@@ -1064,24 +1082,6 @@
    "date": "2026-10-28T16:15:30+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-   "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-   "desc": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-   "image": "",
-   "date": "2026-10-28T16:00:00+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
-  },
-  {
-   "title": "AI execs may be too out of touch to build for the general public",
-   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "desc": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-   "image": "",
-   "date": "2026-10-28T15:53:52+00:00",
-   "source": "TechCrunch",
-   "cat": "tech"
   }
  ]
 }
