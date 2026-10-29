@@ -1,16 +1,106 @@
 {
- "generated_at": "2026-10-29T07:32:20.167706+00:00",
+ "generated_at": "2026-10-29T08:00:14.747164+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Brewers win first World Series in 57-year history",
+   "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg",
+   "date": "2026-10-29T07:56:38+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
   {
    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
    "desc": "",
    "image": "",
-   "date": "2026-10-29T07:26:36+00:00",
+   "date": "2026-10-29T07:55:21+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg",
+   "date": "2026-10-29T07:54:33+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
+   "title": "Tendulkar over Inzamam, Kohli over Babar, Dhoni over Miandad: Waqar makes bold picks",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-over-inzamam-ul-haq-virat-kohli-over-babar-azam-ms-dhoni-over-javed-miandad-waqar-younis-makes-bold-picks-watch/articleshow/135295984.cms",
+   "desc": "Waqar Younis participated in a rapid-fire segment where he selected Indian players over Pakistani counterparts. He chose Sachin Tendulkar, Virat Kohli, and MS Dhoni for their respective roles in the game. Waqar only sele",
+   "image": "",
+   "date": "2026-10-29T07:45:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Cong calls Rahul's 'Sitharama' misspelling in Tata post 'typo marketing', mocks BJP",
+   "link": "https://timesofindia.indiatimes.com/india/congress-calls-rahul-gandhis-sitharama-misspelling-in-tata-post-typo-marketing-mocks-bjp/articleshow/135295965.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T07:45:10+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "3 siblings found dead in flat near Mumbai; trio recorded video before deaths",
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/3-siblings-found-dead-in-flat-near-mumbai-trio-recorded-video-before-deaths/articleshow/135295872.cms",
+   "desc": "Three siblings were discovered dead in their Virar flat, believed to have died by suicide. They recorded a video mentioning their health issues and financial troubles prior to their deaths. Residents noticed a foul smell",
+   "image": "",
+   "date": "2026-10-29T07:41:50+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Florida appeals court backs Miami woman in 12-year fight over home damage",
+   "link": "https://timesofindia.indiatimes.com/world/us/in-2014-demolition-work-next-door-damaged-a-miami-womans-home-but-her-insurer-said-the-policy-excluded-the-loss-12-years-later-a-florida-appeals-court-upheld-her-victory-over-the-insurer/articleshow/135294404.cms",
+   "desc": "In Florida, Sandra Moise faced significant challenges when her home was damaged due to vibrations from nearby demolition activities. Initially, her insurance provider, Homeowners Choice, denied her claim citing policy ex",
+   "image": "",
+   "date": "2026-10-29T07:28:55+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "TVK leader Christopher arrested for sexually harassing college student after offering lift",
+   "link": "https://timesofindia.indiatimes.com/city/chennai/tvk-leader-christopher-arrested-for-sexually-harassing-college-student-after-offering-lift/articleshow/135295011.cms",
+   "desc": "In Kanyakumari, a member of the Tamilaga Vettri Kazhagam has been arrested for allegedly sexually harassing a college student. The student accepted a ride home, and after dropping off a friend, the accused reportedly mad",
+   "image": "",
+   "date": "2026-10-29T07:27:19+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "California couple wins garden rights after neighbour’s 1955 deal for $250",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-california-couple-bought-a-home-with-a-20-by-20-foot-garden-then-a-neighbour-claimed-the-land-a-1955-deal-involving-250-and-babysitting-helped-secure-their-exclusive-gardening-rights-in-an-october-26-ruling/articleshow/135292512.cms",
+   "desc": "A California couple who bought a home in 2019 found themselves in a legal battle after their neighbour claimed ownership of a 20-by-20-foot garden they believed was theirs. The dispute centred on a 1955 agreement involvi",
+   "image": "",
+   "date": "2026-10-29T07:25:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Deaf children exposed to sign language from birth match hearing peers in early maths",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/researchers-studying-deaf-children-aged-3-to-7-found-those-exposed-to-sign-language-from-birth-performed-comparably-in-early-maths-to-hearing-children-who-learnt-spoken-language-from-birth/articleshow/135293734.cms",
+   "desc": "A new study indicates that early access to language is crucial for children's understanding of numbers. Deaf children with exposure to sign language from birth perform similarly to hearing children learning spoken langua",
+   "image": "",
+   "date": "2026-10-29T07:12:48+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Paralysed at 18, Esme Gummer, 35, ran 5,000 km in 99 days",
+   "link": "https://timesofindia.indiatimes.com/life-style/people/at-18-esme-gummer-was-paralysed-after-surgery-and-told-she-might-never-walk-again-at-35-she-has-run-5000-km-in-99-days-hosted-a-record-76-running-clubs-and-involved-6684-people/articleshow/135294989.cms",
+   "desc": "Esmée Gummer was left paralysed from the waist down after a surgery at the age of 18. She gradually learned to walk again, which later led her to discover a passion for running. Gummer completed a 5,000-km journey across",
+   "image": "",
+   "date": "2026-10-29T07:11:17+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Tencent, Visa deepen payments push in China after regulatory green light",
@@ -49,30 +139,12 @@
    "cat": "business"
   },
   {
-   "title": "Lost Rs 38k to fraud in 2019, Bank of Baroda told to refund and pay Rs 15k compensation",
-   "link": "https://timesofindia.indiatimes.com/legal/news/bank-of-baroda-customer-lost-rs-38649-in-four-unauthorised-transactions-in-2019-seven-years-later-the-bank-has-been-ordered-to-refund-the-money-and-pay-rs-15000-compensation-after-failing-to-prove-the-customer-was-responsible-for-the-withdrawals/articleshow/135293861.cms",
-   "desc": "West Delhi consumer commission found Bank of Baroda guilty of deficiency in service for unauthorized transactions. The commission specified that the bank did not provide necessary evidence to establish customer responsib",
-   "image": "",
-   "date": "2026-10-29T06:42:27+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder",
    "link": "https://www.ndtv.com/india-news/cctv-shows-how-ghaziabad-woman-gym-trainer-plotted-husbands-murder-12252156#publisher=newsstand",
    "desc": "Priya Sharma, who married Shashank Kantharia about 4 years ago, met Pratap Singh at the gym",
    "image": "https://c.ndtvimg.com/2026-10/upk9djns_ghaziabad-murder_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T06:36:15+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Washington court upholds order against neighbour who blocked driveway, cut water",
-   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-said-their-neighbour-blocked-a-shared-driveway-cut-power-to-security-cameras-and-turned-off-their-water-an-october-27-appeals-court-upheld-the-anti-harassment-order-protecting-them/articleshow/135258311.cms",
-   "desc": "A dispute between a couple and their neighbour escalated into serious harassment concerning driveway access and utilities. The couple claimed that their neighbour blocked the shared driveway and cut off their water suppl",
-   "image": "",
-   "date": "2026-10-29T06:29:00+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -85,13 +157,13 @@
    "cat": "sports"
   },
   {
-   "title": "Livestock virus Shamonda detected in human for first time; patient later died",
-   "link": "https://timesofindia.indiatimes.com/science/discovery/an-animal-borne-virus-called-shamonda-which-normally-circulates-in-livestock-has-infected-and-killed-a-human-for-the-first-time-on-record-raising-fresh-questions-about-diseases-that-jump-from-animals-to-people/articleshow/135290875.cms",
-   "desc": "A 61-year-old man in France has tragically lost his life to the Shamonda virus, a disease previously only observed in animals. The man, who was battling leukaemia, contracted the virus likely through a midge bite. With d",
-   "image": "",
-   "date": "2026-10-29T06:26:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
+   "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+   "desc": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg",
+   "date": "2026-10-29T06:24:56+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Who am I? Plus today's other quizzes",
@@ -103,30 +175,12 @@
    "cat": "sports"
   },
   {
-   "title": "North Carolina restores 27 acres of wetland to help protect $60m in properties",
-   "link": "https://timesofindia.indiatimes.com/science/nature/in-2002-a-north-carolina-city-acquired-flood-prone-land-24-years-later-it-has-restored-27-acres-of-wetlands-and-streams-adding-flood-storage-intended-to-protect-up-to-93-properties-valued-at-about-60-million/articleshow/135264324.cms",
-   "desc": "Hendersonville celebrates the successful completion of the first phase of its Lower Mud Creek Floodplain Restoration Project. This significant endeavor aims to mitigate flood risks for surrounding properties, boosting co",
-   "image": "",
-   "date": "2026-10-29T06:23:00+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "\"Restore Or Face Action\": Hindu Group After Meta Drops Video With Devendra Fadnavis",
    "link": "https://www.ndtv.com/india-news/hindu-group-after-meta-drops-video-with-devendra-fadnavis-restore-or-face-legal-action-12252300#publisher=newsstand",
    "desc": "The World Hindu Congress' video featuring Devendra Fadnavis was restricted by Meta.",
    "image": "https://c.ndtvimg.com/2026-10/stljp9dc_devendra-fadnavis-world-hindu-congress_625x300_29_October_26.jpeg",
    "date": "2026-10-29T06:21:13+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "181 acres protected across Maryland, Delaware after 15 years of family talks",
-   "link": "https://timesofindia.indiatimes.com/world/us/for-more-than-15-years-eight-descendants-negotiated-the-fate-of-inherited-land-along-the-maryland-delaware-border-a-conservation-deal-has-now-permanently-protected-181-acres-of-forest-and-wetlands-across-two-states/articleshow/135250634.cms",
-   "desc": "A groundbreaking conservation project has successfully preserved 181 acres of forests and wetlands straddling Maryland and Delaware. Championed by the Porter family alongside multiple conservation entities, the Henry F. ",
-   "image": "",
-   "date": "2026-10-29T06:20:00+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -346,13 +400,13 @@
    "cat": "science"
   },
   {
-   "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-   "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-   "desc": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg",
-   "date": "2026-10-29T03:16:19+00:00",
-   "source": "BBC Business",
-   "cat": "business"
+   "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+   "link": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+   "desc": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9486/live/12deed00-d350-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-29T03:15:35+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Meteors don't just burn up. What really happens is far more violent",
@@ -389,6 +443,15 @@
    "date": "2026-10-29T02:14:14+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "desc": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
+   "date": "2026-10-29T01:30:43+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Microsoft profits soar days after announcing thousands of layoffs",
@@ -499,6 +562,15 @@
    "cat": "tech"
   },
   {
+   "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+   "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+   "desc": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-28T23:11:59+00:00",
+   "source": "BBC News",
+   "cat": "world"
+  },
+  {
    "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
    "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
    "desc": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
@@ -560,15 +632,6 @@
    "date": "2026-10-28T22:07:17+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "In SC, biological women oppose equal rights for transgender women",
-   "link": "https://timesofindia.indiatimes.com/india/in-sc-biological-women-oppose-equal-rights-for-transgender-women/articleshow/135280857.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T22:04:27+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -686,15 +749,6 @@
    "date": "2026-10-28T21:06:37+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Chiefs coach defends decision to sign kicker Tucker",
-   "link": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss",
-   "desc": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9289/live/6098a200-d30c-11f1-ad4f-5d2bbacf0caf.jpg",
-   "date": "2026-10-28T20:55:11+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
   },
   {
    "title": "Creating AI value with enterprise context",
@@ -819,8 +873,8 @@
    "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
    "date": "2026-10-28T19:15:58+00:00",
-   "source": "BBC Business",
-   "cat": "business"
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
@@ -868,15 +922,6 @@
    "cat": "ai"
   },
   {
-   "title": "Cops enter Ray institute campus to ‘maintain peace’, fuel more protests",
-   "link": "https://timesofindia.indiatimes.com/city/kolkata/cops-enter-srfti-campus-at-night-after-torchlight-march/articleshow/135276716.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T18:16:34+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
    "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
@@ -911,15 +956,6 @@
    "date": "2026-10-28T17:26:10+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "72 hours, 3 countries, 1 private jet: Flavio Bolsonaro’s wild escape to US",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/72-hours-3-countries-1-private-jet-flavio-bolsonaros-wild-escape-to-us/articleshow/135273923.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T17:01:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Xreal Aura is a new wired headset powered by Android XR",
@@ -1039,47 +1075,11 @@
    "cat": "ai"
   },
   {
-   "title": "How could Israel break election deadlock? Here are four scenarios",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-   "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg",
-   "date": "2026-10-28T14:30:31+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Scientists discover a hidden reason why muscles weaken with age",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
    "desc": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented ",
    "image": "",
    "date": "2026-10-28T13:04:55+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-   "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-   "desc": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced",
-   "image": "",
-   "date": "2026-10-28T13:00:00+00:00",
-   "source": "TechCrunch AI",
-   "cat": "ai"
-  },
-  {
-   "title": "A single sauna session sends immune cells surging through your body",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
-   "desc": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprisin",
-   "image": "",
-   "date": "2026-10-28T12:37:31+00:00",
-   "source": "ScienceDaily",
-   "cat": "science"
-  },
-  {
-   "title": "Smaller EV batteries, longer range? Scientists may have found a way",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
-   "desc": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufactu",
-   "image": "",
-   "date": "2026-10-28T12:25:43+00:00",
    "source": "ScienceDaily",
    "cat": "science"
   }
