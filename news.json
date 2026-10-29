@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-29T04:00:41.754311+00:00",
+ "generated_at": "2026-10-29T04:30:12.185756+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "US Judge Who Presided Over Trump, Maduro, 9/11 Cases, Dies At 92",
+   "link": "https://www.ndtv.com/world-news/us-judge-alvin-k-hellerstein-who-presided-over-trump-maduro-9-11-cases-dies-at-92-12251825#publisher=newsstand",
+   "desc": "Just two weeks ago, Hellerstein presided over the arraignment of Maduro and Maduro's wife, Cilia Flores, on torture charges",
+   "image": "https://c.ndtvimg.com/2026-10/3dkbqr1k_us-judge_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T04:14:40+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "‘We have run down our stock of missiles’: Obama asks 'how is this war going' - watch",
+   "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/we-have-run-down-our-stock-of-missiles-obama-asks-how-is-this-war-going-watch/articleshow/135289480.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T04:11:37+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Naseeruddin Shah's \"Dimagi Naxal\" Video Post Breaks Character For Kiren Rijiju",
+   "link": "https://www.ndtv.com/india-news/naseeruddin-shahs-dimagi-naxal-video-post-breaks-character-for-kiren-rijiju-12251715#publisher=newsstand",
+   "desc": "Union minister Kiren Rijiju and actor Naseeruddin Shah",
+   "image": "https://c.ndtvimg.com/2026-10/vg98l1m4_kiren-rijiju-naseeruddin-shah_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T04:11:10+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Suspected ballistic missile launched from North Korea: Japan",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/suspected-ballistic-missile-launched-from-north-korea-japan/articleshow/135288990.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T04:00:52+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+   "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+   "desc": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+   "image": "",
+   "date": "2026-10-29T04:00:51+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Why Uncertain Israel Election May Keep Donald Trump On Edge",
+   "link": "https://www.ndtv.com/world-news/why-uncertain-israel-election-may-keep-donald-trump-on-edge-netanyahu-eisenkot-iran-war-12251743#publisher=newsstand",
+   "desc": "The outcome will have implications for US-Israeli relations.",
+   "image": "https://c.ndtvimg.com/2026-10/s5c4nbc_israel-election-reuters_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T03:56:36+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Your blood pressure could be dangerous even when your numbers look normal",
    "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
@@ -13,12 +67,12 @@
    "cat": "science"
   },
   {
-   "title": "Fuel costs jump from $1,800 to $8,000: Cruise ship residents forced ashore in Cambodia",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/iran-war-fallout-cruise-ship-carrying-permanent-residents-suspends-voyages-over-soaring-fuel-costs/articleshow/135288607.cms",
-   "desc": "Cruise ship Villa Vie Odyssey had to disembark its passengers in Cambodia due to soaring fuel expenses. The ship had operated for over two years, accommodating long-term residents on board. As fuel costs increased signif",
-   "image": "",
-   "date": "2026-10-29T03:43:10+00:00",
-   "source": "Times of India",
+   "title": "Trump's Ohio Rally Had An Epstein Reference And A Praise For Senator's A**",
+   "link": "https://www.ndtv.com/world-news/trumps-ohio-rally-had-an-epstein-reference-and-a-praise-for-senators-ass-12251701#publisher=newsstand",
+   "desc": "Trump said that the disgraced financier was \"totally exonerated from him.\"",
+   "image": "https://c.ndtvimg.com/2026-10/sgmciad8_trump-afp_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T03:46:13+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -31,12 +85,30 @@
    "cat": "science"
   },
   {
-   "title": "Neeraj Yadav death: Woman friend says she met him hours before he was found beside SUV",
+   "title": "Rain, Thunderstorms In Delhi-NCR, Air Quality Remains 'Poor'",
+   "link": "https://www.ndtv.com/delhi-news/delhi-weather-delhi-air-pollution-rain-thunderstorms-in-delhi-ncr-air-quality-remains-poor-12251584#publisher=newsstand",
+   "desc": "Delhi Weather Today: The air quality remained in the 'poor' category.",
+   "image": "https://c.ndtvimg.com/2026-10/d1bdefr4_delhi-rain_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T03:32:55+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Neeraj Yadav's friend says she met him hours before he was found dead beside SUV",
    "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/neeraj-yadav-death-woman-friend-says-she-met-para-athlete-hours-before-he-was-found-beside-suv/articleshow/135288116.cms",
    "desc": "During inquiry, a woman who had brought Yadav to the hospital told police she had been friends with him since Dec 2025. According to her statement, she went to Sonipat on Oct 27 to meet Yadav and tell him she could no lo",
    "image": "",
    "date": "2026-10-29T03:28:14+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
+   "link": "https://www.ndtv.com/india-news/bjp-ahead-but-akhilesh-yadavs-party-gains-ground-in-up-mlc-elections-12250819#publisher=newsstand",
+   "desc": "Yogi Adityanath's government is facing anti-incumbency, says Akhilesh Yadav.",
+   "image": "https://c.ndtvimg.com/2024-08/aolallao_yogi-akhilesh_625x300_05_August_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T03:17:08+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -72,15 +144,6 @@
    "desc": "UAE President Sheikh Mohamed bin Zayed Al Nahyan inspected Smit Machchhar's head injury and the stitches.",
    "image": "https://c.ndtvimg.com/2026-10/4bv60c7o_smit-machchhar-uae-president_625x300_29_October_26.jpeg",
    "date": "2026-10-29T03:05:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "BJP Ahead But Akhilesh Yadav's Party Gains Ground In UP MLC Elections",
-   "link": "https://www.ndtv.com/india-news/bjp-ahead-but-akhilesh-yadavs-party-gains-ground-in-up-mlc-elections-12250819#publisher=newsstand",
-   "desc": "Yogi Adityanath's government is facing anti-incumbency, says Akhilesh Yadav.",
-   "image": "https://c.ndtvimg.com/2024-08/aolallao_yogi-akhilesh_625x300_05_August_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T02:58:35+00:00",
    "source": "NDTV",
    "cat": "india"
   },
@@ -121,7 +184,7 @@
    "cat": "business"
   },
   {
-   "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green Amid Mixed Global Cues",
+   "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
    "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-29-october-us-iran-war-oil-price-12251496#publisher=newsstand",
    "desc": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
    "image": "https://c.ndtvimg.com/2026-10/8vc7632s_stock-market-live-unsplash_625x300_13_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
@@ -175,15 +238,6 @@
    "cat": "india"
   },
   {
-   "title": "Cab Driver Arrested In Gurugram For Threatening Woman Techie Over Fare Dispute",
-   "link": "https://www.ndtv.com/gurgaon-news/cab-driver-arrested-in-gurugram-for-threatening-woman-techie-over-fare-dispute-12250765#publisher=newsstand",
-   "desc": "The arrest was made within hours of the registration of an FIR based on the woman's social media post.",
-   "image": "https://c.ndtvimg.com/2026-10/ehv3v5eg_gurugram-cab-driver-arrested_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T02:24:29+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
    "desc": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin",
@@ -202,15 +256,6 @@
    "cat": "india"
   },
   {
-   "title": "Israel Election Results Live: Netanyahu's Bloc Leads In Israeli Election, Falls Short Of Majority",
-   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
-   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-   "date": "2026-10-29T02:14:21+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
    "desc": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
@@ -220,48 +265,12 @@
    "cat": "business"
   },
   {
-   "title": "'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark",
-   "link": "https://www.ndtv.com/world-news/ndtv-world-summit-dont-touch-indian-products-nikhil-kamath-recalls-satya-nadella-remark-12229706#publisher=newsstand",
-   "desc": "Nikhil Kamath recalled a conversation with Satya Nadella at NDTV World Summit 2026.",
-   "image": "https://c.ndtvimg.com/2026-10/p13tpcsc_nikhil-kamath_625x300_24_October_26.jpeg",
-   "date": "2026-10-29T02:09:37+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "75+ Happy Karwa Chauth messages, wishes, greetings and quotes",
    "link": "https://timesofindia.indiatimes.com/etimes/trending/75-happy-karwa-chauth-messages-wishes-greetings-card-whatsapp-instagram-story-images-pictures-gifs-and-quotes-for-2026/articleshow/135227680.cms",
    "desc": "As Karwa Chauth draws near on October 29, 2026, messages of goodwill and affection circulate among family and friends. This cherished festival fosters profound bonds through collective fasting and devotion. Tailored gree",
    "image": "",
    "date": "2026-10-29T01:56:50+00:00",
    "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Report Flags How Pakistan's Hindu Population Fell From 14.6% To Under 2%",
-   "link": "https://www.ndtv.com/world-news/report-flags-how-pakistans-hindu-population-fell-from-14-6-percent-to-under-2-percent-12251385#publisher=newsstand",
-   "desc": "The report documents how the community has faced periodic waves of violence since the riots of 1947",
-   "image": "https://c.ndtvimg.com/2026-10/jatshvdc_uk-_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T01:51:49+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "In setback to BJP, Congress wins Nagpur MLC seat",
-   "link": "https://timesofindia.indiatimes.com/city/nagpur/after-a-nail-biting-contest-congress-candidate-abhijit-wanjari-wins-nagpur-seat/articleshow/135285750.cms",
-   "desc": "Abhijeet Wanjari from Congress has retained the Nagpur Division Graduates' constituency seat after a tight election. He defeated BJP's Sudhakar Kohale by 3,271 votes following over 40 hours of counting. Kohale initially ",
-   "image": "",
-   "date": "2026-10-29T01:40:41+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Uttarakhand Declares Public Holiday For Female Employees On Karwa Chauth",
-   "link": "https://www.ndtv.com/india-news/uttarakhand-declares-public-holiday-for-female-employees-on-karwa-chauth-12250691#publisher=newsstand",
-   "desc": "Uttarakhand grants holiday to female employees on October 29 for Karwa Chauth festival.",
-   "image": "https://c.ndtvimg.com/2026-10/sj6j3sqk_karwa-chauth_625x300_28_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T01:27:57+00:00",
-   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -389,6 +398,15 @@
    "date": "2026-10-28T23:15:00+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "On debut, Jio 2nd most valuable company, behind only parent Reliance Industries",
+   "link": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms",
+   "desc": "Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group ",
+   "image": "",
+   "date": "2026-10-28T23:10:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
@@ -652,15 +670,6 @@
    "cat": "tech"
   },
   {
-   "title": "Three media outlets seek full White House access in amended lawsuit",
-   "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-   "desc": "President Donald Trump banned MS NOW, CNN and Politico from the White House in September, only to have a judge he appointed order their return.",
-   "image": "",
-   "date": "2026-10-28T20:21:03+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
    "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
    "desc": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has inc",
@@ -749,6 +758,15 @@
    "date": "2026-10-28T19:51:01+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "UP MLC polls: BJP, SP finish with 6-5 scoreline; five key takeaways",
+   "link": "https://timesofindia.indiatimes.com/city/lucknow/up-mlc-polls-bjp-sp-end-contest-with-a-6-5-scoreline/articleshow/135279202.cms",
+   "desc": "In the recent Uttar Pradesh Legislative Council elections, the Bharatiya Janata Party and Samajwadi Party faced a close contest. The BJP secured six seats against the SP's five in the elections for 11 available constitue",
+   "image": "",
+   "date": "2026-10-28T19:39:15+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
@@ -859,15 +877,6 @@
    "cat": "sports"
   },
   {
-   "title": "Twist in Renukaswamy murder case, prime witness turns hostile against actor Darshan",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/twist-in-renukaswamy-murder-case-prime-witness-turns-hostile/articleshow/135275136.cms",
-   "desc": "Puneeth MJ, a key witness, testified during the trial of the Renukaswamy murder case. He claimed to have no knowledge of the events that occurred at the shed. The accused, Darshan and Pavithra Gowda, appeared via video c",
-   "image": "",
-   "date": "2026-10-28T17:31:27+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Apple launches its new touchscreen MacBook Pro",
    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
    "desc": "Apple's new touchscreen MacBook Pro starts at $2,899.",
@@ -920,15 +929,6 @@
    "date": "2026-10-28T16:55:27+00:00",
    "source": "BBC Business",
    "cat": "business"
-  },
-  {
-   "title": "'Battle scars': Massive stitches on Capt Smit's head draw attention as UAE honours him",
-   "link": "https://timesofindia.indiatimes.com/india/battle-scars-massive-stitches-on-captain-smit-machchhar-head-draw-attention-as-uae-honours-hero-indian-pilot/articleshow/135273505.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T16:45:01+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
