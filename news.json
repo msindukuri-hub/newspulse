@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-29T01:30:15.191833+00:00",
+ "generated_at": "2026-10-29T02:00:30.877873+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Spain train crash: How a system failure and red signal led to a deadly collision",
+   "link": "https://timesofindia.indiatimes.com/world/europe/red-signal-system-failure-fatal-impact-how-spains-train-collision-unfolded/articleshow/135285991.cms",
+   "desc": "A high-speed train operated by Spain’s state-owned RENFE collided with a stationary IRYO train in Toledo, killing at least 64 people.",
+   "image": "",
+   "date": "2026-10-29T01:52:39+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Cab Driver Arrested In Gurugram For Threatening Woman Techie Over Fare Dispute",
+   "link": "https://www.ndtv.com/gurgaon-news/cab-driver-arrested-in-gurugram-for-threatening-woman-techie-over-fare-dispute-12250765#publisher=newsstand",
+   "desc": "The arrest was made within hours of the registration of an FIR based on the woman's social media post.",
+   "image": "https://c.ndtvimg.com/2026-02/501dog6c_gurugram-police_625x300_25_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:42:18+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "‘Threatened and discriminated’: Sangakkara alleges discrimination by staff in Dublin",
+   "link": "https://timesofindia.indiatimes.com/sports/cricket/news/threatened-and-discriminated-kumar-sangakkara-alleges-discrimination-by-ryanair-staff-in-dublin/articleshow/135285688.cms",
+   "desc": "Kumar Sangakkara recently recounted a distressing experience involving alleged discrimination by Ryanair staff at Dublin airport. He found the encounter shocking and used social media to connect with others who faced sim",
+   "image": "",
+   "date": "2026-10-29T01:38:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Sacred 15,000-ft Uttarakhand Gurudwara needs 19-km Himalayan trek",
+   "link": "https://timesofindia.indiatimes.com/life-style/travel/destinations/surrounded-by-seven-snow-covered-peaks-this-sacred-gurudwara-at-15000-feet-in-uttarakhand-requires-a-challenging-19-km-trek-through-the-himalayas/articleshow/135265069.cms",
+   "desc": "Nestled in the breathtaking Garhwal Himalayas, Gurudwara Hemkund Sahib stands as a sacred destination for Sikh devotees. Perched at a height of 4,632 meters, it is encircled by seven majestic peaks and a serene glacial l",
+   "image": "",
+   "date": "2026-10-29T01:37:20+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Uttarakhand Declares Public Holiday For Female Employees On Karwa Chauth",
+   "link": "https://www.ndtv.com/india-news/uttarakhand-declares-public-holiday-for-female-employees-on-karwa-chauth-12250691#publisher=newsstand",
+   "desc": "Uttarakhand grants holiday to female employees on October 29 for Karwa Chauth festival.",
+   "image": "https://c.ndtvimg.com/2026-10/sj6j3sqk_karwa-chauth_625x300_28_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:27:57+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
   {
    "title": "Microsoft profits soar days after announcing thousands of layoffs",
    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
@@ -11,6 +56,51 @@
    "date": "2026-10-29T01:27:40+00:00",
    "source": "BBC Business",
    "cat": "business"
+  },
+  {
+   "title": "Top EU Leader Says \"Mother Of All Deals\" With India Targeted For December",
+   "link": "https://www.ndtv.com/world-news/top-eu-leader-david-mcallister-tells-ndtv-mother-of-all-deals-with-india-targeted-for-december-12251326#publisher=newsstand",
+   "desc": "Asked about timeline, David McAllister expressed hope that agreement would be signed by December.",
+   "image": "https://c.ndtvimg.com/2026-10/53ta6rqs_india-eu_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:24:35+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Assam Rifles Chief Visits India-Myanmar Border, Reviews Fencing In Manipur",
+   "link": "https://www.ndtv.com/india-news/assam-rifles-chief-vikas-lakhera-visits-india-myanmar-border-reviews-fencing-in-manipur-12251325#publisher=newsstand",
+   "desc": "Manipur shares a 398-km international boundary with Myanmar.",
+   "image": "https://c.ndtvimg.com/2026-10/ng2jrmns_assam-rifles_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T01:23:40+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Tamil Nadu Minister S Keerthana Denies Bribe Allegations, Warns Of Legal Action",
+   "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-industries-minister-s-keerthana-denies-bribe-allegations-warns-of-legal-action-12251315#publisher=newsstand",
+   "desc": "S Keerthana did not identify the individuals behind the allegations in her statement.",
+   "image": "https://c.ndtvimg.com/2026-08/hjhnd754_s-keerthana-won-the-sivakasi-assembly-seat_625x300_05_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:16:20+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "CPM Leader Alleges Unlawful Detention Of Economist A Kalaiyarasan In Chennai",
+   "link": "https://www.ndtv.com/tamil-nadu-news/cpm-leader-alleges-unlawful-detention-of-economist-a-kalaiyarasan-in-chennai-12251320#publisher=newsstand",
+   "desc": "A Kalaiyarasan is known for his research on political economy, development and Tamil Nadu's growth model.",
+   "image": "https://c.ndtvimg.com/2026-10/7hsa99b4_a-kalaiyarasan_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:15:54+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Israel Election Results Live: Israel Elections 'Stolen' By Arab Parties, Claims Netanyahu, As His Party Falls Short Of Majority",
+   "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+   "desc": "Israel Election Results Live: It is the first election since the October 7 attack.",
+   "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+   "date": "2026-10-29T01:15:06+00:00",
+   "source": "NDTV",
+   "cat": "india"
   },
   {
    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -31,12 +121,12 @@
    "cat": "business"
   },
   {
-   "title": "Antarctic Sea ice decline makes key ocean water mass saltier, raises warming concerns",
-   "link": "https://timesofindia.indiatimes.com/science/antarctic-sea-ice-decline-makes-key-ocean-water-mass-saltier-raises-warming-concerns/articleshow/135285058.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T01:09:03+00:00",
-   "source": "Times of India",
+   "title": "Spain Train Crash Highlights: Human 'Error' Behind Toledo Crash That Killed 68",
+   "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
+   "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
+   "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T01:01:35+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -220,15 +310,6 @@
    "cat": "business"
   },
   {
-   "title": "NDA wins 16 of 28 seats, Congress falters in MLC polls",
-   "link": "https://timesofindia.indiatimes.com/india/nda-wins-16-of-28-seats-congress-falters-in-mlc-polls/articleshow/135282065.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T22:22:17+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Russo scores hat-trick as Arsenal beat Benfica",
    "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
    "desc": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
@@ -299,15 +380,6 @@
    "date": "2026-10-28T21:48:37+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "Prince William to sell 20% of $1.3B Duchy to fund housing projects",
-   "link": "https://timesofindia.indiatimes.com/world/uk/prince-william-inherited-the-1-3-billion-duchy-of-cornwall-spanning-128000-acres-after-queen-elizabeth-iis-death-earning-31-million-annually-from-it-he-now-plans-to-sell-20-to-fund-housing-and-green-projects/articleshow/135280640.cms",
-   "desc": "Prince William inherited the Duchy of Cornwall after Queen Elizabeth II’s death in 2022. The 128,000-acre estate is valued at $1.3 billion and provides him with nearly $31 million in annual private income. He now plans t",
-   "image": "",
-   "date": "2026-10-28T21:46:40+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "High-speed train crash kills at least 68 people in Spain",
@@ -427,15 +499,6 @@
    "cat": "sports"
   },
   {
-   "title": "Florida dad turns $35 phone flip into $6.5M clothing business",
-   "link": "https://timesofindia.indiatimes.com/world/us/meet-rick-senko-41-the-florida-single-father-who-flipped-a-35-cellphone-for-70-on-ebay-in-2008-today-his-pre-owned-clothing-business-sells-40-burberry-coats-and-generates-6-5-million-a-year/articleshow/135279860.cms",
-   "desc": "Rick Senko was an unemployed single father when he bought a cellphone for $35 and sold it for $70 on eBay in 2008. Nearly two decades later, the Florida entrepreneur runs a pre-owned clothing business generating $6.5 mil",
-   "image": "",
-   "date": "2026-10-28T20:40:46+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Chelsea continue unbeaten start with win over Roma",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
    "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
@@ -452,15 +515,6 @@
    "date": "2026-10-28T20:32:02+00:00",
    "source": "MIT Tech Review",
    "cat": "ai"
-  },
-  {
-   "title": "Sensitive US tech supplied to Pak could end up in third country: Rajnath warns Hegseth",
-   "link": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-28T20:27:02+00:00",
-   "source": "Times of India",
-   "cat": "india"
   },
   {
    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -724,51 +778,6 @@
    "cat": "business"
   },
   {
-   "title": "Netanyahu's \"Poll Stolen\" Charge At Arab Parties Amid Fractured Mandate",
-   "link": "https://www.ndtv.com/world-news/benjamin-netanyahus-poll-stolen-charge-at-arab-parties-amid-fractured-mandate-12250870#publisher=newsstand",
-   "desc": "Netanyahu's Likud party has not been able to secure a majority",
-   "image": "https://i.ndtvimg.com/i/2015-03/benjamin-netanyahu_650x400_61426369659.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:44:26+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Cyclone Arnab Highlights: Cyclone Arnab Kills 5 In Andhra Pradesh, Weakens After Landfall",
-   "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
-   "desc": "Cyclone Arnab Highlights: The landfall point is specified between Bapatla and Visakhapatnam.",
-   "image": "https://c.ndtvimg.com/2026-10/7lepvlco_cyclone-gif_625x300_27_October_26.jpeg",
-   "date": "2026-10-28T18:42:36+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Spain Train Crash: Human 'Error' Behind Toledo Crash That Killed 68",
-   "link": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
-   "desc": "In January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.",
-   "image": "https://c.ndtvimg.com/2026-10/rvi55ijg_spain-crash_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:38:53+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Security To Cybersecurity: 11 Nodal Officers To Oversee 2027 Manipur Polls",
-   "link": "https://www.ndtv.com/india-news/security-to-cybersecurity-11-nodal-officers-to-oversee-2027-manipur-polls-12250854#publisher=newsstand",
-   "desc": "The term of the 60-member Manipur Legislative Assembly ends on 13 March 2027.",
-   "image": "https://c.ndtvimg.com/2023-05/2ha0carg_manipur-violence-ndtv-650_650x400_04_May_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:37:11+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "American turns $250K into $23M Mexican chain with 103 stores in India",
-   "link": "https://timesofindia.indiatimes.com/life-style/people/meet-bert-mueller-the-american-who-moved-to-india-in-2011-and-turned-a-250000-investment-into-a-23-million-mexican-food-chain-in-bengaluru-california-burrito-now-has-103-stores-with-plans-to-reach-300-by-2030/articleshow/135277074.cms",
-   "desc": "Bert Mueller moved to India in 2011 and launched California Burrito in 2012 with a $250,000 investment raised from friends and family. The Mexican-inspired food chain has since grown to 103 stores, generating $23 million",
-   "image": "",
-   "date": "2026-10-28T18:37:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Microsoft is ending Copilot support on smart TVs",
    "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
    "desc": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year",
@@ -776,42 +785,6 @@
    "date": "2026-10-28T18:36:26+00:00",
    "source": "The Verge AI",
    "cat": "ai"
-  },
-  {
-   "title": "22 Indians Killed In Middle East Conflict, Including 14 Seafares: Centre",
-   "link": "https://www.ndtv.com/world-news/22-indians-killed-in-middle-east-conflict-including-14-seafares-centre-12250842#publisher=newsstand",
-   "desc": "MEA said Indian diplomatic posts across West Asia continue to monitor developments (Representational)",
-   "image": "https://c.ndtvimg.com/2026-09/9pt2g9m_strait-of-hormuz_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:33:06+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "AAP Wants Delhi Liquor App Scrapped. Agency Says Approval Came In 2024",
-   "link": "https://www.ndtv.com/india-news/aap-wants-delhi-liquor-app-scrapped-agency-says-approval-came-in-2024-12250818#publisher=newsstand",
-   "desc": "The document shows that the corporation awarded a contract worth Rs 5 lakh, including GST.",
-   "image": "https://i.ndtvimg.com/i/2017-07/liquor-shop-istock_650x400_71499238652.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-28T18:26:08+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Indians In Madrid Asked To Contact Embassy For Help After Train Crash",
-   "link": "https://www.ndtv.com/world-news/indians-in-madrid-asked-to-contact-embassy-for-help-after-train-crash-12250821#publisher=newsstand",
-   "desc": "At least 68 people have died and several injured in a train crash early on Wednesday near Madrid.",
-   "image": "https://c.ndtvimg.com/2026-10/6ls2flv4_spain-train-crash_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T18:25:58+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives",
-   "link": "https://www.ndtv.com/india-news/ghaziabad-woman-falls-for-gym-trainer-plots-husbands-murder-he-survives-12250387#publisher=newsstand",
-   "desc": "Police said Pratap told them during questioning that the two planned to marry.",
-   "image": "https://c.ndtvimg.com/2026-10/5paq9404_ghaziabad-woman-gym-trainer_625x300_28_October_26.jpeg",
-   "date": "2026-10-28T18:12:43+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
@@ -895,6 +868,15 @@
    "cat": "business"
   },
   {
+   "title": "'Battle scars': Massive stitches on Capt Smit's head draw attention as UAE honours him",
+   "link": "https://timesofindia.indiatimes.com/india/battle-scars-massive-stitches-on-captain-smit-machchhar-head-draw-attention-as-uae-honours-hero-indian-pilot/articleshow/135273505.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T16:45:01+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
@@ -929,6 +911,15 @@
    "date": "2026-10-28T16:00:00+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Celine Dion's former Florida mansion sells for $12.5m after $20m listing",
+   "link": "https://timesofindia.indiatimes.com/real-estate/news/celine-dion-sold-her-florida-mansion-for-9-million-in-2002-four-years-after-it-was-built-for-her-the-waterfront-property-has-now-fetched-12-5-million-after-a-20-million-listing/articleshow/135271812.cms",
+   "desc": "Celine Dion’s former Florida mansion in Jupiter has sold for $12.5 million in an off-market deal. Built for the singer in 1998, the waterfront property was sold by her for $9 million in 2002. The 14,750-square-foot luxur",
+   "image": "",
+   "date": "2026-10-28T15:54:19+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "AI execs may be too out of touch to build for the general public",
@@ -1010,6 +1001,15 @@
    "date": "2026-10-28T12:37:31+00:00",
    "source": "ScienceDaily",
    "cat": "science"
+  },
+  {
+   "title": "Taylor Swift and Travis Kelce's gift lets Nashville grocery store resume aid",
+   "link": "https://timesofindia.indiatimes.com/world/us/how-taylor-swift-and-travis-kelces-donation-helped-a-nashville-free-grocery-store-resume-support-for-families-on-its-waitlist/articleshow/135265150.cms",
+   "desc": "Prior to their wedding at Madison Square Garden, Taylor Swift and Travis Kelce donated $26 million to various charities. One of the notable beneficiaries was The Store, a Nashville non-profit aimed at combating food inse",
+   "image": "",
+   "date": "2026-10-28T12:28:35+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Smaller EV batteries, longer range? Scientists may have found a way",
