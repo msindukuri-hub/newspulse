@@ -1,16 +1,97 @@
 {
- "generated_at": "2026-10-29T09:00:17.640841+00:00",
+ "generated_at": "2026-10-29T09:30:34.316512+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
+   "date": "2026-10-29T09:30:03+00:00",
+   "source": "BBC Business",
+   "cat": "business"
+  },
+  {
+   "title": "French Senate backs ‘Rioters Pay’ bill that could make protesters pay $11,000 fines",
+   "link": "https://www.cnbc.com/2026/10/29/france-protests-riots-cost-damages-law.html",
+   "desc": "More unrest is expected this weekend, following weeks of violent protests across the country – but the bill has drawn criticism.",
+   "image": "",
+   "date": "2026-10-29T09:14:38+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+   "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+   "desc": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+   "image": "",
+   "date": "2026-10-29T09:06:00+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "US declares national emergency to secure power grid; what it means for Americans",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-the-us-department-of-energy-announced-power-grid-emergency-in-13-states-government-declares-national-emergency-to-secure-bulk-power-system-what-it-is-and-what-it-means-for-americans/articleshow/135298581.cms",
+   "desc": "US government has declared a national emergency to address security risks posed by foreign-made electricity equipment. An executive order has been signed, allowing tighter restrictions on potentially dangerous foreign eq",
+   "image": "",
+   "date": "2026-10-29T09:05:47+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
    "desc": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
    "image": "",
-   "date": "2026-10-29T08:46:38+00:00",
+   "date": "2026-10-29T09:04:20+00:00",
    "source": "CNBC",
    "cat": "business"
+  },
+  {
+   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "desc": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+   "image": "",
+   "date": "2026-10-29T09:00:01+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+   "desc": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+   "image": "",
+   "date": "2026-10-29T08:54:59+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "XUV700 booked in 2022, never delivered: Mahindra ordered to refund and pay Rs 62k",
+   "link": "https://timesofindia.indiatimes.com/legal/news/a-customer-booked-a-mahindra-xuv700-in-2022-but-never-received-the-suv-four-years-later-a-consumer-commission-has-ordered-mahindra-and-its-dealer-to-refund-the-booking-amount-with-interest-and-pay-rs-62000/articleshow/135296096.cms",
+   "desc": "A consumer in Haryana sought redress after Mahindra & Mahindra failed to deliver a booked SUV. The booking was made in February 2022, but the vehicle was never delivered to the customer. The manufacturer and dealer provi",
+   "image": "",
+   "date": "2026-10-29T08:54:11+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Vote chori' row: INDIA bloc to hold mock Parliament to 'impeach' CEC Gyanesh",
+   "link": "https://timesofindia.indiatimes.com/india/vote-chori-row-india-bloc-to-hold-mock-parliament-to-impeach-cec-gyanesh-kumar-mega-rally-on-nov-1/articleshow/135297284.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T08:43:06+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+   "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
+   "date": "2026-10-29T08:38:54+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "Decoys, secret jet and Trump's help: How Bolsonaro pulled off his escape to US",
@@ -38,6 +119,15 @@
    "date": "2026-10-29T08:25:00+00:00",
    "source": "Times of India",
    "cat": "india"
+  },
+  {
+   "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+   "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+   "desc": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d18/live/3bba8dd0-d367-11f1-8799-171d5bd36a81.png",
+   "date": "2026-10-29T08:23:31+00:00",
+   "source": "BBC News",
+   "cat": "world"
   },
   {
    "title": "6 dead in MP: 2 sisters, one 8 months pregnant, and 4 children found in separate wells",
@@ -121,24 +211,6 @@
    "cat": "india"
   },
   {
-   "title": "Pichai shares Google's Q3 numbers; while Musk says 'wow', Wall Street ‘not happy’",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-shares-googles-q3-numbers-shows-strong-growth-in-numbers-for-search-cloud-and-ai-models-while-elon-musk-says-wow-wall-street-not-happy/articleshow/135296018.cms",
-   "desc": "Google reported its Q3 2026 financial results, highlighting a 25% revenue growth and a run rate of half a trillion dollars. However, the company missed profit projections and experienced a stock decline of nearly 10%. Al",
-   "image": "",
-   "date": "2026-10-29T07:43:42+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "3 siblings found dead in flat near Mumbai; trio recorded video before tragedy",
-   "link": "https://timesofindia.indiatimes.com/city/mumbai/3-siblings-found-dead-in-flat-near-mumbai-trio-recorded-video-before-deaths/articleshow/135295872.cms",
-   "desc": "Three siblings were discovered dead in their Virar flat, believed to have died by suicide. They recorded a video mentioning their health issues and financial troubles prior to their deaths. Residents noticed a foul smell",
-   "image": "",
-   "date": "2026-10-29T07:41:50+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Common anti-inflammatory drugs may help flu, COVID viruses spread: study",
    "link": "https://timesofindia.indiatimes.com/science/discovery/common-anti-inflammatory-drugs-may-help-covid-19-and-flu-viruses-spread-in-the-body-scientists-warn-that-some-medications-could-weaken-key-immune-responses-and-potentially-worsen-viral-infections/articleshow/135295244.cms",
    "desc": "Researchers at the Norwegian University of Science and Technology have found that JAK inhibitors may weaken the body's defenses. These drugs can increase vulnerability to viral infections, such as COVID-19 and influenza.",
@@ -193,30 +265,12 @@
    "cat": "sports"
   },
   {
-   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-   "desc": "Samsung Electronics reported third-quarter earnings on Thursday.",
-   "image": "",
-   "date": "2026-10-29T06:53:19+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder",
    "link": "https://www.ndtv.com/india-news/cctv-shows-how-ghaziabad-woman-gym-trainer-plotted-husbands-murder-12252156#publisher=newsstand",
    "desc": "Priya Sharma, who married Shashank Kantharia about 4 years ago, met Pratap Singh at the gym",
    "image": "https://c.ndtvimg.com/2026-10/upk9djns_ghaziabad-murder_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T06:36:15+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Why Nike stayed away from the IPL for 18 years, and what brings it back",
-   "link": "https://timesofindia.indiatimes.com/sports/cricket/nikes-mumbai-indians-deal-a-statement-of-intent-in-indias-growing-sports-market/articleshow/135292351.cms",
-   "desc": "Nike has entered into a multi-year partnership with Mumbai Indians to supply kits from 2027. This partnership marks Nike's return to the IPL after almost two decades. The new gear will be presented to MI's teams ahead of",
-   "image": "",
-   "date": "2026-10-29T06:32:23+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -463,15 +517,6 @@
    "cat": "tech"
   },
   {
-   "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
-   "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
-   "desc": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
-   "image": "",
-   "date": "2026-10-29T02:14:14+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
    "title": "Details of thousands of US immigration agents leaked in major hack",
    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
    "desc": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
@@ -535,29 +580,11 @@
    "cat": "business"
   },
   {
-   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-   "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
-   "date": "2026-10-29T00:00:15+00:00",
-   "source": "BBC Business",
-   "cat": "business"
-  },
-  {
    "title": "As Waymo expands overseas, it remains a niche cash-burning business",
    "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
    "desc": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
    "image": "",
    "date": "2026-10-28T23:53:58+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
-   "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
-   "desc": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
-   "image": "",
-   "date": "2026-10-28T23:38:00+00:00",
    "source": "CNBC",
    "cat": "business"
   },
@@ -569,6 +596,15 @@
    "date": "2026-10-28T23:17:33+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "desc": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "image": "",
+   "date": "2026-10-28T23:17:17+00:00",
+   "source": "CNBC",
+   "cat": "business"
   },
   {
    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -625,6 +661,15 @@
    "cat": "sports"
   },
   {
+   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+   "desc": "Any button that can be clicked can also be touched.",
+   "image": "",
+   "date": "2026-10-28T22:38:41+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
    "title": "Russo scores hat-trick as Arsenal beat Benfica",
    "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
    "desc": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
@@ -641,15 +686,6 @@
    "date": "2026-10-28T22:08:52+00:00",
    "source": "BBC News",
    "cat": "world"
-  },
-  {
-   "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "desc": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-   "image": "",
-   "date": "2026-10-28T22:07:17+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -677,15 +713,6 @@
    "date": "2026-10-28T21:48:37+00:00",
    "source": "TechCrunch",
    "cat": "tech"
-  },
-  {
-   "title": "High-speed train crash kills at least 68 people in Spain",
-   "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-   "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T21:38:54+00:00",
-   "source": "BBC News",
-   "cat": "world"
   },
   {
    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
@@ -724,15 +751,6 @@
    "cat": "tech"
   },
   {
-   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-   "desc": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T21:24:41+00:00",
-   "source": "BBC News",
-   "cat": "world"
-  },
-  {
    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
    "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
@@ -749,15 +767,6 @@
    "date": "2026-10-28T21:16:18+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-   "desc": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-   "image": "",
-   "date": "2026-10-28T21:06:37+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Creating AI value with enterprise context",
@@ -794,15 +803,6 @@
    "date": "2026-10-28T20:20:00+00:00",
    "source": "The Verge",
    "cat": "tech"
-  },
-  {
-   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-   "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-   "desc": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-   "image": "",
-   "date": "2026-10-28T20:17:19+00:00",
-   "source": "CNBC",
-   "cat": "business"
   },
   {
    "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
