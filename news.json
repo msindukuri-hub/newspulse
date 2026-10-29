@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-29T06:30:32.751247+00:00",
+ "generated_at": "2026-10-29T07:00:28.325205+00:00",
  "feeds_ok": 13,
  "feeds_total": 13,
  "items": [
+  {
+   "title": "Weekly sports quiz: Which league are Fleetwood in?",
+   "link": "https://www.bbc.co.uk/sport/articles/cmrly1jy31p1o?at_medium=RSS&at_campaign=rss",
+   "desc": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a4/live/096fe840-d2f7-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-10-29T06:53:33+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
+  },
+  {
+   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "desc": "Samsung Electronics reported third-quarter earnings on Thursday.",
+   "image": "",
+   "date": "2026-10-29T06:53:19+00:00",
+   "source": "CNBC",
+   "cat": "business"
+  },
+  {
+   "title": "Lost Rs 38k to fraud in 2019, Bank of Baroda told to refund and pay Rs 15k compensation",
+   "link": "https://timesofindia.indiatimes.com/legal/news/bank-of-baroda-customer-lost-rs-38649-in-four-unauthorised-transactions-in-2019-seven-years-later-the-bank-has-been-ordered-to-refund-the-money-and-pay-rs-15000-compensation-after-failing-to-prove-the-customer-was-responsible-for-the-withdrawals/articleshow/135293861.cms",
+   "desc": "West Delhi consumer commission found Bank of Baroda guilty of deficiency in service for unauthorized transactions. The commission specified that the bank did not provide necessary evidence to establish customer responsib",
+   "image": "",
+   "date": "2026-10-29T06:42:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder",
+   "link": "https://www.ndtv.com/india-news/cctv-shows-how-ghaziabad-woman-gym-trainer-plotted-husbands-murder-12252156#publisher=newsstand",
+   "desc": "Priya Sharma, who married Shashank Kantharia about 4 years ago, met Pratap Singh at the gym",
+   "image": "https://c.ndtvimg.com/2026-10/upk9djns_ghaziabad-murder_625x300_29_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T06:36:15+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Washington court upholds order against neighbour who blocked driveway, cut water",
+   "link": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-said-their-neighbour-blocked-a-shared-driveway-cut-power-to-security-cameras-and-turned-off-their-water-an-october-27-appeals-court-upheld-the-anti-harassment-order-protecting-them/articleshow/135258311.cms",
+   "desc": "A dispute between a couple and their neighbour escalated into serious harassment concerning driveway access and utilities. The couple claimed that their neighbour blocked the shared driveway and cut off their water suppl",
+   "image": "",
+   "date": "2026-10-29T06:29:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
   {
    "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
@@ -11,6 +56,15 @@
    "date": "2026-10-29T06:27:10+00:00",
    "source": "BBC Sport",
    "cat": "sports"
+  },
+  {
+   "title": "Livestock virus Shamonda detected in human for first time; patient later died",
+   "link": "https://timesofindia.indiatimes.com/science/discovery/an-animal-borne-virus-called-shamonda-which-normally-circulates-in-livestock-has-infected-and-killed-a-human-for-the-first-time-on-record-raising-fresh-questions-about-diseases-that-jump-from-animals-to-people/articleshow/135290875.cms",
+   "desc": "A 61-year-old man in France has tragically lost his life to the Shamonda virus, a disease previously only observed in animals. The man, who was battling leukaemia, contracted the virus likely through a midge bite. With d",
+   "image": "",
+   "date": "2026-10-29T06:26:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Who am I? Plus today's other quizzes",
@@ -22,12 +76,75 @@
    "cat": "sports"
   },
   {
+   "title": "North Carolina restores 27 acres of wetland to help protect $60m in properties",
+   "link": "https://timesofindia.indiatimes.com/science/nature/in-2002-a-north-carolina-city-acquired-flood-prone-land-24-years-later-it-has-restored-27-acres-of-wetlands-and-streams-adding-flood-storage-intended-to-protect-up-to-93-properties-valued-at-about-60-million/articleshow/135264324.cms",
+   "desc": "Hendersonville celebrates the successful completion of the first phase of its Lower Mud Creek Floodplain Restoration Project. This significant endeavor aims to mitigate flood risks for surrounding properties, boosting co",
+   "image": "",
+   "date": "2026-10-29T06:23:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "\"Restore Or Face Action\": Hindu Group After Meta Drops Video With Devendra Fadnavis",
+   "link": "https://www.ndtv.com/india-news/hindu-group-after-meta-drops-video-with-devendra-fadnavis-restore-or-face-legal-action-12252300#publisher=newsstand",
+   "desc": "The World Hindu Congress' video featuring Devendra Fadnavis was restricted by Meta.",
+   "image": "https://c.ndtvimg.com/2026-10/stljp9dc_devendra-fadnavis-world-hindu-congress_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T06:21:13+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "181 acres protected across Maryland, Delaware after 15 years of family talks",
+   "link": "https://timesofindia.indiatimes.com/world/us/for-more-than-15-years-eight-descendants-negotiated-the-fate-of-inherited-land-along-the-maryland-delaware-border-a-conservation-deal-has-now-permanently-protected-181-acres-of-forest-and-wetlands-across-two-states/articleshow/135250634.cms",
+   "desc": "A groundbreaking conservation project has successfully preserved 181 acres of forests and wetlands straddling Maryland and Delaware. Championed by the Porter family alongside multiple conservation entities, the Henry F. ",
+   "image": "",
+   "date": "2026-10-29T06:20:00+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "'Better late than never': Why did F1 leave India, and why is it back on the agenda?",
+   "link": "https://timesofindia.indiatimes.com/sports/racing/top-stories/better-late-than-never-why-did-f1-leave-india-and-why-is-it-back-on-the-agenda/articleshow/135291659.cms",
+   "desc": "Tax disputes ended the Indian Grand Prix after three races. Thirteen years later, the government has put Formula 1 back on its agenda, with a task force examining the challenges that led to the sport’s exit, including ta",
+   "image": "",
+   "date": "2026-10-29T06:19:04+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "\"Won By Not Losing\": How Netanyahu Will Still Wield Power In Israel",
+   "link": "https://www.ndtv.com/world-news/how-netanyahu-will-still-wield-power-in-israel-after-election-won-by-not-losing-12252257#publisher=newsstand",
+   "desc": "Netanyahu's bloc lost seats and fell short of the 61 needed to govern alone.",
+   "image": "https://c.ndtvimg.com/2026-10/fhu0vgk8_netanyahu-reuters_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T06:18:56+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
+   "title": "Direct Mutual Fund Plans Will Be Default Option From November 1: SEBI Chief",
+   "link": "https://www.ndtv.com/business-news/ndtv-profit-ignite-direct-mutual-fund-plans-default-option-from-november-1-sebi-chief-tuhin-kanta-pandey-12252192#publisher=newsstand",
+   "desc": "Tuhin Kanta Pandey said that direct mutual fund plans would become the default option from November 1.",
+   "image": "https://c.ndtvimg.com/2026-10/k2k78i74_tuhin-kanta-pandey_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+   "date": "2026-10-29T06:13:17+00:00",
+   "source": "NDTV",
+   "cat": "india"
+  },
+  {
    "title": "'Don't worry about lathis': Rahul calls on people to join INDIA bloc's 'Delhi chalo' march",
    "link": "https://timesofindia.indiatimes.com/india/dont-worry-about-lathis-rahul-calls-on-people-to-join-india-blocs-delhi-chalo-march/articleshow/135292996.cms",
    "desc": "Rahul Gandhi invited everyone to partake in the upcoming Chalo Delhi march at Ramlila Maidan. This initiative seeks to challenge purported electoral malfeasance and uphold democratic integrity. He stated the march embodi",
    "image": "",
    "date": "2026-10-29T06:08:44+00:00",
    "source": "Times of India",
+   "cat": "india"
+  },
+  {
+   "title": "Child And Mother In Car, Punjab Ex-Congress Leader Shot At, Allegedly Attacked With Axe",
+   "link": "https://www.ndtv.com/ludhiana-news/child-and-mother-in-car-punjab-ex-congress-leader-shot-at-attacked-with-axe-12252250#publisher=newsstand",
+   "desc": "Punjab ex-Congress leader Jagjot Singh",
+   "image": "https://c.ndtvimg.com/2026-10/1hq9ffc4_jagjot-singh_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T06:05:50+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -40,21 +157,21 @@
    "cat": "business"
   },
   {
-   "title": "Rupee gains 11 paise to 95.17 against dollar after Fed holds interest rates",
-   "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-11-paise-to-95-17-against-dollar-after-fed-holds-interest-rates/articleshow/135291110.cms",
-   "desc": "In early trading on Thursday, the rupee gained 11 paise against the US dollar, reaching 95.17. This uptick followed the US Federal Reserve's decision to keep interest rates steady, causing a weakening of the dollar as tr",
-   "image": "",
-   "date": "2026-10-29T05:54:38+00:00",
-   "source": "Times of India",
+   "title": "\"He Was Treated Very Unfairly\": Trump Defends Vivek Ramaswamy Over Ad Row",
+   "link": "https://www.ndtv.com/world-news/he-was-treated-very-unfairly-us-president-donald-trump-defends-vivek-ramaswamy-over-ad-row-12252198#publisher=newsstand",
+   "desc": "There are worries that acrimony over the ad could drag down other Republicans",
+   "image": "https://c.ndtvimg.com/2026-10/qodenldc_trump-ramaswamy_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T05:56:01+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
-   "title": "‘Raids for reels’: Stalin cries foul over TN govt searching KN Nehru-linked premises",
-   "link": "https://timesofindia.indiatimes.com/india/raids-to-produce-reels-ex-tn-cm-stalin-cries-foul-over-vijay-govt-searching-kn-nehru-linked-premises/articleshow/135292135.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T05:45:16+00:00",
-   "source": "Times of India",
+   "title": "Decoys, Italian Passport And A Private Jet: How Brazil's Bolsonaro Fled To US",
+   "link": "https://www.ndtv.com/world-news/brazil-election-2026-decoys-italian-passport-and-a-private-jet-how-brazils-flavio-bolsonaro-fled-to-us-12252171#publisher=newsstand",
+   "desc": "Bolsonaro and his family landed in US on Wednesday",
+   "image": "https://c.ndtvimg.com/2026-10/o98f3534_flavio-bolsonaro-_625x300_29_October_26.jpeg",
+   "date": "2026-10-29T05:51:42+00:00",
+   "source": "NDTV",
    "cat": "india"
   },
   {
@@ -76,57 +193,12 @@
    "cat": "india"
   },
   {
-   "title": "Anticipatory bail given to Kerala Judge accused in minor son’s fatal Mercedes crash",
-   "link": "https://timesofindia.indiatimes.com/city/kochi/no-arrest-for-judge-in-fatal-mercedes-crash-case-involving-his-minor-son/articleshow/135291489.cms",
-   "desc": "The Kerala High Court provided interim protection from arrest to an additional district judge involved in a fatal accident. His 17-year-old son allegedly drove a car during the incident in Kochi. The police interrogated ",
-   "image": "",
-   "date": "2026-10-29T05:36:38+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Man, 21, Detained In Russia As War Recruit? Sister Seeks Centre's Help",
    "link": "https://www.ndtv.com/india-news/man-21-detained-in-russia-as-war-recruit-sister-seeks-centres-help-12252114#publisher=newsstand",
    "desc": "Vinit Kumar Dubey has been missing in Russia since October 7. His sister has sought Centre's help",
    "image": "https://c.ndtvimg.com/2026-10/mjd0vdjo_missing-indian-_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
    "date": "2026-10-29T05:36:14+00:00",
    "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Michigan court upholds $9.7m verdict over mother's death after cosmetic surgery",
-   "link": "https://timesofindia.indiatimes.com/world/us/in-2017-a-41-year-old-michigan-mother-died-following-cosmetic-surgery-and-five-days-in-hospital-an-appeals-court-has-upheld-a-9-7-million-verdict-finding-the-hospital-negligent/articleshow/135290335.cms",
-   "desc": "In a landmark decision, a Michigan court has affirmed a nearly $9.7 million ruling against Henry Ford Macomb Hospital for negligence that led to Cathleen Allen's tragic death after cosmetic surgery complications. Medical",
-   "image": "",
-   "date": "2026-10-29T05:34:05+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Gerard Butler-backed charity has served 260m meals, feeds 95,000 children daily",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2013-gerard-butler-travelled-to-liberia-to-serve-school-meals-with-a-charity-he-supports-it-has-delivered-more-than-260-million-meals-since-2006-and-now-feeds-over-95000-children-every-school-day/articleshow/135232985.cms",
-   "desc": "Gerard Butler is a passionate advocate for Mary's Meals, an organization dedicated to providing vital school meals for children in Liberia. Since its launch in 2006, the charity has served over 260 million meals, making ",
-   "image": "",
-   "date": "2026-10-29T05:33:40+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Jason Statham's £20m estate faces planning scrutiny over summerhouse",
-   "link": "https://timesofindia.indiatimes.com/world/uk/in-2024-jason-statham-bought-a-20-acre-english-coastal-estate-for-about-20-million-in-2026-a-planning-rule-from-1973-put-its-two-storey-summerhouse-under-scrutiny-over-use-as-guest-accommodation/articleshow/135222492.cms",
-   "desc": "Jason Statham and Rosie Huntington-Whiteley are facing challenges in planning the summerhouse at their Hampshire estate. They have submitted a request for a certificate of lawfulness to transform the structure, initially",
-   "image": "",
-   "date": "2026-10-29T05:32:56+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Australian couple's 100,000-brick fairytale castle unfinished after 22 years",
-   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-couple-bought-five-acres-to-build-a-fairytale-castle-and-put-their-wedding-on-hold-22-years-and-100000-bricks-later-the-27-room-project-is-still-unfinished-with-only-three-of-eight-turrets-complete/articleshow/135232888.cms",
-   "desc": "An Australian couple who postponed their wedding to build a fairytale castle in Tasmania are still working on it 22 years later. Christina Kent and Francis Shepherd have used around 100,000 bricks to construct the 27-roo",
-   "image": "",
-   "date": "2026-10-29T05:31:32+00:00",
-   "source": "Times of India",
    "cat": "india"
   },
   {
@@ -137,6 +209,15 @@
    "date": "2026-10-29T05:29:25+00:00",
    "source": "Times of India",
    "cat": "india"
+  },
+  {
+   "title": "Meet the Welsh teenager hoping to beat Littler",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/cmzxlrwn27eyo?at_medium=RSS&at_campaign=rss",
+   "desc": "Makinley Cooper-Johnson is aiming to bury Luke Littler on the darts stage and use the prize money to become an undertaker.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add3/live/49f4d550-d307-11f1-ad4f-5d2bbacf0caf.jpg",
+   "date": "2026-10-29T05:29:17+00:00",
+   "source": "BBC Sport",
+   "cat": "sports"
   },
   {
    "title": "Observing Karwa Chauth For Another Man Is Mental Cruelty: Jaipur Court",
@@ -175,6 +256,15 @@
    "cat": "business"
   },
   {
+   "title": "Spain train crash: Videos capture overturned carriages, passengers, devastation",
+   "link": "https://timesofindia.indiatimes.com/world/europe/68-killed-in-spain-train-collision-videos-capture-overturned-carriages-injured-passengers-devastation/articleshow/135289949.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-29T04:51:16+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Report Flags How Pakistan's Hindu Population Fell From 14.6% To Under 2%",
    "link": "https://www.ndtv.com/world-news/report-flags-how-pakistans-hindu-population-fell-from-14-6-percent-to-under-2-percent-12251385#publisher=newsstand",
    "desc": "The report documents how the community has faced periodic waves of violence since the riots of 1947",
@@ -202,33 +292,6 @@
    "cat": "india"
   },
   {
-   "title": "3 Years After Completion, Rs 9 Crore Madhya Pradesh Bridge Lacks Access Road",
-   "link": "https://www.ndtv.com/india-news/3-years-after-completion-rs-9-crore-madhya-pradesh-narmadapuram-bridge-still-lacks-access-road-12251907#publisher=newsstand",
-   "desc": "Local residents say they have repeatedly raised the issue with authorities",
-   "image": "https://c.ndtvimg.com/2026-10/6pe76fm8_mp-bridge_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T04:41:00+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Trump Confronted Over Jeffrey Epstein Link At US Rally. See His Response",
-   "link": "https://www.ndtv.com/world-news/trumps-ohio-rally-had-an-epstein-reference-and-a-praise-for-senators-ass-12251701#publisher=newsstand",
-   "desc": "Trump said that the disgraced financier was \"totally exonerated from him.\"",
-   "image": "https://c.ndtvimg.com/2025-12/9r48lghg_trump-epstein-file-photo-_625x300_22_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T04:34:14+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "BJP Dominates UP And Karnataka In MLC Polls, Opposition Wins 3 In Maharashtra",
-   "link": "https://www.ndtv.com/india-news/bjp-dominates-up-and-karnataka-in-mlc-polls-opposition-mva-wins-3-in-maharashtra-12251885#publisher=newsstand",
-   "desc": "The results of the MLC elections in several states have been declared",
-   "image": "https://c.ndtvimg.com/2026-10/q2h98kjg_bjp-congress_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T04:32:25+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
    "desc": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
@@ -238,60 +301,6 @@
    "cat": "business"
   },
   {
-   "title": "'Fadnavis forced to delete tweet': Congress after win in Nagpur MLC polls",
-   "link": "https://timesofindia.indiatimes.com/india/fadnavis-forced-to-delete-tweet-congress-takes-swipe-at-maharashtra-cm-after-win-in-nagpur-mlc-polls/articleshow/135289568.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T04:29:10+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "\"Dreadful Wars Should End\": EU Foreign Affairs Chief Backs PM Modi's Peace Push",
-   "link": "https://www.ndtv.com/world-news/dreadful-wars-should-end-eu-foreign-affairs-chief-backs-pm-modis-peace-push-12251870#publisher=newsstand",
-   "desc": "David McAllister (R), Chair of the European Parliament's Foreign Affairs Committee.",
-   "image": "https://c.ndtvimg.com/2026-10/fl8l12uk_david-mcallister-chair-of-the-european-parliaments-foreign-affairs-committee_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T04:26:15+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "US Judge Who Presided Over Trump, Maduro, 9/11 Cases, Dies At 92",
-   "link": "https://www.ndtv.com/world-news/us-judge-alvin-k-hellerstein-who-presided-over-trump-maduro-9-11-cases-dies-at-92-12251825#publisher=newsstand",
-   "desc": "Just two weeks ago, Hellerstein presided over the arraignment of Maduro and Maduro's wife, Cilia Flores, on torture charges",
-   "image": "https://c.ndtvimg.com/2026-10/3dkbqr1k_us-judge_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T04:14:40+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "Naseeruddin Shah's \"Dimagi Naxal\" Video Post Breaks Character For Kiren Rijiju",
-   "link": "https://www.ndtv.com/india-news/naseeruddin-shahs-dimagi-naxal-video-post-breaks-character-for-kiren-rijiju-12251715#publisher=newsstand",
-   "desc": "Union minister Kiren Rijiju and actor Naseeruddin Shah",
-   "image": "https://c.ndtvimg.com/2026-10/vg98l1m4_kiren-rijiju-naseeruddin-shah_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-   "date": "2026-10-29T04:11:10+00:00",
-   "source": "NDTV",
-   "cat": "india"
-  },
-  {
-   "title": "'Never knew he was dangerous’: Rijiju reacts to Naseeruddin's 'deemagi naxal' post",
-   "link": "https://timesofindia.indiatimes.com/india/never-knew-he-was-dangerous-rijiju-on-naseeruddin-shah-after-he-calls-himself-dimagi-naxal/articleshow/135288724.cms",
-   "desc": "",
-   "image": "",
-   "date": "2026-10-29T04:09:36+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
-   "title": "Ronaldo beats Messi to win inaugural BOAT award for 2008 Man United season",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-beats-lionel-messi-to-win-inaugural-boat-award-for-2008-manchester-united-season/articleshow/135289350.cms",
-   "desc": "Cristiano Ronaldo has been named the first-ever winner of the BOAT award for his 2008 season. Fans voted in a digital process that compared his performance to Lionel Messi's seasons. While Ronaldo's win added to his lega",
-   "image": "",
-   "date": "2026-10-29T04:07:58+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
    "desc": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
@@ -299,15 +308,6 @@
    "date": "2026-10-29T04:00:51+00:00",
    "source": "CNBC",
    "cat": "business"
-  },
-  {
-   "title": "Why Uncertain Israel Election May Keep Donald Trump On Edge",
-   "link": "https://www.ndtv.com/world-news/why-uncertain-israel-election-may-keep-donald-trump-on-edge-netanyahu-eisenkot-iran-war-12251743#publisher=newsstand",
-   "desc": "The outcome will have implications for US-Israeli relations.",
-   "image": "https://c.ndtvimg.com/2026-10/s5c4nbc_israel-election-reuters_625x300_29_October_26.jpeg",
-   "date": "2026-10-29T03:56:36+00:00",
-   "source": "NDTV",
-   "cat": "india"
   },
   {
    "title": "Your blood pressure could be dangerous even when your numbers look normal",
@@ -346,24 +346,6 @@
    "cat": "science"
   },
   {
-   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-   "desc": "Samsung Electronics reported third-quarter earnings on Thursday.",
-   "image": "",
-   "date": "2026-10-29T02:49:39+00:00",
-   "source": "CNBC",
-   "cat": "business"
-  },
-  {
-   "title": "Sam Altman to MBA students: ‘Chronic disappointment’ that they chase old trends",
-   "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-is-unhappy-with-most-mba-students-that-he-calls-his-chronic-disappointment-says-they-always-want-to-go-do-the-thing-that-/articleshow/135287091.cms",
-   "desc": "Sam Altman, CEO of OpenAI, expressed disappointment that MBA graduates pursue outdated career paths instead of embracing AI. He emphasized that AI presents transformative opportunities for ambitious workers and entrepren",
-   "image": "",
-   "date": "2026-10-29T02:41:10+00:00",
-   "source": "Times of India",
-   "cat": "india"
-  },
-  {
    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
    "desc": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin",
@@ -371,6 +353,15 @@
    "date": "2026-10-29T02:22:46+00:00",
    "source": "The Verge",
    "cat": "tech"
+  },
+  {
+   "title": "Nvidia CEO names 3 countries that are leading the world in tech & manufacturing",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-names-three-countries-that-are-leading-the-world-in-technology-and-manufacturing-and-tells-why-he-did-not-include-us-on-the-list/articleshow/135286716.cms",
+   "desc": "Nvidia's CEO Jensen Huang has praised Germany, Japan, and China as the frontrunners in manufacturing. He pointed out that China's rapid industrial advancement coincided with the emergence of computing technologies. Huang",
+   "image": "",
+   "date": "2026-10-29T02:22:08+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
@@ -571,6 +562,15 @@
    "cat": "business"
   },
   {
+   "title": "In SC, biological women oppose equal rights for transgender women",
+   "link": "https://timesofindia.indiatimes.com/india/in-sc-biological-women-oppose-equal-rights-for-transgender-women/articleshow/135280857.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T22:04:27+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
    "desc": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
@@ -697,15 +697,6 @@
    "cat": "sports"
   },
   {
-   "title": "Chelsea continue unbeaten start with win over Roma",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
-   "desc": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T20:36:25+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Creating AI value with enterprise context",
    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
    "desc": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i",
@@ -796,15 +787,6 @@
    "cat": "tech"
   },
   {
-   "title": "Djokovic celebrates 'big win' on return to Basel",
-   "link": "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
-   "desc": "Novak Djokovic pulls off a hard-fought comeback victory over Ugo Humbert to keep alive his hopes of qualifying for the season-ending ATP Finals.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3499/live/a0de3e20-d306-11f1-ad4f-5d2bbacf0caf.jpg",
-   "date": "2026-10-28T19:51:14+00:00",
-   "source": "BBC Sport",
-   "cat": "sports"
-  },
-  {
    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
    "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
@@ -886,6 +868,15 @@
    "cat": "ai"
   },
   {
+   "title": "Cops enter Ray institute campus to ‘maintain peace’, fuel more protests",
+   "link": "https://timesofindia.indiatimes.com/city/kolkata/cops-enter-srfti-campus-at-night-after-torchlight-march/articleshow/135276716.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T18:16:34+00:00",
+   "source": "Times of India",
+   "cat": "india"
+  },
+  {
    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
    "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
    "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
@@ -920,6 +911,15 @@
    "date": "2026-10-28T17:26:10+00:00",
    "source": "TechCrunch",
    "cat": "tech"
+  },
+  {
+   "title": "Bolsonaro’s Route To Miami: Senator slips out via Argentina and Ecuador",
+   "link": "https://timesofindia.indiatimes.com/world/rest-of-world/72-hours-3-countries-1-private-jet-flavio-bolsonaros-wild-escape-to-us/articleshow/135273923.cms",
+   "desc": "",
+   "image": "",
+   "date": "2026-10-28T17:01:05+00:00",
+   "source": "Times of India",
+   "cat": "india"
   },
   {
    "title": "Xreal Aura is a new wired headset powered by Android XR",
@@ -970,7 +970,7 @@
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
    "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-28T16:43:35+00:00",
    "source": "BBC Business",
    "cat": "business"
